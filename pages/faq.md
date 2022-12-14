@@ -12,6 +12,7 @@ Fax: 6563 9591
 E-mail: [lianhua\_ps@moe.edu.sg](mailto:lianhua_ps@moe.edu.sg)   
 Nearest MRT Station: Bukit Gombak MRT and Bukit Batok MRT
 
+<a href="https://www.google.com/maps/@1.3560922,103.7512177,17z" target = "_blank"> <img src="/images/lianhuamap.png" style="width:50%"></a>
 
 
 **School Operating Hours**
