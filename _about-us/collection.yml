@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Family/School Leaders & School Management Committee.md
-      - Our Family/School Advisory Commitee.md
       - Our Family/.keep
+      - Our Family/School Advisory Commitee.md
+      - Our Family/School Leaders & School Management Committee.md
       - Principal's Message.md
       - Our Story.md
