@@ -2,6 +2,9 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+# Privacy Statement
+
+
 1\. This is a Lianhua Primary School website. We adopt the same principles relating to your privacy as other Government of Singapore websites.
 
   
