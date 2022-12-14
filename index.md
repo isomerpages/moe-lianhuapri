@@ -4,7 +4,7 @@ title: Lianhua Primary School
 description: Brief site description here
 image: /images/home-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -29,6 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
