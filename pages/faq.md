@@ -2,6 +2,8 @@
 title: FAQ
 permalink: /faq/
 ---
+# FAQ
+
 **School Information**
 
 Address: 2 Bukit Batok Street 52 Singapore 6529243   
