@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our Story.md
       - Principal's Message.md
+      - Our Story.md
