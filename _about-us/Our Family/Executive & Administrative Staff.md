@@ -40,7 +40,11 @@ third_nav_title: Our Family
 </tbody>
 </table>
 
-<li>
+
+	
+<ul class="jekyllcodex_accordion">
+
+	<li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Executive & Administrative Staff</label>
     <div>
@@ -89,3 +93,5 @@ third_nav_title: Our Family
 </p>	
   </div>
 	</li>
+    
+</ul>
