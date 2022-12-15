@@ -61,7 +61,24 @@ test2
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
     <div>
-      <p></p>	
+      <p>
+<table width="600px">
+<thead>
+  <tr>
+    <th width="200px"></th>
+    <th width="200px"></th>
+    <th width="200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2 /Primary 1 Discipline<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_2.png">Mdm Wee Aye Maye<br>Primary 1 Compassion<br><a href="mailto:wee_aye_maye@moe.edu.sg">wee_aye_maye@moe.edu.sg</a></td>
+  </tr>
+</tbody>
+</table>
+			</p>	
   </div>
 	</li>
     
