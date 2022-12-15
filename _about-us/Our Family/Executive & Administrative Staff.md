@@ -23,19 +23,19 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS3.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
    <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS4.jpg">  </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS5.jpg"> </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS6.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS4.jpg"> Mr Muhammad Alif Bin Haron<br>ICT Manager </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS5.jpg"> Ms Nur Hanim Bte Harris<br>Admin Executive</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS6.jpg"> Mdm Lai Choon Lan<br>MSO</td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS7.jpg"> </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS8.jpg"> </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS9.jpg"> </td>
+    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS7.jpg">Ms Lee Chui Lian<br>MSO </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS8.jpg">Mdm Tan Poh Suan<br>MSO </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
   </tr>
 		<tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS10.jpg">  </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS11.jpg"> </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS12.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS10.jpg"> Mdm Muthu Selvi<br>OSO </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS11.jpg">Mdm Nianamal D/O O K Naina Mohamed<br>OSO </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS12.jpg"> Ms Chow Wai Chan<br>OSO</td>
   </tr>
 </tbody>
 </table>
