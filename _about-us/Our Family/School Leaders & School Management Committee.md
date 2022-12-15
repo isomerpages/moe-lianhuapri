@@ -22,8 +22,8 @@ third_nav_title: Our Family
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&%20Management%20Committee/image6.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2 </td>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
+    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&%20Management%20Committee/SLM5.jpg"> Mr Matthew Chong<br>Year Head P3 & P4 </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image10.jpg">Mrs Samantha Soh<br>Year Head P5 & P6 </td>
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"></td>
