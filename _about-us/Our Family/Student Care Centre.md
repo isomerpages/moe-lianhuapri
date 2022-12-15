@@ -16,7 +16,7 @@ third_nav_title: Our Family
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image7.jpg" style ="width:150px">Ms Nurul Leong<br>Centre Manager<br><a href="mailto:NURULLEONG@SHGSTUDENTCARE.COM.SG">NURULLEONG@SHGSTUDENTCARE.COM.SG</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image9.jpg" style ="width:150px">Ms Azlin Arziana<br>Senior Student Care Officer<br><a href="mailto:LIANHUA@SHGSTUDENTCARE.COM.SG">LIANHUA@SHGSTUDENTCARE.COM.SG</a></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image8.jpg" style ="width:150px">Ms Rozianna Binte Mahod<br>Student Care Officer</td>
