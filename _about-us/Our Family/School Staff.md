@@ -192,29 +192,29 @@ third_nav_title: Our Family
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(1).jpg" style ="width: 200px">Mr Wong Jinxing Dennis<br>Primary 4 Compassion<br><a href="mailto:wong_jinxing@moe.edu.sg">wong_jinxing@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.jpg" style="width: 200px">Ms Tan Li Yan<br>Primary 4 Compassion<br><a href="mailto:tan_li_yan@moe.edu.sg">tan_li_yan@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9%20(1).jpg" style ="width:200px">Mrs Alexis Pua<br>Primary 4 Diligence<br><a href="mailto:toh_wei_zeng@moe.edu.sg">toh_wei_zeng@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11.jpg" style ="width:200px">Mr Wong Ee Meng Samuel<br>Primary 4 Diligence<br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg">wong_ee-meng_samuel@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(4).jpg" style ="width:200px">Mdm Irnny Irianny Chumaing<br>Primary 4 Excellence<br><a href="mailto:irnny_irianny_chumaing@moe.edu.sg">irnny_irianny_chumaing@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(2).jpg" style ="width:200px">Ms Chiong Liling Alena<br>Primary 4 Excellence<br><a href="mailto:chiong_li_ling_alena@moe.edu.sg">chiong_li_ling_alena@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(1).jpg" style ="width:200px">Mr Mohammad Faizal Bin Ismail<br>Primary 4 Excellence<br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg">mohammad_faizal_b_ismail@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
  <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.jpg" style ="width:200px">Mdm Po Mun Ying<br>Primary 4 Honesty<br><a href="mailto:po_mun_ying@moe.edu.sg">po_mun_ying@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(1).jpg" style ="width:200px">Ms Siti Aishah Bte Mohd Rasid<br>Primary 4 Honesty<br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg">siti_aishah_mohammad_rasid@moe.edu.sg</a></td>
-  <td style="text-align: center;"></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
  <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5%20(2).jpg" style ="width:200px">Mdm Jalifah Bte Ismail<br>Primary 4 Loyalty<br><a href="mailto:jalifah_ismail@moe.edu.sg">jalifah_ismail@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.jpg" style ="width:200px">Mdm Tan Jye En<br>Primary 4 Loyalty<br><a href="mailto:tan_jye_en@moe.edu.sg">tan_jye_en@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(3).jpg" style ="width:200px">Mdm Azizah Bte Mohd Ali<br>Primary 4 Loyalty<br><a href="mailto:azizah_mohd_ali@moe.edu.sg">azizah_mohd_ali@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"></td>
   </tr>
 </tbody>
 </table>
