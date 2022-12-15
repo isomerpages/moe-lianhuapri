@@ -43,10 +43,9 @@ third_nav_title: Our Family
 
 	
 <ul class="jekyllcodex_accordion">
-
-	<li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">Executive & Administrative Staff</label>
+<li>
+  <input id="accordion1" type="checkbox">
+  <label for="accordion1">Executive & Administrative Staff</label>
     <div>
       <p>Text</p>
       <table width="750px">
