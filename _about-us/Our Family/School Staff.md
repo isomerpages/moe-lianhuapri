@@ -165,7 +165,7 @@ third_nav_title: Our Family
  <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5%20(2).jpg" style ="width:200px">Mdm Jalifah Bte Ismail<br>Primary 4 Loyalty<br><a href="mailto:jalifah_ismail@moe.edu.sg">jalifah_ismail@moe.edu.sg</a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.jpg" style ="width:200px">Mdm Tan Jye En<br>Primary 4 Loyalty<br><a href="mailto:tan_jye_en@moe.edu.sg">tan_jye_en@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(2).jpg" style ="width:200px">Mdm Azizah Bte Mohd Ali<br>Primary 4 Loyalty<br><a href="mailto:azizah_mohd_ali@moe.edu.sg">azizah_mohd_ali@moe.edu.sg</a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(3).jpg" style ="width:200px">Mdm Azizah Bte Mohd Ali<br>Primary 4 Loyalty<br><a href="mailto:azizah_mohd_ali@moe.edu.sg">azizah_mohd_ali@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
