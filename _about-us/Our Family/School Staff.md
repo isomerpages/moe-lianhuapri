@@ -91,6 +91,26 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
   </tr>
+	 <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
 </tbody>
 </table>
 			</p>	
