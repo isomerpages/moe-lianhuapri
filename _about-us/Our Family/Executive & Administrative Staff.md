@@ -41,7 +41,7 @@ third_nav_title: Our Family
 
 <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Title1</label>
+    <label for="accordion1">Executive & Administrative Staff</label>
     <div>
       <p>Text</p>
       <p>
@@ -51,7 +51,7 @@ third_nav_title: Our Family
 	</li>
 <li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Title2</label>
+    <label for="accordion2">Support Staff</label>
     <div>
       <p>Text</p>
       <p>
