@@ -92,7 +92,7 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11.png" style ="width:200px">Mr Adib Azad Bin Jasman<br>Primary 2 Honesty<br><a href="mailto:adib_azad_jasman@moe.edu.sg">adib_azad_jasman@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2.png" style ="width:200px">Mdm Rabiatuladawiyah Bte Gulam Ashraf<br>Primary 2 Honesty<br><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg">rabiatuladawiyah_gulam_ash@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
