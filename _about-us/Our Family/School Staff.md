@@ -154,7 +154,7 @@ third_nav_title: Our Family
   </tr>
   <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(4).jpg" style ="width:200px">Mdm Irnny Irianny Chumaing<br>Primary 4 Excellence<br><a href="mailto:irnny_irianny_chumaing@moe.edu.sg">irnny_irianny_chumaing@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(2).jpg" style ="width:200px">Ms Chiong Liling Alena<br>Primary 4 Excellence<br><a href="mailto:chiong_li_ling_alena@moe.edu.sg">chiong_li_ling_alena@moe.edu.sg</a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
  <tr>
