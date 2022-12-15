@@ -82,7 +82,7 @@ third_nav_title: Our Family
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png">Mdm Subathra D/O Govindasamy<br>Primary 2 Diligence<br><a href="mailto:subathra_govindasamy@moe.edu.sg">subathra_govindasamy@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png">Mdm Rosnah Binte Rosman<br>Primary 2 Diligence<br><a href="mailto:rosnah_rosman@moe.edu.sg">rosnah_rosman@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
   </tr>
