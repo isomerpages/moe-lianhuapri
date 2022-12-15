@@ -117,6 +117,17 @@ third_nav_title: Our Family
     <label for="accordion3">Primary Three Teachers</label>
     <div>
       <p>
+</p>	
+  </div>
+	</li>
+
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+
+<li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">Primary Four Teachers</label>
+    <div>
+      <p>
 <table width="600px">
 <thead>
   <tr>
@@ -146,21 +157,8 @@ third_nav_title: Our Family
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
-	
 </tbody>
 </table>
-</p>	
-  </div>
-	</li>
-
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-
-<li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">Primary Four Teachers</label>
-    <div>
-      <p>
-
 </p>	
   </div>
 	</li>
