@@ -6,7 +6,7 @@ third_nav_title: Our Family
 ---
 # Executive &amp; Administrative Staff
 
-<img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg"> 
+
 
 <table width="750px">
 <thead>
@@ -18,24 +18,24 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"> </td>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg">  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS2.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS3.jpg"> </td>
   </tr>
    <tr>
-    <td width="250px" style="text-align: center;"> </td>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS4.jpg">  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS5.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS6.jpg"> </td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"> </td>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
+    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS7.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS8.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS9.jpg"> </td>
   </tr>
-  <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image5.jpg"> Mr Vincent Low<br>HOD CCE </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image22.jpg">Ms Sheena Foo<br>HOD Student Management </td>
+		<tr>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS10.jpg">  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS11.jpg"> </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS12.jpg"> </td>
   </tr>
 </tbody>
 </table>
