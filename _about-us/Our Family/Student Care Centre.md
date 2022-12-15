@@ -19,7 +19,7 @@ third_nav_title: Our Family
 <td style="text-align: center;"></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(2).jpg" style ="width:200px">Mrs Brenda Sin<br>Primary 6 Diligence<br><a href="mailto:woan_shu_pei@moe.edu.sg">woan_shu_pei@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image8.jpg" style ="width:200px">Ms Rozianna Binte Mahod<br>Student Care Officer</td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(2).jpg" style ="width:200px">Mdm Yap Swee Quin<br>Primary 6 Diligence<br><a href="mailto:yap_swee_quin@moe.edu.sg">yap_swee_quin@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(4).jpg" style ="width:200px">Mdm Ruth Lai<br>Primary 6 Excellence<br><a href="mailto:lai_lian_siang@moe.edu.sg">lai_lian_siang@moe.edu.sg</a></td>
   </tr>
