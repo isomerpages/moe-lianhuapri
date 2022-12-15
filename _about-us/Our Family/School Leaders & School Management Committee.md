@@ -6,12 +6,12 @@ third_nav_title: Our Family
 ---
 # School Leaders & School Management Committee
 
-<table>
+<table width="750px">
 <thead>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th width="250px"></th>
+    <th width="250px"></th>
+    <th width="250px"></th>
   </tr>
 </thead>
 <tbody>
