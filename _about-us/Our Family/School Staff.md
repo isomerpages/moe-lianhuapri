@@ -237,8 +237,8 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px">Mrs Samantha Soh-Lee<br>Year Head P5 & P6<br><a href="mailto:samantha_lee_miew_fung@moe.edu.sg">samantha_lee_miew_fung@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(2).jpg" style ="width:200px">Mrs Tan-Ong Ee Lee<br>Primary 6 Compassion<br><a href="mailto:ong_ee_lee@moe.edu.sg">ong_ee_lee@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
