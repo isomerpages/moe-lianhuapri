@@ -30,7 +30,7 @@ third_nav_title: Our Family
 	  <tr>
     <td width="250px" style="text-align: center;"> Miss Arshvini Manohar<br>Primary 1 Discipline<br> <a href="mailto:arshvini_manohar@moe.edu.sg">arshvini_manohar@moe.edu.sg</a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image13.png">Mdm Zhang Yao<br>Primary 1 Discipline<br><a href="mailto:zhang_yao@moe.edu.sg">zhang_yao@moe.edu.sg</a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Mdm Norhani Bte Sahar<br>Primary 1 Excellence<br><a href="mailto:norhani_sahar@moe.edu.sg">norhani_sahar@moe.edu.sg</a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(1).png">Mdm Norhani Bte Sahar<br>Primary 1 Excellence<br><a href="mailto:norhani_sahar@moe.edu.sg">norhani_sahar@moe.edu.sg</a></td>
   </tr>
 		<tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
