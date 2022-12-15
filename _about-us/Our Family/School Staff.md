@@ -6,7 +6,7 @@ third_nav_title: Our Family
 ---
 # School Staff
 
-<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href=""></a></td>
 
 <table width="750px">
 <thead>
