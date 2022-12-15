@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us/School Address and Useful Contacts.md
-      - Contact Us/.keep
       - Principal's Message.md
       - Our Story.md
       - Our Family/.keep
@@ -16,3 +14,5 @@ collections:
       - Our Family/Alumni.md
       - Our Vision, Mission, Values, Motto & Culture.md
       - Our School Crest & Song.md
+      - Contact Us/.keep
+      - Contact Us/School Address and Useful Contacts.md
