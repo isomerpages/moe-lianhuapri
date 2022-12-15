@@ -86,12 +86,19 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
   </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
 </tbody>
 </table>
 			</p>	
   </div>
 	</li>
-    
+	
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+		
 <li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Primary Three Teachers</label>
