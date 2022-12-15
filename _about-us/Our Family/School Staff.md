@@ -197,8 +197,8 @@ third_nav_title: Our Family
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(1).jpg" style ="width:200px">Ms Sheena Foo<br>Primary 5 Diligence<br><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg">foo_ru_yuan_sheena@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7.jpg" style ="width:200px">Ms Maggie Fong<br>Primary 5 Diligence<br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg">maggie_fong_pui_yi@moe.edu.sg</a></td>
   <td style="text-align: center;"></td>
   </tr>
   <tr>
