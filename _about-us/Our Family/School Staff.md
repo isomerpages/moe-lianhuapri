@@ -25,7 +25,7 @@ third_nav_title: Our Family
    <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_3.png"> Mdm Ramzaniah Binti Lateh<br>Primary 1 Compassion<br><a href="mailto:ramzaniah_lateh@moe.edu.sg">ramzaniah_lateh@moe.edu.sg</a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_4.png">Mdm Siti Nuraini Mustaqiim M Yusof<br>Primary 1 Diligence<br><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg">siti_nuraini_mustaqiim_yusof@moe.edu.sg</a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_5.png">Mr Sim Wee Choon<br>Primary 1 Diligence<br><a href="mailto:sim_wee_choon@moe.edu.sg">sim_wee_choon@moe.edu.sg</a></td>
   </tr>
 	  <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
