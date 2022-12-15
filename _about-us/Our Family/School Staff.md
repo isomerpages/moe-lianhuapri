@@ -16,7 +16,7 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS2.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS3.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
