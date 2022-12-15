@@ -4,7 +4,6 @@ collections:
     order:
       - Principal's Message.md
       - Our Story.md
-      - Our Family/Alumni.md
       - Our Family/.keep
       - Our Family/School Advisory Commitee.md
       - Our Family/School Leaders & School Management Committee.md
@@ -12,3 +11,4 @@ collections:
       - Our Family/School Staff.md
       - Our Family/Lian Wah Public Library.md
       - Our Family/Student Care Centre.md
+      - Our Family/Alumni.md
