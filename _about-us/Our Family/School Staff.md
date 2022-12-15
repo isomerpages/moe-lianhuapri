@@ -43,7 +43,7 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(1).png"> Mrs Samantha Liew<br>Primary 1 Resilience<br><a href="mailto:kong_yue_ping@moe.edu.sg">kong_yue_ping@moe.edu.sg</a></td>
   </tr>
 			<tr>
-<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png"> <a href=""></a></td>
+<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.png">Mdm Norhayati Bte Ruhani<br>Primary 1 Resilience<br><a href="mailto:norhayati_ruhani@moe.edu.sg">norhayati_ruhani@moe.edu.sg</a></td>
 <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png"> <a href=""></a></td>
 				<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png"> <a href=""></a></td>
   </tr>
