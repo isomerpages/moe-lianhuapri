@@ -47,7 +47,7 @@ third_nav_title: Our Family
   <input id="accordion1" type="checkbox">
   <label for="accordion1">Executive & Administrative Staff</label>
     <div>
-      <p>Text</p>
+      <p>
       <table width="750px">
 <thead>
   <tr>
