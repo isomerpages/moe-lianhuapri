@@ -87,7 +87,7 @@ third_nav_title: Our Family
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16%20(1).png" style ="width:200px">Ms Liu Chang<br>Primary 2 Discipline<br><a href="mailto:liu_chang@moe.edu.sg">liu_chang@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image15.png" style ="width:200px">Ms Shafira Binte Zailani<br>Primary 2 Excellence<br><a href="mailto:shafira_zailani@moe.edu.sg">shafira_zailani@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
