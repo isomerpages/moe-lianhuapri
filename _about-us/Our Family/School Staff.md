@@ -98,13 +98,13 @@ third_nav_title: Our Family
   </tr>
 	  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image18.png" style ="width:200px">Ms Kong Kam Foong<br>Primary 2 Resilience<br><a href="mailto:kong_kam_foong@moe.edu.sg">kong_kam_foong@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(1).png" style ="width:200px">Mrs Tay Peck San<br>Primary 2 Resilience<br><a href="mailto:wong_peck_san@moe.edu.sg">wong_peck_san@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png" style ="width:200px">Mr Foo Zhi Bao Jonathan<br>Primary 2 Unity<br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg">foo_zhi_bao_jonathan@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image14.png" style ="width:200px">Mdm Norlailawati Bte Osman<br>Primary 2 Unity<br><a href="mailto:norlailawati_osman@moe.edu.sg">norlailawati_osman@moe.edu.sg</a></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
   </tr>
 </tbody>
 </table>
