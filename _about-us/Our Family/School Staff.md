@@ -28,7 +28,7 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_5.png">Mr Sim Wee Choon<br>Primary 1 Diligence<br><a href="mailto:sim_wee_choon@moe.edu.sg">sim_wee_choon@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"> Miss Arshvini Manohar<br>Primary 1 Discipline<br> <a href="mailto:arshvini_manohar@moe.edu.sg">arshvini_manohar@moe.edu.sg</a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
   </tr>
