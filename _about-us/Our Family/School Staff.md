@@ -97,7 +97,7 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4.png" style ="width:200px">Ms Lin Jun<br>Primary 2 Loyalty<br><a href="mailto:lin_jun@moe.edu.sg">lin_jun@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image18.png" style ="width:200px">Ms Kong Kam Foong<br>Primary 2 Resilience<br><a href="mailto:kong_kam_foong@moe.edu.sg">kong_kam_foong@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
