@@ -24,9 +24,9 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image10.jpg" style ="width:200px">Ms Fasha Binte Ishak<br>P1 Student Care Officer</td>
   </tr>
    <tr>
-<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image8.jpg" style ="width:200px">Ms Rozianna Binte Mahod<br>Student Care Officer</td>
-<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image11.jpg" style ="width:200px">Ms Qhurraisha Binte Nor Rihsam<br>P1 Assistant Student Care Officer</td>
-<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image10.jpg" style ="width:200px">Ms Fasha Binte Ishak<br>P1 Student Care Officer</td>
+<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image2.jpg" style ="width:200px">Ms Katherine Yee Chui Mei<br>P2 Student Care Officer</td>
+<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image1.jpg" style ="width:200px">Ms Fiona Cheng Pei Chen<br>P2 Student Care Officer</td>
+<td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image4.jpg" style ="width:200px">Ms Carol Zhen Hong<br>P3 Student Care Officer</td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image3.jpg" style ="width:200px">Ms Nur Amirah Husniyah Binte Hussin<br>P4 Student Care Officer</td>
