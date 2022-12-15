@@ -126,12 +126,12 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9%20(3).jpg" style ="width:200px">Mr Matthew Chong<br>Year Head P3 & P4<br><a href="mailto:chong_chee_weng@moe.edu.sg">chong_chee_weng@moe.edu.sg</a></td>
+<td style="text-align: center;"></td>
   </tr>
    <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(1).jpg" style ="width:200px">Mr Vincent Low Teck Chye<br>Primary 3 Compassion<br><a href="mailto:low_teck_chye_vincent@moe.edu.sg">low_teck_chye_vincent@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).jpg" style ="width:200px">Mdm Tan Xiaohui<br>Primary 3 Compassion<br><a href="mailto:tan_xiaohui@moe.edu.sg">tan_xiaohui@moe.edu.sg</a></td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
