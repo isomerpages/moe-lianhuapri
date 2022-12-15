@@ -29,17 +29,17 @@ Assistant Year Head P1 & P2 /Primary 1 Discipline
    <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS6.jpg"> Mdm Lai Choon Lan<br>MSO</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS7.jpg">Ms Lee Chui Lian<br>MSO </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS8.jpg">Mdm Tan Poh Suan<br>MSO </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
+    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
   </tr>
 		<tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS10.jpg"> Mdm Muthu Selvi<br>OSO </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS11.jpg">Mdm Nianamal D/O O K Naina Mohamed<br>OSO </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS12.jpg"> Ms Chow Wai Chan<br>OSO</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
   </tr>
 </tbody>
 </table>
