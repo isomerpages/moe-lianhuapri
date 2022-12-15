@@ -143,7 +143,7 @@ third_nav_title: Our Family
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(1).jpg" style ="width:200px">Mr Wong Jinxing Dennis<br>Primary 4 Compassion<br><a href="mailto:wong_jinxing@moe.edu.sg">wong_jinxing@moe.edu.sg</a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
