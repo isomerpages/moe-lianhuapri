@@ -14,5 +14,5 @@ third_nav_title: Our Family
 | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image11.jpg)  |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image5.jpg)   |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image22.jpg) |
 | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image14.png)  | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image8.jpg)  |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image4.jpg) |
 |   ![](/images/About%20us/Leaders%20&%20Management%20Committee/image2.jpg) | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image12.jpg)  |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image19.jpg) |
-|   ![](/images/About%20us/Leaders%20&%20Management%20Committee/image1.png) | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image21.png)  |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image7.png) |
-|   ![](/images/About%20us/Leaders%20&%20Management%20Committee/image17.png) |    |  |
+|   ![](/images/About%20us/Leaders%20&%20Management%20Committee/image1.png) Mdm Kuan Suan Shi<br>SH Partnership | ![](/images/About%20us/Leaders%20&%20Management%20Committee/image21.png) Mdm Subathra<br>SH CCE |  ![](/images/About%20us/Leaders%20&%20Management%20Committee/image7.png)Mr Sim Wee Choon<br>SH CCE |
+|   ![](/images/About%20us/Leaders%20&%20Management%20Committee/image17.png) Mdm Lee Gim Fang<br>SH Aesthetics |    |  |
