@@ -267,7 +267,26 @@ third_nav_title: Our Family
   <label for="accordion7">Specialised Support Staff</label>
     <div>
       <p>
-
+<table width="600px">
+<thead>
+  <tr>
+    <th width="200px"></th>
+    <th width="200px"></th>
+    <th width="200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  </tr>
+ <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"></td>
+  </tr>
+</tbody>
+</table>
 </p>	
   </div>
 	</li>
