@@ -284,6 +284,7 @@ third_nav_title: Our Family
  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(3).jpg" style ="width:200px">Ms Tahiradulnisha Kader Ibrahim<br>Allied Educator (Counsellor)<br><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg">tahiradulnisha_kader_ibrahim@moe.edu.sg</a></td>
 <td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
   </tr>
 </tbody>
 </table>
