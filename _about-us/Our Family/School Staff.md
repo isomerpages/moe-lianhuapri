@@ -120,41 +120,34 @@ third_nav_title: Our Family
 <table width="600px">
 <thead>
   <tr>
-    <th width="200px"></th>
-    <th width="200px"></th>
-    <th width="200px"></th>
+    <th width="300px"></th>
+    <th width="300px"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px">Mrs Samantha Soh-Lee<br>Year Head P5 & P6<br><a href="mailto:samantha_lee_miew_fung@moe.edu.sg">samantha_lee_miew_fung@moe.edu.sg</a></td>
-  <td style="text-align: center;"></td>
-  <td style="text-align: center;"></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+  </tr>
+   <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(3).jpg" style ="width:200px">Mrs Emily Chia<br>Primary 5 Compassion<br><a href="mailto:chia_emily@moe.edu.sg">chia_emily@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9%20(2).jpg" style ="width:200px">Ms Norlieza Bte Ahmad<br>Primary 5 Compassion<br><a href="mailto:norlieza_ahmad@moe.edu.sg">norlieza_ahmad@moe.edu.sg</a></td>
-  <td style="text-align: center;"></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(1).jpg" style ="width:200px">Ms Sheena Foo<br>Primary 5 Diligence<br><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg">foo_ru_yuan_sheena@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7.jpg" style ="width:200px">Ms Maggie Fong<br>Primary 5 Diligence<br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg">maggie_fong_pui_yi@moe.edu.sg</a></td>
-  <td style="text-align: center;"></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5%20(1).jpg" style ="width:200px">Ms Khilfina<br>Primary 5 Excellence<br><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg">khilfina_kamaruddin_shah@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(3).jpg" style ="width:200px">Mr Kathiravan<br>Primary 5 Diligence<br><a href="mailto:kathiravan_murugiah@moe.edu.sg">kathiravan_murugiah@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8.jpg" style ="width:200px">Mr Chua Peng Chew<br>Primary 5 Diligence<br><a href="mailto:chua_peng_chew@moe.edu.sg">chua_peng_chew@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
- <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(4).jpg" style ="width:200px">Ms Yong Hua Moy<br>Primary 5 Honesty<br><a href="mailto:yong_hua_moy@moe.edu.sg">yong_hua_moy@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(2).jpg" style ="width:200px">Ms Koh Wan Ting<br>Primary 5 Honesty<br><a href="mailto:koh_wan_ting@moe.edu.sg">koh_wan_ting@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image14.jpg" style ="width:200px">Ms Soh Fang Ying<br>Primary 5 Honesty<br><a href="mailto:soh_fang_ying@moe.edu.sg">soh_fang_ying@moe.edu.sg</a></td>
-  </tr>
- <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(1).jpg" style ="width:200px">Ms Elizabeth Wok<br>Primary 5 Resilience<br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg">wok_li_jun_elizabeth@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1.jpg" style ="width:200px">Mr Ramadhan<br>Primary 5 Resilience<br><a href="mailto:ramadhan_omar@moe.edu.sg">ramadhan_omar@moe.edu.sg</a></td>
-<td style="text-align: center;"></td>
+  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
 </tbody>
 </table>
