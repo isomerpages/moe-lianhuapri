@@ -119,7 +119,52 @@ third_nav_title: Our Family
     <label for="accordion3">Primary Three Teachers</label>
     <div>
       <p>
-
+<table width="600px">
+<thead>
+  <tr>
+    <th width="200px"></th>
+    <th width="200px"></th>
+    <th width="200px"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png" style ="width:200px"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png" style ="width:200px">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.png" style ="width:200px">Ms Choo Yen Leng Josephine<br>Primary 2 Compassion<br><a href="mailto:choo_yen_leng@moe.edu.sg">choo_yen_leng@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).png" style ="width:200px"> Ms Farah Syafiqah Binte Johari<br>Primary 2 Compassion<br><a href="mailto:farah_syafiqah_johari@moe.edu.sg">farah_syafiqah_johari@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17%20(1).png" style ="width:200px">Ms Lee Peir Chuang<br>Primary 2 Diligence<br><a href="mailto:lee_peir_chuang@moe.edu.sg">lee_peir_chuang@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px">Mdm Subathra D/O Govindasamy<br>Primary 2 Diligence<br><a href="mailto:subathra_govindasamy@moe.edu.sg">subathra_govindasamy@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7.png" style ="width:200px">Mdm Rosnah Binte Rosman<br>Primary 2 Diligence<br><a href="mailto:rosnah_rosman@moe.edu.sg">rosnah_rosman@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image19.png" style ="width:200px">Mdm Ho Sheu Yun<br>Primary 2 Discipline<br><a href="mailto:ho_sheu_yun@moe.edu.sg">ho_sheu_yun@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16%20(1).png" style ="width:200px">Ms Liu Chang<br>Primary 2 Discipline<br><a href="mailto:liu_chang@moe.edu.sg">liu_chang@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image15.png" style ="width:200px">Ms Shafira Binte Zailani<br>Primary 2 Excellence<br><a href="mailto:shafira_zailani@moe.edu.sg">shafira_zailani@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5%20(1).png" style ="width:200px">Ms Rachel Koh<br>Primary 2 Excellence<br><a href="mailto:koh_bao_qin_rachel@moe.edu.sg">koh_bao_qin_rachel@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11.png" style ="width:200px">Mr Adib Azad Bin Jasman<br>Primary 2 Honesty<br><a href="mailto:adib_azad_jasman@moe.edu.sg">adib_azad_jasman@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2.png" style ="width:200px">Mdm Rabiatuladawiyah Bte Gulam Ashraf<br>Primary 2 Honesty<br><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg">rabiatuladawiyah_gulam_ash@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9.png" style ="width:200px">Ms Toh Bee Hong<br>Primary 2 Loyalty<br><a href="mailto:toh_bee_hong@moe.edu.sg">toh_bee_hong@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4.png" style ="width:200px">Ms Lin Jun<br>Primary 2 Loyalty<br><a href="mailto:lin_jun@moe.edu.sg">lin_jun@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image18.png" style ="width:200px">Ms Kong Kam Foong<br>Primary 2 Resilience<br><a href="mailto:kong_kam_foong@moe.edu.sg">kong_kam_foong@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(1).png" style ="width:200px">Mrs Tay Peck San<br>Primary 2 Resilience<br><a href="mailto:wong_peck_san@moe.edu.sg">wong_peck_san@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png" style ="width:200px">Mr Foo Zhi Bao Jonathan<br>Primary 2 Unity<br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg">foo_zhi_bao_jonathan@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image14.png" style ="width:200px">Mdm Norlailawati Bte Osman<br>Primary 2 Unity<br><a href="mailto:norlailawati_osman@moe.edu.sg">norlailawati_osman@moe.edu.sg</a></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+  </tr>
+</tbody>
+</table>
 </p>	
   </div>
 	</li>
