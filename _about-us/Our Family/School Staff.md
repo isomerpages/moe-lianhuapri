@@ -209,7 +209,7 @@ third_nav_title: Our Family
  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(4).jpg" style ="width:200px">Ms Yong Hua Moy<br>Primary 5 Honesty<br><a href="mailto:yong_hua_moy@moe.edu.sg">yong_hua_moy@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(2).jpg" style ="width:200px">Ms Koh Wan Ting<br>Primary 5 Honesty<br><a href="mailto:koh_wan_ting@moe.edu.sg">koh_wan_ting@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image14.jpg" style ="width:200px">Ms Soh Fang Ying<br>Primary 5 Honesty<br><a href="mailto:soh_fang_ying@moe.edu.sg">soh_fang_ying@moe.edu.sg</a></td>
   </tr>
  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
