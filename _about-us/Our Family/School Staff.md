@@ -7,7 +7,11 @@ third_nav_title: Our Family
 # School Staff
 
 <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href=""></a></td>
+Mdm Pek Peet Juan
 
+Assistant Year Head P1 & P2 /Primary 1 Discipline
+
+[pek\_peet\_juan@moe.edu.sg](mailto:pek_peet_juan@moe.edu.sg)
 <table width="750px">
 <thead>
   <tr>
