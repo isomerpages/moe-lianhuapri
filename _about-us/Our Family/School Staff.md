@@ -8,18 +8,18 @@ third_nav_title: Our Family
 
 <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
 
-<table width="750px">
+<table width="750">
 <thead>
   <tr>
-    <th width="250px"></th>
-    <th width="250px"></th>
-    <th width="250px"></th>
+    <th width="250"></th>
+    <th width="250"></th>
+    <th width="250"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
-	  <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2 /Primary 1 Discipline<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
+    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+	  <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2 /Primary 1 Discipline<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_2.png">Mdm Wee Aye Maye<br>Primary 1 Compassion<br><a href="mailto:wee_aye_maye@moe.edu.sg">wee_aye_maye@moe.edu.sg</a></td>
   </tr>
    <tr>
