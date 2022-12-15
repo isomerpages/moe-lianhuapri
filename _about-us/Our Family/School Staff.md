@@ -150,9 +150,19 @@ third_nav_title: Our Family
   <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9%20(1).jpg" style ="width:200px">Mrs Alexis Pua<br>Primary 4 Diligence<br><a href="mailto:toh_wei_zeng@moe.edu.sg">toh_wei_zeng@moe.edu.sg</a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11.jpg" style ="width:200px">Mr Wong Ee Meng Samuel<br>Primary 4 Diligence<br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg">wong_ee-meng_samuel@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"></td>
   </tr>
   <tr>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(4).jpg" style ="width:200px">Mdm Irnny Irianny Chumaing<br>Primary 4 Excellence<br><a href="mailto:irnny_irianny_chumaing@moe.edu.sg">irnny_irianny_chumaing@moe.edu.sg</a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  </tr>
+ <tr>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  </tr>
+ <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
