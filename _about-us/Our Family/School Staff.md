@@ -78,7 +78,7 @@ third_nav_title: Our Family
   </tr>
 	  <tr>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).png"> Ms Farah Syafiqah Binte Johari<br>Primary 2 Compassion<br><a href="mailto:farah_syafiqah_johari@moe.edu.sg">farah_syafiqah_johari@moe.edu.sg</a></td>
-	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17%20(1).png">Ms Lee Peir Chuang<br>Primary 2 Diligence<br><a href="mailto:lee_peir_chuang@moe.edu.sg">lee_peir_chuang@moe.edu.sg</a></td>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.png">Ms Choo Yen Leng Josephine<br>Primary 2 Compassion<br><a href="mailto:choo_yen_leng@moe.edu.sg">choo_yen_leng@moe.edu.sg</a></td>
   </tr>
 </tbody>
