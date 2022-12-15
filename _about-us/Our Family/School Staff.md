@@ -33,9 +33,9 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(1).png">Mdm Norhani Bte Sahar<br>Primary 1 Excellence<br><a href="mailto:norhani_sahar@moe.edu.sg">norhani_sahar@moe.edu.sg</a></td>
   </tr>
 		<tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png">Mdm Lee Gim Fang<br>Primary 1 Excellence<br><a href="mailto:lee_gim_fang@moe.edu.sg">lee_gim_fang@moe.edu.sg</a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(1).png">Mdm Lee Gim Fang<br>Primary 1 Excellence<br><a href="mailto:lee_gim_fang@moe.edu.sg">lee_gim_fang@moe.edu.sg</a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5.png"> Ms Hussum Fatimah Bte Syed Mohd<br>Primary 1 Honesty<br><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg">hussum_fatimah_syed_mohd@moe.edu.sg</a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1.png"> Mdm Woo Yeong Yi<br>Primary 1 Honesty<br><a href="mailto:woo_yeong_yi@moe.edu.sg"></a>woo_yeong_yi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
