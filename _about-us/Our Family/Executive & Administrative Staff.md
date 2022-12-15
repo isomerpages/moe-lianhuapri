@@ -6,7 +6,7 @@ third_nav_title: Our Family
 ---
 # Executive &amp; Administrative Staff
 
-<img src="/images/About%20us/Leaders%20&%20Management%20Committee/image6.png"> 
+<img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg"> 
 
 <table width="750px">
 <thead>
