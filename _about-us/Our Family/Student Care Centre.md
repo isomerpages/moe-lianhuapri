@@ -16,7 +16,7 @@ third_nav_title: Our Family
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image7.jpg" style ="width:200px">Ms Nurul Leong<br>Centre Manager<br><a href="mailto:NURULLEONG@SHGSTUDENTCARE.COM.SG">NURULLEONG@SHGSTUDENTCARE.COM.SG</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/Student%20Care%20Centre/image9.jpg" style ="width:200px">Ms Azlin Arziana<br>Senior Student Care Officer<br><a href="mailto:LIANHUA@SHGSTUDENTCARE.COM.SG">LIANHUA@SHGSTUDENTCARE.COM.SG</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9.jpg" style ="width:200px">Ms Tang Lian Yi<br>Primary 6 Compassion<br><a href="mailto:tang_lian_yi@moe.edu.sg">tang_lian_yi@moe.edu.sg</a></td>
+<td style="text-align: center;"></td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(2).jpg" style ="width:200px">Mrs Brenda Sin<br>Primary 6 Diligence<br><a href="mailto:woan_shu_pei@moe.edu.sg">woan_shu_pei@moe.edu.sg</a></td>
