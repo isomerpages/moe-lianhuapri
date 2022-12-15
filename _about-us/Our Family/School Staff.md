@@ -139,8 +139,8 @@ third_nav_title: Our Family
 <tbody>
   <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image70.jpg" style ="width:200px">Mr Matthew Chong<br>Year Head P3 & P4<br><a href="mailto:chong_chee_weng@moe.edu.sg">chong_chee_weng@moe.edu.sg</a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"></td>
+  <td style="text-align: center;"></td>
   </tr>
   <tr>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
