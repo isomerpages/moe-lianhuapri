@@ -134,11 +134,11 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).jpg" style ="width:200px">Mdm Tan Xiaohui<br>Primary 3 Compassion<br><a href="mailto:tan_xiaohui@moe.edu.sg">tan_xiaohui@moe.edu.sg</a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4.jpg" style ="width:200px">Ms Edelyn Lee Jieying<br>Primary 3 Diligence<br><a href="mailto:lee_jieying_edelyn@moe.edu.sg">lee_jieying_edelyn@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5.jpg" style ="width:200px">Mr Yao Huasong<br>Primary 3 Diligence<br><a href="mailto:yao_huasong@moe.edu.sg">yao_huasong@moe.edu.sg</a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(2).jpg" style ="width:200px">Mr Lim Soon Wei<br>Primary 3 Excellence<br><a href="mailto:lim_soon_wei@moe.edu.sg">lim_soon_wei@moe.edu.sgg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
