@@ -23,7 +23,12 @@ third_nav_title: Contact Us
 
 ## School Suppliers
 
-
+|   Type of Service   |                Supplier               |                             Contact Details                            |
+|:-------------------:|:-----------------:|:------------:|
+| School Bus Service  | DKJ Transport Service                 | (Hp) 9772 3370<br>(Email) [leodkj@icloud.com](mailto:leodkj@icloud.com)                          |
+| School Bookshop     | Pacific Bookstores Pte Ltd            | (O) 6425 5570<br>(HQ) 6559 2269<br>(Email) [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) |
+| School Uniforms     | Shanghai School Uniforms Pte Ltd      | (O) 6747 8037<br>(Email) [sales@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)                  |
+| Student Care Centre | Self-Help Groups Student Care Limited | (Hp) 9023 1486<br>(Email) [lianhua@shgstudentcare.com.sg](mailto:lianhua@shgstudentcare.com.sg)                |
 
 ## School Operating Hours
 
