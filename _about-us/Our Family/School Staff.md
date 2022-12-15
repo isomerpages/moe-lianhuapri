@@ -81,6 +81,11 @@ third_nav_title: Our Family
 	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17%20(1).png">Ms Lee Peir Chuang<br>Primary 2 Diligence<br><a href="mailto:lee_peir_chuang@moe.edu.sg">lee_peir_chuang@moe.edu.sg</a></td>
     <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png">Mdm Subathra D/O Govindasamy<br>Primary 2 Diligence<br><a href="mailto:subathra_govindasamy@moe.edu.sg">subathra_govindasamy@moe.edu.sg</a></td>
   </tr>
+	  <tr>
+   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+  </tr>
 </tbody>
 </table>
 			</p>	
