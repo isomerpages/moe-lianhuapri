@@ -18,7 +18,7 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg">  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS2.jpg"> </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS3.jpg"> </td>
   </tr>
