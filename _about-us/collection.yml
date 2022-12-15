@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Crest & Song.md
       - Principal's Message.md
       - Our Story.md
       - Our Family/.keep
@@ -14,3 +13,4 @@ collections:
       - Our Family/Student Care Centre.md
       - Our Family/Alumni.md
       - Our Vision, Mission, Values, Motto & Culture.md
+      - Our School Crest & Song.md
