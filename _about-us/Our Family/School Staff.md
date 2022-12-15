@@ -6,7 +6,6 @@ third_nav_title: Our Family
 ---
 # School Staff
 
-test2
 <ul class="jekyllcodex_accordion">
 <li>
   <input id="accordion1" type="checkbox">
@@ -57,6 +56,7 @@ test2
 </p>	
   </div>
 	</li>
+
 <li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
