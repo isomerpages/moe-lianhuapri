@@ -192,8 +192,8 @@ third_nav_title: Our Family
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(3).jpg" style ="width:200px">Mrs Emily Chia<br>Primary 5 Compassion<br><a href="mailto:chia_emily@moe.edu.sg">chia_emily@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9%20(2).jpg" style ="width:200px">Ms Norlieza Bte Ahmad<br>Primary 5 Compassion<br><a href="mailto:norlieza_ahmad@moe.edu.sg">norlieza_ahmad@moe.edu.sg</a></td>
   <td style="text-align: center;"></td>
   </tr>
   <tr>
