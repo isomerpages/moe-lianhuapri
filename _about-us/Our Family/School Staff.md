@@ -94,7 +94,7 @@ third_nav_title: Our Family
 	  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2.png" style ="width:200px">Mdm Rabiatuladawiyah Bte Gulam Ashraf<br>Primary 2 Honesty<br><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg">rabiatuladawiyah_gulam_ash@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image9.png" style ="width:200px">Ms Toh Bee Hong<br>Primary 2 Loyalty<br><a href="mailto:toh_bee_hong@moe.edu.sg">toh_bee_hong@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4.png" style ="width:200px">Ms Lin Jun<br>Primary 2 Loyalty<br><a href="mailto:lin_jun@moe.edu.sg">lin_jun@moe.edu.sg</a></td>
   </tr>
 	  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
