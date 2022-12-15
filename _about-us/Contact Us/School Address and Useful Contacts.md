@@ -22,3 +22,15 @@ third_nav_title: Contact Us
 
 
 ## School Suppliers
+
+
+
+## School Operating Hours
+
+
+The school operates on a 5-day week, from Monday to Friday.   
+
+|                |               |
+|------------|-----------|
+| School Term    | 7am to 5.30pm |
+| School Holiday | 7am to 5pm    |
