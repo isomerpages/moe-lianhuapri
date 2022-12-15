@@ -16,7 +16,7 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
+    <td width="250px" style="text-align: center;"> </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS2.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS3.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
