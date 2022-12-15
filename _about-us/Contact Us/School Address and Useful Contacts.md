@@ -13,7 +13,7 @@ third_nav_title: Contact Us
 ## School Contact
 
 |                |                              |
-|:--------------:|:----------------------------:|
+|-------------|---------------------------|
 | General Office | 6563 9502 (main)             |
 | Fax number     | 6563 9591                    |
 | Email address  | [lianhua\_ps@moe.edu.sg](mailto:lianhua_ps@moe.edu.sg)      |
