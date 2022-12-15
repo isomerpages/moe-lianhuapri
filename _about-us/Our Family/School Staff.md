@@ -48,7 +48,7 @@ third_nav_title: Our Family
   </tr>
 			<tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.png" style ="width:200px">Mdm Norhayati Bte Ruhani<br>Primary 1 Resilience<br><a href="mailto:norhayati_ruhani@moe.edu.sg">norhayati_ruhani@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17.png" style ="width:200px"> Mdm Masrini Binte Samsi<br>Primary 1 Unity<br><a href="mailto:masrini_samsi@moe.edu.sg">masrini_samsi@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17.png"  style ="width:200px"> Mdm Masrini Binte Samsi<br>Primary 1 Unity<br><a href="mailto:masrini_samsi@moe.edu.sg">masrini_samsi@moe.edu.sg</a></td>
 				<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(1).png" style ="width:200px"> Mr Tan Chin Chuan<br>Primary 1 Unity<br><a href="mailto:tan_chin_chuan@moe.edu.sg">tan_chin_chuan@moe.edu.sg</a></td>
   </tr>
 </tbody>
@@ -72,39 +72,39 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
-	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.png">Ms Choo Yen Leng Josephine<br>Primary 2 Compassion<br><a href="mailto:choo_yen_leng@moe.edu.sg">choo_yen_leng@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png" style ="width:200px"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png" style ="width:200px">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3.png" style ="width:200px">Ms Choo Yen Leng Josephine<br>Primary 2 Compassion<br><a href="mailto:choo_yen_leng@moe.edu.sg">choo_yen_leng@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).png"> Ms Farah Syafiqah Binte Johari<br>Primary 2 Compassion<br><a href="mailto:farah_syafiqah_johari@moe.edu.sg">farah_syafiqah_johari@moe.edu.sg</a></td>
-	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17%20(1).png">Ms Lee Peir Chuang<br>Primary 2 Diligence<br><a href="mailto:lee_peir_chuang@moe.edu.sg">lee_peir_chuang@moe.edu.sg</a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png">Mdm Subathra D/O Govindasamy<br>Primary 2 Diligence<br><a href="mailto:subathra_govindasamy@moe.edu.sg">subathra_govindasamy@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(1).png" style ="width:200px"> Ms Farah Syafiqah Binte Johari<br>Primary 2 Compassion<br><a href="mailto:farah_syafiqah_johari@moe.edu.sg">farah_syafiqah_johari@moe.edu.sg</a></td>
+	  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17%20(1).png" style ="width:200px">Ms Lee Peir Chuang<br>Primary 2 Diligence<br><a href="mailto:lee_peir_chuang@moe.edu.sg">lee_peir_chuang@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px">Mdm Subathra D/O Govindasamy<br>Primary 2 Diligence<br><a href="mailto:subathra_govindasamy@moe.edu.sg">subathra_govindasamy@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7.png">Mdm Rosnah Binte Rosman<br>Primary 2 Diligence<br><a href="mailto:rosnah_rosman@moe.edu.sg">rosnah_rosman@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image19.png">Mdm Ho Sheu Yun<br>Primary 2 Discipline<br><a href="mailto:ho_sheu_yun@moe.edu.sg">ho_sheu_yun@moe.edu.sg</a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16%20(1).png">Ms Liu Chang<br>Primary 2 Discipline<br><a href="mailto:liu_chang@moe.edu.sg">liu_chang@moe.edu.sg</a></td>
+   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7.png" style ="width:200px">Mdm Rosnah Binte Rosman<br>Primary 2 Diligence<br><a href="mailto:rosnah_rosman@moe.edu.sg">rosnah_rosman@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image19.png" style ="width:200px">Mdm Ho Sheu Yun<br>Primary 2 Discipline<br><a href="mailto:ho_sheu_yun@moe.edu.sg">ho_sheu_yun@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16%20(1).png" style ="width:200px">Ms Liu Chang<br>Primary 2 Discipline<br><a href="mailto:liu_chang@moe.edu.sg">liu_chang@moe.edu.sg</a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-  </tr>
-	 <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
 	  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
-    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  </tr>
+	  <tr>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
 	  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png"><br><a href="mailto:"></a></td>
