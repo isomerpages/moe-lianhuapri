@@ -139,10 +139,10 @@ third_nav_title: Our Family
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(2).jpg" style ="width:200px">Mr Lim Soon Wei<br>Primary 3 Excellence<br><a href="mailto:lim_soon_wei@moe.edu.sg">lim_soon_wei@moe.edu.sgg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(3).jpg" style ="width:200px">Ms B Reqha Trixie<br>Primary 3 Excellence<br><a href="mailto:b_reqha_trixie@moe.edu.sg">b_reqha_trixie@moe.edu.sg</a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(4).jpg" style ="width:200px">Mdm Shanthini d/o Radha Krishnan<br>Primary 3 Honesty<br><a href="mailto:shanthini_radha_krishnan@moe.edu.sg">shanthini_radha_krishnan@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
   <tr>
