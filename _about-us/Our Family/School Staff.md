@@ -13,12 +13,12 @@ test2
   <label for="accordion1">Primary One Teachers</label>
     <div>
       <p>
-<table width="600">
+<table width="600px">
 <thead>
   <tr>
-    <th width="200"></th>
-    <th width="200"></th>
-    <th width="200"></th>
+    <th width="200px"></th>
+    <th width="200px"></th>
+    <th width="200px"></th>
   </tr>
 </thead>
 <tbody>
