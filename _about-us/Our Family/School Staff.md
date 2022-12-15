@@ -158,7 +158,7 @@ third_nav_title: Our Family
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(1).jpg" style ="width:200px">Mr Mohammad Faizal Bin Ismail<br>Primary 4 Excellence<br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg">mohammad_faizal_b_ismail@moe.edu.sg</a></td>
   </tr>
  <tr>
-  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+  <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.jpg" style ="width:200px">Mdm Po Mun Ying<br>Primary 4 Honesty<br><a href="mailto:po_mun_ying@moe.edu.sg">po_mun_ying@moe.edu.sg</a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
