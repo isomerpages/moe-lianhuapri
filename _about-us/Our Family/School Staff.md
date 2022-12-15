@@ -147,7 +147,7 @@ third_nav_title: Our Family
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(2).jpg" style ="width:200px">Ms Chua Yi Ling<br>Primary 3 Resilience<br><a href="mailto:chua_yi_ling@moe.edu.sg">chua_yi_ling@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(1).jpg" style ="width:200px">Mr Fadial B Jamaludin<br>Primary 3 Resilience<br><a href="mailto:fadial_b_jamaludin@moe.edu.sg">fadial_b_jamaludin@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
