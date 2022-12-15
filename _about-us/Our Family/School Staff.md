@@ -52,13 +52,11 @@ third_nav_title: Our Family
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
     <div>
-      <p>
-
-</p>	
+      <p></p>	
   </div>
 	</li>
     
-	<li>
+<li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Primary Three Teachers</label>
     <div>
@@ -68,7 +66,7 @@ third_nav_title: Our Family
   </div>
 	</li>
 	
-	<li>
+<li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Primary Four Teachers</label>
     <div>
@@ -78,7 +76,7 @@ third_nav_title: Our Family
   </div>
 	</li>
 	
-	<li>
+<li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5">Primary Five Teachers</label>
     <div>
@@ -88,7 +86,7 @@ third_nav_title: Our Family
   </div>
 	</li>
 	
-		<li>
+<li>
     <input id="accordion6" type="checkbox">
     <label for="accordion6">Primary Six Teachers</label>
     <div>
@@ -99,9 +97,9 @@ third_nav_title: Our Family
 	</li>
 	
 	
-		<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">Specialised Support Staff</label>
+<li>
+  <input id="accordion7" type="checkbox">
+  <label for="accordion7">Specialised Support Staff</label>
     <div>
       <p>
 
