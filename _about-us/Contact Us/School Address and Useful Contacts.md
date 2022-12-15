@@ -8,5 +8,4 @@ third_nav_title: Contact Us
 
 ## School Address
 
-<img src="/images/About%20us/schoolmap.jpeg" style="width:50%;float:left; padding: 10px">We are located at :<br><br>2 Bukit Batok Street 52 Singapore 659243<br clear="left">
-
+<img src="/images/About%20us/schoolmap.jpeg" style="width:50%;float:left; padding: 10px">We are located at :<br>2 Bukit Batok Street 52 Singapore 659243<br clear="left">
