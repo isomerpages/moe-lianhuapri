@@ -20,7 +20,7 @@ third_nav_title: Our Family
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> Ms Wang Xiaoxuan<br>Year Head P1 & P2<br><a href="mailto:wang_xiaoxuan@moe.edu.sg">wang_xiaoxuan@moe.edu.sg</a></td>
 	  <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_1.png">Mdm Pek Peet Juan<br>Assistant Year Head P1 & P2 /Primary 1 Discipline<br><a href="mailto:pek_peet_juan@moe.edu.sg">pek_peet_juan@moe.edu.sg</a></td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_3.png"> <a href=""></a></td>
   </tr>
    <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
