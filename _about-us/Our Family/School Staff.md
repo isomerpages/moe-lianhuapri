@@ -202,9 +202,9 @@ third_nav_title: Our Family
   <td style="text-align: center;"></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5%20(1).jpg" style ="width:200px">Ms Khilfina<br>Primary 5 Excellence<br><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg">khilfina_kamaruddin_shah@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(3).jpg" style ="width:200px">Mr Kathiravan<br>Primary 5 Diligence<br><a href="mailto:kathiravan_murugiah@moe.edu.sg">kathiravan_murugiah@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8.jpg" style ="width:200px">Mr Chua Peng Chew<br>Primary 5 Diligence<br><a href="mailto:chua_peng_chew@moe.edu.sg">chua_peng_chew@moe.edu.sg</a></td>
   </tr>
  <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
