@@ -282,7 +282,7 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(3).jpg" style ="width:200px">Ms Sheril Aida Ishak<br>Allied Educator (Learning & Behavioural)<br><a href="mailto:sheril_aida_ishak@moe.edu.sg">sheril_aida_ishak@moe.edu.sg</a></td>
   </tr>
  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(3).jpg" style ="width:200px">Ms Tahiradulnisha Kader Ibrahim<br>Allied Educator (Counsellor)<br><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg">tahiradulnisha_kader_ibrahim@moe.edu.sg</a></td>
 <td style="text-align: center;"></td>
   </tr>
 </tbody>
