@@ -212,8 +212,8 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image14.jpg" style ="width:200px">Ms Soh Fang Ying<br>Primary 5 Honesty<br><a href="mailto:soh_fang_ying@moe.edu.sg">soh_fang_ying@moe.edu.sg</a></td>
   </tr>
  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(1).jpg" style ="width:200px">Ms Elizabeth Wok<br>Primary 5 Resilience<br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg">wok_li_jun_elizabeth@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1.jpg" style ="width:200px">Mr Ramadhan<br>Primary 5 Resilience<br><a href="mailto:ramadhan_omar@moe.edu.sg">ramadhan_omar@moe.edu.sg</a></td>
 <td style="text-align: center;"></td>
   </tr>
 </tbody>
