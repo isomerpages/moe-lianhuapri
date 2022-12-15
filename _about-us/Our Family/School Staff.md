@@ -243,16 +243,16 @@ third_nav_title: Our Family
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(2).jpg" style ="width:200px">Mrs Brenda Sin<br>Primary 6 Diligence<br><a href="mailto:woan_shu_pei@moe.edu.sg">woan_shu_pei@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(2).jpg" style ="width:200px">Mdm Yap Swee Quin<br>Primary 6 Diligence<br><a href="mailto:yap_swee_quin@moe.edu.sg">yap_swee_quin@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(4).jpg" style ="width:200px">Mdm Ruth Lai<br>Primary 6 Excellence<br><a href="mailto:lai_lian_siang@moe.edu.sg">lai_lian_siang@moe.edu.sg</a></td>
   </tr>
  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8%20(4).jpg" style ="width:200px">Mdm Juliswati Bte Samad<br>Primary 6 Excellence<br><a href="mailto:juliswati_samad@moe.edu.sg">juliswati_samad@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.jpg" style ="width:200px">Mr Willie Wong<br>Primary 6 Honesty<br><a href="mailto:willie_wong_weng_seng@moe.edu.sg">willie_wong_weng_seng@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(1).jpg" style ="width:200px">Mr Zainul Bin Rahim Shaffee<br>Primary 6 Honesty<br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg">zainul_rahim_shaffee@moe.edu.sg</a></td>
   </tr>
  <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10.png" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(3).jpg" style ="width:200px">Mrs Marina Wee<br>Primary 6 Honesty<br><a href="mailto:marina_ali@moe.edu.sg">marina_ali@moe.edu.sg</a></td>
 <td style="text-align: center;"></td>
   </tr>
 </tbody>
