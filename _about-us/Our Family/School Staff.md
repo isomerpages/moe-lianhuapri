@@ -143,7 +143,7 @@ third_nav_title: Our Family
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(4).jpg" style ="width:200px">Mdm Shanthini d/o Radha Krishnan<br>Primary 3 Honesty<br><a href="mailto:shanthini_radha_krishnan@moe.edu.sg">shanthini_radha_krishnan@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(2).jpg" style ="width:200px">Ms Chen Yimeng Vivian<br>Primary 3 Honesty<br><a href="mailto:chen_yimeng@moe.edu.sg">chen_yimeng@moe.edu.sg</a></td>
   </tr>
   <tr>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
