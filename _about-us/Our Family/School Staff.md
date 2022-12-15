@@ -6,9 +6,6 @@ third_nav_title: Our Family
 ---
 # School Staff
 
-<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/p1_0.png"> <a href=""></a></td>
-
-
 <ul class="jekyllcodex_accordion">
 <li>
   <input id="accordion1" type="checkbox">
