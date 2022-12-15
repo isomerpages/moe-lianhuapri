@@ -33,23 +33,23 @@ third_nav_title: Our Family
   </tr>
 	  <tr>
     <td style="text-align: center;"> Miss Arshvini Manohar<br>Primary 1 Discipline<br> <a href="mailto:arshvini_manohar@moe.edu.sg">arshvini_manohar@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image13.png">Mdm Zhang Yao<br>Primary 1 Discipline<br><a href="mailto:zhang_yao@moe.edu.sg">zhang_yao@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(1).png">Mdm Norhani Bte Sahar<br>Primary 1 Excellence<br><a href="mailto:norhani_sahar@moe.edu.sg">norhani_sahar@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image13.png">Mdm Zhang Yao<br>Primary 1 Discipline<br><a href="mailto:zhang_yao@moe.edu.sg">zhang_yao@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(1).png">Mdm Norhani Bte Sahar<br>Primary 1 Excellence<br><a href="mailto:norhani_sahar@moe.edu.sg">norhani_sahar@moe.edu.sg</a></td>
   </tr>
 		<tr>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(1).png">Mdm Lee Gim Fang<br>Primary 1 Excellence<br><a href="mailto:lee_gim_fang@moe.edu.sg">lee_gim_fang@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5.png"> Ms Hussum Fatimah Bte Syed Mohd<br>Primary 1 Honesty<br><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg">hussum_fatimah_syed_mohd@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1.png"> Mdm Woo Yeong Yi<br>Primary 1 Honesty<br><a href="mailto:woo_yeong_yi@moe.edu.sg">woo_yeong_yi@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image10%20(1).png">Mdm Lee Gim Fang<br>Primary 1 Excellence<br><a href="mailto:lee_gim_fang@moe.edu.sg">lee_gim_fang@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image5.png"> Ms Hussum Fatimah Bte Syed Mohd<br>Primary 1 Honesty<br><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg">hussum_fatimah_syed_mohd@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1.png"> Mdm Woo Yeong Yi<br>Primary 1 Honesty<br><a href="mailto:woo_yeong_yi@moe.edu.sg">woo_yeong_yi@moe.edu.sg</a></td>
   </tr>
 			<tr>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8.png">Mdm Noor Dayana Bte Mohd Saleh<br>Primary 1 Loyalty<br><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg">noor_dayana_mohd_saleh@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16.png"> Mdm Kuan Suan Shi<br>Primary 1 Loyalty<br><a href="mailto:kuan_suan_shi@moe.edu.sg">kuan_suan_shi@moe.edu.sg</a></td>
-    <td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(1).png"> Mrs Samantha Liew<br>Primary 1 Resilience<br><a href="mailto:kong_yue_ping@moe.edu.sg">kong_yue_ping@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image8.png">Mdm Noor Dayana Bte Mohd Saleh<br>Primary 1 Loyalty<br><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg">noor_dayana_mohd_saleh@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image16.png"> Mdm Kuan Suan Shi<br>Primary 1 Loyalty<br><a href="mailto:kuan_suan_shi@moe.edu.sg">kuan_suan_shi@moe.edu.sg</a></td>
+    <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6%20(1).png"> Mrs Samantha Liew<br>Primary 1 Resilience<br><a href="mailto:kong_yue_ping@moe.edu.sg">kong_yue_ping@moe.edu.sg</a></td>
   </tr>
 			<tr>
-<td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.png">Mdm Norhayati Bte Ruhani<br>Primary 1 Resilience<br><a href="mailto:norhayati_ruhani@moe.edu.sg">norhayati_ruhani@moe.edu.sg</a></td>
-<td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17.png"> Mdm Masrini Binte Samsi<br>Primary 1 Unity<br><a href="mailto:masrini_samsi@moe.edu.sg">masrini_samsi@moe.edu.sg</a></td>
-				<td width="250" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(1).png"> Mr Tan Chin Chuan<br>Primary 1 Unity<br><a href="mailto:tan_chin_chuan@moe.edu.sg">tan_chin_chuan@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.png">Mdm Norhayati Bte Ruhani<br>Primary 1 Resilience<br><a href="mailto:norhayati_ruhani@moe.edu.sg">norhayati_ruhani@moe.edu.sg</a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17.png"> Mdm Masrini Binte Samsi<br>Primary 1 Unity<br><a href="mailto:masrini_samsi@moe.edu.sg">masrini_samsi@moe.edu.sg</a></td>
+				<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(1).png"> Mr Tan Chin Chuan<br>Primary 1 Unity<br><a href="mailto:tan_chin_chuan@moe.edu.sg">tan_chin_chuan@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
