@@ -146,7 +146,7 @@ third_nav_title: Our Family
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image7%20(2).jpg" style ="width:200px">Ms Chen Yimeng Vivian<br>Primary 3 Honesty<br><a href="mailto:chen_yimeng@moe.edu.sg">chen_yimeng@moe.edu.sg</a></td>
   </tr>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
+<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2%20(2).jpg" style ="width:200px">Ms Chua Yi Ling<br>Primary 3 Resilience<br><a href="mailto:chua_yi_ling@moe.edu.sg">chua_yi_ling@moe.edu.sg</a></td>
 <td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image11%20(2).jpg" style ="width:200px"><br><a href="mailto:"></a></td>
   </tr>
 </tbody>
