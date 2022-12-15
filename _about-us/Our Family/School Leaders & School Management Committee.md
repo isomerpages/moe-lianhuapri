@@ -26,9 +26,9 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image10.jpg">Mrs Samantha Soh<br>Year Head P5 & P6 </td>
   </tr>
   <tr>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
-    <td width="250px" style="text-align: center;"></td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image3.jpg"> Ms Juliswati<br>HOD English Lang  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image9.png"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/SLM9.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
   </tr>
 </tbody>
 </table>
