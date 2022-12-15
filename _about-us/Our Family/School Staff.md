@@ -44,7 +44,7 @@ third_nav_title: Our Family
   </tr>
 			<tr>
 <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image12.png">Mdm Norhayati Bte Ruhani<br>Primary 1 Resilience<br><a href="mailto:norhayati_ruhani@moe.edu.sg">norhayati_ruhani@moe.edu.sg</a></td>
-<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png"> <a href=""></a></td>
+<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image17.png"> Mdm Masrini Binte Samsi<br>Primary 1 Unity<br><a href="mailto:masrini_samsi@moe.edu.sg">masrini_samsi@moe.edu.sg</a></td>
 				<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/image6.png"> <a href=""></a></td>
   </tr>
 </tbody>
