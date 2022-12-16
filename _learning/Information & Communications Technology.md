@@ -3,7 +3,7 @@ title: Information & Communications Technology
 permalink: /learning/information-n-communications-technology/
 description: ""
 ---
-# link broken: https://lianhuapri.moe.edu.sg/learning/ict
+# link broken: (more info on ALP) https://lianhuapri.moe.edu.sg/learning/ict
 # Information & Communications Technology
 
 **ICT Department Vision:**  Every child a self-directed and engaged digital learner by harnessing ICT.
@@ -29,4 +29,4 @@ Link to SLS: <a href="https://vle.learning.moe.edu.sg/login" target="_blank">ht
 **Student iCON + Google Classroom**  
 
 MOE rolled out Student iCON, which enables the use of Google Classroom, in 2021 for primary school students and since then, our pupils have learnt both hard and soft skills with the use of Student iCON and Google Classroom. Both are extremely useful in preparing our pupils for the future as they learn how to collaborate with others through platforms like Google Doc, Google Slides and Google Jamboard. Google Classroom also integrates seamlessly with other education applications, such as Flipgrid and Nearpod, which take our pupils’ learning to a higher level.   
-Link to Student iCON: [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
+Link to Student iCON: <a href="https://workspace.google.com/dashboard" target="_blank">https://workspace.google.com/dashboard</a>
