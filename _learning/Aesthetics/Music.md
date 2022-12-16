@@ -48,3 +48,8 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 **<u>P1 & P2 Shining Artz Celebration</u>**
 
 The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Performing Arts. In the celebration, the students from each class will showcase what they have learnt during the music lessons, such as singing community songs and playing musical instruments. Selected students will serve as emcees to introduce the musical performances to the audience.
+
+|   |   |
+|---|---|
+|   |   |
+|   |   |
