@@ -107,3 +107,7 @@ In order to arouse students’ interest in creating stories and also to enhance 
 Every year, we will encourage students to create stories that based on their interest or the happenings that they observed. Every student will get a copy of the publication and teachers will read with them during reading period.
 
 Students feel proud when their stories that are selected in the publications. It helps to build their confidence and also a form of encouragement to continue creating interesting stories.
+
+|   |   |   |
+|:---:|:----:|:----:|
+| ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image5.jpeg)  | ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image4.jpeg)    |   ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image3.jpeg)  |
