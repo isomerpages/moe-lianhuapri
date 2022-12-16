@@ -173,3 +173,31 @@ The Parent Support Group of Lianhua Primary School is also actively involved in 
 
 
 <center><b>Parents from the PSG, teachers and students conducting workshop on how to make upcycle a PET bottle into a flower pot. Participants get to bring home a beautiful flower pot with their choice of plant grown</b></center>
+
+## P6 Green Legacy
+
+# image slide
+
+On 2 July, the inaugural P6 Green Legacy was launched. On this occasion, the school leaders, together with two students from each Primary 6 class, planted six Leea Rubra plants at the Science Garden.
+
+The Leea Rubra, also known as the Red Tree Shrub, is a small shrub that can grow up to three meters tall. Today, it is a commonly sighted shrub along Singapore streetscapes, as well as in our parks and gardens. The leaves are bright green, with the young leaves displaying a reddish margin. Its bright red flowers have a central yellow disc, and attract many pollinators such as butterflies and bees. In fact, NParks listed it as the butterflies’ fifth favourite nectaring plants. Its berry-like fruits are a food source for birds like the Yellow Vented Bulbul.
+
+This plant reminds us that we too, can be like the Leea Rubra, to always have the heart to serve and help others with whatever you have.
+
+After the trees were planted, students from the six Primary 6 classes rostered among themselves to continue to care for the plants by watering and maintaining the plants daily.
+
+The purpose of this event is for the Primary 6 students to leave behind a legacy for all Lianhua students to enjoy and appreciate whenever they visit the school garden. It also symbolises their gratitude to the school as well as all the wonderful moments and memories that they will leave behind.
+
+This is an important milestone as the school continues to create a beautiful sense of place for all Lianhuareans in the school. This is part of the school’s vision to create interactive learning gardens so that our students can appreciate nature and the Singapore natural landscape in our very own school grounds.
+
+  
+
+#### <u><b>Students' Voices</b></u>
+
+**Jessy Yap, 5 Compassion**  
+
+I am here to tell you all about my passion for the environment and my experience in the Junior Environment Ambassador(JEA) Training and the Bukit view secondary school(BVSS) conference. Firstly, I am passionate about saving the environment. I try my best to recycle, save water and electricity and pick up litter whenever I see it. During the JEA Training and the BVSS Conference, I had a great time learning more about the environment! I learnt about how people are polluting the environment and ways to help. The most memorable part of the JEA Training was when we got to work as groups in breakout rooms and share our finished work with students from other schools. There was also one part of the BVSS conference that I enjoyed the most, it was when we were trapped in an escape room and needed to solve puzzles as a group to escape. In conclusion, It was a fun and educational experience. Thank you!
+
+**ILDEFONSO GREYSON TOBEY PONTE, 5 Compassion**
+
+I am glad to be one of our school environmental ambassadors. I was involved in the Clean up @ South West project by helping out in the collection of the recyclables contributed by my school mates and teachers. The recyclables collected were exchanged for groceries which were donated to vulnerable residents in the South West District. I also learnt so much during the JEA and BVSS trainings, like creating posters and how to plan for an event. We worked together to create a video. Catherine and Aubrey’s team even created a card game to teach our schoolmates more about recycling.
