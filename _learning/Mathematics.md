@@ -67,3 +67,20 @@ Students work independently or collaborate with their peers and engage in mathem
 ### _I am a Maths Multiplication Master_
 
 ### _\- LHPS Times Table Package_
+
+<img src="/images/Learning/Mathematics/m3%20pouch.png" style="width:50%">
+
+
+This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.
+
+![](/images/Learning/Mathematics/MathsGames20_8.jpg)
+
+<center>Hungry Fish</center>
+
+![](/images/Learning/Mathematics/MathsGames20_51.jpg)
+
+<center>Fishing game</center>
+
+![](/images/Learning/Mathematics/MathsGames20_32.jpg)
+
+<center>Jigsaw puzzle</center>
