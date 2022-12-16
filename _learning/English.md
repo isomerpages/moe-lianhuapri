@@ -53,3 +53,21 @@ Video on Oracy @ LIanhua:
 **Storytelling**
 
 Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.
+
+![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
+
+<center>Students listening intently to the storyteller at the Imaginarium</center>
+
+
+![](/images/Learning/English/Storytelling%201.jpg)
+
+<center>P1 students presented their version of stories during our Storytelling Festival</center>
+
+![](/images/Learning/English/storytelling%202.jpg)
+
+<center>Our P5 students presenting choral reading during the Storytelling Festival</center>
+
+
+Storytelling Festival
+
+<a href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
