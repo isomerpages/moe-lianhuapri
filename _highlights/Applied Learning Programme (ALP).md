@@ -11,8 +11,29 @@ description: ""
 
 ![](/images/Highlights/Applied%20Learning%20Programme/ALP%20Cover%20Photo.jpg)
 
-![](/images/Highlights/Applied%20Learning%20Programme/image4.png)
+### Objective  
+
+The Applied Learning Programme (ALP) aims to help students connect academic knowledge and skills with the real world. ALP is intended to help students appreciate the relevance and value of what they are learning in the academic arena and to develop stronger motivation and purpose to acquire knowledge and skills.
+
+### Key Feature
 
 ![](/images/Highlights/Applied%20Learning%20Programme/image5.png)
+
+ALP is non-examinable and its emphasis is on the application of knowledge and thinking skills, stretching the imagination and applying these to authentic settings in society and industries. It fosters joy in learning, promotes 21st century skills and inculcates values.
+
+  
+
+At Lianhua Primary School, our focus is on Science, Technology, Engineering & Mathematics (STEM), particularly in the area of sustainability. Every Lianhuaren will go through ALP from P1 to P5. They will engage in meaningful activities that integrate computational thinking and design thinking using various ICT and non-ICT platforms.
+
+### ALP Activities
+
+![](/images/Highlights/Applied%20Learning%20Programme/image4.png)
+
+### Students in Action
+
+|   |   |
+|:-:|:-:|
+| ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%201.jpg)  |   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%203.jpg)  |
+|   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%202.jpg)  |   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%204.jpg)  |
 
 ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)
