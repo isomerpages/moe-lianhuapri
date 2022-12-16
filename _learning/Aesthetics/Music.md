@@ -67,3 +67,6 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 |   |   |   |
 |:---:|:---:|:----:|
 | ![](/images/Learning/Music/Showtime_Violin%20Performance%202.jpg)  |  ![](/images/Learning/Music/Showtime_Keyboard%20Performance.jpg) |  ![](/images/Learning/Music/Showtime_Violin%20Performance.jpg)  |
+
+**<u>LHPS Song List</u>**
+
