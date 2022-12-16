@@ -24,4 +24,9 @@ Learning experiences have transformed over the years. Singapore Student Learning
 Our teachers use a range of tools to customize and create purposeful and meaningful learning experiences that facilitate our pupils’ learning, catering to their needs. It also provides an equal access to learning resources to all pupils, extending their learning beyond the concrete building.    
 Link to SLS: <a href="https://vle.learning.moe.edu.sg/login" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 
-<a href="" target="_blank"><img src="/images/Learning/Ict/image1.png" style="width:50%;  float: left; "></a><br clear="left">
+<a href="https://vle.learning.moe.edu.sg/login" target="_blank"><img src="/images/Learning/Ict/image1.png" style="width:50%;  float: left; "></a><br clear="left">
+
+**Student iCON + Google Classroom**  
+
+MOE rolled out Student iCON, which enables the use of Google Classroom, in 2021 for primary school students and since then, our pupils have learnt both hard and soft skills with the use of Student iCON and Google Classroom. Both are extremely useful in preparing our pupils for the future as they learn how to collaborate with others through platforms like Google Doc, Google Slides and Google Jamboard. Google Classroom also integrates seamlessly with other education applications, such as Flipgrid and Nearpod, which take our pupils’ learning to a higher level.   
+Link to Student iCON: [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)
