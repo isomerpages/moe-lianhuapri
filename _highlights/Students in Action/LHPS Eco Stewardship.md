@@ -141,13 +141,13 @@ In Lianhua Primary School, two environment monitors are appointed for every clas
 |:----:|:---:|:----:|
 |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image24.jpg)   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image70.jpg)   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image51.jpg)   |
 
-<center><i><b>Buddy Clean Workshop for Primary 2 buddies – Environment monitors teaching their younger schoolmates the proper way to handle cleaning tools in order to clean their classroom properly</b></i></center>
+<center><b>Buddy Clean Workshop for Primary 2 buddies – Environment monitors teaching their younger schoolmates the proper way to handle cleaning tools in order to clean their classroom properly</b></center>
 
 |   |   |   |
 |:----:|:---:|:----:|
 |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image39.jpg)   |  <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image63.jpg" style="width:85%">   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image26.jpg)   |
 
-<center><i><b>Recess activities on environment and sustainability issues conducted by Environment monitors and environment advocates</b></i></center>
+<center><b>Recess activities on environment and sustainability issues conducted by Environment monitors and environment advocates</b></center>
 
 
 ## Parents' Support Group
