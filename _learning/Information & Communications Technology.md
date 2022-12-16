@@ -40,3 +40,10 @@ Microsoft Office 365 ProPlus apps are now available for students’ use on their
 For the installation guide, FAQs and the support team contact email address, you may refer to the link below: 
 
 <a href="/files/Learning/Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf" target="_blank">Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf</a>
+
+
+**Other platforms (eg Nearpod, Flipgrid, Edmodo etc)**
+
+In addition to the portals by MOE, our school uses appropriate online platforms to cater to the needs of our pupils. With the use of Nearpod, the interactions between the teacher and pupils are enhanced and timely quality feedback can be given. Our school uses Flipgrid extensively to build their confidence in speaking, presenting and showmanship. This portal prepares our pupils for the future digital world.
+
+### <a href="https://lianhuapri.moe.edu.sg/highlights/applied-learning-programme" target="_blank">ALP</a>
