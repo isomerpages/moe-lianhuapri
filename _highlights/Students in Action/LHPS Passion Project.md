@@ -23,3 +23,9 @@ Making use of their new-found passions, our pupils are then challenged to go on 
 |  ![](/images/Highlights/LHPS%20Passion%20Project/passion2.png)   |  ![](/images/Highlights/LHPS%20Passion%20Project/passion3.png)   |   ![](/images/Highlights/LHPS%20Passion%20Project/passion4.png)  |
 
 <center>Sharing of Passion for Gunpla by Amelia Hoe</center>
+
+**Passion Project@Home**
+
+<img src="/images/Highlights/LHPS%20Passion%20Project/passion5.png" style="width:50%; float: right; padding: 10px">
+
+<p style="text-align: justify;">With the covid-19 pandemic situation, most, if not all, of the school’s plans and activities were disrupted. In 2020, instead of shelving this passion project, the school decided to take the opportunity to intensify our efforts, as we believe in the goodness that the project can bring.<br><br>During the Full Home-based Learning (FHBL) period, the Passion Project@Home was designed to help the students to reframe their current situation and allow them the time to be self-directed learners of things they want to discover and pursue in terms of knowledge and skills.</p><br clear="right">
