@@ -34,6 +34,6 @@ At Lianhua Primary School, our focus is on Science, Technology, Engineering & Ma
 |   |   |
 |:-:|:-:|
 | ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%201.jpg)  |   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%203.jpg)  |
-|   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%202.jpg)  |   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%204.jpg)  |
+|   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%202.jpg)  |   <img src="/images/Highlights/Applied%20Learning%20Programme/Strawbees%204.jpg" style="width:88%">  |
 
 ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)
