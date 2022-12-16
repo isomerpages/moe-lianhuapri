@@ -13,7 +13,7 @@ With the designed ICT programmes and appropriate extensive use of e-platforms, o
 a) Have intrinsic motivation to learn   
 b) Take ownership of their learning  
 c) Able to collaborate with others    
-Our school’s Applied Learning Programme (ALP) is Robotics, Information and Technology in Education@Lianhua (RITE@Lianhua). More information on our ALP can be found [here](https://lianhuapri.moe.edu.sg/learning/ict) .
+Our school’s Applied Learning Programme (ALP) is Robotics, Information and Technology in Education@Lianhua (RITE@Lianhua). More information on our ALP can be found <a href="https://lianhuapri.moe.edu.sg/learning/ict" target="_blank">here</a>.
 
 ### e-Platforms:
 
