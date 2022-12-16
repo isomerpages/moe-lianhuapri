@@ -53,12 +53,8 @@ At Lianhua Primary School, our focus is on Science, Technology, Engineering & Ma
 
 ### Useful Links
 
-<a href="https://strawbees.com/" target="_blank">Strawbees</a>
-
-<a href="https://scratch.mit.edu/parents/" target="_blank">Scratch</a>
-
-<a href="https://microbit.org/%20and%20https://makecode.microbit.org/" target="_blank">Mirco:bit</a>
-
-<a href="https://sphero.com/" target="_blank">Sphero</a>
-
+<a href="https://strawbees.com/" target="_blank">Strawbees</a>   
+<a href="https://scratch.mit.edu/parents/" target="_blank">Scratch</a>   
+<a href="https://microbit.org/%20and%20https://makecode.microbit.org/" target="_blank">Mirco:bit</a>   
+<a href="https://sphero.com/" target="_blank">Sphero</a>   
 <a href="https://www.vexrobotics.com/iq" target="_blank">VEX IQ</a>
