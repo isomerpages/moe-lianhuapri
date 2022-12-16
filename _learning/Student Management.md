@@ -20,3 +20,9 @@ At Lianhua Primary School, we believe that every child has the potential to beco
 ![](/images/Learning/Student%20Management/image2.jpg)
 
 <center>Nothing beats authentic learning with the seniors!</center>
+
+#### Major Programmes
+
+**Student Leaders’ Camp**
+
+The one-day camp is carried out by our teachers to provide student leaders with a day of targeted and focused learning on different leadership skills i.e. conflict management, public speaking, project planning. The needs of the student leaders are assessed at the start of the year and the training content caters to their learning needs.
