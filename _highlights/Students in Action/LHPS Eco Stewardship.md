@@ -82,6 +82,22 @@ Our students are also actively involved in environmental sustainability themed V
 |:-----:|:------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image15.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image5.jpg" style="width:100%">  |
 
-
-
 <center><i><b>Clean, dry and sparkling toilets</b></i></center>
+
+
+Our school also actively engages in various recycling programmes like Clean up @ Southwest, Shoes recycling programme and also upcycling programmes where students are taught to upcycle PET bottles, milk cartons, shoes boxes into toys, old T-shirts into tote bags and so on. Groceries exchanged from the Clean up @ Southwest programme were then donated to vulnerable residents in the South West District.
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image50.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image52.jpg" style="width:80%">  |
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image53.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image55.jpg" style="width:100%">  |
+
+
+<center><i><b>Clean-up @ Southwest Recycling Programme</b></i></center>
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image53.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image55.jpg" style="width:100%">  |
