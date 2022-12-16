@@ -79,3 +79,21 @@ All Levels: Creative Writing Competition / Penmanship Competition / Reading with
 P1 & P2: Poem Recitation & Singing    
 P3 & P4: Little Tour Guide of Singapore   
 P5 & P6: Advertisement
+
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/QVldDAQZOFk" title="MT Fiesta 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/dZiZBuQOTnw" title="Mother Tongue Fiesta 2021 Video Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
+<center><iframe width="280" height="271" src="https://www.youtube.com/embed/joB_8kDvSWM" title="Mother Tongue Fiesta 2019 Closing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
