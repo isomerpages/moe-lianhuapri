@@ -42,6 +42,10 @@ Through this platform, we hope to provide students with an alternative mode of s
 
 |   |   |
 |---|---|
-| ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20Children%20Day%20Dedication.jpg)  | ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20National%20Day%202021%20Design%20a%20Stamp%20%20Display.jpg)  |
+| <img src="/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20Children%20Day%20Dedication.jpg" style="width: 85%">  | ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20National%20Day%202021%20Design%20a%20Stamp%20%20Display.jpg)  |
 
+**Major Programmes**
 
+**<u>Museum-Based Learning Programme</u>**
+
+In the Museum-based learning module, the P4 and P5 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. In the process, students develop visual observation, appreciation and pride in local art, culture & heritage. Students will have a pre-museum visit lesson to learn about museum etiquettes and the artworks. At the National Gallery, students will do individual and pair-work museum-visit activities using the inquiry-based learning approach. For the post-visit, the art teacher will lead the students to create an artwork in response to their learning experience and the art style of the artist's artworks viewed. In view of the current COVID situation, changes have been made to engage our P4 and P5 students to embark on a virtual National Gallery visit in a safe learning environment within the school.
