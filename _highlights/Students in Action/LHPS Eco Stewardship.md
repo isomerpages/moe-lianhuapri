@@ -66,7 +66,7 @@ Our students are also actively involved in environmental sustainability themed V
 
 |  |        |
 |:-----:|:------------------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg" style="width:93%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image18.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image61.jpg" style="width:100%">  |
 
 
 
