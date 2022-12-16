@@ -2,9 +2,9 @@ collections:
   learning:
     output: true
     order:
-      - Social Studies/National Education Events.md
-      - Social Studies/Social Studies.md
       - Social Studies/.keep
+      - Social Studies/Social Studies.md
+      - Social Studies/National Education Events.md
       - English.md
       - Mathematics.md
       - Science.md
