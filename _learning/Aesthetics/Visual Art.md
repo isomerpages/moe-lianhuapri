@@ -79,6 +79,19 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 Our school seeks to provide authentic and meaningful learning experiences to incorporate school values and the 21CC skills in our students through collaborations with external partners aligned with the school vision – Hearts of Service. In these collaborations, our students, teachers and School Leaders came forth to express their creativity and contribute art pieces which were displayed in external physical exhibition areas or virtual exhibitions to reach out to different audiences. In 2020, we collaborated with Ng Teng Fong General Hospital and National University Polyclinics to create 224 notes of appreciation for the frontline healthcare workers. In 2017-2019, we collaborated with Bukit Gombak Constituency to commemorate National Day- Plank Art Painting followed by P3 VIA Nagomi Art Project in 2021.
 
 
+|   |   |
+|---|---|
+|  ![](/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Display%20opposite%20Bt%20Gombak%20MRT%20station.jpg) |  ![](/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Group%20Photo%20Planks%20and%20LHPS%20Family.jpg) |
+
+|   |   |
+|---|---|
+|   |   |
+
+|   |   |
+|---|---|
+|   |   |
+
+
 ### Useful links
 
 Brainpop - <a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
