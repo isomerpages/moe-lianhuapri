@@ -117,7 +117,7 @@ Our Primary 6 students have also continued the Freecycle project, which was init
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image56.jpg)  <center><i><b>Using bottle caps to upcycle into beautiful artwork</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image69.jpg" style="width:90%"> <center><i><b>Beautiful artworks using recycled materials that are used to decorate the school premise</b></i> s</center>  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image56.jpg)  <center><i><b>Using bottle caps to upcycle into beautiful artwork</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image69.jpg" style="width:85%"> <center><i><b>Beautiful artworks using recycled materials that are used to decorate the school premise</b></i> s</center>  |
 
 
 ## Environmental Ambassadors
