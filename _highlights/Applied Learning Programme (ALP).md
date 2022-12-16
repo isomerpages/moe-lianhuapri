@@ -38,4 +38,9 @@ At Lianhua Primary School, our focus is on Science, Technology, Engineering & Ma
 
 **<center>The children built their prototypes to convey their ideas with straws and gears.</center>**
 
-![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)
+|   |   |
+|:-:|:-:|
+|   <img src=" /images/Highlights/Applied%20Learning%20Programme/Sphero%203.jpg" style="width:50%">      |    ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%204.jpg)  |
+|    ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%202.jpg) |  ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)    |
+
+**<center>Coding for the robotic ball to move and to complete missions.</center>**
