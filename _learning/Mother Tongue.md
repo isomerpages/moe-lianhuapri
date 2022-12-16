@@ -111,3 +111,40 @@ Students feel proud when their stories that are selected in the publications. It
 |   |   |   |
 |:---:|:----:|:----:|
 | ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image5.jpeg)  | ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image4.jpeg)    |   ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image3.jpeg)  |
+
+## Reading Programme
+
+Reading can positively affect our lives. For instance, reading can strengthen our brains, build our vocabularies, help prevent age-related cognitive decline and many others. Hence, in Lianhua, we customized our reading programme to cater to our students’ needs.
+
+We believed that in order to arouse students’ interests in reading, we must first cultivate their habits in reading. Therefore, we will fix a day for reading every week. We either read to them or read with them in the class. We encourage them to read by setting up reading corner in the class so that the books are easy accessible. In order to enhance their ability in appreciation quality books, we arranged for ‘Meet the author’ sessions during Mother Tongue Fiesta.
+
+We also create platforms for the students to showcase their views and thoughts after reading, like sharing books at the Imaginarium at the Canteen, create 4-page little book and many others. Some of the students also participated in the picture book creation competitions.
+
+We also involved parents in our reading programme. They are a good support to us because they help to enhance reading skills for young readers after school in smaller groups.
+
+# image slide
+
+## The MTL Young Journalist Programme
+
+The MTL Young Journalist Programme was introduced in 2014, with the focus of providing authentic experiences for students to learn and to use Chinese Language. Since then, Young Journalists have embarked on an exciting journey of interviewing, news reporting and in-house publishing. These skills are aligned to our school’s Vision: Minds of Inquiry, Joy in Learning and Confidence in Life.
+
+  
+
+In 2017, Lianhua published the newsletter "心联心" which aimed to connect Lianhuareans through the writings of our Young Journalists. This year, we are pleased to launch "Lianhua Pulse", an MTL newsletter.
+
+  
+<a href="https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html" target="_blank">https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html</a>
+
+In 2018, two of our Young Journalists, Chong Xuan Yu and Wang Xinyue, from 6 Diligence 2019, participated in the “2nd Bilingual Education Summit” organized by SPH, sharing their journey as young journalist in Lianhua with teachers from other schools and also the guest-of-honor, Mr Chee Hong Tat, then Senior Minister of State, Ministry of Trade and Industry.
+
+  
+
+Other than in-house publishing and news reporting, our Young Journalists embarked on an exciting journey of Broadcasting.
+
+In 2021, MTL Young Journalist Programme has stepped up by introducing the Lianhua FM, "Connecting you and me".
+
+  
+
+This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged on SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.
+
+# image slide
