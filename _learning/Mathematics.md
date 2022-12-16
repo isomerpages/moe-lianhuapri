@@ -101,7 +101,7 @@ For students who entered Primary 1 from 2021
   
 
 For students who entered Primary 1 before 2021   
-<a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
+<a href="/files/Learning/mathematics_syllabus_primary_1_to_6.pdf" target="_blank">/files/Learning/mathematics_syllabus_primary_1_to_6.pdf</a>
 
 List of approved scientific calculators for P5 and P6 students    
 [https://www.seab.gov.sg/home/examinations/approved-calculators]()
