@@ -52,4 +52,4 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 |   |   |
 |:---:|:---:|
 | ![](/images/Learning/Music/Shining%20Artz%20Performance%202.jpg)  |  ![](/images/Learning/Music/Shining%20Artz%20Performance%201.jpg)     |
-|  ![](/images/Learning/Music/Shining%20Artz%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
+|  ![](/images/Learning/Music/Shining%20Art%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
