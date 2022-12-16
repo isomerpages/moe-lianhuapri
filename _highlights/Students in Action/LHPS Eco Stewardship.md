@@ -73,3 +73,8 @@ Our students are also actively involved in environmental sustainability themed V
 |  |        |
 |:-----:|:------------------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image10.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image4.jpg" style="width:100%">  |
+
+ ![](/images/Highlights/LHPS%20Eco%20Stewardship/image73.jpg)
+
+<center><i><b>Students made cards to present to our school attendants to show their appreciation to them</b></i></center>
+
