@@ -13,7 +13,7 @@ To nurture the student as an inquirer
 
 **OUR PEOPLE:**
 
-The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. We are:
+<p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. We are:</p>
 
 
 |                   |            |
@@ -27,7 +27,7 @@ The Science Department of Lianhua Primary consists of experienced teachers who a
 
 **KEY PROGRAMME: SCIENCE@ HOME**
 
-One of the things that makes learning Science really fun is the opportunity to explore and learn about Scientific concepts and phenomena through experimentation.
+<p style="text-align: justify;">One of the things that makes learning Science really fun is the opportunity to explore and learn about Scientific concepts and phenomena through experimentation.</p>
 
 |   |   |
 |:---:|:---:|
@@ -35,11 +35,9 @@ One of the things that makes learning Science really fun is the opportunity to e
 
 <center>Learning more about electricity through experimentation</center>
 
-In a year where social distancing was the norm, and learning journeys were forbidden due to the prevailing Covid situation, the Science @ Home programme was born. The programme was initiated with the purpose of allowing our pupils to continue guided Science exploration within the safety of their homes.
+<p style="text-align: justify;">In a year where social distancing was the norm, and learning journeys were forbidden due to the prevailing Covid situation, the Science @ Home programme was born. The programme was initiated with the purpose of allowing our pupils to continue guided Science exploration within the safety of their homes.</p>
 
-  
-
-To this purpose, each P3-P6 pupil was provided with a Science kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow pupils to explore the topic in greater detail and to be able to experiment. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.
+<p style="text-align: justify;">To this purpose, each P3-P6 pupil was provided with a Science kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow pupils to explore the topic in greater detail and to be able to experiment. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.</p>
 
   
 
@@ -47,19 +45,13 @@ To this purpose, each P3-P6 pupil was provided with a Science kit that was relev
 
 ![](/images/Learning/Science/IMG_1007.jpg)
 
-The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?  
+<p style="text-align: justify;">The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant? </p> 
 
-  
+<p style="text-align: justify;">Our answer to that is the Young Exploring Scientists (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of different science toys that were specifically selected for their alignment to the science concepts and topics that they are learning.</p>
 
-Our answer to that is the Young Exploring Scientists (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of different science toys that were specifically selected for their alignment to the science concepts and topics that they are learning.
+<p style="text-align: justify;">The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. However, students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
 
-  
-
-The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. However, students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.
-
-  
-
-STEM requires hands-on, active participation for learning to take place. The YES! programme empowers students to take greater responsibility in their learning and ask more questions, propose different ideas and generate different possibilities, which are some of the skills that are part of our Science curriculum. As Amos Bronson Alcott once said, “Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.” The long-awaited success will spark joy in learning and develop a quiet confidence in our students which they will carry with them throughout their lives.
+<p style="text-align: justify;">STEM requires hands-on, active participation for learning to take place. The YES! programme empowers students to take greater responsibility in their learning and ask more questions, propose different ideas and generate different possibilities, which are some of the skills that are part of our Science curriculum. As Amos Bronson Alcott once said, “Success is sweet and sweeter if long delayed and gotten through many struggles and defeats.” The long-awaited success will spark joy in learning and develop a quiet confidence in our students which they will carry with them throughout their lives.</p>
 
 
 |   |   |   |
@@ -86,17 +78,17 @@ In this programme, pupils are exposed to ideas about Science that are beyond the
 
 ‘One is never too small to make a difference’.  
 
-Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Nature Guides.
+<p style="text-align: justify;">Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Nature Guides.
 
-These Nature Guides are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Nature Guide status, these students are trained in the maintenance of the flora and fauna of the school.
+<p style="text-align: justify;">These Nature Guides are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Nature Guide status, these students are trained in the maintenance of the flora and fauna of the school.
 
-Despite their busy schedules, the Nature Guides take the time and every opportunity they have to maintain the landscape of the school. They weed and water the various gardens, especially the edible gardens. They catch pests that may harm the vegetation on the school premises. Some of these pests are then adopted. They also sharpen their gardening skills under the guidance of teachers and in the process, develop green fingers.
+<p style="text-align: justify;">Despite their busy schedules, the Nature Guides take the time and every opportunity they have to maintain the landscape of the school. They weed and water the various gardens, especially the edible gardens. They catch pests that may harm the vegetation on the school premises. Some of these pests are then adopted. They also sharpen their gardening skills under the guidance of teachers and in the process, develop green fingers.
 
-Our Nature Guides’ passion for the environment is contagious, and many unofficial Nature Guides have entered our service because of their friends’ enthusiasm for greenery. In addition to their passionate selves, our Nature Guides also educate the school community about the flora and fauna found in the school through poster designs and in pre-covid years, in person. This has in turn, raised awareness in our student community about the importance of every living thing around us and the reasons behind conservation.
+<p style="text-align: justify;">Our Nature Guides’ passion for the environment is contagious, and many unofficial Nature Guides have entered our service because of their friends’ enthusiasm for greenery. In addition to their passionate selves, our Nature Guides also educate the school community about the flora and fauna found in the school through poster designs and in pre-covid years, in person. This has in turn, raised awareness in our student community about the importance of every living thing around us and the reasons behind conservation.
 
-Passion for Nature can be addictive. Many of our Nature Guides are repeat volunteers. Once bitten by the green bug, few of them leave this cheerful community of green elves. They become advocates of conservation and an inspiration to their fellow classmates to do more for their environment.
+<p style="text-align: justify;">Passion for Nature can be addictive. Many of our Nature Guides are repeat volunteers. Once bitten by the green bug, few of them leave this cheerful community of green elves. They become advocates of conservation and an inspiration to their fellow classmates to do more for their environment.
 
-It is our hope and aspiration that all pupils who graduate from the halls of Lianhua Primary will learn to care for our environment and do their part for the earth. After all, we only have ONE earth.
+<p style="text-align: justify;">It is our hope and aspiration that all pupils who graduate from the halls of Lianhua Primary will learn to care for our environment and do their part for the earth. After all, we only have ONE earth.
 
 |   |   |
 |:---:|:---:|
