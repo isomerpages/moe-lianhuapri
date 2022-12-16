@@ -33,3 +33,7 @@ CHAMP for Life aims to equip our students with a broad spectrum of values and at
 * Performance – Required in effective skill learning and execution.
 * Social – Relationship dynamics between self and others.
 * Moral – Moderating desires for success with a sense of righteousness.
+
+|                                                  |                 PRI 1                |            PRI 2            |              PRI 3             |              PRI 4             |            PRI 5           |                PRI 6                |
+|:-------------:|:------------:|:-----------------:|:----------------:|:----------------:|:------------:|:-------------:|
+| Values & Attributes (Performance, Social, Moral) | Diligence (P)<br>Self-Discipline (P) | Resilience (P)<br>Unity (S) | Humility (S)<br>Compassion (M) | Harmony (S)<br>Encouraging (S) | Respect (M)<br>Honesty (M) | Sportsmanship (M)<br>Excellence (S) |
