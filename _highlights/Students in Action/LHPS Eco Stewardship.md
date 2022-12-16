@@ -160,3 +160,16 @@ The Parent Support Group of Lianhua Primary School is also actively involved in 
 
 
 <center><i><b>Parents from the PSG being involved in the school Earth Passion Fiesta</b></i></center>
+
+<img src="/images/Highlights/LHPS%20Eco%20Stewardship/image28.png" style="width:60%">
+
+
+<center><b>Garden Fiesta</b></center>
+
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image38.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image8.png" style="width:100%">  |
+
+
+<center><b>Parents from the PSG, teachers and students conducting workshop on how to make upcycle a PET bottle into a flower pot. Participants get to bring home a beautiful flower pot with their choice of plant grown</b></center>
