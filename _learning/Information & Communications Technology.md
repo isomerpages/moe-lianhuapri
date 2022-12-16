@@ -37,4 +37,6 @@ Link to Student iCON: <a href="https://workspace.google.com/dashboard" target="
 **Microsoft Office 365 ProPlus Apps for Student Personal Devices**  
 
 Microsoft Office 365 ProPlus apps are now available for students’ use on their personal devices. Students may now use their MIMS (Student iCON) account to activate the Microsoft Office 365 ProPlus on their personal devices.   
-For the installation guide, FAQs and the support team contact email address, you may refer to the link below: <a href="" target="_blank">Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf</a>
+For the installation guide, FAQs and the support team contact email address, you may refer to the link below: 
+
+<a href="/files/Learning/Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf" target="_blank">Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf</a>
