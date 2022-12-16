@@ -6,3 +6,4 @@ third_nav_title: Students in Action
 ---
 # LHPS Passion Project
 
+## <center>Creating a Generation of Passionately Curious Learners</center>
