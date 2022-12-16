@@ -39,4 +39,4 @@ The whole experience had helped me to improve my verbal expression and I gained 
 
 Below is the link to access to our Morning Jukebox playlist:
 
-<a href="https://tinyurl.com/lhpsmorningjukebox" target="_blank">https://tinyurl.com/lhpsmorningjukebox</a>
+<center><a href="https://tinyurl.com/lhpsmorningjukebox" target="_blank">https://tinyurl.com/lhpsmorningjukebox</a></center>
