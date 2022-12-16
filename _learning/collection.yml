@@ -2,9 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Social Studies/.keep
-      - Social Studies/Social Studies.md
-      - Social Studies/National Education Events.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -13,3 +10,6 @@ collections:
       - Aesthetics/.keep
       - Aesthetics/Visual Art.md
       - Aesthetics/Music.md
+      - Social Studies/.keep
+      - Social Studies/Social Studies.md
+      - Social Studies/National Education Events.md
