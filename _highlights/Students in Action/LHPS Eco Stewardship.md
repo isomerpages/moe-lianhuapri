@@ -55,3 +55,10 @@ The school also tapped on programmes by NEA like the Buddy Clean Workshop and Gr
 
 <center><i>Assembly Talk on Environmental Sustainability</i></center>
 
+Form teachers also conduct other environmental awareness programmes, e.g. Youth for the Environment Observance Activities where our students were educated about issues like reducing disposables and food waste.
+
+
+|  |        |
+|:-----:|:------------------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    ![](/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg)  |
+
