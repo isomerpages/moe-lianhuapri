@@ -24,7 +24,9 @@ Lianhua’s LLP is titled CHAMP for Life. CHAMP is short for ‘CHAracter Makes 
 
 Values are the rules by which we choose to live our lives. They serve as an internal compass to help us set priorities and guide us in the right direction. When we align our choices and actions to the right values, we cultivate a positive attitude and become more equipped to handle life’s various challenges.
 
-  
+![](/images/Highlights/Learning%20for%20Life%20Programme/Picture%202.jpg) 
+
+![](/images/Highlights/Learning%20for%20Life%20Programme/Picture%203.jpg)
 
 CHAMP for Life aims to equip our students with a broad spectrum of values and attributes from three categories:
 
