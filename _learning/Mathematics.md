@@ -43,18 +43,15 @@ _Hi-Five!_
 ![](/images/Learning/Mathematics/Hi%205%20image1.png)
 
 
-Our Hi-Five! process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in the Hi-Five! process allows the students to develop capacities and skills for learning and their metacognitive ability and to build their confidence in problem- solving. 
+<p style="text-align: justify;">Our Hi-Five! process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in the Hi-Five! process allows the students to develop capacities and skills for learning and their metacognitive ability and to build their confidence in problem- solving. </p>
 
-  
-
-Students also learn various heuristics to help them solve mathematical problems. Heuristics are methods and strategies that point towards possible ways in which students might be able to find a solution. With the acquisition of mathematical skills and processes, coupled with the content knowledge, students will become better problem solvers.
+<p style="text-align: justify;">Students also learn various heuristics to help them solve mathematical problems. Heuristics are methods and strategies that point towards possible ways in which students might be able to find a solution. With the acquisition of mathematical skills and processes, coupled with the content knowledge, students will become better problem solvers.</p>
 
 ### **Fun with Mathematics**
 
-Fun with Mathematics is a programme for selected P4 to P6 students with the aptitude for Mathematics. The programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.
+<p style="text-align: justify;">Fun with Mathematics is a programme for selected P4 to P6 students with the aptitude for Mathematics. The programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.</p>
 
-
-Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:
+<p style="text-align: justify;">Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:</p>
 
 *   Develop the habits, attitudes and dispositions mathematicians possess.
 
@@ -71,7 +68,7 @@ Students work independently or collaborate with their peers and engage in mathem
 <img src="/images/Learning/Mathematics/m3%20pouch.png" style="width:50%">
 
 
-This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.
+<p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.</p>
 
 ![](/images/Learning/Mathematics/MathsGames20_8.jpg)
 
@@ -88,15 +85,9 @@ This resource package offers a variety of activities to support the learning and
 
 **Mathematical Olympiad Training Programme for selected P4 to P6 students**
 
-  
-
-A series of mathematical Olympiad training workshops run by external agencies are mounted for selected high-ability learners of Mathematics.
-
-  
+<p style="text-align: justify;">A series of mathematical Olympiad training workshops run by external agencies are mounted for selected high-ability learners of Mathematics.</p>
 
 The objectives of the training programme are as follows:
-
-  
 
 (a) Develop students’ interest, creativity, analytical thinking skills, and spirit of learning through discovery and challenge in Mathematics;    
 (b) Enhance a student’s mathematical knowledge and sharpen his / her creative problem-solving skills through various non-routine and problem solving heuristics relevant to Mathematical competitions.
