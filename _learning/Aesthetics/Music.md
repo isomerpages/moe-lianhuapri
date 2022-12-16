@@ -23,3 +23,22 @@ Approach (ECA): Experience, Concept, Application
 **Key Feature**
 
 ![](/images/Learning/Music/Music%20Framework%20.jpg)
+
+
+**Key Signature Programme**
+
+**<u>Young Aspiring Song Composers</u>**
+
+The ‘Young Aspiring Song Composers’ is one of the signature programmes in Lianhua Primary School. This programme strongly supports our school’s singing and song composition culture. The students brainstorm for ideas, create the lyrics and come up with melodies to compose their songs. This process taps on their creativity, develops their confidence and stretches their potential.
+
+  
+
+The self-composed songs are infused into our music curriculum. They are used as media that relay key messages, as well as to inculcate values such as ‘diligence’, ‘resilience’, ‘compassion’, ‘unity’ and ‘self-discipline.’ These songs have become part and parcel of Lianhua’s school life. For example, students learn to sing the cleaning songs to cultivate classroom and canteen cleaning habits; they sing the friendship songs to strengthen their relationships with their peers. All these subtly influence our students in their social and emotional learning as well as character development.
+
+  
+
+Singing the self-composed songs creates a sense of pride in students as the songs are unique to the school itself. The self-composed songs have been used as theme songs for National Education events like Racial Harmony Day and International Friendship Day. They have also been used during the celebration of Children’s Day, Sports Day, Prize-giving Day and P6 Graduation Ceremony in our school.
+
+  
+
+Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to ond and grow together as a family.
