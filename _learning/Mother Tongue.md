@@ -97,3 +97,13 @@ P5 & P6: Advertisement
 </table>
 
 <center><iframe width="280" height="271" src="https://www.youtube.com/embed/joB_8kDvSWM" title="Mother Tongue Fiesta 2019 Closing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+## Publication
+
+Content
+
+In order to arouse students’ interest in creating stories and also to enhance their writing skills, we provide platforms like showcasing their work through termly exhibition or publication.
+
+Every year, we will encourage students to create stories that based on their interest or the happenings that they observed. Every student will get a copy of the publication and teachers will read with them during reading period.
+
+Students feel proud when their stories that are selected in the publications. It helps to build their confidence and also a form of encouragement to continue creating interesting stories.
