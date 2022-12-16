@@ -16,7 +16,7 @@ third_nav_title: Students in Action
 
 |   |   |
 |:-:|:-:|
-| ![](/images/Highlights/Project%20Smile/Project%20Smile%201.jpg) Students’ Planning In Action |  ![](/images/Highlights/Project%20Smile/Project%20Smile%202.jpg)   |
-| ![](/images/Highlights/Project%20Smile/Project%20Smile%203.jpg)  | ![](/images/Highlights/Project%20Smile/Project%20Smile%204.jpg)  |
-|  ![](/images/Highlights/Project%20Smile/Project%20Smile%205.jpg) | ![](/images/Highlights/Project%20Smile/Project%20Smile%206.jpg)  |
-|  ![](/images/Highlights/Project%20Smile/Project%20Smile%207.jpg) | ![](/images/Highlights/Project%20Smile/Project%20Smile%208.jpg)  |
+| ![](/images/Highlights/Project%20Smile/Project%20Smile%201.jpg) Students’ Planning In Action |  ![](/images/Highlights/Project%20Smile/Project%20Smile%202.jpg) Arrival of Sponsored Grocery Items  |
+| ![](/images/Highlights/Project%20Smile/Project%20Smile%203.jpg) Working as A Team to Unload Sponsored Grocery Items | ![](/images/Highlights/Project%20Smile/Project%20Smile%204.jpg) Student In Action: Giving Out Instructions  |
+|  ![](/images/Highlights/Project%20Smile/Project%20Smile%205.jpg) Final Checks| ![](/images/Highlights/Project%20Smile/Project%20Smile%206.jpg) Stations Ready for Packing |
+|  ![](/images/Highlights/Project%20Smile/Project%20Smile%207.jpg)Parent-Child In Action | ![](/images/Highlights/Project%20Smile/Project%20Smile%208.jpg) Leadership In Action |
