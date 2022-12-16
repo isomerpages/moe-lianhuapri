@@ -89,7 +89,7 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 
 |   |   |
 |---|---|
-| ![](/images/Learning/Visual%20Art/Notes%20of%20Appreciation%20for%20our%20NTFGH%20Frontline%20Healthcare%20workers.jpg)  |  ![](/images/Learning/Visual%20Art/Nagomi%20Art%20-%20Mrs%20Loke%20guiding%20her%20son.jpeg)   |
+|  <img src="/images/Learning/Visual%20Art/Notes%20of%20Appreciation%20for%20our%20NTFGH%20Frontline%20Healthcare%20workers.jpg" style="width: 75%">  |  ![](/images/Learning/Visual%20Art/Nagomi%20Art%20-%20Mrs%20Loke%20guiding%20her%20son.jpeg)   |
 
 
 ### Useful links
