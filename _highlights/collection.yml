@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Students in Action/Project Smile.md
       - Students in Action/.keep
       - Superheroes Vision.md
