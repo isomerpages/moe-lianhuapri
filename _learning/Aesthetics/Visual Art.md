@@ -49,3 +49,8 @@ Through this platform, we hope to provide students with an alternative mode of s
 **<u>Museum-Based Learning Programme</u>**
 
 In the Museum-based learning module, the P4 and P5 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. In the process, students develop visual observation, appreciation and pride in local art, culture & heritage. Students will have a pre-museum visit lesson to learn about museum etiquettes and the artworks. At the National Gallery, students will do individual and pair-work museum-visit activities using the inquiry-based learning approach. For the post-visit, the art teacher will lead the students to create an artwork in response to their learning experience and the art style of the artist's artworks viewed. In view of the current COVID situation, changes have been made to engage our P4 and P5 students to embark on a virtual National Gallery visit in a safe learning environment within the school.
+
+|   |   |
+|---|---|
+| ![](/images/Learning/Visual%20Art/Museum%20based%20learning%20at%20National%20Gallery%20Singapore%20Social%20Table.jpg)  |   <img src="/images/Learning/Visual%20Art/MBL%202021-%20Virtual%20National%20Gallery%20Visit.jpg" style="width: 65%">  |
+
