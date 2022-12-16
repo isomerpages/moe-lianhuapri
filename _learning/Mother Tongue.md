@@ -24,3 +24,10 @@ For instance during Racial Harmony Day, we have different learning packages for 
 
 <iframe width="796" height="503" src="https://www.youtube.com/embed/wCbmQBKLivo" title="CCM Challenge 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Celebrations
+
+In Singapore, a festive celebration means more than just a public holiday, it also means that people from different races are able to witness the celebrating community’s rites and rituals, and join in the celebration.
+
+In Lianhua, we celebrated the Chinese New Year, Hari Raya Puasa and Deepavali every year. Students of different ethnic groups will participate in the pre-celebration activities like designing wishing cards, experiencing cultural activities during recess and learning how to wish their teachers, peers or canteen vendors using the language of the ethnic group who are celebrating the festival.
+
+On the actual day, students get to view the concert that brings out the traditions and customs of the festivals.
