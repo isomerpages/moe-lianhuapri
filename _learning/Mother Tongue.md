@@ -148,3 +148,25 @@ In 2021, MTL Young Journalist Programme has stepped up by introducing the Lianhu
 This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged on SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.
 
 # image slide
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/fMTvC18wwy8" title="75th   YJ Interview Short final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/kxFOq6ZjxNQ" title="LHPS75 INTERVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/68cgrfv2rYk" title="Lianhua FM 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/2QLTwxUim_M" title="RHD 2021   YJ Interview Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
+
+<center><iframe width="280" height="271" src="https://www.youtube.com/embed/uWe9KGRafZk" title="YJ CNL Frog enclosure 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
