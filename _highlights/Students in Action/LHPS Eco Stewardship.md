@@ -60,5 +60,4 @@ Form teachers also conduct other environmental awareness programmes, e.g. Youth 
 
 |  |        |
 |:-----:|:------------------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    ![](/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg)  |
-
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg" style="width:93%">  |
