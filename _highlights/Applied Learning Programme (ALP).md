@@ -3,6 +3,8 @@ title: Applied Learning Programme (ALP)
 permalink: /highlights/applied-learning-programme-alp/
 description: ""
 ---
+# link broken: Mirco:bit
+
 # Applied Learning Programme (ALP)
 
 ### **RITE @ LIANHUA**
@@ -44,3 +46,19 @@ At Lianhua Primary School, our focus is on Science, Technology, Engineering & Ma
 |    ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%202.jpg) |  ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)    |
 
 **<center>Coding for the robotic ball to move and to complete missions.</center>**
+
+
+<iframe width="703" height="507" src="https://www.youtube.com/embed/--oHyLiMv_s" title="ALP Website Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Useful Links
+
+<a href="https://strawbees.com/" target="_blank">Strawbees</a>
+
+<a href="https://scratch.mit.edu/parents/" target="_blank">Scratch</a>
+
+<a href="https://microbit.org/%20and%20https://makecode.microbit.org/" target="_blank">Mirco:bit</a>
+
+<a href="https://sphero.com/" target="_blank">Sphero</a>
+
+<a href="https://www.vexrobotics.com/iq" target="_blank">VEX IQ</a>
