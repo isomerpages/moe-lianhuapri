@@ -2,10 +2,10 @@ collections:
   learning:
     output: true
     order:
-      - Aesthetics/Visual Art.md
-      - Aesthetics/.keep
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Visual Art.md
