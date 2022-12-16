@@ -34,6 +34,29 @@ On the actual day, students get to view the concert that brings out the traditio
 
 ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image%202021-10-27.jpeg)
 
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/PCwEr2tFtq8" title="CNY 2021 Skit with subs Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/0xDjVbPU3UY" title="Hari Raya Celebration 2020 Greetings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/aa4m0vaQL88" title="Hari Raya 2020 Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/Jia9_wGt0Uk" title="CNY 2020 YJ Flash News FINAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/jUmiulS4Ojs" title="CNY 2021 Behind the Scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/b1lcDj40g8A" title="01 Deepavali Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+</tbody>
+</table>
+
 
 ## MTL Fortnight
 
