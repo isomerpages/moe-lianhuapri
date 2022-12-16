@@ -59,14 +59,14 @@ To nurture the student as an inquirer
 | ![](/images/Learning/Science/Lokesh%20from%206%20Compassion%20constructing%20his%20DIY%20Fan%20Motor%20Car.jpg) Lokesh from 6 Compassion constructing his DIY Fan Motor Car | ![](/images/Learning/Science/Kai%20Qi%20and%20Fatimah%20from%206%20Compassion%20constructing%20their%20wooden%20fan%20cart.jpg) Kai Qi and Fatimah from 6 Compassion constructing their wooden fan cart |  ![](/images/Learning/Science/Dhanyasree%20from%206%20Compassion%20constructing%20her%20compressed%20air%20car.jpg)  Dhanyasree from 6 Compassion constructing her compressed air car  |
 
 
-<img src="/images/Learning/Science/united2.jpg" style="width:30%;float:right">
+<img src="/images/Learning/Science/united2.jpg" style="width:30%;float:right; padding: 10px">
 <b>United We Learn</b> is a Science programme that all P3 to P5 pupils go through. This programme allows our pupils to pursue a Science topic that they are passionate about. Pupils then apply at least one science concept that they have learnt by creating a variety of possible exhibits that they then present to other pupils of their level. Possible exhibits include games, an experiment, a working model. Usually, pupils will also create a poster as well.
 
-<img src="/images/Learning/Science/united1.jpg" style="width:30%;float:left">In general, the pupils enjoy the experience and are eager to present to their peers what they have painstakingly learnt and created.
+<img src="/images/Learning/Science/united1.jpg" style="width:30%;float:left; padding: 10px">In general, the pupils enjoy the experience and are eager to present to their peers what they have painstakingly learnt and created.
 
 In recent years, due to the current Covid situation, we have modified the UWL programme so that the presentations are now done virtually via flipgrid.
 
-<img src="/images/Learning/Science/united.jpg" style="width:30%;float:right">
+<img src="/images/Learning/Science/united.jpg" style="width:30%;float:right; padding: 10px">
 
 Fun with Science is a programme for selected pupils who have done exceptionally well in Science. It is meant to stretch pupils who already have a firm foundation in basic Science and who have a passion for Science and Science phenomena.
 
