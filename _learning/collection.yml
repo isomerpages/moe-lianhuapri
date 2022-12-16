@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Student Management.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -14,3 +13,4 @@ collections:
       - Social Studies/.keep
       - Social Studies/Social Studies.md
       - Social Studies/National Education Events.md
+      - Student Management.md
