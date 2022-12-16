@@ -101,3 +101,9 @@ It is our hope and aspiration that all pupils who graduate from the halls of Lia
 |   |   |
 |:---:|:---:|
 |  ![](/images/Learning/Science/Nadirah%20from%206%20Unity%20repotting%20some%20plants.jpg) Nadirah from 6 Unity repotting some plants  | <img src="/images/Learning/Science/Sudhan%20and%20Indrajit%20from%206%20Compassion%20repotting%20some%20plants.jpg" style="width:75%">  Sudhan and Indrajit from 6 Compassion repotting some plants  |
+
+So what do our pupils have to say about being a Nature Guide at Lianhua?
+
+![](/images/Learning/Science/Students%20thoughts%20on%20being%20a%20Nature%20Guide.png)
+
+<center>Students’ thoughts on being a Nature Guide</center>
