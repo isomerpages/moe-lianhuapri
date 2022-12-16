@@ -10,8 +10,7 @@ third_nav_title: Students in Action
 
 <iframe width="736" height="647" src="https://www.youtube.com/embed/ZbY-MlzeaOk" title="Project SMILE at LHPS 2021 updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Indeed, this is the positive attitude that our students have whenever they volunteer for this meaningful project.
+<p style="text-align: justify;">Indeed, this is the positive attitude that our students have whenever they volunteer for this meaningful project.</p>  
 
-  
+<p style="text-align: justify;">Project SMILE is a project where Lianhua partners many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi\* and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.</p>
 
-Project SMILE is a project where Lianhua partners many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi\* and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.
