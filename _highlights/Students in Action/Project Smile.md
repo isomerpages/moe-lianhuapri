@@ -12,5 +12,11 @@ third_nav_title: Students in Action
 
 <p style="text-align: justify;">Indeed, this is the positive attitude that our students have whenever they volunteer for this meaningful project.</p>  
 
-<p style="text-align: justify;">Project SMILE is a project where Lianhua partners many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi\* and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.</p>
+<p style="text-align: justify;">Project SMILE is a project where Lianhua partners many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi* and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.</p>
 
+|   |   |
+|:-:|:-:|
+| ![](/images/Highlights/Project%20Smile/Project%20Smile%201.jpg) Students’ Planning In Action |  ![](/images/Highlights/Project%20Smile/Project%20Smile%202.jpg)   |
+| ![](/images/Highlights/Project%20Smile/Project%20Smile%203.jpg)  | ![](/images/Highlights/Project%20Smile/Project%20Smile%204.jpg)  |
+|  ![](/images/Highlights/Project%20Smile/Project%20Smile%205.jpg) | ![](/images/Highlights/Project%20Smile/Project%20Smile%206.jpg)  |
+|  ![](/images/Highlights/Project%20Smile/Project%20Smile%207.jpg) | ![](/images/Highlights/Project%20Smile/Project%20Smile%208.jpg)  |
