@@ -1,0 +1,4 @@
+collections:
+  learning:
+    output: true
+    order: []
