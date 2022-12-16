@@ -118,3 +118,28 @@ Our Primary 6 students have also continued the Freecycle project, which was init
 |     |        |
 |:-----:|:------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image56.jpg)  <center><i><b>Using bottle caps to upcycle into beautiful artwork</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image69.jpg" style="width:97%"> <center><i><b>Beautiful artworks using recycled materials that are used to decorate the school premise</b></i> s</center>  |
+
+
+## Environmental Ambassadors
+
+Some of our students are also empowered to become environmental ambassadors by participating in external training programmes like the Junior Environment Ambassador (JEA) Training and Bukit view secondary school (BVSS) Environmental leadership conference. From the training, they learn how to plan for events to educate their schoolmates on environmental issues. Our environmental ambassadors are involved in the Green Schools @ Southwest Assembly programme. They also create their own card games and videos to advocate for environmental issues.
+
+# image slide
+
+## Environmental Monitors
+
+In Lianhua Primary School, two environment monitors are appointed for every class. The environment monitors are trained to take charge of environmental matters in the class. They are also trained to become buddies for the lower primary students to teach them how to handle cleaning equipment and the right way to do cleaning in the classroom. Environment monitors and other student advocates who have a passion for environment issues also run recess activities to create more awareness of the issues that they are concerned about with their schoolmates.
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image44.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image48.jpg" style="width:100%"> |
+
+<center><i><b>Appointment and training of Environmental monitors</b></i></center>  
+
+
+|   |   |   |
+|:----:|:---:|:----:|
+|  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image24.jpg)   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image70.jpg)   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image51.jpg)   |
+
+<center><i><b>Buddy Clean Workshop for Primary 2 buddies – Environment monitors teaching their younger schoolmates the proper way to handle cleaning tools in order to clean their classroom properly</b></i></center>  
+
