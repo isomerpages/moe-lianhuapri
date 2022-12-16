@@ -50,3 +50,8 @@ The school also tapped on programmes by NEA like the Buddy Clean Workshop and Gr
 |   6   |          Biodiversity          |
 
 <center><i>Structured environmental Feedback</i></center>
+
+![](/images/Highlights/LHPS%20Eco%20Stewardship/image12.jpg)
+
+<center><i>Assembly Talk on Environmental Sustainability</i></center>
+
