@@ -81,3 +81,8 @@ Through ‘Hearts of Service’, we want our students to be empowered leaders wh
 ‘Joy in Learning’ is about having engaged learners who will learn through curiosity and discovery. It aims to provide the platforms for our students to learn by sharing, creating, playing and enjoying authentic experiences. 
 
 With ‘Confidence in Life’, we hope that our students will be able to gain self-confidence through the identification of their strengths and talents, and to be aware of their own aspirations, in order to ignite the intrinsic motivation in themselves and others, and therefore be able to express themselves well and confidently.
+
+<img src="/images/Learning/CCE/Play,%20Passion,%20Purpose%20Framework.png" style="width:50%">
+
+<center>Figure 1 : Play, Passion, Purpose Framework</center>
+
