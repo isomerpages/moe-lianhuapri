@@ -149,3 +149,14 @@ In Lianhua Primary School, two environment monitors are appointed for every clas
 
 <center><i><b>Recess activities on environment and sustainability issues conducted by Environment monitors and environment advocates</b></i></center>
 
+
+## Parents' Support Group
+
+The Parent Support Group of Lianhua Primary School is also actively involved in the school environment activities both within school and outside school. Parents help to run various booths during our annual Earth Passion Fiesta where students learn more about environmental issues. Parents were also involved in external events like the annual Garden Festival at Gardens by the Bay and Clean and Green Carnival prior to Covid-19..
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image17.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image77.png" style="width:100%">  |
+
+
+<center><i><b>Parents from the PSG being involved in the school Earth Passion Fiesta</b></i></center>
