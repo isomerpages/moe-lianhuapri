@@ -106,18 +106,13 @@ The objectives of the training programme are as follows:
 
 Primary Mathematics Syllabus    
 For students who entered Primary 1 from 2021   
-[https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf](https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf)
-
+<a href="https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf" target="_blank">https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf</a>
   
 
-For students who entered Primary 1 before 2021
+For students who entered Primary 1 before 2021   
+<a href="https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf" target="_blank">https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf</a>
 
-[https://www.moe.gov.sg/-/media/files/primary/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf)
-
-  
-
-List of approved scientific calculators for P5 and P6 students
-
+List of approved scientific calculators for P5 and P6 students    
 [https://www.seab.gov.sg/home/examinations/approved-calculators]()
 <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">https://www.seab.gov.sg/home/examinations/approved-calculators</a>
   
