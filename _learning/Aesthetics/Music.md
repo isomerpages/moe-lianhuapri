@@ -61,7 +61,7 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 
 |   |   |
 |:---:|:---:|
-|  ![](/images/Learning/Music/Showtime@%20Imaginarium%20-%20Piano%20performance.jpg) | ![](/images/Learning/Music/Showtime@%20Imaginarium%20-Keyboard%20Performance.jpg)  |
+|  <img src="/images/Learning/Music/Showtime@%20Imaginarium%20-%20Piano%20performance.jpg" style="width:43%">   | ![](/images/Learning/Music/Showtime@%20Imaginarium%20-Keyboard%20Performance.jpg)  |
 
 
 |   |   |   |
