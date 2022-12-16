@@ -3,6 +3,8 @@ title: Mother Tongue
 permalink: /learning/mother-tongue/
 description: ""
 ---
+# upload image slide to google slide
+
 # deepavali video embedding error
 # Mother Tongue
 
