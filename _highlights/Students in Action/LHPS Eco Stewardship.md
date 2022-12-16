@@ -101,3 +101,15 @@ Our school also actively engages in various recycling programmes like Clean up @
 |     |        |
 |:-----:|:------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image57.jpg)  <center><i><b>Upcycling of Old T-shirts into tote bags	</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image72.jpg" style="width:100%"> <center><i><b>Waste to Craft</b></i></center>  |
+
+
+Our Primary 6 students have also continued the Freecycle project, which was initiated by a student leader, where students donate their textbooks and uniforms. Students collect and sort out donated textbooks and uniforms. This activity not only encourages waste minimisation, but also helps students from lower income families to save on buying new textbooks. They also carry out Upcycle projects where they use recycled materials to make beautiful craftwork to decorate the toilets.
+
+
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image64.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image2.jpg" style="width:80%">   |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image21.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image19.jpg" style="width:80%">  |
+
+
+<center><i><b>Waste to Craft</b></i></center> 
