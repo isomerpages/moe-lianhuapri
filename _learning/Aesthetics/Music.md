@@ -70,7 +70,7 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 
 **<u>LHPS Song List</u>**
 
-<img src="/images/Learning/Music/LHPS%20Song%20List.png" style="width:40%;float:right">
+<img src="/images/Learning/Music/LHPS%20Song%20List.png" style="width:35%;float:right">
 
 Access to all the sing-along songs in our school, featuring our own distinct and unique self-composed songs catered to events like Sports Day, International Friendship Day, Racial Harmony Day, Children’s Day, and Graduation Day and so on. The music videos will enrich the students’ audio and visual experience. The students will learn to sing the songs at their own pace.
 
@@ -82,6 +82,10 @@ Please scan or go to the following link to have access to the list of songs.
 
 **<u>Times table Songs</u>**
 
+<img src="/images/Learning/Music/Times%20Table%20Songs.png" style="width:35%;float:right">
+
 We have also created a Lianhua personalised music video playlist with Times Table multiplication songs uniquely composed and sung by our own students. They come with catchy tunes that are easy for children to remember. Hope your children have an enjoyable time learning multiplication with these songs.
 
 <a href="http://qrco.de/lhps" target="_blank">http://qrco.de/lhps</a>
+
+<br clear="right">
