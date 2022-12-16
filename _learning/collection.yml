@@ -2,6 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Science.md
       - English.md
       - Mathematics.md
+      - Science.md
