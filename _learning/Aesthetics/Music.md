@@ -76,6 +76,12 @@ Access to all the sing-along songs in our school, featuring our own distinct and
 
 Please scan or go to the following link to have access to the list of songs.
 
-[https://tinyurl.com/lhpsmusiclist](https://tinyurl.com/lhpsmusiclist)
+<a href="https://tinyurl.com/lhpsmusiclist" target="_blank">https://tinyurl.com/lhpsmusiclist</a>
 
 <br clear="right">
+
+**<u>Times table Songs</u>**
+
+We have also created a Lianhua personalised music video playlist with Times Table multiplication songs uniquely composed and sung by our own students. They come with catchy tunes that are easy for children to remember. Hope your children have an enjoyable time learning multiplication with these songs.
+
+<a href="http://qrco.de/lhps" target="_blank">http://qrco.de/lhps</a>
