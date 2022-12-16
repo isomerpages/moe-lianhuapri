@@ -29,3 +29,15 @@ Making use of their new-found passions, our pupils are then challenged to go on 
 <img src="/images/Highlights/LHPS%20Passion%20Project/passion5.png" style="width:50%; float: right; padding: 10px">
 
 <p style="text-align: justify;">With the covid-19 pandemic situation, most, if not all, of the school’s plans and activities were disrupted. In 2020, instead of shelving this passion project, the school decided to take the opportunity to intensify our efforts, as we believe in the goodness that the project can bring.<br><br>During the Full Home-based Learning (FHBL) period, the Passion Project@Home was designed to help the students to reframe their current situation and allow them the time to be self-directed learners of things they want to discover and pursue in terms of knowledge and skills.</p><br clear="right">
+
+<img src="/images/Highlights/LHPS%20Passion%20Project/passion6.png" style="width:50%; float: left; padding: 10px">
+
+<p style="text-align: justify;">Weekly challenges designed around 7 topics helped students explore their interests. Students also had a great time showing off their discoveries and pursuits during the Circuit Breaker using Flipgrid, an online video sharing application. A total of 553 videos were created, which is equivalent to 1523.9 hours of video time. Behind those hours of video time were more hours spent on the exploration of their interests as well as learning how to post their videos online. It is heartening to know that our students have invested so much time and effort into their interests and passions.</p><br clear="left">
+
+**Passion Showcasing**
+
+<p style="text-align: justify;">In terms of viewership, we recorded 46,837 views of the Flipgrid videos by the students. We hope that the passionate sharing by our students have inspired their viewers and ignited a spark of passion in them.</p>
+
+<img src="/images/Highlights/LHPS%20Passion%20Project/passion7.png" style="width:50%; float: right; padding: 10px">
+
+<p style="text-align: justify;">After the circuit breaker, as the school moved towards normalcy, the Passion Showcase 2020 was presented to all the staff and students of the school via a Passion Talk Show Zoom session. This showcase was shared as a form of celebration of the various innovations and passions. We helped our students to process this experience by connecting it with the school values of resilience, excellence and diligence, and how such values are important for all of us to overcome the life struggles during the Covid-19 pandemic.</p><br clear="right">
