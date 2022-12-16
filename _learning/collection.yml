@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Information & Communications Technology.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -16,3 +15,4 @@ collections:
       - Social Studies/National Education Events.md
       - Student Management.md
       - Citizenship & Character Education.md
+      - Information & Communications Technology.md
