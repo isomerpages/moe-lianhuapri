@@ -41,3 +41,12 @@ Making use of their new-found passions, our pupils are then challenged to go on 
 <img src="/images/Highlights/LHPS%20Passion%20Project/passion7.png" style="width:50%; float: right; padding: 10px">
 
 <p style="text-align: justify;">After the circuit breaker, as the school moved towards normalcy, the Passion Showcase 2020 was presented to all the staff and students of the school via a Passion Talk Show Zoom session. This showcase was shared as a form of celebration of the various innovations and passions. We helped our students to process this experience by connecting it with the school values of resilience, excellence and diligence, and how such values are important for all of us to overcome the life struggles during the Covid-19 pandemic.</p><br clear="right">
+
+
+**Moving Forward beyond 2020**
+
+The passion project is a powerful way for our students to embark on a purposeful journey of lifelong learning. In 2021, we aim to deepen this form of learning by exploring the different aspects of the passion project.
+
+<center><i>“I have no special talents. I am only passionately curious.”<br><br>-Albert Einstein</i></center>
+
+<iframe width="764" height="537" src="https://www.youtube.com/embed/voD5UolLjYk" title="Passion @ Home Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
