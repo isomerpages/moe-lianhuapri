@@ -65,3 +65,5 @@ STEM requires hands-on, active participation for learning to take place. The YES
 |   |   |   |
 |:---:|:---:|:---:|
 | ![](/images/Learning/Science/Lokesh%20from%206%20Compassion%20constructing%20his%20DIY%20Fan%20Motor%20Car.jpg) Lokesh from 6 Compassion constructing his DIY Fan Motor Car | ![](/images/Learning/Science/Kai%20Qi%20and%20Fatimah%20from%206%20Compassion%20constructing%20their%20wooden%20fan%20cart.jpg) Kai Qi and Fatimah from 6 Compassion constructing their wooden fan cart |  ![](/images/Learning/Science/Dhanyasree%20from%206%20Compassion%20constructing%20her%20compressed%20air%20car.jpg)  Dhanyasree from 6 Compassion constructing her compressed air car  |
+
+<b>United We Learn</b> is a Science programme that all P3 to P5 pupils go through. This programme allows our pupils to pursue a Science topic that they are passionate about. Pupils then apply at least one science concept that they have learnt by creating a variety of possible exhibits that they then present to other pupils of their level. Possible exhibits include games, an experiment, a working model. Usually, pupils will also create a poster as well.
