@@ -78,17 +78,17 @@ In this programme, pupils are exposed to ideas about Science that are beyond the
 
 ‘One is never too small to make a difference’.  
 
-<p style="text-align: justify;">Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Nature Guides.
+<p style="text-align: justify;">Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Nature Guides.</p>
 
-<p style="text-align: justify;">These Nature Guides are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Nature Guide status, these students are trained in the maintenance of the flora and fauna of the school.
+<p style="text-align: justify;">These Nature Guides are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Nature Guide status, these students are trained in the maintenance of the flora and fauna of the school.</p>
 
-<p style="text-align: justify;">Despite their busy schedules, the Nature Guides take the time and every opportunity they have to maintain the landscape of the school. They weed and water the various gardens, especially the edible gardens. They catch pests that may harm the vegetation on the school premises. Some of these pests are then adopted. They also sharpen their gardening skills under the guidance of teachers and in the process, develop green fingers.
+<p style="text-align: justify;">Despite their busy schedules, the Nature Guides take the time and every opportunity they have to maintain the landscape of the school. They weed and water the various gardens, especially the edible gardens. They catch pests that may harm the vegetation on the school premises. Some of these pests are then adopted. They also sharpen their gardening skills under the guidance of teachers and in the process, develop green fingers.</p>
 
-<p style="text-align: justify;">Our Nature Guides’ passion for the environment is contagious, and many unofficial Nature Guides have entered our service because of their friends’ enthusiasm for greenery. In addition to their passionate selves, our Nature Guides also educate the school community about the flora and fauna found in the school through poster designs and in pre-covid years, in person. This has in turn, raised awareness in our student community about the importance of every living thing around us and the reasons behind conservation.
+<p style="text-align: justify;">Our Nature Guides’ passion for the environment is contagious, and many unofficial Nature Guides have entered our service because of their friends’ enthusiasm for greenery. In addition to their passionate selves, our Nature Guides also educate the school community about the flora and fauna found in the school through poster designs and in pre-covid years, in person. This has in turn, raised awareness in our student community about the importance of every living thing around us and the reasons behind conservation.</p>
 
-<p style="text-align: justify;">Passion for Nature can be addictive. Many of our Nature Guides are repeat volunteers. Once bitten by the green bug, few of them leave this cheerful community of green elves. They become advocates of conservation and an inspiration to their fellow classmates to do more for their environment.
+<p style="text-align: justify;">Passion for Nature can be addictive. Many of our Nature Guides are repeat volunteers. Once bitten by the green bug, few of them leave this cheerful community of green elves. They become advocates of conservation and an inspiration to their fellow classmates to do more for their environment.</p>
 
-<p style="text-align: justify;">It is our hope and aspiration that all pupils who graduate from the halls of Lianhua Primary will learn to care for our environment and do their part for the earth. After all, we only have ONE earth.
+<p style="text-align: justify;">It is our hope and aspiration that all pupils who graduate from the halls of Lianhua Primary will learn to care for our environment and do their part for the earth. After all, we only have ONE earth.</p>
 
 |   |   |
 |:---:|:---:|
