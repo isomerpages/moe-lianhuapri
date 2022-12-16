@@ -5,3 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 # Visual Art
+
+|   |   |
+|:---:|:---:|
+|   |   |
