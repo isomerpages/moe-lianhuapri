@@ -30,3 +30,5 @@ Link to SLS: <a href="https://vle.learning.moe.edu.sg/login" target="_blank">ht
 
 MOE rolled out Student iCON, which enables the use of Google Classroom, in 2021 for primary school students and since then, our pupils have learnt both hard and soft skills with the use of Student iCON and Google Classroom. Both are extremely useful in preparing our pupils for the future as they learn how to collaborate with others through platforms like Google Doc, Google Slides and Google Jamboard. Google Classroom also integrates seamlessly with other education applications, such as Flipgrid and Nearpod, which take our pupils’ learning to a higher level.   
 Link to Student iCON: <a href="https://workspace.google.com/dashboard" target="_blank">https://workspace.google.com/dashboard</a>
+
+<a href="https://workspace.google.com/dashboard" target="_blank"><img src="/images/Learning/Ict/icon2.png" style="width:50%;  float: left; "></a><br clear="left">
