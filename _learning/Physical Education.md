@@ -72,3 +72,10 @@ The Sports Enrichment Programme was introduced in 2017 to cater to the diverse s
 
 ### Useful Links
 
+<a href="/files/Learning/physical_education_syllabus_2014.pdf" target="_blank">Physical Education Syllabus</a>   
+<a href="https://www.healthhub.sg/programmes/183/parent-hub" target="_blank">Health Hub</a>   
+<a href="https://www.myactivesg.com/" target="_blank">Active SG</a>
+
+
+### The Team
+
