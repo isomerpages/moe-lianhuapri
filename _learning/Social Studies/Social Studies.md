@@ -4,6 +4,7 @@ permalink: /learning/social-studies/
 description: ""
 third_nav_title: Social Studies
 ---
+# upload image slide to google slide
 # Social Studies
 
 ## Social Studies in Lianhua Primary School
