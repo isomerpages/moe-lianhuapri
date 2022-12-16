@@ -78,5 +78,26 @@ In recent years, due to the current Covid situation, we have modified the UWL pr
 
 Fun with Science is a programme for selected pupils who have done exceptionally well in Science. It is meant to stretch pupils who already have a firm foundation in basic Science and who have a passion for Science and Science phenomena.
 
-In this programme, pupils are exposed to ideas about Science that are beyond the science syllabus. During this process, they engage in more unstructured decision making, and take the opportunity to hone their problem-solving skills.
+In this programme, pupils are exposed to ideas about Science that are beyond the science syllabus. During this process, they engage in more unstructured decision making, and take the opportunity to hone their problem-solving skills.<br clear="right">
 
+**<u>Nature Guides</u>**
+
+![](/images/Learning/Science/IMG_2068(1).jpg)
+
+‘One is never too small to make a difference’.  
+
+Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Nature Guides.
+
+These Nature Guides are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Nature Guide status, these students are trained in the maintenance of the flora and fauna of the school.
+
+Despite their busy schedules, the Nature Guides take the time and every opportunity they have to maintain the landscape of the school. They weed and water the various gardens, especially the edible gardens. They catch pests that may harm the vegetation on the school premises. Some of these pests are then adopted. They also sharpen their gardening skills under the guidance of teachers and in the process, develop green fingers.
+
+Our Nature Guides’ passion for the environment is contagious, and many unofficial Nature Guides have entered our service because of their friends’ enthusiasm for greenery. In addition to their passionate selves, our Nature Guides also educate the school community about the flora and fauna found in the school through poster designs and in pre-covid years, in person. This has in turn, raised awareness in our student community about the importance of every living thing around us and the reasons behind conservation.
+
+Passion for Nature can be addictive. Many of our Nature Guides are repeat volunteers. Once bitten by the green bug, few of them leave this cheerful community of green elves. They become advocates of conservation and an inspiration to their fellow classmates to do more for their environment.
+
+It is our hope and aspiration that all pupils who graduate from the halls of Lianhua Primary will learn to care for our environment and do their part for the earth. After all, we only have ONE earth.
+
+|   |   |
+|:---:|:---:|
+|  ![](/images/Learning/Science/Nadirah%20from%206%20Unity%20repotting%20some%20plants.jpg) Nadirah from 6 Unity repotting some plants  | <img src="/images/Learning/Science/Sudhan%20and%20Indrajit%20from%206%20Compassion%20repotting%20some%20plants.jpg" style="width:75%">  Sudhan and Indrajit from 6 Compassion repotting some plants  |
