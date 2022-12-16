@@ -89,3 +89,9 @@ We have also created a Lianhua personalised music video playlist with Times Tabl
 <a href="http://qrco.de/lhps" target="_blank">http://qrco.de/lhps</a>
 
 <br clear="right">
+
+### Our Team
+
+|   |   |
+|:---:|:---:|
+| ![](/images/Learning/Music/Music%20Dept%20Team%20Photo%201.jpeg)  |  <img src="/images/Learning/Music/Music%20Dept%20Team%20Photo%202.jpeg" style="width:75%">   |
