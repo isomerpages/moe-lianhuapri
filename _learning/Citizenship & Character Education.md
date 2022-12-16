@@ -105,10 +105,7 @@ Volunteerism is the word used by the school to encourage our students to create 
 
 In the previous years, students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Runninghour, the Marine Life Conservation, the Green Schools Projects, and the Community Outreach.
 
-
-#### LHPS CCE Roadmap
-
-The LHPS CCE Roadmap helps the school, the staff and the students to make sense of the CCE experiences in the school. It aims to build and use a common language to communicate and reinforce consistent messages on what it takes to foster dispositions of character and citizenship and apply social-emotional competencies in the process.
+# image too large
 
 2021, however, was a year in which the Covid situation disrupted most the schools’ plan for VIA projects. Many projects were shelved due to the restrictions in interactions among students and external agencies.
 
@@ -117,6 +114,11 @@ For Lianhua Primary School, we took a different approach for VIA. Students were 
 It was therefore not surprising to see students volunteering in various ways, ranging from helping to take care of the school gardens, to using their spare time to make encouraging notes and cards for the medical frontline staff.
 
 In June this year, one of our Primary One students, started a ‘Care and Share’ corner with her own savings in order to help the needy residents in her estate. Shakthi from Primary One Resilience was so inspired by the Project SMILE that she decided to pay it forward to the society in her own way. Now, Shakthi is an inspiration to all of us. She captured the spirit of Volunteerism so well that we hope more of her generation will be like her one day.
+
+
+#### LHPS CCE Roadmap
+
+The LHPS CCE Roadmap helps the school, the staff and the students to make sense of the CCE experiences in the school. It aims to build and use a common language to communicate and reinforce consistent messages on what it takes to foster dispositions of character and citizenship and apply social-emotional competencies in the process.
 
 
 ![](/images/Learning/CCE/LHPS%20CCE%20Roadmap.jpg)
