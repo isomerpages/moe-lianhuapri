@@ -84,3 +84,61 @@ This resource package offers a variety of activities to support the learning and
 ![](/images/Learning/Mathematics/MathsGames20_32.jpg)
 
 <center>Jigsaw puzzle</center>
+
+
+**Mathematical Olympiad Training Programme for selected P4 to P6 students**
+
+  
+
+A series of mathematical Olympiad training workshops run by external agencies are mounted for selected high-ability learners of Mathematics.
+
+  
+
+The objectives of the training programme are as follows:
+
+  
+
+(a) Develop students’ interest, creativity, analytical thinking skills, and spirit of learning through discovery and challenge in Mathematics;    
+(b) Enhance a student’s mathematical knowledge and sharpen his / her creative problem-solving skills through various non-routine and problem solving heuristics relevant to Mathematical competitions.
+
+
+### Useful Links
+
+Primary Mathematics Syllabus  
+
+For students who entered Primary 1 from 2021
+
+[https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf](https://www.moe.gov.sg/-/media/files/primary/2021-mathematics-syllabus-primary-1-to-6.pdf)
+
+  
+
+For students who entered Primary 1 before 2021
+
+[https://www.moe.gov.sg/-/media/files/primary/mathematics\_syllabus\_primary\_1\_to\_6.pdf](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf)
+
+  
+
+List of approved scientific calculators for P5 and P6 students
+
+[https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)
+
+  
+
+  
+
+### The Team
+
+Miss Yong Hua Moy (Head of Department)     
+Mrs Alexis Pua (Level Head)   
+Miss Toh Bee Hong (Senior Teacher/Maths)   
+Miss Edelyn Lee (Maths Coordinator)    
+Mrs Emily Chia   
+Miss Josephine Choo   
+Mdm Ho Sheu Yun   
+Mdm Ruth Lai   
+Mdm Lee Peir Chuang   
+Mdm Noor Dayana   
+Mdm Pek Peet Juan   
+Mdm Rabiatuladawiyah   
+Mrs Marina Wee   
+Mr Dennis Wong
