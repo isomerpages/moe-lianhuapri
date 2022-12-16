@@ -2,8 +2,8 @@ collections:
   learning:
     output: true
     order:
-      - Physical Education.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
+      - Physical Education.md
