@@ -5,7 +5,7 @@ description: ""
 ---
 # Mathematics
 
-
+![](/images/Learning/Mathematics/WhatsApp%20Image%202020-12-23.jpeg)
 
 ### **Department Vision**
 
