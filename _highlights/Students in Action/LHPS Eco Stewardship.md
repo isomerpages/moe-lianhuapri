@@ -159,7 +159,7 @@ The Parent Support Group of Lianhua Primary School is also actively involved in 
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image17.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image77.png" style="width:100%">  |
 
 
-<center><i><b>Parents from the PSG being involved in the school Earth Passion Fiesta</b></i></center>
+<center><b>Parents from the PSG being involved in the school Earth Passion Fiesta</b></center>
 
 <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image28.png" style="width:60%">
 
