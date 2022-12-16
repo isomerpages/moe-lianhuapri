@@ -24,3 +24,7 @@ The Science Department of Lianhua Primary consists of experienced teachers who a
 **OUR PROGRAMMES AT A GLANCE:**
 
 ![](/images/Learning/Science/sci%20dept.png)
+
+**KEY PROGRAMME: SCIENCE@ HOME**
+
+One of the things that makes learning Science really fun is the opportunity to explore and learn about Scientific concepts and phenomena through experimentation.
