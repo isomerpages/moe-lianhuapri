@@ -18,3 +18,7 @@ third_nav_title: Aesthetics
 *   See, express and appreciate artworks to make meaning through connecting with society and culture.
 *   Cultivate creativity and critical-thinking in artmaking.
 *   Develop self-confidence, resilience and excellence to fulfil to the best of one’s ability in artmaking.
+
+**Key Feature**
+
+![](/images/Learning/Visual%20Art/Art%20framework.jpg)
