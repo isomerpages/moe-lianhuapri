@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Students in Action/LHPS Passion Project.md
       - Students in Action/.keep
       - Students in Action/Project Smile.md
       - Students in Action/LHPS Eco Stewardship.md
