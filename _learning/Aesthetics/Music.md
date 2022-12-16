@@ -41,4 +41,4 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 
 |   |   |
 |---|---|
-|  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   |  ![](/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg)    |
+|  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   | <img src="/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg" style="width:63%">    |
