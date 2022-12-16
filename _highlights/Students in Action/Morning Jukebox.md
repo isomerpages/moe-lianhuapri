@@ -4,6 +4,7 @@ permalink: /highlights/students-in-action/morning-jukebox/
 description: ""
 third_nav_title: Students in Action
 ---
+# upload image slide to google slide
 # Morning Jukebox
 
 <p style="text-align: justify;">‘Morning Jukebox’ is a new programme launched by our Music Department, which replaces the pre-assembly mass singing we used to have on Fridays in the school hall prior to Covid-19.</p>
