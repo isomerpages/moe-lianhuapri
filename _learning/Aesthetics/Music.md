@@ -40,7 +40,7 @@ Singing the self-composed songs creates a sense of pride in students as the song
 Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to ond and grow together as a family.
 
 |   |   |
-|---|---|
+|:---:|:---:|
 |  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   | <img src="/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg" style="width:63%">    |
 
 **Major Programmes**
@@ -50,6 +50,6 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Performing Arts. In the celebration, the students from each class will showcase what they have learnt during the music lessons, such as singing community songs and playing musical instruments. Selected students will serve as emcees to introduce the musical performances to the audience.
 
 |   |   |
-|---|---|
-|   |   |
-|   |   |
+|:---:|:---:|
+| ![](/images/Learning/Music/Shining%20Artz%20Performance%202.jpg)  |  ![](/images/Learning/Music/Shining%20Artz%20Performance%201.jpg)     |
+|  ![](/images/Learning/Music/Shining%20Artz%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
