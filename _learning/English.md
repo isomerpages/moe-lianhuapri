@@ -18,23 +18,16 @@ We strive to nurture the love for learning English language to enable our studen
 
 ![](/images/Learning/English/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png)
 
-STELLAR Programme
+<u>STELLAR Programme</u>
 
-  
+*   The STELLAR (Strategies for English Language Learning and Reading) Programme was developed by the Ministry of Education (MOE) in 2006 to cater to the diverse range of English language learners in Singapore. This programme has been implemented in our English Language curriculum from Primary One to Primary Six.
 
-> *   The STELLAR (Strategies for English Language Learning and Reading) Programme was developed by the Ministry of Education (MOE) in 2006 to cater to the diverse range of English language learners in Singapore. This programme has been implemented in our English Language curriculum from Primary One to Primary Six.
-> 
-> *   The vision of STELLAR is to develop in children a love for reading and a strong foundation in the English Language and it aims to strengthen children’s learning of the English Language by using engaging and age-appropriate strategies and instructional materials.
+*   The vision of STELLAR is to develop in children a love for reading and a strong foundation in the English Language and it aims to strengthen children’s learning of the English Language by using engaging and age-appropriate strategies and instructional materials.
 
-  
-
-  
-
+ 
 **Major Programmes**
 
-**Reading @ Lianhua**
-
-  
+**<u>Reading @ Lianhua</u>**
 
 In Lianhua, we believe in cultivating the love of reading in our students so that they can experience an amazing and exciting life in the world of books. Our reading programme strives to bring these experiences to our students. Dare 2 Read Challenge booklet is our main reading programme where our students have to read books and complete the activities in the booklet. At the end of each term, the classes are awarded certificates to show the reading level they have achieved. The classes are doing extremely well achieving more than just the Novice Level in the Reading Challenge.  
 
@@ -48,16 +41,14 @@ Keeping our students’ interest in mind, our school will continue to orchestrat
 
   
 
-**Oracy @ Lianhua**
+**<u>Oracy @ Lianhua</u>**
 
 **News in Brief** is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the New in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking. 
 
   
 
 Video on Oracy @ LIanhua:
-
-[https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing](https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing)  
-  
+<a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
 **Storytelling**
 
