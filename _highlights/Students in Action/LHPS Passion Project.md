@@ -14,7 +14,7 @@ third_nav_title: Students in Action
 
 <img src="/images/Highlights/LHPS%20Passion%20Project/passion1.jpg" style="width:50%; float: left; padding: 10px">
 
-Our Passion Project is a student-centric tool which encourages the students to be curious of their likes, strengths and sources of motivation. Through this project, every child is given the opportunity to learn by exploring their interests and discovering their passions. Through play, our students will experience different domains of learning, which include technology, arts, music, sports, nature, dance, languages and even mathematics.<br clear="left">
+<p style="text-align: justify;">Our Passion Project is a student-centric tool which encourages the students to be curious of their likes, strengths and sources of motivation. Through this project, every child is given the opportunity to learn by exploring their interests and discovering their passions. Through play, our students will experience different domains of learning, which include technology, arts, music, sports, nature, dance, languages and even mathematics.</p><br clear="left">
 
 Making use of their new-found passions, our pupils are then challenged to go on a deep learning journey and to inspire others by sharing their passion and journey. These challenges build the child’s resilience and confidence.
 
