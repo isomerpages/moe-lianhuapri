@@ -42,4 +42,6 @@ Through this platform, we hope to provide students with an alternative mode of s
 
 |   |   |
 |---|---|
-|   |   |
+| ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20Children%20Day%20Dedication.jpg)  | ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20National%20Day%202021%20Design%20a%20Stamp%20%20Display.jpg)  |
+
+
