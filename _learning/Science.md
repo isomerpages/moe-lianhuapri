@@ -28,3 +28,19 @@ The Science Department of Lianhua Primary consists of experienced teachers who a
 **KEY PROGRAMME: SCIENCE@ HOME**
 
 One of the things that makes learning Science really fun is the opportunity to explore and learn about Scientific concepts and phenomena through experimentation.
+
+|   |   |
+|:---:|:---:|
+|  ![](/images/Learning/Science/Science@Home%201.jpeg) |    ![](/images/Learning/Science/Science@Home%202.jpeg)  |
+
+<center>Learning more about electricity through experimentation</center>
+
+In a year where social distancing was the norm, and learning journeys were forbidden due to the prevailing Covid situation, the Science @ Home programme was born. The programme was initiated with the purpose of allowing our pupils to continue guided Science exploration within the safety of their homes.
+
+  
+
+To this purpose, each P3-P6 pupil was provided with a Science kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow pupils to explore the topic in greater detail and to be able to experiment. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.
+
+  
+
+**<u>Say YES! to the YES! (Young Exploring Scientists) Programme</u>**
