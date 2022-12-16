@@ -31,3 +31,27 @@ In Singapore, a festive celebration means more than just a public holiday, it al
 In Lianhua, we celebrated the Chinese New Year, Hari Raya Puasa and Deepavali every year. Students of different ethnic groups will participate in the pre-celebration activities like designing wishing cards, experiencing cultural activities during recess and learning how to wish their teachers, peers or canteen vendors using the language of the ethnic group who are celebrating the festival.
 
 On the actual day, students get to view the concert that brings out the traditions and customs of the festivals.
+
+![](/images/Learning/Mother%20Tongue/WhatsApp%20Image%202021-10-27.jpeg)
+
+
+## MTL Fortnight
+
+Mother Tongue Fortnight
+
+The start of Term 2 is an exciting one, with Mother Tongue Fortnight activities engaging our students in their respective Mother Tongue Languages, and kindling their love for it.
+
+In a speech by Mr Lee Kuan Yew on 6 Sep 2011, he highlighted the importance of Mother Tongues, stating "We kept our original languages by our policy of bilingualism, allowing opportunities for people to study their respective mother tongues. This built a sense of belonging to their original roots and increased their self-confidence and self-respect."
+
+
+It is indeed essential for us to use our own MT language well, and stay rooted in our own culture, while embracing Singapore as a multicultural and multilingual society.
+
+The Mother Tongue Fortnight, an MOE initiative since 2011, serves as an apt reminder, that on top of daily Mother Tongue Language lessons, there is so much more we can do with the language that speaks of our identity.
+
+Like previous years, Mother Tongue Fortnight continues to have a wide range of activities in place for respective levels. Some activities include:
+
+All Levels: Creative Writing Competition / Penmanship Competition / Reading with Parents / Language & Cultural Games/ Meet the author session and many others.  
+
+P1 & P2: Poem Recitation & Singing    
+P3 & P4: Little Tour Guide of Singapore   
+P5 & P6: Advertisement
