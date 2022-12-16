@@ -35,3 +35,11 @@ Visual Art Jam! is a platform for all students to explore different art forms wi
   
 
 Through this platform, we hope to provide students with an alternative mode of self-expression of what they have learnt. To encourage and motivate students, our students’ masterpieces are displayed @ Art Star Interactive Corner. By displaying our students’ work, we want to recognise all students for their efforts, regardless of ability or talent.
+
+|   |   |
+|---|---|
+| <img src="/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20International%20Friendship%20Day%20Student%20at%20work.jpg" style="width:57%"> |  ![](/images/Learning/Visual%20Art/Visual%20Art%20Jam-%20Garden%20of%20Hope%20display.jpg) |
+
+|   |   |
+|---|---|
+|   |   |
