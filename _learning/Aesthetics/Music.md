@@ -53,3 +53,17 @@ The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in
 |:---:|:---:|
 | ![](/images/Learning/Music/Shining%20Artz%20Performance%202.jpg)  |  ![](/images/Learning/Music/Shining%20Artz%20Performance%201.jpg)     |
 |  ![](/images/Learning/Music/Shining%20Art%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
+
+
+**<u>Showtime!</u>**
+
+‘SHOWTIME!’ is one of our school’s platforms for our budding musicians to showcase their musical talents during recess. Students have the opportunity to showcase their talents and perform in front of their peers. Our students will audition to display their talents in dancing, singing and the playing of instruments. Through performing, it helps to develop the students to their fullest by igniting passion and inspiring excellence to perform even better at other platforms. Due to the current COVID safe management measures, singing performances are suspended. Instead, our students showcase their talents through non-vocal performances. As the saying goes, music heals our soul. Through the performers' short music pieces, they bring simple joy and cheer to their audiences, giving them a sense of normalcy in this pandemic.
+
+|   |   |
+|:---:|:---:|
+|   |   |
+
+
+|   |   |   |
+|:---:|:---:|:----:|
+|   |   |    |
