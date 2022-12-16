@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Citizenship & Character Education.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -15,3 +14,4 @@ collections:
       - Social Studies/Social Studies.md
       - Social Studies/National Education Events.md
       - Student Management.md
+      - Citizenship & Character Education.md
