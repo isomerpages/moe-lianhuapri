@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Information & Communications Technology.md
       - English.md
       - Mathematics.md
       - Science.md
