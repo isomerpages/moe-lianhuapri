@@ -86,3 +86,21 @@ With ‘Confidence in Life’, we hope that our students will be able to gain se
 
 <center>Figure 1 : Play, Passion, Purpose Framework</center>
 
+
+‘Play, Passion, Purpose’ is a school customised curriculum that includes school experiences in play, passion and purpose.
+
+1\.  School Experiences Through Play
+
+LHPS designs a school-based curriculum to let students learn through play. Play allows a child to learn to make sense of the world around them. Through play children can develop social and cognitive skills, mature emotionally, and gain the self-confidence required to engage in new experiences and environments. Programme for Active Learning (PAL) is one of the many ‘play experiences’ our students go through. PAL is a programme for our Primary One and Primary Two students which provides opportunities for students to discover new interests, develop character and enables them to develop social-emotional competencies.
+
+2\.  School Experiences Through Passion
+
+Passion Project is a student-centric tool which encourages the students to discover their passions, strengths and source of motivation. Every child is different and very few schools are able to reach out to the true potential of each child. Through this project, every child is given the opportunity to seek joyful learning by exploring their interests and discovering their passions. Through play, girls and boys in the school will experience different domains of learning, which include technology, arts, music, sports, nature, dance, languages and even mathematics.
+
+Making use of the new-found passions, passion-seekers are then challenged to go on a deep learning journey and to inspire others by sharing their passion and journey. Some of them actually went on to find a purpose by using their passions to make a difference to others. These challenges build on the child’s resilience and confidence.
+
+3\.  School Experiences with a Sense of Purpose (Volunteerism)
+
+Volunteerism is the word used by the school to encourage our students to create in life a mission to make a difference to others in a self-directed manner.
+
+In the previous years, students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Runninghour, the Marine Life Conservation, the Green Schools Projects, and the Community Outreach.
