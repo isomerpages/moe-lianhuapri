@@ -100,4 +100,4 @@ Our school also actively engages in various recycling programmes like Clean up @
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image53.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image55.jpg" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image57.jpg)  <center><i><b>Upcycling of Old T-shirts into tote bags	</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image72.jpg" style="width:100%"> <center><i><b>Waste to Craft</b></i></center>  |
