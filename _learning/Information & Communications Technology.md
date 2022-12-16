@@ -32,3 +32,9 @@ MOE rolled out Student iCON, which enables the use of Google Classroom, in 2021 
 Link to Student iCON: <a href="https://workspace.google.com/dashboard" target="_blank">https://workspace.google.com/dashboard</a>
 
 <a href="https://workspace.google.com/dashboard" target="_blank"><img src="/images/Learning/Ict/icon2.png" style="width:50%;  float: left; "></a><br clear="left">
+
+
+**Microsoft Office 365 ProPlus Apps for Student Personal Devices**  
+
+Microsoft Office 365 ProPlus apps are now available for students’ use on their personal devices. Students may now use their MIMS (Student iCON) account to activate the Microsoft Office 365 ProPlus on their personal devices.   
+For the installation guide, FAQs and the support team contact email address, you may refer to the link below: <a href="" target="_blank">Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf</a>
