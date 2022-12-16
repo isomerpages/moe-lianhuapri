@@ -4,6 +4,8 @@ permalink: /learning/aesthetics/visual-art/
 description: ""
 third_nav_title: Aesthetics
 ---
+
+
 # Visual Art
 
 |   |   |
@@ -54,3 +56,16 @@ In the Museum-based learning module, the P4 and P5 students learn about local co
 |---|---|
 | ![](/images/Learning/Visual%20Art/Museum%20based%20learning%20at%20National%20Gallery%20Singapore%20Social%20Table.jpg)  |   <img src="/images/Learning/Visual%20Art/MBL%202021-%20Virtual%20National%20Gallery%20Visit.jpg" style="width: 65%">  |
 
+
+**Digital Media Programme**
+
+Our P1 and P2 students undergo iPad photography lessons as part of their digital media module. In this learning experience, students explore different parts of the school environment to capture images using iPads. They then apply basic photo composition techniques and patterns. Students acquire SEL skills as they work together with peers to learn to take and review their photos. At the end of the module, students’ work would be exhibited in school.
+
+|   |   |   |
+|:---:|:---:|:---:|
+| ![](/images/Learning/Visual%20Art/Digital%20Media%20-%20P1%20Student%20at%20Science%20Garden.jpg)  | ![](/images/Learning/Visual%20Art/Student_s%20ipad%20photography%20work%20@Science%20Garden.jpg)   |  ![](/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden%20(2).jpg) |
+
+
+**<u>P1 & P2 Shining Artz Celebration</u>**
+
+The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Visual Art curriculum featuring artworks ranging from two-dimensional artworks- drawings to three-dimensional artworks – food plastiscines, and ICT works – iPad photography works from the Digital Media module. Selected student art leaders would serve as art emcees or art guides to introduce artworks and interview visitors. This is to provide students with similar roles and experience akin to the SYF Art Exhibition.
