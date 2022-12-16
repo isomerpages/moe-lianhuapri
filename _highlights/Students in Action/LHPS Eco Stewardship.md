@@ -70,7 +70,7 @@ Our students are also actively involved in environmental sustainability themed V
 
 <center><i><b>Litter-picking around neighbourhood and nature park near school</b></i></center>
 
-|  |        |
+|     |        |
 |:-----:|:------------------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image10.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image4.jpg" style="width:100%">  |
 
@@ -78,3 +78,10 @@ Our students are also actively involved in environmental sustainability themed V
 
 <center><i><b>Students made cards to present to our school attendants to show their appreciation to them</b></i></center>
 
+|     |        |
+|:-----:|:------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image15.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image5.jpg" style="width:100%">  |
+
+
+
+<center><i><b>Clean, dry and sparkling toilets</b></i></center>
