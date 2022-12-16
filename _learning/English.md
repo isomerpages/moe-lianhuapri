@@ -47,7 +47,7 @@ Keeping our students’ interest in mind, our school will continue to orchestrat
 
   
 
-Video on Oracy @ LIanhua:
+Video on Oracy @ LIanhua:    
 <a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
 **Storytelling**
@@ -70,3 +70,59 @@ Primary 4 students are trained in storytelling skills to enhance their public sp
 
 Storytelling Festival    
 <a href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
+
+**Debate**
+
+Debate lessons are carried out to enhance students’ critical thinking skills. Students discuss and research current issues presented in the Little Red Dot. Mini debate sessions were carried out in class where students indulge in a structured argument. Two sides speak alternately for and against a particular contention based on a topic presented in the Little Red Dot.
+
+![](/images/Learning/English/debate.jpeg)
+
+<center>A mini debate session from students of 5 Compassion</center>
+
+**<u>Learning Support Programme (LSP)</u>**
+
+The LSP is a specialised early intervention programme aimed at providing learning support to students who enter Primary 1 with weak literacy skills. Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they could access learning in the regular classroom.
+
+  
+
+The LSP is implemented by qualified teachers appointed by our school to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Students are supported daily for half an hour a day in groups of 8 to 10 students. Support continues in Primary 2 for students who need it.
+
+**<u>School-based Dyslexia Remediation Programme (SDR)</u>**
+
+The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also worked with the subject teachers and parents to closely monitor the students’ attendance and learning progress.
+
+  
+
+**<u>Reading Remediation Programme (RRP)</u>**
+
+The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.
+
+
+### Useful links  
+
+<a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a>   
+<a href="https://www.languagecouncils.sg/goodenglish/" target="_blank">https://www.languagecouncils.sg/goodenglish/</a>
+
+
+  
+
+### Our Team
+
+  
+
+1.  Mdm Juliswati Samad
+2.  Mdm Shanthini Radha Krishnan
+3.  Mr Matthew Chong
+4.  Mdm Norhani Sahar
+5.  Mr Hassan Mohideen
+6.  Mrs Goh-Ma Su Lin
+7.  Mdm Norlailawati Osman
+8.  Mdm Siti Nuraini Mustaqiim Yusof
+9.  Mrs Samantha Liew
+10.  Mr Ramadhan Omar
+11.  Ms Hussum Fatimah Syed Mohd
+12.  Ms Irnny Irianny Chuma’ing
+13.  Mdm Masrini Samsi
+14.  Mdm Jalifah Ismail
+15.  Ms Kong Kam Foong
+16.  Ms Rachel Koh
