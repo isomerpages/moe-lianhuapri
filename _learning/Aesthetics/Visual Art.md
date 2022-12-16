@@ -85,7 +85,7 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 
 |   |   |
 |---|---|
-| ![](/images/Learning/Visual%20Art/Ms%20Kiew%20with%20her%20Nagomi%20artpieces.jpeg)  | ![](/images/Learning/Visual%20Art/Virtual%20Nagomi%20Art%20Workshop.jpg)  |
+| <img src="/images/Learning/Visual%20Art/Ms%20Kiew%20with%20her%20Nagomi%20artpieces.jpeg" style="width: 45%">  | ![](/images/Learning/Visual%20Art/Virtual%20Nagomi%20Art%20Workshop.jpg)  |
 
 |   |   |
 |---|---|
