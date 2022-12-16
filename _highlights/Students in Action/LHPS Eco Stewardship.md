@@ -61,3 +61,14 @@ Form teachers also conduct other environmental awareness programmes, e.g. Youth 
 |  |        |
 |:-----:|:------------------------------:|
 |     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg" style="width:93%">  |
+
+Our students are also actively involved in environmental sustainability themed VIA projects annually like our Dengue Mobster outreach where students go to the community to educate the residents about dengue prevention. They also carry out litter-picking around our neighbourhood and the nearby nature parks. This project educates participants on the importance of environmental protection through their involvement in clearing litter in the neighbourhood. They learn the importance of keeping school and public toilets clean through the cleaning of the school toilets. Through these activities, they also learnt to appreciate our school attendants more. To show their appreciation to our school attendants, our students make cards to thank them for their hard work.
+
+|  |        |
+|:-----:|:------------------------------:|
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg" style="width:93%">  |
+
+
+
+
+<center><i><b>Litter-picking around neighbourhood and nature park near school</b></i></center>
