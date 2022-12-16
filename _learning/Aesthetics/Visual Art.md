@@ -4,8 +4,6 @@ permalink: /learning/aesthetics/visual-art/
 description: ""
 third_nav_title: Aesthetics
 ---
-
-
 # Visual Art
 
 |   |   |
@@ -69,3 +67,13 @@ Our P1 and P2 students undergo iPad photography lessons as part of their digital
 **<u>P1 & P2 Shining Artz Celebration</u>**
 
 The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Visual Art curriculum featuring artworks ranging from two-dimensional artworks- drawings to three-dimensional artworks – food plastiscines, and ICT works – iPad photography works from the Digital Media module. Selected student art leaders would serve as art emcees or art guides to introduce artworks and interview visitors. This is to provide students with similar roles and experience akin to the SYF Art Exhibition.
+
+
+|   |   |   |
+|:---:|:---:|:---:|
+| ![](/images/Learning/Visual%20Art/2019%20Shining%20Artz%20Celebrations-%20Art%20Guide%20sharing%20on%20photos.jpg)  | ![](/images/Learning/Visual%20Art/2019%20Shining%20Artz%20Celebration-%20Art%20Guides%20with%20P1%20self-portraits.jpg)   |  ![](/images/Learning/Visual%20Art/2019%20Shining%20Artz-%20Food%20plasticines%20exhibits.jpg) |
+
+**<u>Outreach Art Programmes</u>**
+
+
+Our school seeks to provide authentic and meaningful learning experiences to incorporate school values and the 21CC skills in our students through collaborations with external partners aligned with the school vision – Hearts of Service. In these collaborations, our students, teachers and School Leaders came forth to express their creativity and contribute art pieces which were displayed in external physical exhibition areas or virtual exhibitions to reach out to different audiences. In 2020, we collaborated with Ng Teng Fong General Hospital and National University Polyclinics to create 224 notes of appreciation for the frontline healthcare workers. In 2017-2019, we collaborated with Bukit Gombak Constituency to commemorate National Day- Plank Art Painting followed by P3 VIA Nagomi Art Project in 2021.
