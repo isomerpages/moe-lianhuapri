@@ -3,6 +3,7 @@ title: Information & Communications Technology
 permalink: /learning/information-n-communications-technology/
 description: ""
 ---
+# link broken: https://lianhuapri.moe.edu.sg/learning/ict
 # Information & Communications Technology
 
 **ICT Department Vision:**  Every child a self-directed and engaged digital learner by harnessing ICT.
