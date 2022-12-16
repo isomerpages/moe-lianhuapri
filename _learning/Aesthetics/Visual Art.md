@@ -81,7 +81,7 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 
 |   |   |
 |---|---|
-|  ![](/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Display%20opposite%20Bt%20Gombak%20MRT%20station.jpg) |  ![](/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Group%20Photo%20Planks%20and%20LHPS%20Family.jpg) |
+|  ![](/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Display%20opposite%20Bt%20Gombak%20MRT%20station.jpg) |  <img src="/images/Learning/Visual%20Art/2019%20Plank%20Art%20Painting-%20Group%20Photo%20Planks%20and%20LHPS%20Family.jpg" style="width: 45%">  |
 
 |   |   |
 |---|---|
