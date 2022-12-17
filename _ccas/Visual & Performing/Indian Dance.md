@@ -4,6 +4,7 @@ permalink: /ccas/visual-n-performing/indian-dance/
 description: ""
 third_nav_title: Visual & Performing
 ---
+# video embedding error for video: "Indian Dance 1"
 # Indian Dance
 
 ![](/images/CCAs/Indian%20Dance/Indian%20Dance.jpg)
@@ -15,7 +16,6 @@ The Lianhua Indian Dance has been a part of the Performing Arts for about 15 yea
 It also aims to develop dance skills among students from diverse racial groups and at the same time, allow students to express themselves gracefully through classical, folk and contemporary dance movements. It fosters values such as self discipline, unity, resilience, diligence and compassion as students are challenged with various dance techniques and forms.
 
 <center><iframe width="351" height="308" src="https://www.youtube.com/embed/UZfNbZzU3B8" title="Indian Dance 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
 
 <table>
 <thead>
