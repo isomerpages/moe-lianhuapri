@@ -56,3 +56,6 @@ c. Character and Citizenship Education (CCE)
 <p style="text-align: justify;">7. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate <i>changes</i>, build healthy relationships, especially online <i>relationships</i>, and exercise <i>safety</i>.</p>
 
 **At Lianhua Primary School, the following lessons from the Growing Years Programme will be taught in <u>2022</u>:**
+
+
+**<center>Primary 5</center>**
