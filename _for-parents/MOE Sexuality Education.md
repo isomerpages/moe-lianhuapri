@@ -85,3 +85,19 @@ c. Character and Citizenship Education (CCE)
 |      Friends or Foes?     | Are You Really My Friend?<br>(30 min) | • identify the pros and cons of forming relationships through social networking websites<br>• know ways to keep themselves safe when using social networking websites                                                                                                                                                                                                                                                                                                                                                         |   Term 2<br>Week 9<br>20 May 2022   |
 |                           |      Is It All Safe?<br>(30 min)      | • know that some information (like pornography) received through the Internet may be harmful<br>• know ways to keep themselves safe when using social networking websites or the Internet                                                                                                                                                                                                                                                                                                                                     |  Term 3<br><br>Week 1<br>1 Jul 2022 |
 |                           |         Main Task<br>(30 min)         | <center>Description of the Main Task:</center><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. |  Term 3<br><br>Week 1<br>1 Jul 2022 |
+
+
+#### Information for Parents
+
+  
+
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="" target="_blank">here</a>
+
+
+10\. Parents can contact the school at [lianhua\_ps@moe.edu.sg](mailto:lianhua_ps@moe.edu.sg) or call 65629502 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
