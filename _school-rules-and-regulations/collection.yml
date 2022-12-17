@@ -2,6 +2,7 @@ collections:
   school-rules-and-regulations:
     output: true
     order:
+      - School Attire.md
       - Code of Conduct.md
       - Safety & Security.md
       - Student Wellbeing.md
