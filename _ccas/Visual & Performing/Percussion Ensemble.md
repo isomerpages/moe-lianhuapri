@@ -47,3 +47,83 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 |   |   |
 |:-:|:-:|
 |  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg" style="width:75%"> | <img src="/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg" style="width:50%">  |
+
+Students' Voices
+----------------
+
+**BRUZO NATHANIEL CLYDE BIGLAEN P6 RESILIENCE**  
+
+  
+
+Initially, I was confused as to how to play with the mallets as I only knew how to play the piano. But over time, I learned to use the mallets to play the Marimba and Xylophone. I should say I am good at playing the instruments now.
+
+  
+
+**NUR IFFAH ZARIFAH BINTE RUZAINI P6 EXCELLENCE**
+
+  
+
+I have learnt to be patient when practising on the drum pad, as I had to take baby steps to master the drumming skills. Besides the friendly and helpful training instructor, I was grateful to my friend as well, who was always by my side to help me during our training sessions.
+
+  
+
+**NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID P6 COMPASSION**
+
+  
+
+I always look forward to the training sessions because it is fun playing the Marimba and practising on the drum pad. Although it could be tough learning to play the pieces, I had fun learning together with my friends. Our training instructor will explain to us in simple terms.
+
+  
+
+**BEH JUN HAO P5 COMPASSION**
+
+  
+
+I had a lot of fun playing the Marimba, Bass Drum and Drum Set together with my friends. I had also learned more about the musical terms and concepts and I enjoyed the training sessions very much.
+
+  
+
+**ILDEFONSO GREYSON TOBEY PONTE P5 COMPASSION**
+
+  
+
+I have learned to read musical notes and play a variety of instruments like the Bass Drum, Drums and Marimba. I have also exhibited values such as Resilience and Excellence by never giving up and playing the instruments to the best of my ability.
+
+Useful Links
+------------
+
+5 Steps to Using a Practice Pad
+
+[https://www.youtube.com/watch?v=6ChOzgjgSts](https://www.youtube.com/watch?v=6ChOzgjgSts)
+
+  
+
+House of Sound - drums and percussion
+
+[https://www.youtube.com/watch?v=LbedzMj8B4U](https://www.youtube.com/watch?v=LbedzMj8B4U)
+
+  
+
+THE PERCUSSION FAMILY
+
+[https://www.youtube.com/watch?v=unAxsRqtckU](https://www.youtube.com/watch?v=unAxsRqtckU)
+
+  
+
+Crash Cymbals 2: Playing Techniques / Vic Firth Percussion 101
+
+[https://www.youtube.com/watch?v=OdYU7RA-IA4](https://www.youtube.com/watch?v=OdYU7RA-IA4)
+
+  
+
+Fantaisie de Bali'84
+
+[https://youtu.be/InTh5UH85VQ](https://youtu.be/InTh5UH85VQ)
+
+  
+
+Fanfare to the Future : Fantasie de Bali '84
+
+[https://youtu.be/DKKRqwyBbco](https://youtu.be/DKKRqwyBbco)
+
+## The Team
