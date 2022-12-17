@@ -29,3 +29,52 @@ Our school participated in the SYF Art competition this year and submitted artwo
 |    |       |
 |:----:|:----:|
 |  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_3.jpg)   Our P3 and P4 club members working on their artwork.  |  <img src="/images/CCAs/Art%20&%20Crafts%20Club/Training%20photos%203.jpg" style="width:55%">  Our Category C team working on their artwork. |
+
+![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_4.jpg)  
+
+<center>Our winning entry for Category A SYF Art Competition 2021.</center>
+
+## National Day 2021 Nagomi Art
+
+**<u>National Day Nagomi Art</u>**
+
+Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by the PAssionArts in collaboration with the Bukit Gombak Constituency and Hill View Community Club. Our students spent their Saturday afternoon creating beautiful Nagomi Art in conjunction with National Day 2021 celebrations.
+
+![](/images/CCAs/Art%20&%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png)
+
+
+## Achievements
+
+| Year | Achievements                                                                                  | Award |
+|------|-------------------------------|-------|
+| 2021 | Singapore Youth Festival Art Competition – Category A(Special Mention)<br>"No Tech, No Life!" | Merit |
+
+
+## Students’ Voices
+
+<u>Sebastian Tea Zhi Jun – 2 Diligence 2021</u>
+
+"SYF was very exciting as I can create lots of new art pieces from modelling clay and transforming them into human figures. I am so happy that my group artwork is selected for this year’s Special Mention. I am so proud of my teammates too.”
+
+  
+
+<u>Liu Jianing – Primary 4 Unity 2021</u>
+
+"SYF was very fun. I learned teamwork as I shared materials with my friends and we worked well together making the sculpture."
+
+<u>Goh Shu En Amelia – 4 Resilience 2021</u>
+
+"As the team leader in my group, I feel happy about collaborating with my other team members, brainstorming sessions while experiencing the art-making process. I get to experience different art processes using different materials that I have not used before. It was so exciting and enriching.”
+
+
+<u>Julia Hui – 5 Diligence 2021</u>
+
+"SYF was very exciting as I could create lots of new art pieces based on the theme ‘Technology’. We worked in small groups to brainstorm for ideas and eventually created a giant I-Pad sculpture that looked fantastic.”
+
+## The Team
+
+|   |   |
+|:---:|:---:|
+|   |   |
+|   |   |
+|   |   |
