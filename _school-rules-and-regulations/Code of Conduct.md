@@ -54,3 +54,16 @@ All students are expected to wear the school uniform and the PE attire on days w
 |   |   |
 |:-:|:-:|
 |  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_3.jpg" style="width:60%">  |  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_4.jpg" style="width:60%"> |
+
+
+1\.  Jewellery or ornaments are not allowed.
+2\.  Girls who have their ears pierced should only use one simple stud of gold or silver for each ear.
+3\.  Fingernails must be kept short and clean.
+4\.  Nail varnish is not allowed.
+5\.  Putting on make-up is not permitted.
+
+**Hair (Boys)**
+
+|   |   |   |
+|:----:|:----:|:----:|
+| ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-1.jpg)  |  ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-2.jpg)   |   <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-3.jpg" style="width:94%">  |
