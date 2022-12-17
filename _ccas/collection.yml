@@ -2,8 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Uniformed Groups/Scouts.md
-      - Uniformed Groups/.keep
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Football.md
@@ -11,3 +9,5 @@ collections:
       - Clubs & Societies/.keep
       - Clubs & Societies/Science Club.md
       - Clubs & Societies/Robotics Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
