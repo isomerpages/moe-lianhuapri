@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Resources.md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
@@ -12,3 +11,4 @@ collections:
       - School Info/School Dental.md
       - School Info/Student Care Centre.md
       - MOE Sexuality Education.md
+      - Resources.md
