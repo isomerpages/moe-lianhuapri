@@ -77,4 +77,4 @@ Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by t
 |:---:|:---:|
 | ![](/images/CCAs/Art%20&%20Crafts%20Club/Mdm%20Lee%20Gim%20Fang.jpg)  Mdm Lee Gim Fang (Advisor)  |  ![](/images/CCAs/Art%20&%20Crafts%20Club/Mdm%20Azizah%20Bte%20Mohd%20Ali.jpg) Mdm Azizah Mohd Ali (Teacher i/c) |
 | ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Maggie%20Fong%20Pui%20Yi.jpg)  Mdm Maggie Fong (2nd Teacher i/c) |   ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Chen%20Yimeng.jpg)  Ms Vivian Chen  |
-| ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Chua%20Yi%20Ling.jpg)  Mrs Ho Yi Ling (2021) | ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Chiong%20Liling%20Alena.jpg)   Ms Alena Chion (wef July 2021)  |
+| ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Chua%20Yi%20Ling.jpg)  Mrs Ho Yi Ling (2021)<br>MR WILLIE WONG<br>MRS TAN JYE EN | ![](/images/CCAs/Art%20&%20Crafts%20Club/Ms%20Chiong%20Liling%20Alena.jpg)   Ms Alena Chion (wef July 2021)<br> MR SAMUEL WONG <br> MRS TAN JYE EN |
