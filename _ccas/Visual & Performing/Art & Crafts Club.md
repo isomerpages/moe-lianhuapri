@@ -24,8 +24,8 @@ Our school participated in the SYF Art competition this year and submitted artwo
 
 |     |     |
 |:-:|:-:|
-| ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_1.jpg)  |  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_2.jpg)   |
+|<img src="/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_1.jpg" style="width:80%"> Our Category A members in action. |  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_2.jpg) Our Category B team members handling the materials.  |
 
-
+|    |       |
 |:----:|:----:|
-| ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_3.jpg)   |    |
+|  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_3.jpg)     |  ![](/images/CCAs/Art%20&%20Crafts%20Club/Training%20photos%203.jpg)  |
