@@ -167,3 +167,10 @@ I have experienced a wonderful 2 years in the robotics CCA. It has helped me imp
 
 *   SCRATCH (Scratch Programming)    
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" target="_blank">https://scratch.mit.edu/projects/editor/?tutorial=getStarted</a>
+
+
+## The Team
+
+|   |   |   |   |
+|:-:|:-:|:-:|:---:|
+|  ![](/images/CCAs/Robotics%20Club/MRS%20ALEXIS%20PUA.jpg)  MRS ALEXIS PUA |  ![](/images/CCAs/Robotics%20Club/MR%20LIM%20SOON%20WEI.jpg)  MR LIM SOON WEI  |  ![](/images/CCAs/Robotics%20Club/MS%20CHOO%20YEN%20LENG.jpg)  MS CHOO YEN LENG  |  ![](/images/CCAs/Robotics%20Club/MDM%20KONG%20KAM%20FOONG.jpg)  MDM KONG KAM FOONG |
