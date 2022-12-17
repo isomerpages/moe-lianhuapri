@@ -38,3 +38,20 @@ Members creatively design and build robots and mechanisms in their teams. Member
 <img src="/images/CCAs/Robotics%20Club/Working%20together%20to%20build%20a%20robot%20in%20their%20team.jpg" style="width:50%">
 
 <center>Working together to build a robot in their team</center>
+
+
+#### VEX Robotics Competitions
+
+Members participated and competed in various competitions. They develop problem solving skills, leadership capabilities and team spirit as they work together towards common goals. Members exercise self-discipline as they set goals and keep to the timeline in the preparation for competitions, persevere and strive for excellence.
+
+![](/images/CCAs/Robotics%20Club/Singapore%20VRC%20National%20Championship%20(2020).jpeg)
+
+<center>Singapore VRC National Championship (2020)</center>
+
+![](/images/CCAs/Robotics%20Club/Singapore%20VEX%20Robotics%20Championship%202019%20(June).jpg)
+
+<center>Singapore VEX Robotics Championship 2019 (June)</center>
+
+![](/images/CCAs/Robotics%20Club/Singapore%20VEX%20Robotics%20Championship%202019%20Team%20Alliance.jpg)
+
+<center>Singapore VEX Robotics Championship 2019 Team Alliance – Working together with other school teams</center>
