@@ -28,4 +28,4 @@ Our school participated in the SYF Art competition this year and submitted artwo
 
 |    |       |
 |:----:|:----:|
-|  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_3.jpg)     |  <img src="/images/CCAs/Art%20&%20Crafts%20Club/Training%20photos%203.jpg" style="width:45%">   |
+|  ![](/images/CCAs/Art%20&%20Crafts%20Club/SYF%202021_3.jpg)   Our P3 and P4 club members working on their artwork.  |  <img src="/images/CCAs/Art%20&%20Crafts%20Club/Training%20photos%203.jpg" style="width:55%">  Our Category C team working on their artwork. |
