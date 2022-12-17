@@ -62,3 +62,34 @@ Due to Covid-19 and the need to adhere to the safety management guidelines, the 
 |      | National Inter-School Basketball Competition <br>(Junior Boys) |   2nd Runner Up  |
 | 2017 |       West Zone Basketball Championship<br>(Senior Boys)       |   2nd Runner Up  |
 |      |       West Zone Basketball Championship<br>(Junior Boys)       |   2nd Runner Up  |
+
+**<center>Students’ Voices</center>**
+
+**RYAN TU RUILIN Primary 6 2021**
+
+During CCA training, we learn more than just playing basketball. There were times when teachers and coaches scolded us, and I always take those as constructive feedback. I understood the intention of teachers and coaches in reprimanding us due to the high expectation set for us to be better. Hence, I never feel demoralized or sad every time I get scolded. I had a lot of fun when we had CCA training. Whether it is the training, getting punished for our mistakes, we often do it together as a team. Together these form good memories that I will never forget. Even during the pandemic, we managed to have online CCAs. My CCA has not only helped me improve my skills in basketball, but it has also improved my leadership skills. It has also taught me to be more independent. I have learnt to respect everyone regardless of their background. My CCA has molded me into the person that I am today, and for that, I am really grateful.
+
+**CHEN HONGXUAN Primary 6 2021**
+
+My experience in the basketball CCA was fun and exciting, we learned a lot about teamwork as we need teamwork to win! The training was tough but enjoyable at the same time, my other teammates always cracked jokes and made us laugh. We can also make new friends with other school players when we participate in competitions. Playing basketball is more than just mastering the skills. Friendships are made and sound values have been acquired at the same time.
+
+  
+
+**ANDY ZHENG YONGJIE Primary 6 2021**
+
+I used to play basketball for recreation. However, joining the basketball CCA allowed me to play basketball competitively. I have learnt a lot of values and skills in the process. I have improved after joining basketball CCA. The teachers and coaches have also helped me to think critically and gain a better understanding of basketball techniques and tactics. Basketball is such a great sport to play even if it is played at leisure. The best choice I have made in my primary school is to join basketball CCA and I will never regret it.
+
+####   
+Useful Links
+
+How To Dribble A Basketball For Beginners! Basketball Basics
+
+[https://www.youtube.com/watch?v=CMQp0bwjokw](https://www.youtube.com/watch?v=CMQp0bwjokw)
+
+Shooting Basics (how to shoot a basketball)
+
+[https://www.youtube.com/watch?v=nqqw\_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start\_radio=1&rv=nqqw\_hYT4QM&t=15](https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15)
+
+The Lay Up | Basketball
+
+[https://www.youtube.com/watch?v=q4IqeXob\_qg](https://www.youtube.com/watch?v=q4IqeXob_qg)
