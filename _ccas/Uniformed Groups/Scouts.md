@@ -29,3 +29,7 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
   
 
 **Trend** – We are trending towards more HBL (Home-based Learning) sessions. Some of the eCCA highlights are, Good Deed Day Project (VDD) and Virtual Hiking. In the VDD project, Scouts submitted good deeds, such as maintaining household cleanliness, supporting friends among many others. The Scouts went for Virtual Hiking, gave feedback on what suitable attire to wear during hiking for example. All these are done via platforms such as the SLS, Padlets, Zoom, Filmorago and many more in the future
+
+|   |   |
+|:-:|:-:|
+|  ![](/images/CCAs/Scouts/Self-reflection%20through%20Artwork.jpg)  Self-reflection | ![](/images/CCAs/Scouts/Groceries%20for%20the%20people.jpg)  Groceries for the people.  |
