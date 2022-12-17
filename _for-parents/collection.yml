@@ -2,6 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - School Info/School Hours & Recess Timings.md
-      - School Info/.keep
       - Homework Policy.md
+      - School Info/.keep
+      - School Info/School Hours & Recess Timings.md
