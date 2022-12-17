@@ -48,3 +48,17 @@ Great power comes with great responsibilities. CCA members will render help in m
 **P1 CCAs Experiences**
 
 Due to Covid-19 and the need to adhere to the safety management guidelines, the P1 CCAs Experience was conducted online. Senior Boys Basketball Captain Jayden Chew would like to invite basketball lovers from P1 to join us for training and have fun together.
+
+**<center>Achievements</center>**
+
+| Year |                           Competition                          |       Award      |
+|:----:|:--------------------------------------------------------------:|:----------------:|
+| 2021 |         National School Games cancelled due to Covid-19        |         -        |
+| 2020 |         National School Games cancelled due to Covid-19        |         -        |
+| 2019 |                West Zone Basketball Championship               |   Quarter-Final  |
+|      |          National Junior Boys Basketball Championship          | Group B Champion |
+| 2018 |       West Zone Basketball Championship<br>(Senior Boys)       |  3 rd  Runner Up |
+|      |       West Zone Basketball Championship<br>(Junior Boys)       |   2nd Runner Up  |
+|      | National Inter-School Basketball Competition <br>(Junior Boys) |   2nd Runner Up  |
+| 2017 |       West Zone Basketball Championship<br>(Senior Boys)       |   2nd Runner Up  |
+|      |       West Zone Basketball Championship<br>(Junior Boys)       |   2nd Runner Up  |
