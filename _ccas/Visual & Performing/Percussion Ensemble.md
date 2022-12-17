@@ -94,3 +94,9 @@ Fanfare to the Future : Fantasie de Bali '84
 <a href="https://youtu.be/DKKRqwyBbco" target="_blank">https://youtu.be/DKKRqwyBbco</a>
 
 ## The Team
+
+
+|   |   |
+|:-:|:-:|
+|  ![](/images/CCAs/Percussion%20Ensemble/Mrs%20Tay%20Peck%20San.jpg)  Mrs Tay Peck San | ![](/images/CCAs/Percussion%20Ensemble/Mdm%20Koh%20Wan%20Ting.jpg)  Mdm Koh Wan Ting  |
+|  ![](/images/CCAs/Percussion%20Ensemble/Ms%20Lin%20Jun.jpg) Ms Lin Jun  | ![](/images/CCAs/Percussion%20Ensemble/Mdm%20Kuan%20Suan%20Shi.jpg)   Mdm Juan Suan Shi |
