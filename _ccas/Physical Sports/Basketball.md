@@ -18,7 +18,11 @@ At Lianhua Primary School, Basketball CCA is more than just a platform for stude
 
 <center><b>Experience</b></center>
 
+![](/images/CCAs/Basketball/COMPETITION%20PHOTO%203.jpg)
+
 
 **Competition**
 
 Selected players will represent Lianhua to participate in the Annual National Sports Games. Players learn how to win sportingly and lose with dignity. In the meantime, they also learn to exhibit Olympian Values such as respect, excellence and friendship in the competition.
+
+![](/images/CCAs/Basketball/Friendly%20match.jpg)
