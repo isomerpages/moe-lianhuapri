@@ -56,10 +56,10 @@ All students are expected to wear the school uniform and the PE attire on days w
 |  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_3.jpg" style="width:60%">  |  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_4.jpg" style="width:60%"> |
 
 
-1\.  Jewellery or ornaments are not allowed.
-2\.  Girls who have their ears pierced should only use one simple stud of gold or silver for each ear.
-3\.  Fingernails must be kept short and clean.
-4\.  Nail varnish is not allowed.
+1\.  Jewellery or ornaments are not allowed.  
+2\.  Girls who have their ears pierced should only use one simple stud of gold or silver for each ear.  
+3\.  Fingernails must be kept short and clean.  
+4\.  Nail varnish is not allowed.  
 5\.  Putting on make-up is not permitted.
 
 **Hair (Boys)**
@@ -67,3 +67,23 @@ All students are expected to wear the school uniform and the PE attire on days w
 |   |   |   |
 |:----:|:----:|:----:|
 | ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-1.jpg)  |  ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-2.jpg)   |   <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Boys)-3.jpg" style="width:94%">  |
+
+
+1\.  Hair must be short and neatly combed.   
+2\.  Hair must be cropped at the back, gently sloping down to reach the neck.   
+3\.  Outlandish hairstyles are strictly prohibited.   
+4\.  The fringe must not touch the eyebrows when combed down.   
+5\.  Hair must not reach the eyebrows, ears or the shirt collar.   
+6\.  Hair must not be dyed or highlighted.   
+7\.  No moustache, beard or sideburns is allowed.
+
+**Hair (Girls)**
+
+|   |   |   |
+|:----:|:---:|:---:|
+| ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-1.jpg)  |   ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-2.jpg)  |  ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-3.jpg)   |
+
+
+|   |   |   |
+|:----:|:---:|:---:|
+| ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-4.png)  |   ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-5.png)  |  ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-6.png)   |
