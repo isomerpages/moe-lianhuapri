@@ -28,7 +28,7 @@ description: ""
 
   
 
-You may click [here](https://beta.moe.gov.sg/programmes/sexuality-education/) for more information on MOE Sexuality Education.
+You may click <a href="https://beta.moe.gov.sg/programmes/sexuality-education/" target="_blank">here</a> for more information on MOE Sexuality Education.
 
   
 
