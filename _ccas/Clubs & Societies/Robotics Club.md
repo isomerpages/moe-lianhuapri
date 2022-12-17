@@ -31,10 +31,10 @@ Members creatively design and build robots and mechanisms in their teams. Member
 
 |   |   |
 |:-:|:-:|
-| ![](/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design1.jpg)  |  ![](/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design2.jpg)   |
+| ![](/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design1.jpg)  |  <img src="/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design2.jpg" style="width:75%">   |
 
 <center>Showcasing and sharing about robot design</center>
 
-![](/images/CCAs/Robotics%20Club/Working%20together%20to%20build%20a%20robot%20in%20their%20team.jpg)
+<img src="/images/CCAs/Robotics%20Club/Working%20together%20to%20build%20a%20robot%20in%20their%20team.jpg" style="width:50%">
 
 <center>Working together to build a robot in their team</center>
