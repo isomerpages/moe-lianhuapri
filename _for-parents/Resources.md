@@ -44,7 +44,7 @@ Primary 5 & 6
   
 2022 P6 Parents Briefing [P6 Parents Briefing 2022](https://lianhuapri.moe.edu.sg/qql/slot/u493/Parents%20Briefing/PARENTS%20brief%202022/P6%20Parents%20Briefing%202022_PDF.pdf)  
   
-2022 P5 & P6 Parents Briefing ( Tamil Language)  [P5 P6 2022\_TL](/files/Resources/%20%20P5%20%20P6%202022_TL_PDF.pdf)  
+2022 P5 & P6 Parents Briefing ( Tamil Language)  [P5 P6 2022\_TL](/files/Resources/P5%20P6%202022_TL_PDF.pdf)
   
 2022 P5 & P6 Parents Briefing ( Chinese Language) [Chinese Language\_P5 P6 2022\_CL](/files/Resources/Chinese%20Language_P5%20%20P6%202022_CL_PDF.pdf)  
   
