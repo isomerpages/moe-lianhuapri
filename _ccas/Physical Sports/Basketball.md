@@ -97,4 +97,4 @@ The Lay Up | Basketball
 
 |   |   | 
 |:-:|:-:|
-|  <img src="/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg" style="width:45%">  MR TAN CHIN CHUAN |  <img src="/images/CCAs/Basketball/TAN%20JYE%20EN.jpg" style="width:50%"> MRS TAN JYE EN   |
+|  <img src="/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg" style="width:50%">  MR TAN CHIN CHUAN |  <img src="/images/CCAs/Basketball/TAN%20JYE%20EN.jpg" style="width:50%"> MRS TAN JYE EN   |
