@@ -88,9 +88,9 @@ All students are expected to wear the school uniform and the PE attire on days w
 |:----:|:---:|:---:|
 | ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-4.png)  |   ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-5.png)  |  ![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Hair%20(Girls)-6.png)   |
 
-1\.  Girls with hair touching the collar must tie it up neatly with dark blue/black hair accessories ensuring that the fringe does not touch the eyebrows or is pinned up at all times
-2\.  Girls with short hair must also keep the fringe short or pin it up.
-3\.  Hair must not be dyed or highlighted.
+1\.  Girls with hair touching the collar must tie it up neatly with dark blue/black hair accessories ensuring that the fringe does not touch the eyebrows or is pinned up at all times   
+2\.  Girls with short hair must also keep the fringe short or pin it up.   
+3\.  Hair must not be dyed or highlighted.   
 4\.  Hair extension and punky hairstyles are strictly prohibited.
 
 #### Offences and Consequences
