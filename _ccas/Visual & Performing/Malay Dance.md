@@ -10,7 +10,8 @@ third_nav_title: Visual & Performing
 |:-:|:-:|
 |  <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_1.jpg" style="width:92%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_2.jpg)   |
 
-<img src="/images/Announcements/3241389-200.png" style="width:50%">
+
+
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_3.jpg) |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_4.jpg)   |
+|  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_3.jpg) | <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_4.jpg" style="width:85%">   |
