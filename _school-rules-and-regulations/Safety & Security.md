@@ -25,24 +25,16 @@ Parents/Guardians who wish to come into the school to visit the General Office S
 | Tuesdays and Thursdays:      | 7.30am to 9.30am; 11am to 12.30pm and<br>2.30pm to 5.30pm |
   
 
-3\.  CARS ENTERING SCHOOL PREMISES
+3\.  CARS ENTERING SCHOOL PREMISES   
 
-<u>Dropping off in the Morning</u>
-
+<u>Dropping off in the Morning</u>   
 Cars are allowed to come into the school compound to drop off the children in the morning before 7.30am. They should leave immediately and no parking/waiting is allowed. Parents are only allowed to drive into the school to pick up their children from the front porch after 1.45pm or when all the schoo buses have left (whichever is earlier).
 
-  
-
-Picking Up After School
-
-1st pick up at 1.45pm
-
+<u>Picking Up After School</u>   
+1st pick up at 1.45pm   
 For the safety of our students, only school buses are allowed into the school between 1.30pm to 1.45pm. Parents may park their cars at the HDB carpark opposite the school.
 
-  
-
-2nd pick up at 4.15pm
-
+2nd pick up at 4.15pm   
 Parents are only allowed to drive into the school to pick up their children from the front pouch after 4.15pm or when all the school buses have left (whichever is earlier).
 
   
@@ -57,7 +49,7 @@ You can help by familiarising yourself with the designated evacuation route and 
 
   
 
-Once the evacuation alarm goes off
+<u>Once the evacuation alarm goes off</u>
 
 *   Stop all activities and keep quiet.
 *   Do not panic.
@@ -66,14 +58,14 @@ Once the evacuation alarm goes off
 *   Line up in 2 lines outside the classroom. DO NOT take anything with you.
 *   Close the classroom doors.
 
-During evacuation
+<u>During evacuation</u>
 
 *   Proceed quickly to the assembly area in an orderly manner using the designated evacuation route.
 *   Do not attempt anything that will endanger your life, for example, putting out the fire.
 *   Do not take the life. Use the stairs.
 *   Do not run back to your classroom to look for your missing classmates.
 
-At the assembly area
+<u>At the assembly area</u>
 
 *   Wait quietly for your teacher to take attendance.
 *   Do not try to look for your classmates if you discover any of them missing.
@@ -91,20 +83,20 @@ When the school’s lightning warning system is activated, all outdoor activitie
 
 **General Safety Guidelines**
 
-School Canteen
+<u>School Canteen</u>
 
 *   Visit the school canteen only during recess and lunch time.
 *   Queue for food and drinks in the canteen in an orderly manner
 *   All food and drinks must be consumed in the school canteen or in class during snack time only.
 *   No running and playing is allowed in the school canteen.
 
-School Hall & Indoor Sports Hall
+<u>School Hall & Indoor Sports Hall</u>
 
 *   Do not go to the school hall or the indoor sports hall without permission. All activities carried out in the halls should be in the presence of a teacher.
 *   Keep the halls clean at all time. No eating or drinking is allowed.
 *   Do not use or move the sports and PE equipment in the halls without the permission.
 
-Science Rooms
+<u>Science Rooms</u>
 
 *   Do not enter or work in the Science Room unless a teacher is present.
 *   Do not take apparatus or chemicals out of the Science Room without the permission of the teacher.
@@ -114,19 +106,19 @@ Science Rooms
 *   Inform your teacher immediately should there be any injuries or accidents.
 *   Wash your hands thoroughly after all practical work.
 
-Special Rooms
+<u>Special Rooms</u>
 
 *   Do not enter the special rooms without permission. All students entering the special rooms must be accompanied by a teacher.
 *   No eating or drinking is allowed in the special rooms.
 
-Toilets
+<u>Toilets</u>
 
 *   Use the toilets responsibly.
 *   Do not waste water or toilet paper unnecessary.
 *   Keep the toilet clean and dry at all times.
 *   Do not play in the toilets.
 
-Sports Venues & Play Areas
+<u>Sports Venues & Play Areas</u>
 
 *   Practise play safety by being alert and obey instructions at all times.
 *   Speak up if you notice any dangerous play or potential dangers to yourself and your school mates.
@@ -135,7 +127,7 @@ Sports Venues & Play Areas
 *   Handle sports equipment with care. Ensure safety at all times when using the equipment.
 *   Inform teachers immediately should any equipment be faulty.
 
-School Gardens and Outdoor Areas
+<u>School Gardens and Outdoor Areas</u>
 
 *   The school gardens allow our students to appreciate nature in the outdoors. Practise play safety by being alert and obey instructions at all times.
 *   Speak up if you notice any dangerous play or potential dangers to yourself and your school mates.
@@ -144,7 +136,7 @@ School Gardens and Outdoor Areas
 *   Keep away from potential danger. Do not play near the ponds.
 *   Keep the gardens clean at all times. Do not litter.
 
-Road Safety
+<u>Road Safety</u>
 
 *   Cross the road at the Zebra Crossing, or use other proper pedestrian crossings.
 *   Do not run on the streets.
