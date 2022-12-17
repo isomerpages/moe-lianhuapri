@@ -93,7 +93,7 @@ The Lay Up | Basketball
 
 |   |   |   |
 |:-:|:-:|:-:|
-| <img src="/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg" style="width:85%"> MR YAO HUA SONG | <img src="/images/CCAs/Basketball/WILLIE%20WONG.jpg" style="width:80%"> MR WILLIE WONG |  ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg) MR SAMUEL WONG  |
+| <img src="/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg" style="width:65%"> MR YAO HUA SONG | <img src="/images/CCAs/Basketball/WILLIE%20WONG.jpg" style="width:60%"> MR WILLIE WONG |  ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg) MR SAMUEL WONG  |
 
 |   |   | 
 |:-:|:-:|
