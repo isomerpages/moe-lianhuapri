@@ -8,7 +8,7 @@ third_nav_title: Visual & Performing
 
 |   |   |   |
 |:-:|:-:|:-:|
-| ![](/images/CCAs/Percussion%20Ensemble/training%20session%201.jpg)  |  ![](/images/CCAs/Percussion%20Ensemble/training%20session%202.jpg)   | ![](/images/CCAs/Percussion%20Ensemble/training%20session%203.jpg)    |
+| <img src="/images/CCAs/Percussion%20Ensemble/training%20session%201.jpg" style="width:58%">  |  ![](/images/CCAs/Percussion%20Ensemble/training%20session%202.jpg)   | <img src="/images/CCAs/Percussion%20Ensemble/training%20session%203.jpg" style="width:67%">    |
 
 
 The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.
