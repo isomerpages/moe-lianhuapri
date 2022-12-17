@@ -114,3 +114,47 @@ Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCA
 
 
 <center><span style = "color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
+
+
+**<center>Achievements</center>**
+
+| Year |    Competition         |            Award         |
+|:----:|:--------------:|:----------:|
+| 2021 | National Robotics Competition<br>(CoderZ Coding Challenge) |                          -                          |
+| 2020 |       Singapore VRC National Championship<br>(VEX IQ)      |                   Excellence Award                  |
+|      |                                                            |                     Design Award                    |
+| 2019 |       Singapore VEX Robotics Championship<br>(VEX IQ)      |            Driver’s Skills Award (Silver)           |
+|      |                                                            |        Primary Division School Award (Bronze)       |
+|      |                                                            |                     Judges Award                    |
+| 2018 |         Singapore VEX Robotics Championship (SVRC)         |          1st in Programming Challenge (VEX)         |
+|      |                                                            |         2nd in Robot Skills Challenge (VEX)         |
+|      |                                                            |         3rd in Robot Skills Challenge (VEX)         |
+|      |                                                            |         3rd in Primary School Division (VEX)        |
+|      |                                                            |             3rd in Team Alliance (VEXIQ)            |
+|      |                                                            |                 Judges Award (VEXIQ)                |
+| 2017 |             Singapore VEX Robotics Championship            |                     Energy Award                    |
+|      |                                                            |            1 st in Team Alliance (VEX IQ)           |
+|      |                                                            |            3 rd in Team Alliance (VEX IQ)           |
+|      |                                                            | VEX IQ Programming Skills Challenge<br>(Gold Award) |
+|      |                                                            |        1 st in Primary School Division (VEX)        |
+|      |                                                            |                  Judges Award (VEX)                 |
+|      |                National Robotics Competition               |                          -                          |
+
+
+**<center>Students’ Voices</center>**
+
+**DAYAN SOH Primary 5 2021**
+
+It was a fruitful experience working with my peers and racking our brains to solve a problem. This experience is not only beneficial to our future, but is also a good experience of being in a competition. It allows me to have an idea of what I might expect to face in other similar competitions, further boosting the chances of me learning more about robotics programming. Finally, it allows me to strengthen the bonds between my friends and me.
+
+  
+
+**MEGHNA RAJESH PRABHU Primary 4 2021**
+
+I love coding. When I code, I often feel as if I am on cloud nine. Robotics has always fascinated me. Robotics involves mathematics, science and computer science, which I love. I encourage people who love these three subjects to join Robotics. You will love it.
+
+  
+
+**ANIKA NAIR RAMESH Primary 4 2021**
+
+I have experienced a wonderful 2 years in the robotics CCA. It has helped me improve my problem solving skills. It has also given me a chance to explore deeply about robots. The teachers are helpful and supportive. They have helped me a lot through my process of learning. After attending the NRC competition on 7 September 2021 l became richer in knowledge. All I would like to say is that for me personally l have thoroughly enjoyed my 2 years in the Robotics CCA.
