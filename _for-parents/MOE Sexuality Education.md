@@ -95,7 +95,7 @@ c. Character and Citizenship Education (CCE)
 
   
 
-9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="" target="_blank">here</a>
+9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://go.gov.sg/sexuality-education-opt-out-annex-a" target="_blank">here</a>
 
 
 10\. Parents can contact the school at [lianhua\_ps@moe.edu.sg](mailto:lianhua_ps@moe.edu.sg) or call 65629502 for discussion or to seek clarification about the school’s sexuality education programme.
