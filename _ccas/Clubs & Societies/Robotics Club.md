@@ -158,3 +158,12 @@ I love coding. When I code, I often feel as if I am on cloud nine. Robotics has 
 **ANIKA NAIR RAMESH Primary 4 2021**
 
 I have experienced a wonderful 2 years in the robotics CCA. It has helped me improve my problem solving skills. It has also given me a chance to explore deeply about robots. The teachers are helpful and supportive. They have helped me a lot through my process of learning. After attending the NRC competition on 7 September 2021 l became richer in knowledge. All I would like to say is that for me personally l have thoroughly enjoyed my 2 years in the Robotics CCA.
+
+## Useful Links
+
+*   VR.VEX.com (Vex VR Portal)    
+<a href="https://vr.vex.com/" target="_blank">https://vr.vex.com/</a>
+
+
+*   SCRATCH (Scratch Programming)    
+<a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" target="_blank">https://scratch.mit.edu/projects/editor/?tutorial=getStarted</a>
