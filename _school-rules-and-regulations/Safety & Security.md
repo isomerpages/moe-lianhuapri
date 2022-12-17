@@ -27,7 +27,7 @@ Parents/Guardians who wish to come into the school to visit the General Office S
 
 3\.  CARS ENTERING SCHOOL PREMISES
 
-Dropping off in the Morning
+<u>Dropping off in the Morning</u>
 
 Cars are allowed to come into the school compound to drop off the children in the morning before 7.30am. They should leave immediately and no parking/waiting is allowed. Parents are only allowed to drive into the school to pick up their children from the front porch after 1.45pm or when all the schoo buses have left (whichever is earlier).
 
