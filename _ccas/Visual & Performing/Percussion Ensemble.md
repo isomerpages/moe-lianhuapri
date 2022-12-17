@@ -43,3 +43,7 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 |   |   |   |
 |:-:|:-:|:-:|
 | <img src="/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg" style="width:83%">  |  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg" style="width:83%">  |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)  |
+
+|   |   |
+|:-:|:-:|
+|  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg" style="width:75%"> | <img src="/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg" style="width:50%">  |
