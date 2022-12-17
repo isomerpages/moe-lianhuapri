@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Homework Policy.md
+      - School Info/School Rules & Regulations.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
