@@ -30,15 +30,15 @@ description: ""
 *   Help students nurture their talents, build peer and teacher relationships, as well as provide additional support and engage students meaningfully after school.
 *   Exposure to activities beyond the curriculum that students have demonstrated an interest in.
 
-![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_4.jpg)
+<img src="/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_4.jpg" style="width:50%">
 
 <center>Learning something new takes lots of concentration</center>
 
-![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_5.jpg)
+<img src="/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_5.jpg" style="width:50%">
 
 <center>Using colours to uplift spirits!</center>
 
-![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_6.jpg)
+<img src="/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_6.jpg" style="width:50%">
 
 <center>Learning the basic chords of a ukulele</center>
 
