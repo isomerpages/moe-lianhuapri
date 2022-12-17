@@ -55,3 +55,62 @@ Members participated and competed in various competitions. They develop problem 
 ![](/images/CCAs/Robotics%20Club/Singapore%20VEX%20Robotics%20Championship%202019%20Team%20Alliance.jpg)
 
 <center>Singapore VEX Robotics Championship 2019 Team Alliance – Working together with other school teams</center>
+
+
+#### 2021 NRC CoderZ Coding Challenge
+
+In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competition. Members code their virtual robots to accomplish tasks in a fun and engaging manner while developing their computational thinking and creative problem-solving skills.
+
+![](/images/CCAs/Robotics%20Club/Completing%20CoderZ%20Robo%20Golf%20mission.jpg)
+
+<center>Completing CoderZ Robo Golf mission</center>
+
+![](/images/CCAs/Robotics%20Club/Completing%20CoderZ%20Disco%20Blocks%20mission.jpg)
+
+<center>Completing CoderZ Disco Blocks mission</center>
+
+<iframe width="711" height="510" src="https://www.youtube.com/embed/3eZNB4mCK5s" title="SolvingRoboGolfMission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Completed CoderZ Robo Golf mission</center>
+
+
+#### VR.VEX Programming
+
+During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the codes and programs created by members using SCRATCH.
+
+
+<iframe width="711" height="512" src="https://www.youtube.com/embed/Wl2nQVKNpfQ" title="Coral Reef Cleanup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Controlling a VR Robot to clean up a coral reef<br>(Collect as much trash as possible before the batteries run out of power)</center>
+
+![](/images/CCAs/Robotics%20Club/Drawing%20different%20beautiful%20drawings%20with%20a%20robot.jpg)
+
+<center>Drawing different beautiful drawings with a robot.</center>
+
+<iframe width="711" height="512" src="https://www.youtube.com/embed/1wH62dnql5g" title="Wall Maze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Controlling a VR Robot to navigate through a maze</center>
+
+#### SCRATCH Programming
+
+During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the games and programs created by members using SCRATCH.
+
+
+<iframe width="711" height="512" src="https://www.youtube.com/embed/vHYdHl4EIYw" title="Ping Pong Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Score as many points as possible in this Ping Pong Ball Game</center>
+
+<iframe width="711" height="511" src="https://www.youtube.com/embed/c-9JqcP9cOI" title="Balloon Popping Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Pop the balloons in this Balloon Popping Game</center>
+
+<iframe width="711" height="512" src="https://www.youtube.com/embed/YieFV2I31I4" title="Robotics CCA Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**_<u>Promotion of CCA Video</u>_**
+
+**P1 CCAs Experiences**
+
+Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCAs Experience is conducted online. Dayan Soh, Chairperson of Robotics Club, and Kavin, Vice-chairperson of Robotics Club would like to invite robotics lovers from P1 to join us and have fun!
+
+
+<center><span style = "color: #B42025"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
