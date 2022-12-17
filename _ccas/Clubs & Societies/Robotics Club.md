@@ -173,4 +173,4 @@ I have experienced a wonderful 2 years in the robotics CCA. It has helped me imp
 
 |   |   |   |   |
 |:-:|:-:|:-:|:---:|
-|  ![](/images/CCAs/Robotics%20Club/MRS%20ALEXIS%20PUA.jpg)  MRS ALEXIS PUA |  <img src="/images/CCAs/Robotics%20Club/MR%20LIM%20SOON%20WEI.jpg" style="width:60%">  MR LIM SOON WEI  |  <img src="/images/CCAs/Robotics%20Club/MS%20CHOO%20YEN%20LENG.jpg" style="width:60%">  MS CHOO YEN LENG  |  <img src="/images/CCAs/Robotics%20Club/MDM%20KONG%20KAM%20FOONG.jpg" style="width:60%">  MDM KONG KAM FOONG |
+|  ![](/images/CCAs/Robotics%20Club/MRS%20ALEXIS%20PUA.jpg)  MRS ALEXIS PUA |  <img src="/images/CCAs/Robotics%20Club/MR%20LIM%20SOON%20WEI.jpg" style="width:60%">  MR LIM SOON WEI  |  <img src="/images/CCAs/Robotics%20Club/MS%20CHOO%20YEN%20LENG.jpg" style="width:60%">  MS CHOO YEN LENG  |  <img src="/images/CCAs/Robotics%20Club/MDM%20KONG%20KAM%20FOONG.jpg" style="width:58%">  MDM KONG KAM FOONG |
