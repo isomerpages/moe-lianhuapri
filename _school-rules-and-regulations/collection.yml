@@ -2,6 +2,6 @@ collections:
   school-rules-and-regulations:
     output: true
     order:
-      - Student Wellbeing.md
       - Code of Conduct.md
       - Safety & Security.md
+      - Student Wellbeing.md
