@@ -52,3 +52,19 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 |   |   |
 |:-:|:-:|
 |  <img src="/images/CCAs/Scouts/Good%20Deed%20Day%20Project.jpeg" style="width:42%">   Cub Scout tidied up his sister’s room (HBL) |       ![](/images/CCAs/Scouts/Teacher%20brought%20Cub%20Scouts%20for%20a%20Virtual%20Hiking%20video%20session%20(HBL).jpg)  Teacher brought Cub Scouts for a<br>Virtual Hiking video session (HBL) |
+
+
+#### From Scout Teachers!
+
+Hassan Mohideen (2nd IC)   
+Mohammad Faizal   
+Samantha Lee (Scout Advisor)   
+Siti Aishah   
+Subathra   
+Zainul Shaffee (IC)   
+Rachel Ang
+
+<iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="711" height="509" src="https://www.youtube.com/embed/zNdVKmt2A8s" title="Scouts CCA 2021 Rev B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
