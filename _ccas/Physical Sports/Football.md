@@ -62,33 +62,29 @@ I still remember when I made a last pass to Gahan during a game and he managed t
 
 ## Useful Links
 
-Dynamic Exercises That You Can Do At Home by Solvpro:
+Dynamic Exercises That You Can Do At Home by Solvpro:   
+<a href="https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet" target="_blank">https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet</a>
 
-[https://www.instagram.com/p/CTkkJX\_ILSI/?utm\_medium=share\_sheet](https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet)
+The Ultimate 15 Minutes Bodyweight Workout for Footballers/ Soccer Players:    
+<a href="https://youtu.be/U8-nEDEAgos" target="_blank">https://youtu.be/U8-nEDEAgos</a>
 
-The Ultimate 15 Minutes Bodyweight Workout for Footballers/ Soccer Players:
 
-[https://youtu.be/U8-nEDEAgos](https://youtu.be/U8-nEDEAgos)
+10 Minute Core Workout for Football Players/ Strength and Conditioning Training:    
+<a href="https://youtu.be/h9s5sIdZe0g" target="_blank">https://youtu.be/h9s5sIdZe0g</a>
 
-10 Minute Core Workout for Football Players/ Strength and Conditioning Training:
+20 Minute HIIT Workout for Footballers:    
+<a href="https://youtu.be/PkFwmoBu8RM" target="_blank">https://youtu.be/PkFwmoBu8RM</a>
 
-[https://youtu.be/h9s5sIdZe0g](https://youtu.be/h9s5sIdZe0g)
+The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:      
+<a href="https://youtu.be/X9f_c6LHoTI" target="_blank">https://youtu.be/X9f_c6LHoTI</a>
 
-20 Minute HIIT Workout for Footballers:
 
-[https://youtu.be/PkFwmoBu8RM](https://youtu.be/PkFwmoBu8RM)
+20 Minutes Home Workout for Footballers:     
+<a href="https://youtu.be/VguvE8aiWd4" target="_blank">https://youtu.be/VguvE8aiWd4</a>
 
-The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:
+10 Minutes Home Workout for Footballers:    
+<a href="https://youtu.be/fXvTV6DnpaE" target="_blank">https://youtu.be/fXvTV6DnpaE</a>
 
-[https://youtu.be/X9f\_c6LHoTI](https://youtu.be/X9f_c6LHoTI)
-
-20 Minutes Home Workout for Footballers:
-
-[https://youtu.be/VguvE8aiWd4](https://youtu.be/VguvE8aiWd4)
-
-10 Minutes Home Workout for Footballers:
-
-[https://youtu.be/fXvTV6DnpaE](https://youtu.be/fXvTV6DnpaE)
 
 ## The Team
 
