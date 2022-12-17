@@ -5,12 +5,9 @@ description: ""
 ---
 # Code of Conduct
 
-Purpose
--------
+## Purpose
 
 In Lianhua Primary School, our students are expected to adhere by our school rules and regulations.
-
-  
 
 The school rules and regulations state clearly the boundaries of acceptable conduct in school. Enforcement of school rules and regulations are done with the intention of teaching the students to uphold acceptable standards of behaviour.
 
@@ -42,3 +39,8 @@ The school rules and regulations state clearly the boundaries of acceptable cond
 #### Attire & Appearance
 
 All students are expected to wear the school uniform and the PE attire on days when they have PE lessons. Any modification to the uniform is not allowed.
+
+
+![](/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_1.jpg)
+
+<center>Name tags above the school crest<br>Plain black socks above the ankle<br>Plain black shoes without any coloured stripes or design</center>
