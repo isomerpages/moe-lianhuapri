@@ -138,5 +138,5 @@ Hip Hop For Beginners- 5 Basic Moves
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Modern%20Dance/Peir.jpg)  Mdm Lee Peir Chuang (Mrs Loke) | <img src="/images/CCAs/Modern%20Dance/87_9545.jpg" style="width:50%">   Mdm Tan Xiao Hui  |
-|  <img src="/images/CCAs/Modern%20Dance/P_42_9665.jpg" style="width:50%">  Mdm Liu Chang | ![](/images/CCAs/Modern%20Dance/hoshueyun.jpg)   Mdm Ho Sheu Yun |
+|  ![](/images/CCAs/Modern%20Dance/Peir.jpg)  Mdm Lee Peir Chuang (Mrs Loke) | <img src="/images/CCAs/Modern%20Dance/87_9545.jpg" style="width:73%">   Mdm Tan Xiao Hui  |
+|  <img src="/images/CCAs/Modern%20Dance/P_42_9665.jpg" style="width:60%">  Mdm Liu Chang | ![](/images/CCAs/Modern%20Dance/hoshueyun.jpg)   Mdm Ho Sheu Yun |
