@@ -179,8 +179,6 @@ When I knew I was selected as a leader in Indian dance I was delighted and surpr
 
 ## The Team
 
-Mrs Jean Jesudass
-
-Ms B Reqha Trixie
-
+Mrs Jean Jesudass   
+Ms B Reqha Trixie   
 Ms Arshvini d/o Manohar
