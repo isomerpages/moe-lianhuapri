@@ -67,6 +67,6 @@ I have joined the club as my CCA since Primary 3. Besides taking part in the clu
 
 |   |   |
 |:-:|:-:|
-|   |   |
-|   |   |
-|   |   |
+|  ![](/images/CCAs/Science%20Club/Mdm%20Ruth%20Lai.jpg)  Mdm Ruth Lai |  ![](/images/CCAs/Science%20Club/Ms%20Wok.jpg) Ms Elizabeth Wok |
+| ![](/images/CCAs/Science%20Club/Mrs%20Brenda%20Sin.jpg)  Mrs Brenda Sin |   ![](/images/CCAs/Science%20Club/Mrs%20Nonis.jpg) Mrs Monis |
+|  ![](/images/CCAs/Science%20Club/Mdm%20Dayana.jpg) Mrs Dayana  |  ![](/images/CCAs/Science%20Club/Mdm%20Masrini.jpg) Mrs Masrini   |
