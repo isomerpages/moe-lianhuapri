@@ -3,6 +3,8 @@ title: Resources
 permalink: /for-parents/resources/
 description: ""
 ---
+# 2023 P1 Orientation 19 Nov 2022, P2 Parent Briefing 28 Jan 2022, P3-6 Parents Briefing 2022 >5MB
+
 # Resources
 
 Primary 1
@@ -51,4 +53,3 @@ Primary 5 & 6
 2022 P5 & P6 Parents Briefing ( Malay Language) [Taklimat Ibu Bapa P5 P6 2022\_ML](https://lianhuapri.moe.edu.sg/qql/slot/u493/Parents%20Briefing/PARENTS%20brief%202022/Taklimat%20Ibu%20Bapa%20P5%20%20P6%202022_ML_PDF.pdf)  
   
 2022 P5 & P6 Parents’ Briefing on PSLE Scoring, S1 Posting & DSA [2022 P5\_P6 Parents Briefing on DSA.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/Briefing%20Slides/2022%20P5_P6%20Parents%20Briefing%20on%20DSA.pdf)
-
