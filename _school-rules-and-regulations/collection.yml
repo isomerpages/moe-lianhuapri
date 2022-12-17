@@ -2,7 +2,7 @@ collections:
   school-rules-and-regulations:
     output: true
     order:
-      - National Anthem & Pledge.md
       - Code of Conduct.md
       - Safety & Security.md
       - Student Wellbeing.md
+      - National Anthem & Pledge.md
