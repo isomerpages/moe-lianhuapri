@@ -14,16 +14,16 @@ description: ""
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_1.jpg)
 
-P6 students with one of their termly treats and motivational stickers
+<center>P6 students with one of their termly treats and motivational stickers</center>
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_2.jpg)
 
-Students listening attentively to the advice of their seniors from Hillgrove Secondary School.
+<center>Students listening attentively to the advice of their seniors from Hillgrove Secondary School.</center>
 
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_3.jpg)
 
-Making our own stress balls
+<center>Making our own stress balls</center>
 
 #### Lifting Hearts
 
@@ -32,15 +32,15 @@ Making our own stress balls
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_4.jpg)
 
-Learning something new takes lots of concentration
+<center>Learning something new takes lots of concentration</center>
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_5.jpg)
 
-Using colours to uplift spirits!
+<center>Using colours to uplift spirits!</center>
 
 ![](/images/School%20Info/School%20Rules%20&%20Regulations/Student%20Wellbeing/Student%20Wellbeing_6.jpg)
 
-Learning the basic chords of a ukulele
+<center>Learning the basic chords of a ukulele</center>
 
 
 #### P5 & P6 Class Talks
