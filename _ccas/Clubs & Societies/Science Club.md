@@ -23,5 +23,5 @@ At Cool Science Club, our members are encouraged to be curious about their world
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Garden%201.jpg) |   |
-|   |   |
+|  ![](/images/CCAs/Science%20Club/Garden%201.jpg) Exploring the Science Garden  | ![](/images/CCAs/Science%20Club/Plant%20Tissue%202.jpg) Plant Tissue Culturing experience |
+| ![](/images/CCAs/Science%20Club/Plant%20Tissue%201.jpg)  Data collection and results tabulation |   |
