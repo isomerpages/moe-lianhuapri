@@ -16,3 +16,5 @@ description: ""
 ## National Pledge:
 
 <center>We, the citizens of Singapore,<br>pledge ourselves as one united people,<br>regardless of race, language or religion,<br>to build a democratic society<br>based on justice and equality<br>so as to achieve happiness, prosperity<br>and progress for our nation.</center>
+
+<iframe width="711" height="509" src="https://www.youtube.com/embed/vU0BA_c28mw" title="Pledge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
