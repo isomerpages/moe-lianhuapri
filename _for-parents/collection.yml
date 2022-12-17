@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - School Info/.keep
       - Homework Policy.md
