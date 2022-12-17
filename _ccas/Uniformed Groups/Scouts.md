@@ -42,3 +42,13 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 |   |   |
 |:-:|:-:|
 | ![](/images/CCAs/Scouts/Learn%20To%20March.jpg)   Marching |  <img src="/images/CCAs/Scouts/Scout%20Leaders%20sort,%20pack,%20distribute%20unforms%20for%20jnrs.jpg" style="width:35%">   Seniors sorted, packed and distributed uniforms to Juniors. |
+
+
+|   |   |
+|:-:|:-:|
+| ![](/images/CCAs/Scouts/ND%20Flag%20Raising%20Rehearsal.jpg) ND flag raising rehearsal |  <img src="/images/CCAs/Scouts/Teacher%20attended%20%20cooking%20lesson.jpg" style="width:53%">   Teacher attended outdoor cooking lesson  |
+
+
+|   |   |
+|:-:|:-:|
+|  ![](/images/CCAs/Scouts/Good%20Deed%20Day%20Project.jpeg)   Cub Scout tidied up his sister’s room (HBL) |       Teacher brought Cub Scouts for a<br>Virtual Hiking video session (HBL) |   
