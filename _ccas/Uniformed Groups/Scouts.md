@@ -51,4 +51,4 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Scouts/Good%20Deed%20Day%20Project.jpeg)   Cub Scout tidied up his sister’s room (HBL) |       Teacher brought Cub Scouts for a<br>Virtual Hiking video session (HBL) |   
+|  <img src="/images/CCAs/Scouts/Good%20Deed%20Day%20Project.jpeg" style="width:42%">   Cub Scout tidied up his sister’s room (HBL) |       ![](/images/CCAs/Scouts/Teacher%20brought%20Cub%20Scouts%20for%20a%20Virtual%20Hiking%20video%20session%20(HBL).jpg)  Teacher brought Cub Scouts for a<br>Virtual Hiking video session (HBL) |
