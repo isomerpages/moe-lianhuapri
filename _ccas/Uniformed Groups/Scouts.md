@@ -33,3 +33,12 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 |   |   |
 |:-:|:-:|
 |  ![](/images/CCAs/Scouts/Self-reflection%20through%20Artwork.jpg)  Self-reflection |   <img src="/images/CCAs/Scouts/Groceries%20for%20the%20people.jpg" style="width:85%">  Groceries for the people.  |
+
+|   |   |
+|:-:|:-:|
+|  ![](/images/CCAs/Scouts/Pitching%20Tents.jpg)  Pitching Tents |  ![](/images/CCAs/Scouts/Scout%20Skills%20-%20Map%20Reading%20(Theory).jpg) Map Reading (Theory)  |
+
+
+|   |   |
+|:-:|:-:|
+| ![](/images/CCAs/Scouts/Learn%20To%20March.jpg)   Marching |  ![](/images/CCAs/Scouts/Scout%20Leaders%20sort,%20pack,%20distribute%20unforms%20for%20jnrs.jpg)  Seniors sorted, packed and distributed uniforms to Juniors. |
