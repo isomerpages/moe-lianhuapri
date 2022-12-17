@@ -8,4 +8,4 @@ third_nav_title: Clubs & Societies
 
 |   |   |
 |:-:|:-:|
-|   |   |
+|  ![](/images/CCAs/Robotics%20Club/Students%20programming%20for%20robot%20at%20computer%20lab.jpg) | ![](/images/CCAs/Robotics%20Club/Students%20at%20work%20-%20building%20robot.jpg)  |
