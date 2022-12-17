@@ -7,7 +7,4 @@ description: ""
 
 ## National Anthem:
 
-<center>Mari kita rakyat Singapura<br>Sama-sama menuju bahagia<br>Cita-cita kita yang mulia
-Berjaya Singapura<br>Marilah kita bersatu
-Dengan semangat yang baru<br>Semua kita berseru
-Majulah Singapura<br>Majulah Singapura</center>
+<center>Mari kita rakyat Singapura<br>Sama-sama menuju bahagia<br>Cita-cita kita yang mulia<br>Berjaya Singapura<br>Marilah kita bersatu<br>Dengan semangat yang baru<br>Semua kita berseru<br>Majulah Singapura<br>Majulah Singapura</center>
