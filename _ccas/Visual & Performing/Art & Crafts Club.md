@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing
 ---
 # Art & Crafts Club
 
-
+![](/images/CCAs/Art%20&%20Crafts%20Club/Art%20%20Crafts%20Club.jpg)
 
 <center>Our Art Club session in progress.</center>
 
