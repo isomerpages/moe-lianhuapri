@@ -25,3 +25,12 @@ We aim to challenge our dancers with varied dance techniques and different dance
 ## Experiences
 
 Members have been given opportunities to display their talents through various school concerts and community events held by the Grassroots Organisation (e.g. Chinese New Year celebrations) and competitions.
+
+
+![](/images/CCAs/Chinese%20Dance/6R6A8076.jpg)
+
+![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-1.jpg)
+
+![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-2.jpg)
+
+![](/images/CCAs/Chinese%20Dance/IMG_0623.jpg)
