@@ -110,3 +110,6 @@ Hi everyone, I am Bogwang from 6 Resilience and I am the captain of the school v
 ## <center>The Team</center>
 
 
+**Additional Resources**   
+**Video on volleyball children for trainings and competition:**   
+<a href="https://www.youtube.com/watch?v=QD-19uNnG-c" target="_blank">https://www.youtube.com/watch?v=QD-19uNnG-c</a>
