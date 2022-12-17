@@ -28,3 +28,18 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 <iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
+
+## Achievements
+
+|                      |                   |               |
+|--------------|--------------|---------------|
+| Event (Singing Festival)                              | Performance venue | Repertoire (LHPS self-composed songs) |
+| Stars of Hope (2018)                                  | School            | 爱我联华 (Love my Lianhua)            |
+| A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
+
+
+<center>Video Coming Soon</center>
+
+|   |   |   |
+|:-:|:-:|:-:|
+| <img src="/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg" style="width:83%">  |  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg" style="width:83%">  |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)  |
