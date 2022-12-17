@@ -14,3 +14,6 @@ description: ""
 
 *   The proper school attire is shown below. Wear the prescribed uniform. Modifications to the uniform are not allowed.
 *   Name Tags are to be sewn onto the uniform and PE attire above the school badge.
+
+
+![](/images/School%20Info/School%20Rules%20&%20Regulations/School%20Attire/School_Attire.jpg)
