@@ -20,7 +20,9 @@ If the school does not receive any consent from the parents/guardians before the
 Parents/Guardians who wish to come into the school to visit the General Office Staff or their children are to obtain a pass from the security guard before they proceed to the General Office for further assistance. Students will meet their parents in the General Office. Visiting of teachers are solely by appointment only.
 
   
-
+| Allocated time for visiting: |                                |
+|------------------|-----------------------|
+| Tuesdays and Thursdays:      | 7.30am to 9.30am; 11am to 12.30pm and<br>2.30pm to 5.30pm |
   
 
 3\.  CARS ENTERING SCHOOL PREMISES
