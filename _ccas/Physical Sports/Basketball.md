@@ -26,3 +26,25 @@ At Lianhua Primary School, Basketball CCA is more than just a platform for stude
 Selected players will represent Lianhua to participate in the Annual National Sports Games. Players learn how to win sportingly and lose with dignity. In the meantime, they also learn to exhibit Olympian Values such as respect, excellence and friendship in the competition.
 
 ![](/images/CCAs/Basketball/Friendly%20match.jpg)
+
+**Friendly matches**
+
+Friendly matches with schools are always organized on an annual basis to provide an avenue for members to build confidence and foster strong bonds with each other. It also serves as a platform for coaches and teachers to select the school team members.
+
+![](/images/CCAs/Basketball/VIA%201.jpg)
+
+|   |   |
+|:-:|:-:|
+| ![](/images/CCAs/Basketball/VIA%202.jpg)  |  ![](/images/CCAs/Basketball/VIA%204.jpg) |
+
+**VIA through Basketball**
+
+Great power comes with great responsibilities. CCA members will render help in maintaining the school environment regularly and providing assistance to community when the need arises..
+
+<iframe width="718" height="522" src="https://www.youtube.com/embed/GhH6Wye5Nq4" title="CCA EXPERIENCE   SPORTS BASKETBALL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**_<u>Promotion of CCA Video</u>_**
+
+**P1 CCAs Experiences**
+
+Due to Covid-19 and the need to adhere to the safety management guidelines, the P1 CCAs Experience was conducted online. Senior Boys Basketball Captain Jayden Chew would like to invite basketball lovers from P1 to join us for training and have fun together.
