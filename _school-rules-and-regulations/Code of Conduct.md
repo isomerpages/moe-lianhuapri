@@ -44,3 +44,8 @@ All students are expected to wear the school uniform and the PE attire on days w
 <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_1.jpg" style="width:50%">
 
 <center>Name tags above the school crest<br>Plain black socks above the ankle<br>Plain black shoes without any coloured stripes or design</center>
+
+
+<img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_2.png" style="width:50%">
+
+<center>Upturned collar<br>Untucked T-shirt<br>Skirt’s length near kneecap</center>
