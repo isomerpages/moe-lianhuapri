@@ -1,4 +1,5 @@
 collections:
   school-rules-and-regulations:
     output: true
-    order: []
+    order:
+      - Code of Conduct.md
