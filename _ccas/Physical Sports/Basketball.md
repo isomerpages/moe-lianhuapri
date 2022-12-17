@@ -93,8 +93,8 @@ The Lay Up | Basketball
 
 |   |   |   |
 |:-:|:-:|:-:|
-| ![](/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg) MR YAO HUA SONG | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) MR WILLIE WONG |  ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg) MR SAMUEL WONG  |
+| <img src="/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg" style="width:85%"> MR YAO HUA SONG | <img src="/images/CCAs/Basketball/WILLIE%20WONG.jpg" style="width:80%"> MR WILLIE WONG |  ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg) MR SAMUEL WONG  |
 
 |   |   | 
 |:-:|:-:|
-|  <img src="/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg" style="width:50%">  MR TAN CHIN CHUAN |  ![](/images/CCAs/Basketball/TAN%20JYE%20EN.jpg) MRS TAN JYE EN   |
+|  <img src="/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg" style="width:45%">  MR TAN CHIN CHUAN |  <img src="/images/CCAs/Basketball/TAN%20JYE%20EN.jpg" style="width:50%"> MRS TAN JYE EN   |
