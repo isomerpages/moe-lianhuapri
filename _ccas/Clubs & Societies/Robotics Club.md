@@ -113,4 +113,4 @@ During eCCA Zoom sessions, members continue to learn programming using various s
 Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCAs Experience is conducted online. Dayan Soh, Chairperson of Robotics Club, and Kavin, Vice-chairperson of Robotics Club would like to invite robotics lovers from P1 to join us and have fun!
 
 
-<center><span style = "color: #B42025"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
+<center><span style = "color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
