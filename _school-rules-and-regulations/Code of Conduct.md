@@ -49,3 +49,8 @@ All students are expected to wear the school uniform and the PE attire on days w
 <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_2.png" style="width:50%">
 
 <center>Upturned collar<br>Untucked T-shirt<br>Skirt’s length near kneecap</center>
+
+
+|   |   |
+|:-:|:-:|
+|  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_3.jpg" style="width:60%">  |  <img src="/images/School%20Info/School%20Rules%20&%20Regulations/Code%20of%20Conduct/Attire_4.jpg" style="width:60%"> |
