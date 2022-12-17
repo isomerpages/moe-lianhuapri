@@ -2,8 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Visual & Performing/Chinese Dance.md
-      - Visual & Performing/.keep
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Football.md
@@ -13,3 +11,5 @@ collections:
       - Clubs & Societies/Robotics Club.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Scouts.md
+      - Visual & Performing/.keep
+      - Visual & Performing/Chinese Dance.md
