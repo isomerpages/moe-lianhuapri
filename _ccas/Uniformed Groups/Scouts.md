@@ -32,4 +32,4 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Scouts/Self-reflection%20through%20Artwork.jpg)  Self-reflection | ![](/images/CCAs/Scouts/Groceries%20for%20the%20people.jpg)  Groceries for the people.  |
+|  ![](/images/CCAs/Scouts/Self-reflection%20through%20Artwork.jpg)  Self-reflection |   <img src="/images/CCAs/Scouts/Groceries%20for%20the%20people.jpg" style="width:85%">  Groceries for the people.  |
