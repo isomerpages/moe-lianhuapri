@@ -79,17 +79,11 @@ My experience in the basketball CCA was fun and exciting, we learned a lot about
 
 I used to play basketball for recreation. However, joining the basketball CCA allowed me to play basketball competitively. I have learnt a lot of values and skills in the process. I have improved after joining basketball CCA. The teachers and coaches have also helped me to think critically and gain a better understanding of basketball techniques and tactics. Basketball is such a great sport to play even if it is played at leisure. The best choice I have made in my primary school is to join basketball CCA and I will never regret it.
 
-####   
-Useful Links
+####  Useful Links   
 
-How To Dribble A Basketball For Beginners! Basketball Basics
-
-[https://www.youtube.com/watch?v=CMQp0bwjokw](https://www.youtube.com/watch?v=CMQp0bwjokw)
-
-Shooting Basics (how to shoot a basketball)
-
-[https://www.youtube.com/watch?v=nqqw\_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start\_radio=1&rv=nqqw\_hYT4QM&t=15](https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15)
-
-The Lay Up | Basketball
-
-[https://www.youtube.com/watch?v=q4IqeXob\_qg](https://www.youtube.com/watch?v=q4IqeXob_qg)
+How To Dribble A Basketball For Beginners! Basketball Basics    
+<a href="https://www.youtube.com/watch?v=CMQp0bwjokw" target="_blank">https://www.youtube.com/watch?v=CMQp0bwjokw</a>    
+Shooting Basics (how to shoot a basketball)   
+<a href="https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15" target="_blank">https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15</a>    
+The Lay Up | Basketball    
+<a href="https://www.youtube.com/watch?v=q4IqeXob_qg" target="_blank">https://www.youtube.com/watch?v=q4IqeXob_qg</a>    
