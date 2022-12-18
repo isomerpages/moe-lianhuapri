@@ -2,8 +2,8 @@ collections:
   potential-parents-and-students:
     output: true
     order:
-      - Featured Superheroes (Head Prefects).md
       - Everyday Superheroes.md
       - Superheroes of Learning.md
       - Superheroes of Character.md
       - Superheroes of Leadership.md
+      - Featured Superheroes (Head Prefects).md
