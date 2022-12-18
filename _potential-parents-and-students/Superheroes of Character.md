@@ -49,7 +49,7 @@ At Lianhua, we believe that a person’s values will ultimately pave his/her pat
 </table>
 
 
-## Licayu Faith Alvarez
+## Qidran Najmi Bin Shahrin
  
 <table>
 <thead>
@@ -60,8 +60,8 @@ At Lianhua, we believe that a person’s values will ultimately pave his/her pat
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Learning/faith.png" style="width:4000px">  </td>
-    <td> <p style="text-align: justify;">English is the language that all subjects except Mother Tongue are taught with. Hence, it is important to have a strong foundation in it. What happens when you are unable to read well? Faith once faced this problem. Through the Buddy Reading Programme, she was able to overcome her difficulties in reading and in turn paid it forward by becoming a Buddy Reader herself. Faith says that having struggled to read well, she could understand how her buddy felt and remember how challenging some words were to read. She made went the extra mile to ensure that her pronunciation for those words were accurate before guiding her buddy. It is also because she had once wrestled with reading that Faith is especially patient with her buddy, repeating the words with her buddy tirelessly until he was able to pronounce the word accurately. Well done, Faith!</p></td>
+    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Character/Qidran.jpg" style="width:4000px">  </td>
+    <td> <p style="text-align: justify;">Like Fikrisya, Qidran has always been nominated for the STAR award. Despite facing personal difficulties as a child, he was able to overcome them and be a role model for his peers. Qidran managed to strike a good balance between being respectful and being able to liven up the atmosphere in class. This helped the other students in class learn self-discipline and self-management. Qidran also cared deeply for the people around him, especially his classmates. One of his new classmates had difficulty adjusting to the school environment, so Qidran reached out to him and befriended him. This gave his classmate the confidence to be the best that he could be and to assimilate into the Lianhua culture. In spite of his hectic schedule revolving around the CORE team, his CCAs and his academics, Qidran always found time to lend a helping hand to those in need—even to those in the neighbourhood. During the weeks leading up to the National Day celebrations, even though he was hard at work preparing for his preliminary examinations, when Qidran spotted a member of the RC struggling to put up banners and flags for the celebrations, Qidran led his friends to help out. Qidran has truly personified our school values! As a result, in 2021, Qidran became the Student of the Year.</p></td>
   </tr>
 </tbody>
 </table>
