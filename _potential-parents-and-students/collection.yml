@@ -1,4 +1,5 @@
 collections:
   potential-parents-and-students:
     output: true
-    order: []
+    order:
+      - Everyday Superheroes.md
