@@ -2,5 +2,6 @@ collections:
   lhps:
     output: true
     order:
+      - faq.md
       - privacy.md
       - Useful Links.md
