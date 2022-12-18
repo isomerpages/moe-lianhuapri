@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Assessments & Examinations/Schedule.md
       - Assessments & Examinations/.keep
       - Homework Policy.md
       - School Info/.keep
