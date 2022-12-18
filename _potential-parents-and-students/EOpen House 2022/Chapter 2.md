@@ -34,28 +34,20 @@ Find out more about our students' passions here:
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Highlights of Passion Project" src="https://www.youtube.com/embed/c_fzn99tSBQ" height="315" width="560"></iframe></center>
 
 
+**MTL Young Journalist Programme**
 
-MTL Young Journalist Programme
-
-The MTL Young Journalist Programme was introduced in 2014, with the focus of providing authentic experiences for students to learn and to use Chinese Language. They manage challenges that come their way in their pursuit of knowledge and learn to be comfortable in ambiguous situations. Since then, Young Journalists have embarked on an exciting journey of interviewing, news reporting and in-house publishing. These skills are aligned to our school’s Vision: Minds of Inquiry, Joy in Learning and Confidence in Life.&nbsp;
-
-  
+<p style="text-align: justify;">The MTL Young Journalist Programme was introduced in 2014, with the focus of providing authentic experiences for students to learn and to use Chinese Language. They manage challenges that come their way in their pursuit of knowledge and learn to be comfortable in ambiguous situations. Since then, Young Journalists have embarked on an exciting journey of interviewing, news reporting and in-house publishing. These skills are aligned to our school’s Vision: Minds of Inquiry, Joy in Learning and Confidence in Life.</p>
 
 Click to read the second issue of "Lianhua Pulse", an MTL newsletter.
 
-[https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-2\_2022.html  
-](https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-2_2022.html)
+[https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-2\_2022.html](https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-2_2022.html)
 
-  
-  
 
 *Lianhua FM \- “Connecting you and me”*
 
-  
 
-Other than in-house publishing and news reporting, our Young Journalists embarked on an exciting journey of Broadcasting. This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged the SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.
+<p style="text-align: justify;">Other than in-house publishing and news reporting, our Young Journalists embarked on an exciting journey of Broadcasting. This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged the SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.</p>
 
-  
 
 Click to watch Young Journalists in action:
 
