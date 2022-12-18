@@ -9,3 +9,9 @@ third_nav_title: EOpen House 2022
 **<center>Lianhua Primary School eOpen House 2022</center>**
 
 <center><b>Every Lianhuarean, A Superhero<br>Conclusion</b></center>
+
+<center><img src="/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/Superheroes%20On%20a%20ship.png" style="width:40%"></center>
+
+<center>Thank you for taking time to visit our eOpen House. We hope that you found the information useful. We would like to conclude our Open House with some testimonials from our students and parents…</center>
+
+<center><b>Testimonials from Students and Parents</b><br>Discover what our current students, ex-students and their parents have to say about Lianhua below!</center>
