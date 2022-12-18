@@ -10,6 +10,6 @@ third_nav_title: EOpen House 2022
 
 <center><b>Every Lianhuarean, A Superhero<br>Chapter 4: Confidence in Life</b></center>
 
-<center><img style="width:40%" src="/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/su%20mei.gif"></center>
+<center><img style="width:40%" src="/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Colin_Math_Signs.gif"></center>
 
-<center><i>"My greatest power is the ability to serve"  - Sensible Su Mei</i></center>
+<center><i>"To lead others well, you have to first lead yourself well."  - Confident Colin</i></center>
