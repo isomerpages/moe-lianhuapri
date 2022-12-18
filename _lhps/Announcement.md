@@ -3,6 +3,8 @@ title: Announcement
 permalink: /lhps/announcement/
 description: ""
 ---
+# Parent Kit - Supporting your child during Full HBL, Home Based Learning links broken
+
 # Announcement
 
 #### Caring Teachers Award Nomination
