@@ -50,3 +50,5 @@ Lianhua Primary School PSG
 
 
 #### <center>The Team</center>
+
+![](/images/Parent%20Support%20Group/image8.jpg)
