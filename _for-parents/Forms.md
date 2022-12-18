@@ -24,7 +24,7 @@ description: ""
 [BHSCC@LH Cover Letter 2022 Registration.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/2021/For%20Parents/Forms/Service%20Providers/BHSCC@LH%20Cover%20Letter%202022%20Registration.pdf)  
 [Online Consent for Dental Services.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/2021/For%20Parents/Forms/Service%20Providers/Online%20Consent%20for%20Dental%20Services.pdf)  
 [POSB Smart Buddy Registration Letter (Primary School) .pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/2021/For%20Parents/Forms/Service%20Providers/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf)  
-[\[Registration Form\] Request for School Bus Services.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/2021/For%20Parents/Forms/Service%20Providers/[Registration%20Form]%20Request%20for%20School%20Bus%20Services.pdf)  
+[\[Registration Form\] Request for School Bus Services.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/2021/For%20Parents/Forms/Service%20Providers/Registration%20Form%20Request%20for%20School%20Bus%20Services.pdf)  
 
 ## Finance
 
