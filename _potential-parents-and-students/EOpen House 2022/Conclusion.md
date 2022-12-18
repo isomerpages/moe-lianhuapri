@@ -15,3 +15,19 @@ third_nav_title: EOpen House 2022
 <center>Thank you for taking time to visit our eOpen House. We hope that you found the information useful. We would like to conclude our Open House with some testimonials from our students and parents…</center>
 
 <center><b>Testimonials from Students and Parents</b><br>Discover what our current students, ex-students and their parents have to say about Lianhua below!</center>
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c1.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c2.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c3.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c4.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c5.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c6.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c7.jpg)
+
+![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c8.jpg)
