@@ -29,7 +29,7 @@ description: ""
 </table>
 
 
-## Luqman Nur Hakim Bin Imran
+## Bernice Chung
 
 
 <table>
@@ -41,8 +41,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><p style="text-align: justify;">Not all superheroes make a splash when they enter. Some of them work tirelessly in the background. However, all superheroes have this in common. They have made an impact in someone’s life and imprinted their image in the memories of those who were fortunate enough to have come across them. One such superhero is Luqman. Luqman is a quiet and industrious student with a growth mindset. He doesn’t let the obstacles he faces deter him from working towards his goals. In a year where Covid-19 has thrown a spanner in the preparation for PSLE, Luqman continues to take his work seriously and completes his work well. However, Luqman isn’t just a person who works for himself. He displays a maturity beyond his years and takes the time, despite his heavy commitments in CCA and his academics, to lend a listening ear to his friends. Is it any wonder that he is well-liked by his peers? His sheer hard work and determination have earned him the Young Scholar Award, SAIL Award, STAR Award and a nomination for the Student of the Year Award 2020. </p></td>
-    <td> <img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Character/luqman.png" style="width:4000px">  </td>
+    <td><p style="text-align: justify;">Do all leaders need to have a commanding presence or a loud piercing voice to ensure that their followers do what they want them to do? Anybody who has met Bernice would beg to differ. Bernice may be quiet and unassuming, but anybody who has encountered Bernice will be struck by her strength of character and maturity. Even though she is young, Bernice has distinguished herself in many areas—be it CCA, academics or her behaviour. Her work is neat and polished, even when it is completed in class. Bernice is always self-disciplined and composed. Her peers look up to her because when she speaks, even though it is gently, it is with a quiet confidence, yet her speech is devoid of any arrogance. She leads discussions and makes sure that everyone has a voice, before leading the team to decide on a course of action. Hence, her team members enjoy her leadership and is willing to go along with her. Besides leading in the classroom, Bernice leads by serving others. She has volunteered in Project Smile with her parents and hopes that the school will continue with the programme, as she hopes to have more opportunities to bring smiles to the people in her community.</p></td>
+    <td> <img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Leadership/bernice.png" style="width:7000px">  </td>
   </tr>
 </tbody>
 </table>
