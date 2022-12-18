@@ -13,9 +13,7 @@ In Lianhua, every student is a superhero. This eOpen House, join us on a journey
 
 ![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/eOpen%20House%202022%20Overview%20update.jpg)
 
-<center><b>Find out more about our Superhero<br>Vision <a href="/highlights/superheroes-vision" target="_blank">here</a>!</b></center>
-
-<center>Interested in our programmes?<br>Stay tuned as we unfold the<br>chapters!<center>
+<center><b>Find out more about our Superhero<br>Vision <a href="/highlights/superheroes-vision" target="_blank">here</a>!</b><br>Interested in our programmes?<br>Stay tuned as we unfold the<br>chapters!</center>
 
 [**Chapter 1 Joy in Learning**](https://lianhuapri.moe.edu.sg/for-potential-parents-n-students/lianhua-primary-school-eopen-house-2022/chapter-1)
 
