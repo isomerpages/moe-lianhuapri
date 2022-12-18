@@ -2,7 +2,7 @@ collections:
   lhps:
     output: true
     order:
-      - Announcement.md
       - Useful Links.md
+      - Announcement.md
       - privacy.md
       - faq.md
