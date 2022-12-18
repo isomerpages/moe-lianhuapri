@@ -2,9 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Assessments & Examinations/.keep
-      - Assessments & Examinations/Schedule.md
-      - Assessments & Examinations/Assessments Guidelines.md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
@@ -16,3 +13,6 @@ collections:
       - MOE Sexuality Education.md
       - Resources.md
       - Parent Support Group & Parent Volunteers.md
+      - Assessments & Examinations/.keep
+      - Assessments & Examinations/Schedule.md
+      - Assessments & Examinations/Assessments Guidelines.md
