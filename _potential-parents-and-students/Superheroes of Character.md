@@ -30,7 +30,7 @@ At Lianhua, we believe that a person’s values will ultimately pave his/her pat
 </table>
 
 
-## See Yu Xuan Estella
+## Luqman Nur Hakim Bin Imran
 
 
 <table>
@@ -42,8 +42,8 @@ At Lianhua, we believe that a person’s values will ultimately pave his/her pat
 </thead>
 <tbody>
   <tr>
-    <td><p style="text-align: justify;">The start of the Covid-19 pandemic was especially difficult for Estella. She had to find new ways to adapt and learn from online lessons, both for her studies and her passion in dance. Despite the difficulties of online learning, Estella managed her time well and showed willingness to learn. When faced with technical difficulties during home-based learning, she demonstrated resilience and tenacity. Estella continued to be positive towards studying and never gave up. She also displayed great adaptability, as she transited from home-based lessons to face-to-face lessons quickly and continued to work hard. Estella also readily accepted the challenge to lead her group of friends in a graduation performance. Leading friends in a performance is not an easy task, but Estella persisted and learnt to lead them well. Eventually, Estella and her group of friends managed to put up a remarkable performance for graduation, marking the end of their six-year journey together.</p></td>
-    <td> <img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Learning/estella.jpg" style="width:4000px">  </td>
+    <td><p style="text-align: justify;">Not all superheroes make a splash when they enter. Some of them work tirelessly in the background. However, all superheroes have this in common. They have made an impact in someone’s life and imprinted their image in the memories of those who were fortunate enough to have come across them. One such superhero is Luqman. Luqman is a quiet and industrious student with a growth mindset. He doesn’t let the obstacles he faces deter him from working towards his goals. In a year where Covid-19 has thrown a spanner in the preparation for PSLE, Luqman continues to take his work seriously and completes his work well. However, Luqman isn’t just a person who works for himself. He displays a maturity beyond his years and takes the time, despite his heavy commitments in CCA and his academics, to lend a listening ear to his friends. Is it any wonder that he is well-liked by his peers? His sheer hard work and determination have earned him the Young Scholar Award, SAIL Award, STAR Award and a nomination for the Student of the Year Award 2020. </p></td>
+    <td> <img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Character/luqman.png" style="width:4000px">  </td>
   </tr>
 </tbody>
 </table>
