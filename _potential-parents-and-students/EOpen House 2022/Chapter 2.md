@@ -5,3 +5,7 @@ description: ""
 third_nav_title: EOpen House 2022
 ---
 # Chapter 2
+
+**<center>Lianhua Primary School eOpen House 2022</center>**
+
+<center><b>Every Lianhuarean, A Superhero<br>Chapter 2: Minds of Inquiry</b></center>
