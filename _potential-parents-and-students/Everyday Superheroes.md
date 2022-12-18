@@ -23,3 +23,11 @@ At Lianhua Primary, voluntarism is a way of life. Students have ample opportunit
 
 
 <p style="text-align: right;"><b>Well done, Shakthi, we hope that as you grow up, you will continue to keep this passion alive!</b><br><a href="https://mothership.sg/2021/06/free-grocery-corner-bukit-batok/" target="_blank">https://mothership.sg/2021/06/free-grocery-corner-bukit-batok/</a></p>
+
+
+## Our Covid-19 Hero at the Dormitories: Mr Alagappan (Operations Manager)
+
+
+|   |   |
+|---|----|
+|  ![](/images/Potential%20Parents%20&%20Students/Everyday%20Superheroes/Everydayhero3.png)   |   <p style="text-align: justify;">Speaking of heroes, did you know that among our staff is a Covid-19 hero? Covid-19 arrived on our shores in 2020. One of our staff, Operations Manager Mr Alagappan helped to keep Singapore safe during the period of 22 April to 25 July 2020, by serving as an assistant dormitory task force manager. During this period, he set up facilities at Innova Junior College to house the workers. He was also involved in setting up the area for the Covid-19 swab tests to be conducted. In addition, he organised recreational activities such as games for the migrant workers and kept them engaged during difficult times. However, it wasn’t just operational duties, during this period of time, Mr Alagappan also lent a listening ear to the workers who were unable to work during that period. Mr Alagappan is a fine example of being courageous in the face of the storm!</p> |
