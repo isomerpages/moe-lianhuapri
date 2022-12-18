@@ -9,3 +9,5 @@ third_nav_title: EOpen House 2022
 **<center>Lianhua Primary School eOpen House 2022</center>**
 
 <center><b>Every Lianhuarean, A Superhero<br>Chapter 1: Joy in Learning</b></center>
+
+<center><i>"Nothing is more satisfying than unearthing a new piece of learning every day." <br>- Joyful Jaya</i></center>
