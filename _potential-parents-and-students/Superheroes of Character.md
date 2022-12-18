@@ -60,7 +60,7 @@ At Lianhua, we believe that a person’s values will ultimately pave his/her pat
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Character/Qidran.jpg" style="width:4000px">  </td>
+    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Character/Qidran.jpg" style="width:7000px">  </td>
     <td> <p style="text-align: justify;">Like Fikrisya, Qidran has always been nominated for the STAR award. Despite facing personal difficulties as a child, he was able to overcome them and be a role model for his peers. Qidran managed to strike a good balance between being respectful and being able to liven up the atmosphere in class. This helped the other students in class learn self-discipline and self-management. Qidran also cared deeply for the people around him, especially his classmates. One of his new classmates had difficulty adjusting to the school environment, so Qidran reached out to him and befriended him. This gave his classmate the confidence to be the best that he could be and to assimilate into the Lianhua culture. In spite of his hectic schedule revolving around the CORE team, his CCAs and his academics, Qidran always found time to lend a helping hand to those in need—even to those in the neighbourhood. During the weeks leading up to the National Day celebrations, even though he was hard at work preparing for his preliminary examinations, when Qidran spotted a member of the RC struggling to put up banners and flags for the celebrations, Qidran led his friends to help out. Qidran has truly personified our school values! As a result, in 2021, Qidran became the Student of the Year.</p></td>
   </tr>
 </tbody>
