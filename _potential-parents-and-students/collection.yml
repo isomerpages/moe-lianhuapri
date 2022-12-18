@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - EOpen House 2022/.keep
       - Everyday Superheroes.md
       - Superheroes of Learning.md
       - Superheroes of Character.md
