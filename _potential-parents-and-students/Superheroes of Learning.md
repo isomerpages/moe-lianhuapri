@@ -39,7 +39,7 @@ description: ""
 <tbody>
   <tr>
     <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Learning/bashira.jpg" style="width:4000px">  </td>
-    <td> <p style="text-align: justify;">Living in a neighbourhood far from school meant long travelling times. As a result, Bashira was short on time to revise and rest. Nevertheless, her determination to do well in the PSLE and not disappoint her parents spurred her on. During home-based learning where some others might be less motivated, Bashira stayed organised and self-disciplined. She continued to do her work conscientiously. In addition, Bashira devised effective strategies to revise her work and frequently shared her notes with others. Her optimistic attitude, despite the prevailing pandemic, rubbed off on others and her peers felt at ease around her, and were spurred on to study hard. Bashira’s artistic flair had also earned her compliments from others. When faced with multiple requests from teachers, she did not hesitate to accept these challenges and delivered art pieces that exceeded expectations.</p><b>Ms Kiew and our Core Team</b></td>
+    <td> <p style="text-align: justify;">The start of the Covid-19 pandemic was especially difficult for Estella. She had to find new ways to adapt and learn from online lessons, both for her studies and her passion in dance. Despite the difficulties of online learning, Estella managed her time well and showed willingness to learn. When faced with technical difficulties during home-based learning, she demonstrated resilience and tenacity. Estella continued to be positive towards studying and never gave up. She also displayed great adaptability, as she transited from home-based lessons to face-to-face lessons quickly and continued to work hard. Estella also readily accepted the challenge to lead her group of friends in a graduation performance. Leading friends in a performance is not an easy task, but Estella persisted and learnt to lead them well. Eventually, Estella and her group of friends managed to put up a remarkable performance for graduation, marking the end of their six-year journey together.</td>
   </tr>
 </tbody>
 </table>
@@ -61,4 +61,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
