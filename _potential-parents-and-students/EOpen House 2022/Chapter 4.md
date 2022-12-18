@@ -34,3 +34,11 @@ third_nav_title: EOpen House 2022
 <p style="text-align: justify;">Ready for a fun-filled learning experience in Lianhua? Follow some of our P1 students around the school to visit their favourite places in Lianhua for a preview of our facilities and learning attractions in the school.</p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/MjJ59Co6EgE" title="My favourite place in Lianhua" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+**Ready to join us?**
+
+Follow our P1 students to find out more about a day in the life of a Primary 1 student:
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/W3TZdg-R1Wg" title="A Day In the Life of a P1 Child in Lianhua Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
