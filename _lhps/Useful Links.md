@@ -4,7 +4,6 @@ permalink: /lhps/useful-links/
 description: ""
 ---
 # Useful Links
-<a href="" target = "_blank"> <img src="" style="width:100px"></a>
 
 <table>
 <thead>
