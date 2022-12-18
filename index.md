@@ -34,4 +34,12 @@ sections:
       url: /
       image: /images/2nd fold-play.jpg
       alt: 2nd fold-play
+  - infopic:
+      title: Passion
+      description: I am driven by passion. I am curious about things around me and I
+        actively seek improvement and growth in these areas
+      button: Passion
+      url: /
+      image: /images/2nd fold-passion.jpg
+      alt: 2nd fold-passion
 ---
