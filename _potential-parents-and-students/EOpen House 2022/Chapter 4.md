@@ -21,4 +21,16 @@ third_nav_title: EOpen House 2022
 <p style="text-align: justify;">SMILE, an acronym that stands for Sharing Miracles in Life Every Day, is a project where Lianhua Primary School partners many agencies to bring smiles and be a blessing to others. With guidance and support from the teachers, Lianhua's Prefects Core Team leads the planning and execution of the programme annually. Find out more about their thoughts as they share their experiences in this video below:</p>
 
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/rOcfY_ah1iI" title="Project SMILE Prefects Core Team's Sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
+**P1 & P2 Shining Artz Celebration**
+
+<center>The P1 & P2 Shining Artz Celebration provides a stage for our young budding musicians and artists to showcase their talents. It is their moment to shine when they perform on stage and have their artworks exhibited. Parents are invited to celebrate the joyous moment together with their children. Keep a lookout for updates on our Shining Artz Celebration 2022, which will be happening on 28 & 29th July 2022!</center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ciwbwq6UIaI" title="P1 & P2 Shining Artz Celebration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**Introduction to Lianhua by P1 students**
+
+<p style="text-align: justify;">Ready for a fun-filled learning experience in Lianhua? Follow some of our P1 students around the school to visit their favourite places in Lianhua for a preview of our facilities and learning attractions in the school.</p>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/MjJ59Co6EgE" title="My favourite place in Lianhua" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
