@@ -25,3 +25,11 @@ At Lianhua Primary, voluntarism is a way of life. Students have ample opportunit
 
 
 Through programmes such as the Project SMILE and Class Leadership, Lianhuareans give back to the community in their own ways. Read on to find out more!
+
+**Project SMILE**
+
+Project SMILE is a project where Lianhua Primary School partners with many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.
+
+
+Read more about Project SMILE here:   
+[https://lianhuapri.moe.edu.sg/highlights/students-in-action/project-smile](/highlights/students-in-action/project-smile)
