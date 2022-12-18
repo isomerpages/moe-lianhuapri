@@ -28,8 +28,28 @@ Through programmes such as the Project SMILE and Class Leadership, Lianhuareans 
 
 **Project SMILE**
 
-Project SMILE is a project where Lianhua Primary School partners with many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.
-
+<p style="text-align: justify;">Project SMILE is a project where Lianhua Primary School partners with many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.</p>
 
 Read more about Project SMILE here:   
 [https://lianhuapri.moe.edu.sg/highlights/students-in-action/project-smile](/highlights/students-in-action/project-smile)
+
+**Inspired by Project SMILE…**
+
+<p style="text-align: justify;">Inspired by Project SMILE, Shakthi Saravanan from Primary 2 Excellence started a ‘Care and Share’ corner to help others in need. Using $400 from her savings, Shakthi, together with her mother, Mdm Jmaleni Saravanan, bought essential items and set up a corner with the donated items at her block from June 1 to June 30 2021. Her parents and Project Smile stepped in to contribute even more items to the corner. This act of service by a young P2 student further inspired other residents in the neighbourhood to make their own contributions to the corner. Hence, the corner was kept well-stocked during the period of time.</p>
+
+Watch this video for the interview with Shakthi:     
+[https://www.youtube.com/watch?v=Z8XB3MlXpw0](https://www.youtube.com/watch?v=Z8XB3MlXpw0)
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z8XB3MlXpw0" title="Chapter 3: Hearts of Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+**P1 Class Leaders Exemplify Hearts of Service**
+
+<p style="text-align: justify;">At Lianhua Primary School, we believe that every child has the potential to become a leader and help others. No role is too small and insignificant to bring about a change. One of the ways to nurture Lianhuareans to be a leader and serve others begin with being a class leader.</p>
+
+In this interview, find out how three of our P1 Class Leaders, Deion Ong, Nurin Irdina and Shri Krishna,  have helped others in their own ways:
+
+[https://www.youtube.com/watch?v=5ZNC2P8dCf0](https://www.youtube.com/watch?v=5ZNC2P8dCf0)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZNC2P8dCf0" title="A chat with P1 class leaders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
