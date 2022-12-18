@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - EOpen House 2022/Chapter 4.md
       - EOpen House 2022/.keep
       - EOpen House 2022/Lianhua Primary School eOpen House 2022.md
       - EOpen House 2022/Chapter 1.md
