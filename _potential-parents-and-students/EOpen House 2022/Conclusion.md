@@ -31,3 +31,6 @@ third_nav_title: EOpen House 2022
 ![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c7.jpg)
 
 ![](/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/Conclusion/c8.jpg)
+
+
+<center>We look forward to welcoming your child to be part of our Lianhua family next year! <br>See you around!</center>
