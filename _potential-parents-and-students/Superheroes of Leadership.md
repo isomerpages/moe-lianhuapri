@@ -22,7 +22,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Leadership/suh%20bowang.jpg" style="width:4000px">  </td>
+    <td><img src="/images/Potential%20Parents%20&%20Students/Superheroes%20of%20Leadership/suh%20bowang.jpg" style="width:9000px">  </td>
     <td> <p style="text-align: justify;">Bogwang is the captain of our school’s Senior Boys Volleyball team, which isn’t easy when you consider the fact that he is easily one of the shortest boys in the team. Despite his stature, Bogwang more than makes up for it through his indomitable spirit and quest for excellence. When he first started his journey with volleyball, he wasn’t good at it and often needed others’ help. However, he improved slowly but surely, and in the process, learnt resilience and honed his skills at volleyball. Perhaps what truly sets Bogwang apart is his attitude towards winning and losing, which has been transmitted to his teammates through his leadership by example. In his own words, “When my team competed in the soft volleyball tournament against 10 schools in 2019, our team came in first place! I was also proud of our achievement. However, I also realised that volleyball was not all about winning. We also learnt to display good sportsmanship when we lost a match and to cooperate well with my team members. Through all these, our team grew stronger mentally and physically.” However, Bogwang’s care for his teammates goes beyond just volleyball. Some of his friends were lagging behind in Mathematics, and Bogwang, who is passionate about Mathematics, lent a helping hand and encouraged them to do well in their studies. Bogwang was truly a servant leader!</p></td>
   </tr>
 </tbody>
