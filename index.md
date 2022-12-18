@@ -42,4 +42,12 @@ sections:
       url: /
       image: /images/2nd fold-passion.jpg
       alt: 2nd fold-passion
+  - infopic:
+      title: Purpose
+      description: I serve with purpose. I use my skills and talents to uplift others
+        so that we live, grow and advance as a community
+      button: Purpose
+      url: /
+      image: /images/2nd fold-purpose.jpg
+      alt: 2nd fold-purpose
 ---
