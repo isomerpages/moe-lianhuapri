@@ -10,4 +10,8 @@ The school conducts both weighted and non-weighted assessments to check for unde
 
 ![](/images/Assessments%20&%20Examinations/MOEs%20Assessment-Feedback-Learning%20Cycle_1.png)
 
+\[1\] Curriculum Planning Office, MOE (2013), Communication Slides for Assessment Literacy.
+
+Assessment is used for several purposes <sup>1</sup>:
+
 ![](/images/Assessments%20&%20Examinations/MOEs%20Assessment-Feedback-Learning%20Cycle_2.png)
