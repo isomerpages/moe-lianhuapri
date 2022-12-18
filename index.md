@@ -8,18 +8,19 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Virtual Tour
+          description: ""
+          url: https://roundme.com/tour/758346/view/2391133
+        - title: Useful Links
+          description: ""
+          url: /lhps/useful-links
+        - title: Social Media
+          description: ""
+          url: https://www.facebook.com/LianhuaPS/
+        - title: Announcements
+          description: ""
+          url: /lhps/announcement
   - infopic:
       title: Play
       description: I explore and discover through play. I acquire new knowledge,
