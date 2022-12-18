@@ -2,9 +2,9 @@ collections:
   for-parents:
     output: true
     order:
-      - Assessments & Examinations/Assessments Guidelines.md
-      - Assessments & Examinations/Schedule.md
       - Assessments & Examinations/.keep
+      - Assessments & Examinations/Schedule.md
+      - Assessments & Examinations/Assessments Guidelines.md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
