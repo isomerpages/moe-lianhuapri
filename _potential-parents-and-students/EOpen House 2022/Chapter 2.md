@@ -49,7 +49,7 @@ Click to read the second issue of "Lianhua Pulse", an MTL newsletter.
   
   
 
-Lianhua FM - “Connecting you and me”
+*Lianhua FM \- “Connecting you and me”*
 
   
 
