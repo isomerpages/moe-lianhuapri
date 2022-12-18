@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - Superheroes of Leadership.md
       - Everyday Superheroes.md
       - Superheroes of Learning.md
       - Superheroes of Character.md
