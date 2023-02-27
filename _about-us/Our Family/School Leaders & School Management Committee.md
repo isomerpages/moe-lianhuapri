@@ -51,7 +51,9 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image7.png">Mr Sim Wee Choon<br>SH CCE </td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image17.png"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
+	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Pek.png"> Mdm Pek Peet Juan<br>Assistant Year Head </td>
+   <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image17.png"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Ms%20Khilfina.jpg"> Mdm Khilfina<br>SH Student Well-Being (Covering)  </td>
     <td width="250px" style="text-align: center;"></td>
     <td width="250px" style="text-align: center;"></td>
   </tr>
