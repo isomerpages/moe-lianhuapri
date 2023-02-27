@@ -5,24 +5,31 @@ description: ""
 ---
 # Principal's Message
 
-<p style="text-align: justify;">2021 has been a year like no other. Even though the school community was tested and challenged by COVID-19 to the full, it was still a wonderful and productive one for us. Lianhua Primary celebrated her 75th anniversary and even broke a record in the Singapore Book of Records in the process! Not only did we weather the storm together, but we continued to make precious memories, progress and overcome obstacles. Despite the pandemic, we still learned many lessons about life, our school and even ourselves. For this, we can take courage and feel proud.</p>
+
+Dear Students, Parents, and Friends,
+
+Welcome to our school website! We are excited to share with you our philosophy and approach to education.
+
+At our school, we strive to foster a community of passionate learners, critical thinkers, confident communicators, and exemplary leaders. These qualities are essential for success in both academics and life beyond the classroom.
 
   
-<p style="text-align: justify;">On this journey, our values, priorities, resilience and empathy were heightened and this was a positive change for us all. I am incredibly proud of and impressed with the attitude exhibited by our school community, where members came together in mutual support throughout this crisis. We saw students, at every step of the way, readily accepting, adapting and overcoming obstacles and disruptions to their daily routines. Likewise, our members of staff arose to be creative, flexible and determined to provide the best learning experience for our students. Even our wonderful parents supported us to the hilt – showing much support, understanding and patience as we wrestled with uncertainties.</p>
 
+*   Passionate Learners: We believe that learning should be a joyful experience, and we encourage our students to discover their passions and pursue them with enthusiasm. We provide a variety of learning opportunities and experiences that challenge and engage our students, helping them to develop a love for learning that lasts a lifetime.
 
+*   Critical Thinkers: We believe that learning is not just about memorizing information but also about developing critical thinking skills. We encourage our students to think deeply, analyze information, and evaluate evidence to make informed decisions. This approach helps our students become independent and creative thinkers who are able to solve complex problems and make informed decisions.
 
-<p style="text-align: justify;">It is this flourishing partnership between students, teachers and parents that truly energises a school to plan and implement more innovative and engaging programmes. This is important as we face a rising tide of challenges. I am happy to note that Lianhua Primary is well-prepared to take on these challenges. The school’s mission ‘Together we bring out the best in every child for a better nation’ encourages all to be engaged in a healthy pursuit of excellence, to make every effort to progress and improve, leading to one’s personal best in all endeavours.</p>
+*   Confident Communicators: We believe that effective communication is a key to success in every aspect of life. We help our students develop their communication skills, including speaking, listening, reading, and writing. Through various activities, such as debates, public speaking, and creative writing, our students learn to express their ideas with clarity and confidence.
 
+*   Exemplary Leaders: We believe that our students have the potential to become exemplary leaders who make a positive impact on their communities. We encourage our students to develop leadership skills, such as responsibility, integrity, and teamwork. We provide them with opportunities to lead, collaborate, and take initiative, helping them to become confident and compassionate leaders.
 
+We are committed to providing our students with a supportive and inclusive learning environment that values diversity and respects individual differences. Our teachers are dedicated and passionate educators who work tirelessly to help our students reach their full potential.
 
-  
-<p style="text-align: justify;">I am confident that our students are well-poised to meet the challenges ahead with the values, skills and dispositions imbued through daily enriching learning experiences at Lianhua Primary. Here, our school’s 8 values of Loyalty, Honesty, Compassion, Diligence, Excellence, Unity, Resilience and Self-Discipline serve as an unchanging moral compass that scaffold and guide students no matter what lies ahead.</p>
+Thank you for visiting our website, and we invite you to explore more about our school community and what we offer. We look forward to welcoming you and your child to our school.
 
-
-  
-<p style="text-align: justify;">To the students of Lianhua, thank you for your hard work throughout the year. I am so honored to be your principal; you make me proud to be part of the LHPS family. You bring me much joy and I am enthralled by your passions, astute insights and amazing talents. To our parents, partners and wider school community, thank you for being part of our journey, for your faith in the school and for your continual support and encouragement. I wish you every success and good health in the year ahead.</p>
-
-
+Sincerely,
 
 Ms Pamela Kiew
+
+Principal
+
+![](/images/About%20us/Lian%20Hua%20Pri%20Principal%20image.png)
