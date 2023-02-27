@@ -47,7 +47,7 @@ third_nav_title: Our Family
   </tr>
 	  <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image1.png"> Mdm Kuan Suan Shi<br>SH Partnership </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image21.png"> Mdm Subathra<br>SH CCE</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image21.png"> Mdm Subathra<br>SH ML/TL</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&%20Management%20Committee/image7.png">Mr Sim Wee Choon<br>SH CCE </td>
   </tr>
 	  <tr>
