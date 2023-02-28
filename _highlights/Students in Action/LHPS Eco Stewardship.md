@@ -11,7 +11,7 @@ third_nav_title: Students in Action
 
 <p style="text-align: justify;">Lianhua primary school prides itself as one of the schools which has a wide range of flora and fauna while surrounded by beautiful scenery–mainly due to the Bukit Batok Town Park and Little Guilin. We have four fish ponds and three gardens that host more than 20 species of fishes and organisms for the learning of Science and are frequently used for PAL (outdoor education) lessons.</p>
 
-# image slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS73mBBFk99HdvV_JbfMYzp6k-3VVQ0kOF22vwYkCxTQjNh6Un7aJWPrUTyTxKKJhhtmoCFs2lCzplX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <center><b>Science Garden</b></center>
 
@@ -35,7 +35,7 @@ Lianhua Primary School has been participating in the Green Schools @ Southwest a
 
 Besides that, the school also participated in the School Green Audit Award organised by the Singapore Environment Council. It has attained a Palm award and an Orchid award respectively during the two years when it took part in the audit. For the Community in Bloom Awards, we have also achieved a Gold award for our Learning Garden.
 
-## School Wide Sustainability Awareness & Education
+## School Wide Sustainability Awareness &amp; Education
 
 The school has a structured framework where the students from Primary 1 to Primary 6 will be educated by their Form Teachers on a different environmental topic each year.
 
@@ -44,7 +44,7 @@ The school also tapped on programmes by NEA like the Buddy Clean Workshop and Gr
 | Level |     Environmental Framework    |
 |:-----:|:------------------------------:|
 |   1   |   Good habits starts with me   |
-|   2   |      Clean & Green School      |
+|   2   |      Clean &amp; Green School      |
 |   3   | 3'R's - Reduce, Reuse, Recycle |
 |   4   |       Water Conservation       |
 |   5   |        Energy Efficiency       |
@@ -61,19 +61,19 @@ Form teachers also conduct other environmental awareness programmes, e.g. Youth 
 
 |  |        |
 |:-----:|:------------------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg" style="width:93%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image34.png)   |    <img style="width:93%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image7.jpg">  |
 
 Our students are also actively involved in environmental sustainability themed VIA projects annually like our Dengue Mobster outreach where students go to the community to educate the residents about dengue prevention. They also carry out litter-picking around our neighbourhood and the nearby nature parks. This project educates participants on the importance of environmental protection through their involvement in clearing litter in the neighbourhood. They learn the importance of keeping school and public toilets clean through the cleaning of the school toilets. Through these activities, they also learnt to appreciate our school attendants more. To show their appreciation to our school attendants, our students make cards to thank them for their hard work.
 
 |  |        |
 |:-----:|:------------------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image18.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image61.jpg" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image18.jpg)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image61.jpg">  |
 
 <center><i><b>Litter-picking around neighbourhood and nature park near school</b></i></center>
 
 |     |        |
 |:-----:|:------------------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image10.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image4.jpg" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image10.jpg)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image4.jpg">  |
 
  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image73.jpg)
 
@@ -81,7 +81,7 @@ Our students are also actively involved in environmental sustainability themed V
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image15.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image5.jpg" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image15.jpg)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image5.jpg">  |
 
 <center><i><b>Clean, dry and sparkling toilets</b></i></center>
 
@@ -90,18 +90,18 @@ Our school also actively engages in various recycling programmes like Clean up @
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image50.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image52.jpg" style="width:80%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image50.jpg)   |    <img style="width:80%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image52.jpg">  |
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image53.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image55.jpg" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image53.jpg)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image55.jpg">  |
 
 
 <center><i><b>Clean-up @ Southwest Recycling Programme</b></i></center>
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image57.jpg)  <center><i><b>Upcycling of Old T-shirts into tote bags	</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image72.jpg" style="width:100%"> <center><i><b>Waste to Craft</b></i></center>  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image57.jpg)  <center><i><b>Upcycling of Old T-shirts into tote bags	</b></i></center> |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image72.jpg"> <center><i><b>Waste to Craft</b></i></center>  |
 
 
 Our Primary 6 students have also continued the Freecycle project, which was initiated by a student leader, where students donate their textbooks and uniforms. Students collect and sort out donated textbooks and uniforms. This activity not only encourages waste minimisation, but also helps students from lower income families to save on buying new textbooks. They also carry out Upcycle projects where they use recycled materials to make beautiful craftwork to decorate the toilets.
@@ -109,8 +109,8 @@ Our Primary 6 students have also continued the Freecycle project, which was init
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image64.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image2.jpg" style="width:80%">   |
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image21.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image19.jpg" style="width:80%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image64.jpg)   |    <img style="width:80%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image2.jpg">   |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image21.jpg)   |    <img style="width:80%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image19.jpg">  |
 
 
 <center><i><b>Sorting out the old textbooks and uniforms collected for the Freecycle Programme which is initiated and organised by student s</b></i></center>
@@ -118,7 +118,7 @@ Our Primary 6 students have also continued the Freecycle project, which was init
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image56.jpg)  <center><i><b>Using bottle caps to upcycle into beautiful artwork</b></i></center> |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image69.jpg" style="width:85%"> <center><i><b>Beautiful artworks using recycled materials that are used to decorate the school premise</b></i> s</center>  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image56.jpg)  <center><i><b>Using bottle caps to upcycle into beautiful artwork</b></i></center> |    <img style="width:85%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image69.jpg"> <center><i><b>Beautiful artworks using recycled materials that are used to decorate the school premise</b></i> s</center>  |
 
 
 ## Environmental Ambassadors
@@ -133,7 +133,7 @@ In Lianhua Primary School, two environment monitors are appointed for every clas
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image44.jpg)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image48.jpg" style="width:100%"> |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image44.jpg)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image48.jpg"> |
 
 <center><i><b>Appointment and training of Environmental monitors</b></i></center>  
 
@@ -146,7 +146,7 @@ In Lianhua Primary School, two environment monitors are appointed for every clas
 
 |   |   |   |
 |:----:|:---:|:----:|
-|  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image39.jpg)   |  <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image63.jpg" style="width:85%">   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image26.jpg)   |
+|  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image39.jpg)   |  <img style="width:85%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image63.jpg">   |  ![](/images/Highlights/LHPS%20Eco%20Stewardship/image26.jpg)   |
 
 <center><b>Recess activities on environment and sustainability issues conducted by Environment monitors and environment advocates</b></center>
 
@@ -157,12 +157,12 @@ The Parent Support Group of Lianhua Primary School is also actively involved in 
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image17.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image77.png" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image17.png)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image77.png">  |
 
 
 <center><b>Parents from the PSG being involved in the school Earth Passion Fiesta</b></center>
 
-<img src="/images/Highlights/LHPS%20Eco%20Stewardship/image28.png" style="width:60%">
+<img style="width:60%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image28.png">
 
 
 <center><b>Garden Fiesta</b></center>
@@ -170,7 +170,7 @@ The Parent Support Group of Lianhua Primary School is also actively involved in 
 
 |     |        |
 |:-----:|:------------------:|
-|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image38.png)   |    <img src="/images/Highlights/LHPS%20Eco%20Stewardship/image8.png" style="width:100%">  |
+|     ![](/images/Highlights/LHPS%20Eco%20Stewardship/image38.png)   |    <img style="width:100%" src="/images/Highlights/LHPS%20Eco%20Stewardship/image8.png">  |
 
 
 <center><b>Parents from the PSG, teachers and students conducting workshop on how to make upcycle a PET bottle into a flower pot. Participants get to bring home a beautiful flower pot with their choice of plant grown</b></center>
