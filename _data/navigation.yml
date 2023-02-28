@@ -1,7 +1,5 @@
 logo: /images/home-logo.png
 links:
-  - title: About Us
-    collection: about-us
   - title: ABOUT US
     url: /about-us/principals-message/
     sublinks:
