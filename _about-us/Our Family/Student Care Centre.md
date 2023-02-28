@@ -35,3 +35,8 @@ third_nav_title: Our Family
   </tr>
 </tbody>
 </table>
+<br>
+
+![](/images/About%20us/Student%20Care%20Centre/Lian%20Hua%20_SCC.png)
+Mobile: +65 9023 1486  
+Email: Lianhua@Shgstudentcare.Com.Sg
