@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - TITLE 1/.keep
       - Example Title.md
       - Principal's Message.md
       - Our Story.md
