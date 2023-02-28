@@ -44,10 +44,15 @@ third_nav_title: Our Family
   
 
 a\.  are exemplary in their conduct and are role models to their peers
+
 b\.  show a strong commitment and drive to demonstrate school values through their actions
+
 c\.  care for others and make a difference to the people around them
+
 d\.  embrace the spirit of volunteerism and play an active part in influencing their peers to do likewise
+
 e\.  perform consistently in all academic subjects, including PE, Arts and Music
+
 f\.  participate actively in co-curricular activities
 
   
