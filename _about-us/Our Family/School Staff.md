@@ -640,19 +640,48 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image3%20(3).jpg" style ="width:200px"><br>Mr Mohammad Faizal Bin Ismail<br>Student Well-being Education Officer<br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg">mohammad_faizal_b_ismail@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image2.jpg" style ="width:200px">Mr Lee Hao Yong<br>Allied Educator (Learning & Behavioural)<br><a href="mailto:lee_hao_yong@moe.edu.sg">lee_hao_yong@moe.edu.sg</a></td>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image4%20(3).jpg" style ="width:200px">Ms Sheril Aida Ishak<br>Allied Educator (Learning & Behavioural)<br><a href="mailto:sheril_aida_ishak@moe.edu.sg">sheril_aida_ishak@moe.edu.sg</a></td>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mbpb{background-color:#F5F7F6;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-xir6{background-color:#F5F7F6;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mb3n{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-79l8{background-color:#F5F7F6;border-color:inherit;color:#FD9047;font-weight:bold;text-align:left;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-d16l{background-color:#F5F7F6;border-color:inherit;color:#FD9047;text-align:left;text-decoration:underline;
+  vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 646px">
+<colgroup>
+<col style="width: 152px">
+<col style="width: 202px">
+<col style="width: 292px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-30r1">Student Well-being Education Officer</th>
+    <th class="tg-mb3n"><span style="color:inherit;background-color:transparent">Mr Mohammad Faizal Bin Ismail</span></th>
+    <th class="tg-79l8"><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a><br></th>
   </tr>
- <tr>
-<td style="text-align: center;"><img src="/images/About%20us/School%20Staff/image1%20(3).jpg" style ="width:200px">Ms Tahiradulnisha Kader Ibrahim<br>Allied Educator (Counsellor)<br><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg">tahiradulnisha_kader_ibrahim@moe.edu.sg</a></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xir6">Senior School Counsellor</td>
+    <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Ms Tahiradulnisha Kader Ibrahim</span></td>
+    <td class="tg-d16l"><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tahiradulnisha_kader_ibrahim@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-xir6" rowspan="2">Special Educational Needs Officers</td>
+    <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Ms Sheril Aida Ishak </span></td>
+    <td class="tg-d16l"><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Ms Ismira Yanti Abu Bakar</span></td>
+    <td class="tg-d16l"><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
 </tbody>
 </table>
-</p>	
-  </div>
-	</li>
-	
-</ul>
