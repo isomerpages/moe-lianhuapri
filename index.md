@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/homepage.gif
       key_highlights:
-        - title: Virtual Tour
-          description: ""
-          url: https://roundme.com/tour/758346/view/2391133
         - title: Useful Links
           description: ""
           url: /lhps/useful-links
