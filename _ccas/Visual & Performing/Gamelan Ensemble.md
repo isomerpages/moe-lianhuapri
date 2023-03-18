@@ -34,7 +34,7 @@ The members performed for Lianhua’s first ever school production, A Musical Tr
 
   
 
-Early this year, four primary 4 pupils, MARISSA BINTE MUNIR, SOE SU MYAT MON GANIA, GRACIELLE PRIKANZA ALPHAERA NAINGGOLAN & RAJARAJAN RAJARAJESWARI were interviewed for the second season of I Kid You Not, a video series that profiles young artists traditional Asian art forms, produced by Esplanade. The objectives of the series were to enthuse and inspire young people to find out more about traditional arts, demonstrate the relevance of the traditional arts to young lives and to show how the traditional arts is an avenue to discover the world at large, develop values and appreciate tradition.
+Early this year, four primary 4 pupils, MARISSA BINTE MUNIR, SOE SU MYAT MON GANIA, GRACIELLE PRIKANZA ALPHAERA NAINGGOLAN &amp; RAJARAJAN RAJARAJESWARI were interviewed for the second season of I Kid You Not, a video series that profiles young artists traditional Asian art forms, produced by Esplanade. The objectives of the series were to enthuse and inspire young people to find out more about traditional arts, demonstrate the relevance of the traditional arts to young lives and to show how the traditional arts is an avenue to discover the world at large, develop values and appreciate tradition.
 
   
 
@@ -72,7 +72,7 @@ I keep on going for my CCA because of my friends. Gamelan is always fun. I alway
 
 Gamelan has taught me to be patient. When a member need the instructor's help, the other members have to practice their instruments by themselves. I also learnt about teamwork. Teamwork is needed in Gamelan as we have to hear one another or else the music will sound bad.
 
-# image slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwX-A0GOdE8fcS5ZWkYKpjXmIZUTssXQdSq-la2N3zpGBC5ZbMIBeoCxr0cffXXsBg2Bo5cjZNv1aN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <table>
 <thead>
@@ -83,11 +83,11 @@ Gamelan has taught me to be patient. When a member need the instructor's help, t
 </thead>
 <tbody>
   <tr>
-    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/ziwMWTIN1tM" title="Gamelan 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/1F5FzqF94bs" title="Gamelan 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 1" src="https://www.youtube.com/embed/ziwMWTIN1tM" height="308" width="351"></iframe></td>
+    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 2" src="https://www.youtube.com/embed/1F5FzqF94bs" height="308" width="351"></iframe></td>
   </tr>
 </tbody>
 </table>
 
 
-<center><iframe width="351" height="308" src="https://www.youtube.com/embed/-ELcfeVFz54" title="Gamelan 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 3" src="https://www.youtube.com/embed/-ELcfeVFz54" height="308" width="351"></iframe></center>
