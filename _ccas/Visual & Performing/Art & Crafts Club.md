@@ -4,7 +4,7 @@ permalink: /ccas/visual-n-performing/art-n-crafts-club/
 description: ""
 third_nav_title: Visual & Performing
 ---
-# Art & Crafts Club
+# **Art & Crafts Club**
 
 ![](/images/CCAs/Art%20&%20Crafts%20Club/Art%20%20Crafts%20Club.jpg)
 
@@ -16,9 +16,9 @@ The Lianhua Art Club aims to provide opportunities for budding artists to explor
 <iframe width="711" height="510" src="https://www.youtube.com/embed/gt2ynGcQ1N8" title="Art Club P1 CCAs Experiences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## SYF 2021
+## **SYF 2021**
 
-**<u>Singapore Youth Festival 2021</u>**
+**<u><b>Singapore Youth Festival 2021</b></u>**
 
 Our school participated in the SYF Art competition this year and submitted artwork for three categories. It is our great pleasure to announce that our category A artwork clinched the Special Mention Award. Students and teachers in the group worked hand in hand to create the 3-Dimensional Artwork that captured the judges’ attention. Based on the theme, “No Tech No life” our students experienced using different materials to create a beautiful sculpture. Well done!
 
@@ -34,23 +34,23 @@ Our school participated in the SYF Art competition this year and submitted artwo
 
 <center>Our winning entry for Category A SYF Art Competition 2021.</center>
 
-## National Day 2021 Nagomi Art
+## **National Day 2021 Nagomi Art**
 
-**<u>National Day Nagomi Art</u>**
+**<u><b>National Day Nagomi Art</b></u>**
 
 Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by the PAssionArts in collaboration with the Bukit Gombak Constituency and Hill View Community Club. Our students spent their Saturday afternoon creating beautiful Nagomi Art in conjunction with National Day 2021 celebrations.
 
 ![](/images/CCAs/Art%20&%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png)
 
 
-## Achievements
+## **Achievements**
 
 | Year | Achievements                                                                                  | Award |
 |------|-------------------------------|-------|
 | 2021 | Singapore Youth Festival Art Competition – Category A(Special Mention)<br>"No Tech, No Life!" | Merit |
 
 
-## Students’ Voices
+## **Students’ Voices**
 
 <u>Sebastian Tea Zhi Jun – 2 Diligence 2021</u>
 
@@ -71,7 +71,7 @@ Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by t
 
 "SYF was very exciting as I could create lots of new art pieces based on the theme ‘Technology’. We worked in small groups to brainstorm for ideas and eventually created a giant I-Pad sculpture that looked fantastic.”
 
-## The Team
+## **The Team**
 
 |   |   |
 |:---:|:---:|
