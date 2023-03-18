@@ -34,8 +34,17 @@ The school rules and regulations state clearly the boundaries of acceptable cond
     *   Any other items that may disrupt learning
 
 
-# **Student Wellbeing**
+# **Attire & Appearance**
 
-# **National Anthem & Pledge**
+All students are expected to wear the school uniform and the PE attire on days when they have PE lessons. Any modification to the uniform is not allowed.
 
-# **School Attire**
+
+
+![](/images/LHAA1.jpg)
+
+
+Name tags above the school crest  
+Plain black socks above the ankle  
+Plain black shoes without any coloured stripes or design
+# **Offences and Consequences**
+
