@@ -4,7 +4,7 @@ permalink: /ccas/visual-n-performing/percussion-ensemble/
 description: ""
 third_nav_title: Visual & Performing
 ---
-# Percussion Ensemble
+# **Percussion Ensemble**
 
 |   |   |   |
 |:-:|:-:|:-:|
@@ -17,7 +17,7 @@ The Percussion Ensemble was set up in 2018. To lay a strong foundation for the s
 
 Through the learning and performance of percussion instruments, students have been inculcated with our school’s core values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
 
-## Programme
+## **Programme**
 
 **_<u>Promotion of CCA video</u>_**
 
@@ -29,7 +29,7 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
 
-## Achievements
+## **Achievements**
 
 |                      |                   |               |
 |--------------|--------------|---------------|
@@ -48,7 +48,7 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 |:-:|:-:|
 |  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg" style="width:75%"> | <img src="/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg" style="width:50%">  |
 
-## Students' Voices
+## **Students' Voices**
 
 **BRUZO NATHANIEL CLYDE BIGLAEN P6 RESILIENCE**  
 
