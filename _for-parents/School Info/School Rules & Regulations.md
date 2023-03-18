@@ -39,12 +39,15 @@ The school rules and regulations state clearly the boundaries of acceptable cond
 All students are expected to wear the school uniform and the PE attire on days when they have PE lessons. Any modification to the uniform is not allowed.
 
 
+|   |     
+|---|  
+|![](/images/LHAA1.jpg) |
 
-![](/images/LHAA1.jpg)
+<center> Name tags above the school crest</center>  <center>Plain black socks above the ankle</center>
+	<center>Plain black shoes without any coloured stripes or design</center>
+	
+	![](/images/LHAA2.png)
 
 
-Name tags above the school crest  
-Plain black socks above the ankle  
-Plain black shoes without any coloured stripes or design
+
 # **Offences and Consequences**
-
