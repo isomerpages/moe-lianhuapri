@@ -28,7 +28,7 @@ Our dancers have participated in various competitions such as the Dance Works!, 
 
 Our dancers also perform in events and school concerts such as the 75th Anniversary celebration, Lianhua Singing Festival, annual prize giving day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation.
 
-#### Singing festival 2019
+#### **Singing festival 2019**
 
 ![](/images/CCAs/Modern%20Dance/Modern%20Dance%20Singfest%202019_gp%20photo.jpg)
 
@@ -38,7 +38,7 @@ Our dancers also perform in events and school concerts such as the 75th Anniver
 
 Our dancers were involved in a dance item which was part of our school first ever outside school production, A Musical Treasure Hunt in the Land of Stories, which was held in Dulwich College on 13 April 2019. They put in a lot of effort and practiced hard for the performance. They put up an impressive performance which amazed everyone with their energy, enthusiasm and commitment.
 
-#### Singapore Youth Festival (SYF) 2020 and 2018
+#### **Singapore Youth Festival (SYF) 2020 and 2018**
 
 The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the achievements of our youths in their co-curricular activities (CCAs). Starting in March and culminating in a month-long celebration in July, the SYF will engage students from schools across Singapore involved in the performing arts, sports and uniformed group CCAs.
 
@@ -50,7 +50,7 @@ More than 30,000 students are expected to participate in the performances and ac
 
 Lianhua Primary School’s Modern dancers performed in the SYF in March 2018 and achieved the Accomplishment Award for the SYF 2018. They also prepared for the 2020 SYF performance. Unfortunately, the SYF 2020 was cancelled due to the Covid-19 situation in 2020. Nonetheless, we are proud of the commitment and efforts that our Modern Dancers have put in for both years.
 
-## Achievements
+## **Achievements**
 
 | Year |     Competition / Performances     |    Award     |
 |:----:|:----------------:|:-------------:|
@@ -62,7 +62,7 @@ Lianhua Primary School’s Modern dancers performed in the SYF in March 2018 and
 |      |             National Day Observance Ceremony organised by Bukit Gombak National Day Organising Committee             |                               |
 | 2017 |                          DANCEWORKS! 2017 Anti-Drug Dance Competition – Life does not rewind                         |   Most Supported team Award   |
 
-## Promotion of CCA Video
+## **Promotion of CCA Video**
 
 **P1 CCAs Experiences** 
 
@@ -70,9 +70,9 @@ Due to Covid-19 and abiding the safety measures management, the P1 CCAs Experien
 
 <iframe width="711" height="509" src="https://www.youtube.com/embed/_hcabobrG1c" title="Modern Dance P1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Students' Voices
+## **Students' Voices**
 
-**Aubrey, 5 Diligence 2021**
+<b>Aubrey, 5 Diligence 2021</b>
 
 When I first found out about Modern Dance, I decided to join as I enjoy dancing. Our instructor is very patient and teaches us easy steps to learn.
 
@@ -86,7 +86,7 @@ My most memorable moment was when we were recording for our school’s 75th anni
 
   
 
-**Catherine Cing Nuam Dim, 5 Diligence 2021**
+<b>Catherine Cing Nuam Dim, 5 Diligence 2021</b>
 
   
 
@@ -102,7 +102,7 @@ My most memorable experience so far would be the Lianhua Singing Festival as it 
 
   
 
-**Jessy Yap, P5 Compassion 2021**
+<b>Jessy Yap, P5 Compassion 2021</b>
 
   
 
@@ -116,7 +116,7 @@ The most memorable performance I did was when we shot a dance music video for ou
 
   
 
-**Phang Wei Xuan-P5 Compassion**
+<b>Phang Wei Xuan-P5 Compassion </b>
 
   
 
@@ -128,13 +128,13 @@ Soon I got to make many friends in the class. I learned more techniques and chor
 
 During CCA, I learned more about the values of resilience, compassion, diligence and unity because we cannot give up during tough times. I could also get to care for people more often when they do not feel right. Now, I am the Vice-Chairman of Modern Dance CCA. I do not feel any regret for joining Modern Dance as all of my efforts have paid off.
 
-## Useful Links
+## **Useful Links**
 
 
 Hip Hop For Beginners- 5 Basic Moves   
 <a href="https://www.youtube.com/watch?v=Z3Z6Qii-g2Y" target="_blank">https://www.youtube.com/watch?v=Z3Z6Qii-g2Y</a>
 
-## The Team
+## **The Team**
 
 |   |   |
 |:-:|:-:|
