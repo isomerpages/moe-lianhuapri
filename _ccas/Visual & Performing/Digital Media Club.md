@@ -4,7 +4,7 @@ permalink: /ccas/visual-n-performing/digital-media-club/
 description: ""
 third_nav_title: Visual & Performing
 ---
-# Digital Media Club
+# **Digital Media Club**
 
 ![](/images/CCAs/Digital%20Media%20Club/Student%20in%20Action.jpg)
 
@@ -20,4 +20,3 @@ Members are provided with opportunities through various organized activities to 
 
 
 <iframe width="711" height="511" src="https://www.youtube.com/embed/W1DbIu8_u3A" title="Photography Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
