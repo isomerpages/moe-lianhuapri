@@ -4,9 +4,9 @@ permalink: /ccas/visual-n-performing/modern-dance/
 description: ""
 third_nav_title: Visual & Performing
 ---
-# Modern Dance
+# **Modern Dance**
 
-## Purpose of CCA
+## **Purpose of CCA**
 
 ![](/images/CCAs/Modern%20Dance/75th%20anniversay%20dance.jpg)
 
