@@ -3,10 +3,10 @@ title: Homework Policy
 permalink: /for-parents/homework-policy/
 description: ""
 ---
-# Homework Policy
+# **Homework Policy**
 
 
-#### Purpose of Homework
+#### **Purpose of Homework**
 
 There are several reasons homework is assigned:
 
@@ -17,7 +17,7 @@ There are several reasons homework is assigned:
 | (iii) |  For Parents |          • Receive timely information on the learning progress of their child<br>• Opportunity to be involved in the child's learning                                                           |
 
 
-#### Guidelines on Homework
+#### **Guidelines on Homework**
 
 This is the suggested amount of time students should spend on their homework. Note that actual time taken might vary from student to student or the time of the school year.
 
@@ -36,6 +36,6 @@ The amount of homework could differ depending on the time of the term or from cl
 *   The amount of homework could also be adjusted based on the level of difficulty.
 *   Minimal homework will be given over a festive period.
 
-#### Recording Of Homework
+#### **Recording Of Homework**
 
 Teachers will write the homework for the day on the class whiteboard. All students are expected to record their homework in their Student Diary.
