@@ -95,7 +95,7 @@ The objectives of the training programme are as follows:
 (b) Enhance a student’s mathematical knowledge and sharpen his / her creative problem-solving skills through various non-routine and problem solving heuristics relevant to Mathematical competitions.
 
 
-### Useful Links
+### **Useful Links**
 
 Primary Mathematics Syllabus    
 For students who entered Primary 1 from 2021   
@@ -111,7 +111,7 @@ List of approved scientific calculators for P5 and P6 students
 
   
 
-### The Team
+### **The Team**
 
 Miss Yong Hua Moy (Head of Department)     
 Mrs Alexis Pua (Level Head)   
