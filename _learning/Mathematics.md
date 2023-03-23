@@ -5,7 +5,7 @@ description: ""
 ---
 # Primary math syllabus link 1 (from 2021) link broken
 # link 2 (befor 2021) is replaced with link path to the pdf file on isomer
-# Mathematics
+# **Mathematics**
 
 ![](/images/Learning/Mathematics/WhatsApp%20Image%202020-12-23.jpeg)
 
