@@ -3,7 +3,7 @@ title: Science
 permalink: /learning/science/
 description: ""
 ---
-# Science
+# **Science**
 
 ![](/images/Learning/Science/science.jpg)
 
