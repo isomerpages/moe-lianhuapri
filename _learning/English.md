@@ -3,7 +3,7 @@ title: English
 permalink: /learning/english/
 description: ""
 ---
-# English
+# **English**
 
 ![](/images/Learning/English/el1.jpg)
 
@@ -86,7 +86,7 @@ Storytelling Festival
 
 <p style="text-align: justify;">The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.</p>
 
-### Useful links  
+### **Useful links** 
 
 <a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a>   
 <a href="https://www.languagecouncils.sg/goodenglish/" target="_blank">https://www.languagecouncils.sg/goodenglish/</a>
@@ -94,7 +94,7 @@ Storytelling Festival
 
   
 
-### Our Team
+### **Our Team**
 
   
 
