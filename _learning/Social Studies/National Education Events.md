@@ -4,7 +4,6 @@ permalink: /learning/social-studies/national-education-events/
 description: ""
 third_nav_title: Social Studies
 ---
-
 # National Education Events
 
 #### Total Defence Day 2021
@@ -13,7 +12,7 @@ Singapore commemorates Total Defence Day (TDD) on 15 February each year; the day
 
 This year’s theme,&nbsp;**‘Together We Keep Singapore Strong’**&nbsp;, focused on the many ways we can put Total Defence into action in our everyday lives. As part of our commemoration, our students were treated to a series of short video clips. Through the engaging videos, students learnt that we all have a part to play in Singapore’s defence. Through these different learning experiences, we hope to encourage our students to play a greater role in Total Defence in educating them how they can contribute in small and big ways.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### International Friendship Day 2021
 
@@ -21,7 +20,7 @@ Our school commemorated International Friendship Day (IFD) on Tuesday, 6th April
 
 Through learning more about the rich diversity of cultures, our students can develop the spirit of friendship and collaboration, and chart the way forward for Singapore to connect with different countries in the global community.
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdqAQIbSx-zpcsYCbQVGrZXBJ-2uxEfQbGSbmrqfux8UatKKX5zHwGdp6hgctDmMhThhGSVhHxtpMr/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
 #### Racial Harmony Day 2021
