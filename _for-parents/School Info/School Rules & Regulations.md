@@ -46,8 +46,27 @@ All students are expected to wear the school uniform and the PE attire on days w
 <center> Name tags above the school crest</center>  <center>Plain black socks above the ankle</center>
 	<center>Plain black shoes without any coloured stripes or design</center>
 	
-	![](/images/LHAA2.png)
+|   |     
+|---|  
+|![](/images/LHPSCC1.png) |
 
+<center>Upturned collar</center>  <center>Untucked T-shirt</center>
+	<center>Skirt’s length near kneecap</center>
+	
+
+|   |   |    
+|---|---|    
+|![](/images/LHPSCC2.jpg) | ![](/images/LHPSCC3.jpg)|
+
+
+1.  Jewellery or ornaments are not allowed.
+2.  Girls who have their ears pierced should only use one simple stud of gold or silver for each ear.
+3.  Fingernails must be kept short and clean.
+4.  Nail varnish is not allowed.
+5.  Putting on make-up is not permitted.
+
+
+**Hair (Boys)**
 
 
 # **Offences and Consequences**
