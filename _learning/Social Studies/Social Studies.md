@@ -30,9 +30,10 @@ P6: SungeI Buloh Wetland Reserve (collaboration with Science Department)
 
 As part of our yearly Social Studies Learning Journey Initiative, the Primary 2 students had an opportunity to be involved in an on-site learning journey programme by Singapore Philatelic Museum. This on-site programme provides students an opportunity to discover more about stamps and learn how stamps are miniature pieces of art that document the country's historical milestones, national achievements, inspirations and more. Despite the constraints of not being able to be at the museum, the students were able to have a first-hand experience using magnifying glass to observe and make meaning of what they see in the stamps. They also has a chance to design their own stamp and get to experience writing their own postcard to send home. It was truly an eye opening experience for them.
 
-# image slide
 
-<iframe width="700" height="505" src="https://www.youtube.com/embed/2pgJsW_SMCg" title="POL Journey SS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQQv6hzIqBxSIpRYBtfwBa3C8ZNc8EUlZAt3Lhh6cg0toBbBFCfHcCBUwamNs9ZvfNpn5wttpjs99xe/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="POL Journey SS" src="https://www.youtube.com/embed/2pgJsW_SMCg" height="505" width="700"></iframe>
 
 #### Heritage Explorer Programme Booklet
 
