@@ -69,4 +69,29 @@ All students are expected to wear the school uniform and the PE attire on days w
 **Hair (Boys)**
 
 
+|   |   |    |   
+|---|---|---|  
+|![](/images/LHPSCC4.jpg)|![](/images/LHPSCC5.jpg)|![](/images/LHPSCC6.jpg)|
+
+
+1.  Hair must be short and neatly combed.
+2.  Hair must be cropped at the back, gently sloping down to reach the neck.
+3.  Outlandish hairstyles are strictly prohibited.
+4.  The fringe must not touch the eyebrows when combed down.
+5.  Hair must not reach the eyebrows, ears or the shirt collar.
+6.  Hair must not be dyed or highlighted.
+7.  No moustache, beard or sideburns is allowed.
+
+
+**Hair (Girls)**
+
+|   |   |    |   
+|---|---|---|  
+|![](/images/LHPSCC7.jpg)|![](/images/LHPSCC8.jpg)|![](/images/LHPSCC9.jpg)|
+
+
+|   |   |    |   
+|---|---|---|  
+||||
+
 # **Offences and Consequences**
