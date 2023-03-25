@@ -12,7 +12,7 @@ Singapore commemorates Total Defence Day (TDD) on 15 February each year; the day
 
 This year’s theme,&nbsp;**‘Together We Keep Singapore Strong’**&nbsp;, focused on the many ways we can put Total Defence into action in our everyday lives. As part of our commemoration, our students were treated to a series of short video clips. Through the engaging videos, students learnt that we all have a part to play in Singapore’s defence. Through these different learning experiences, we hope to encourage our students to play a greater role in Total Defence in educating them how they can contribute in small and big ways.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 #### International Friendship Day 2021
 
@@ -20,7 +20,7 @@ Our school commemorated International Friendship Day (IFD) on Tuesday, 6th April
 
 Through learning more about the rich diversity of cultures, our students can develop the spirit of friendship and collaboration, and chart the way forward for Singapore to connect with different countries in the global community.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdqAQIbSx-zpcsYCbQVGrZXBJ-2uxEfQbGSbmrqfux8UatKKX5zHwGdp6hgctDmMhThhGSVhHxtpMr/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdqAQIbSx-zpcsYCbQVGrZXBJ-2uxEfQbGSbmrqfux8UatKKX5zHwGdp6hgctDmMhThhGSVhHxtpMr/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 #### Racial Harmony Day 2021
@@ -37,4 +37,4 @@ The school celebrated National Day (ND) on Friday, 6th August. The theme of our 
 
 We hope our students to reinvigorate the Singapore Spirit- encouraging Singaporeans to embrace a ‘dare-to-try’ attitude and reinvent to overturn our natural and geographical constraints.
 
-# image slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVjNUxZeOq4VKchR3Oc5FV4FkvuGfL4suo5kY-FCSm6AbDxWRgfuGbd8ukTpiLBA6Y1O1XcsWehGTX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
