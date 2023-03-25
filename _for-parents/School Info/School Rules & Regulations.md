@@ -92,6 +92,6 @@ All students are expected to wear the school uniform and the PE attire on days w
 
 |   |   |    |   
 |---|---|---|  
-||||
+|![](/images/LHPSCC10.png)|![](/images/LHPSCC11.png)|![](/images/LHPSCC12.png)|
 
 # **Offences and Consequences**
