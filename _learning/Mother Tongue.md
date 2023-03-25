@@ -25,7 +25,7 @@ When Lianhua was first introduced to CCM in 2006, we engage vendors to conduct t
 
 For instance during Racial Harmony Day, we have different learning packages for different levels to engage them in learning the vocabulary using CL/ML. Then they will put these vocabularies into sentence structures given to form a paragraph. They will present to the class during CCE lessons.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="CCM Challenge 2021" src="https://www.youtube.com/embed/wCbmQBKLivo" height="503" width="796"></iframe>
+<iframe width="796" height="503" src="https://www.youtube.com/embed/wCbmQBKLivo" title="CCM Challenge 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Celebrations
 
@@ -34,6 +34,8 @@ In Singapore, a festive celebration means more than just a public holiday, it al
 In Lianhua, we celebrated the Chinese New Year, Hari Raya Puasa and Deepavali every year. Students of different ethnic groups will participate in the pre-celebration activities like designing wishing cards, experiencing cultural activities during recess and learning how to wish their teachers, peers or canteen vendors using the language of the ethnic group who are celebrating the festival.
 
 On the actual day, students get to view the concert that brings out the traditions and customs of the festivals.
+
+<br>
 
 ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image%202021-10-27.jpeg)
 
@@ -46,16 +48,16 @@ On the actual day, students get to view the concert that brings out the traditio
 </thead>
 <tbody>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="CNY 2021 Skit with subs Final" src="https://www.youtube.com/embed/PCwEr2tFtq8" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Hari Raya Celebration 2020 Greetings" src="https://www.youtube.com/embed/0xDjVbPU3UY" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/PCwEr2tFtq8" title="CNY 2021 Skit with subs Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/0xDjVbPU3UY" title="Hari Raya Celebration 2020 Greetings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Hari Raya 2020 Interview" src="https://www.youtube.com/embed/aa4m0vaQL88" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="CNY 2020 YJ Flash News FINAL" src="https://www.youtube.com/embed/Jia9_wGt0Uk" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/aa4m0vaQL88" title="Hari Raya 2020 Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/Jia9_wGt0Uk" title="CNY 2020 YJ Flash News FINAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="CNY 2021 Behind the Scenes" src="https://www.youtube.com/embed/jUmiulS4Ojs" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="01 Deepavali Video" src="https://www.youtube.com/embed/b1lcDj40g8A" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/jUmiulS4Ojs" title="CNY 2021 Behind the Scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/b1lcDj40g8A" title="01 Deepavali Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
@@ -92,13 +94,13 @@ P5 &amp; P6: Advertisement
 </thead>
 <tbody>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MT Fiesta 2019" src="https://www.youtube.com/embed/QVldDAQZOFk" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mother Tongue Fiesta 2021 Video Montage" src="https://www.youtube.com/embed/dZiZBuQOTnw" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/QVldDAQZOFk" title="MT Fiesta 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/dZiZBuQOTnw" title="Mother Tongue Fiesta 2021 Video Montage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Mother Tongue Fiesta 2019 Closing" src="https://www.youtube.com/embed/joB_8kDvSWM" height="271" width="280"></iframe></center>
+<center><iframe width="280" height="271" src="https://www.youtube.com/embed/joB_8kDvSWM" title="Mother Tongue Fiesta 2019 Closing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ## Publication
 
@@ -124,7 +126,7 @@ We also create platforms for the students to showcase their views and thoughts a
 
 We also involved parents in our reading programme. They are a good support to us because they help to enhance reading skills for young readers after school in smaller groups.
 
-<iframe allowfullscreen="true" height="700" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfvYfEKboOjAgUOTQ8ttur6TScICu-awPORqquA4jtH5mtnX9mLEB1TNNAR5RmvGazjO1f1pZ30Tbw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfvYfEKboOjAgUOTQ8ttur6TScICu-awPORqquA4jtH5mtnX9mLEB1TNNAR5RmvGazjO1f1pZ30Tbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="700" height="700" allowfullscreen="true"></iframe>
 
 ## The MTL Young Journalist Programme
 
@@ -135,7 +137,7 @@ The MTL Young Journalist Programme was introduced in 2014, with the focus of pro
 In 2017, Lianhua published the newsletter "心联心" which aimed to connect Lianhuareans through the writings of our Young Journalists. This year, we are pleased to launch "Lianhua Pulse", an MTL newsletter.
 
   
-<a target="_blank" href="https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html">https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html</a>
+<a href="https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html" target="_blank">https://www.flipsnack.com/lhpsyj/lianhua-pulse-vol-1_2021.html</a>
 
 In 2018, two of our Young Journalists, Chong Xuan Yu and Wang Xinyue, from 6 Diligence 2019, participated in the “2nd Bilingual Education Summit” organized by SPH, sharing their journey as young journalist in Lianhua with teachers from other schools and also the guest-of-honor, Mr Chee Hong Tat, then Senior Minister of State, Ministry of Trade and Industry.
 
@@ -149,7 +151,7 @@ In 2021, MTL Young Journalist Programme has stepped up by introducing the Lianhu
 
 This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged on SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.
 
-# image slide
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3dArFU6SGCVW-ntHgapHEc4WkjsIrciYDhdV_2itX-pUdhRkfcRzA_mV4eOyDmT52c-7N-5GJ7T6P/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 <table>
 <thead>
@@ -160,15 +162,15 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 </thead>
 <tbody>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="75th   YJ Interview Short final" src="https://www.youtube.com/embed/fMTvC18wwy8" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="LHPS75 INTERVIEW" src="https://www.youtube.com/embed/kxFOq6ZjxNQ" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/fMTvC18wwy8" title="75th   YJ Interview Short final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/kxFOq6ZjxNQ" title="LHPS75 INTERVIEW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
   <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Lianhua FM 2021" src="https://www.youtube.com/embed/68cgrfv2rYk" height="271" width="280"></iframe></td>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="RHD 2021   YJ Interview Part 1" src="https://www.youtube.com/embed/2QLTwxUim_M" height="271" width="280"></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/68cgrfv2rYk" title="Lianhua FM 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/2QLTwxUim_M" title="RHD 2021   YJ Interview Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
 
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YJ CNL Frog enclosure 2019" src="https://www.youtube.com/embed/uWe9KGRafZk" height="271" width="280"></iframe></center>
+<center><iframe width="280" height="271" src="https://www.youtube.com/embed/uWe9KGRafZk" title="YJ CNL Frog enclosure 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
