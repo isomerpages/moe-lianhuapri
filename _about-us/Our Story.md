@@ -3,5 +3,4 @@ title: Our Story
 permalink: /about-us/our-story/
 description: ""
 ---
-# image >5mb
-![]()
+![](/images/Timeline%20Complete-no%20bkgd%20%20Title_edited.jpeg)
