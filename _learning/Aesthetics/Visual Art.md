@@ -21,7 +21,7 @@ third_nav_title: Aesthetics
 
 **Key Feature**
 
-![](/images/Learning/Visual%20Art/Art%20framework.jpg)
+<img src="" style="width:65%">/images/Learning/Visual%20Art/Art%20framework.jpg
 
 We incorporate the 4Es in our school’s art framework to provide authentic learning experiences for students aligned with the school values through the art curriculum, interdepartmental collaborations and external collaborations. The 4Es are Exposure, Experience, Enjoy and Excel. In the 6 years at Lianhua Primary School, our students will learn about 32 artists’ artworks and explore artmaking in different art forms and media through the inquiry-based learning approach and CCE infused lessons. As they learn to see, express and appreciate the artworks, students will learn to generate responses, conceptualise ideas, investigate and express. In the process, students would acquire 21CC skills, SEL values and critical thinking skills. To enrich our students’ learning experience, students are given the opportunity to create art pieces to contribute back to the community through art collaborations with external partners. Platforms are provided for students to excel and showcase their artwork at external platforms i.e SYF Art Lab, SYF Art Exhibitions and other art competitions.
 
