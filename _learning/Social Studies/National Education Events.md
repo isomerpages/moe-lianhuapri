@@ -4,9 +4,9 @@ permalink: /learning/social-studies/national-education-events/
 description: ""
 third_nav_title: Social Studies
 ---
-# National Education Events
+# **National Education Events**
 
-#### Total Defence Day 2021
+#### **Total Defence Day 2021**
 
 Singapore commemorates Total Defence Day (TDD) on 15 February each year; the day Singapore fell to the Japanese in World War II, to remind us of what Singapore could be like if we are not able to defend ourselves. Total Defence has also guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
 
