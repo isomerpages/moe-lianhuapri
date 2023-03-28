@@ -49,7 +49,9 @@ Our students will have the opportunity to participate in two cohort camps, 2D1N 
 
 <br>
 
-<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%209.jpg
+<img src="/images/Learning/Physical%20Education/Picture%209.jpg" style="width:65%">
+
+<br>
 
 The school’s annual Sports Day comprises of a Track & Field meet for the upper primary students, and our own version of a Spartan’s Race, Lianhua Warrior Challenge, for the lower primary students. The Track & Field meet provides students with the opportunity to experience the event as both competitors and spectators. Whereas the Lianhua Warrior Challenge allows parents and students to bond over physical activity in a carnival-like atmosphere. However, due to the Covid situation, we have stopped both events in 2020 and 2021. The CHAMP for Life carnival was organised in 2021 to launch the school’s CHAMP for Life LLP programme.
 
@@ -87,4 +89,4 @@ The Sports Enrichment Programme was introduced in 2017 to cater to the diverse s
 
 ### The Team
 
-![](/images/Learning/Physical%20Education/Picture%2016.jpg)
+<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%2016.jpg
