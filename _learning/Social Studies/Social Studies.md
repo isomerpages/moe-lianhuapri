@@ -12,7 +12,7 @@ The 2020 Social Studies curriculum seeks to inculcate in students a deeper under
 
 In Lianhua, the Social Studies curriculum envisions students to have joy in learning Social Studies, through inquiry and meaningful authentic learning experiences. Through these experiences, we envision that students will develop into informed, concerned and participative citizens with the passion to contribute responsibly to the society and world they live in.
 
-#### **Learning Journeys**
+<b> **Learning Journeys** </b>
 
 The Learning Journeys initiative, which is an annual programme in Lianhua Primary School aims to support and complement the Social Studies curriculum. The school has collaborated with participating organisations to make learning more authentic and experiential. Much thought was put in to ensure that the venues of the learning journeys tie in well with the syllabus that they are learning.
 
