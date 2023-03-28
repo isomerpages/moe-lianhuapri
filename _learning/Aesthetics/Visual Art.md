@@ -96,12 +96,12 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 |  <img src="/images/Learning/Visual%20Art/Notes%20of%20Appreciation%20for%20our%20NTFGH%20Frontline%20Healthcare%20workers.jpg" style="width: 75%">  |  ![](/images/Learning/Visual%20Art/Nagomi%20Art%20-%20Mrs%20Loke%20guiding%20her%20son.jpeg)   |
 
 
-### Useful links
+### **Useful links**
 
 Brainpop - <a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
 National Gallery Singapore - <a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
 
-### Our Visual Art Team
+### **Our Visual Art Team**
 
 
 ![](/images/Learning/Visual%20Art/Visual%20Art%20Dept%20Team%20Photo.jpeg)
