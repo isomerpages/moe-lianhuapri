@@ -73,9 +73,9 @@ The Sports Education Programme exposes students to a variety of sports beyond th
 
 <u>Sports Enrichment Programme</u>
 
-![](/images/Learning/Physical%20Education/Picture%2014.jpg)
+<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%2014.jpg
 
-![](/images/Learning/Physical%20Education/Picture%2015.jpg)
+<img src="/images/Learning/Physical%20Education/Picture%2015.jpg" style="width:65%">
 
 
 The Sports Enrichment Programme was introduced in 2017 to cater to the diverse sports interests of our students. These programmes were organised by our community partners (Warriors Football Club and Singapore Tennis Association) and with the help of parent volunteers.
@@ -89,4 +89,4 @@ The Sports Enrichment Programme was introduced in 2017 to cater to the diverse s
 
 ### The Team
 
-<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%2016.jpg
+<img src="/images/Learning/Physical%20Education/Picture%2016.jpg" style="width:65%">
