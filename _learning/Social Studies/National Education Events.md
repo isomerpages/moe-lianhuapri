@@ -6,7 +6,7 @@ third_nav_title: Social Studies
 ---
 # **National Education Events**
 
-#### **Total Defence Day** 
+#### **Total Defence Day**&nbsp;
 
 Lianhua Primary School commemorates Total Defence Day (TDD) by reminding all staff and students that Singapore is defensible and is worth defending, and we all have a part to play to defend Singapore.  
 
@@ -28,7 +28,7 @@ Recess activities were specially designed for the students to express their unde
 
 A surprise fire drill was conducted in the early Tuesday morning this week. The drill seemed so real that some students were seen crying during the fire evacuation. Staff and students were also seen supporting those who are emotionally affected. Everybody managed to evacuate safely within 11 minutes 35 seconds. At the end of the drill, everyone understood the importance of taking care of self and others in times of emergency. Everyone agreed that the school will try to evacuate within 10 minutes in the next fire drills.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### International Friendship Day 2021
 
@@ -36,7 +36,7 @@ Our school commemorated International Friendship Day (IFD) on Tuesday, 6th April
 
 Through learning more about the rich diversity of cultures, our students can develop the spirit of friendship and collaboration, and chart the way forward for Singapore to connect with different countries in the global community.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdqAQIbSx-zpcsYCbQVGrZXBJ-2uxEfQbGSbmrqfux8UatKKX5zHwGdp6hgctDmMhThhGSVhHxtpMr/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdqAQIbSx-zpcsYCbQVGrZXBJ-2uxEfQbGSbmrqfux8UatKKX5zHwGdp6hgctDmMhThhGSVhHxtpMr/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
 #### Racial Harmony Day 2021
@@ -45,7 +45,9 @@ The school commemorated Racial Harmony Day (RHD) on Tuesday, 13th July, and the 
 
 The school had planned a number of activities to commemorate RHD and we hope that through these activities, our students had learnt to be friends with their neighbours, build relationships with people of different races and celebrate our diversity as our strength.
 
-![](/images/Learning/Social%20Studies/WhatsApp%20Image%202021-10-21.jpeg)
+
+<img src="/images/Learning/Social%20Studies/WhatsApp%20Image%202021-10-21.jpeg">
+
 
 #### National Day Celebrations 2021
 
@@ -53,4 +55,4 @@ The school celebrated National Day (ND) on Friday, 6th August. The theme of our 
 
 We hope our students to reinvigorate the Singapore Spirit- encouraging Singaporeans to embrace a ‘dare-to-try’ attitude and reinvent to overturn our natural and geographical constraints.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVjNUxZeOq4VKchR3Oc5FV4FkvuGfL4suo5kY-FCSm6AbDxWRgfuGbd8ukTpiLBA6Y1O1XcsWehGTX/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVjNUxZeOq4VKchR3Oc5FV4FkvuGfL4suo5kY-FCSm6AbDxWRgfuGbd8ukTpiLBA6Y1O1XcsWehGTX/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
