@@ -27,8 +27,9 @@ Approach (ECA): Experience, Concept, Application
 
 **Key Feature**
 
-![](/images/Learning/Music/Music%20Framework%20.jpg)
+<img src="/images/Learning/Music/Music%20Framework%20.jpg" style="width:65%">
 
+<br>
 
 **Key Signature Programme**
 
