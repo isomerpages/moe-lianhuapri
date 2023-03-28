@@ -25,7 +25,9 @@ To provide fun learning experiences for students to acquire knowledge, skills an
 
 <img src="/images/Learning/Physical%20Education/Picture%202.jpg" style="width:65%">
 
-<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%203.jpg
+<br>
+
+<img src="/images/Learning/Physical%20Education/Picture%203.jpg" style="width:65%">
 
 The aim of the Step-It-Up Challenge is to encourage students and staff to increase their daily physical activity levels. The different yearly themes also allows students and staff to demonstrate class unity by participating together to complete the challenge.
 
@@ -43,6 +45,8 @@ Our students will have the opportunity to participate in two cohort camps, 2D1N 
 <u>Sports Day</u>
 
 ![](/images/Learning/Physical%20Education/Picture%207.jpg)
+
+<br>
 
 ![](/images/Learning/Physical%20Education/Picture%209.jpg)
 
