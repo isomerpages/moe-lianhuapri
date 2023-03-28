@@ -11,7 +11,7 @@ third_nav_title: Aesthetics
 <img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg" style="width:65%">
 
 <br>
-<br>
+
 
 **Our Vision & Mission**   
 Vision: Every student is able to create, perform, listen and respond to music.   
