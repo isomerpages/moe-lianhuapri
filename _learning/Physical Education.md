@@ -35,16 +35,17 @@ The aim of the Step-It-Up Challenge is to encourage students and staff to increa
 
 <u>Camps</u>
 
-![](/images/Learning/Physical%20Education/Picture%205.jpg)
+<img src="/images/Learning/Physical%20Education/Picture%205.jpg" style="width:65%">
 
 
-![](/images/Learning/Physical%20Education/Picture%206.jpg)
+<img src="/images/Learning/Physical%20Education/Picture%206.jpg" style="width:65%">
+
 
 Our students will have the opportunity to participate in two cohort camps, 2D1N P4 Camp and 3D2N P5 Camp. These camps provide rich learning experiences outside the classroom walls that can help our students develop resilience and ruggedness.Students will also apply the skills taught in OE in Physical Education (PE) curriculum in authentic outdoor environments.
 
 <u>Sports Day</u>
 
-![](/images/Learning/Physical%20Education/Picture%207.jpg)
+<img src="" style="width:65%">/images/Learning/Physical%20Education/Picture%207.jpg
 
 <br>
 
