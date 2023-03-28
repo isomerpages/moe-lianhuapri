@@ -34,6 +34,7 @@ As part of our yearly Social Studies Learning Journey Initiative, the Primary 2 
 
 <iframe width="700" height="505" src="https://www.youtube.com/embed/2pgJsW_SMCg" title="POL Journey SS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+
 #### **Heritage Explorer Programme Booklet**
 
 The school collaborated with the National Heritage Board in 2016 to introduce the Heritage Explorer Programme Booklet to raise students’ awareness and interest in local and community heritage, with the greater goal of enabling them to become informed, active and concerned citizens. Each student will be receiving a Heritage Explorer Booklet which requires them to complete a variety of heritage-related activities, exploring topics that can range from personal family histories to community and national history.
@@ -50,11 +51,59 @@ Due to our commitment to the programme, the school has been awarded the School H
 
 As part of the Primary School Social Studies Syllabus, performance tasks are used as part of the grading system for the assessment of SSP at the end of Semester 1 and 2 for all levels. Performance tasks are effective ways to check for students’ understanding of the concepts taught. These tasks introduced are relevant and meaningful to the students. Students would develop a tangible product or performance for an identified audience and in doing so, they would communicate key understanding(s) or message(s) pertaining to the topic of study. Examples of the performance tasks that are required for the students to produce are as follows:
 
-| Level |                                   Semester 1                                  |                                                             Semester 2                                                            |
-|:-----:|:-----------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-|   P1  |                     Design a logo to represent themselves.                    |                                                 Design their future neighbourhood.                                                |
-|   P2  |                             Design a group stamp.                             |                                       Create a diorama on their favourite sporting activity.                                      |
-|   P3  |                Design a poster on 3Rs (Reduce, Reuse, Recycle)                |                                      Design a 2D/3D model on the future housing of Singapore.                                     |
-|   P4  | Create an informational poster on one of the early settlers they have learnt. |                                                 Design a commemorative $50 SG note                                                |
-|   P5  |                Create a Thank You Card for Mr Ong Teng Cheong.                |                                           Design a board game related to Southeast Asia.                                          |
-|   P6  |           Create a PowerPoint Slide on Singapore Botanical Gardens.           | Design an information report which features a festival that is celebrated in some Southeast Asian countries but not in Singapore. |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vxga{background-color:#ffffff;text-align:center;vertical-align:middle}
+.tg .tg-haiz{background-color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-m1o8{background-color:#ffffff;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 240px">
+<col style="width: 240px">
+<col style="width: 240px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-m1o8">Level</th>
+    <th class="tg-haiz">Semester 1</th>
+    <th class="tg-haiz">Semester 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vxga">P1</td>
+    <td class="tg-vxga">Design a logo to represent themselves.</td>
+    <td class="tg-vxga">Design their future neighbourhood.</td>
+  </tr>
+  <tr>
+    <td class="tg-vxga">P2</td>
+    <td class="tg-vxga">Design a group stamp.</td>
+    <td class="tg-vxga">Create a diorama on their favourite sporting activity.</td>
+  </tr>
+  <tr>
+    <td class="tg-vxga">P3</td>
+    <td class="tg-vxga">Design a poster on 3Rs (Reduce, Reuse, Recycle)</td>
+    <td class="tg-vxga">Design a 2D/3D model on the future housing of Singapore.</td>
+  </tr>
+  <tr>
+    <td class="tg-vxga">P4</td>
+    <td class="tg-vxga">Create an informational poster on one of the early settlers they have learnt.</td>
+    <td class="tg-vxga">Design a commemorative $50 SG note</td>
+  </tr>
+  <tr>
+    <td class="tg-vxga">P5</td>
+    <td class="tg-vxga">Create a Thank You Card for Mr Ong Teng Cheong.</td>
+    <td class="tg-vxga">Design a board game related to Southeast Asia.</td>
+  </tr>
+  <tr>
+    <td class="tg-vxga">P6</td>
+    <td class="tg-vxga">Create a PowerPoint Slide on Singapore Botanical Gardens.</td>
+    <td class="tg-vxga">Design an information report which features a festival that is celebrated in some Southeast Asian countries but not in Singapore.</td>
+  </tr>
+</tbody>
+</table>
