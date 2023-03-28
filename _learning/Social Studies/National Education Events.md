@@ -6,11 +6,27 @@ third_nav_title: Social Studies
 ---
 # **National Education Events**
 
-#### **Total Defence Day 2021**
+#### **Total Defence Day** 
 
-Singapore commemorates Total Defence Day (TDD) on 15 February each year; the day Singapore fell to the Japanese in World War II, to remind us of what Singapore could be like if we are not able to defend ourselves. Total Defence has also guided us through many difficult times, most recently, through our nation’s fight against COVID-19.
+Lianhua Primary School commemorates Total Defence Day (TDD) by reminding all staff and students that Singapore is defensible and is worth defending, and we all have a part to play to defend Singapore.  
 
-This year’s theme,&nbsp;**‘Together We Keep Singapore Strong’**&nbsp;, focused on the many ways we can put Total Defence into action in our everyday lives. As part of our commemoration, our students were treated to a series of short video clips. Through the engaging videos, students learnt that we all have a part to play in Singapore’s defence. Through these different learning experiences, we hope to encourage our students to play a greater role in Total Defence in educating them how they can contribute in small and big ways.
+Many activities were organised to provide our students the opportunities to learn, think, communicate their thoughts and to lead themselves and others during emergencies. These are the students’ outcomes that the school has embarked on to create a generation of concerned and future-ready citizens.
+
+**Passionate Learners**
+
+Our TDD assembly programme featured a skit titled ‘Together We Defend’. The skit tells the story of a group of residents in a sacred forest at a time of crisis. They had to come together despite their differences to maintain the peace and harmony in the community. Students were able to resonate the pillars of total defence with the story in a fun and interactive manner.
+
+**Creative and Critical Thinkers**
+
+Our students went through class-based discussions during CCE (FTGP) lessons on authentic emergency scenarios such as a fire as well as an attack at the mall. Students had to think on their feet on how to respond to such crises based on the tips provided.
+
+**Confident Communicator**
+
+Recess activities were specially designed for the students to express their understanding of and attitude towards the pillars of total defence. There was a quiz station to test them on cyber securities, an idea generator station to help a hungry teddy bear, a workout station to be a healthy and fit citizen, and even a Photo Booth for friends to pose a photo of strength in unity. Our students really surprised us with their wonderful responses.
+
+**Exemplary Leaders**
+
+A surprise fire drill was conducted in the early Tuesday morning this week. The drill seemed so real that some students were seen crying during the fire evacuation. Staff and students were also seen supporting those who are emotionally affected. Everybody managed to evacuate safely within 11 minutes 35 seconds. At the end of the drill, everyone understood the importance of taking care of self and others in times of emergency. Everyone agreed that the school will try to evacuate within 10 minutes in the next fire drills.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
