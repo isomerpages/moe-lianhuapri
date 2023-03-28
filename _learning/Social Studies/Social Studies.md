@@ -51,6 +51,8 @@ Due to our commitment to the programme, the school has been awarded the School H
 
 As part of the Primary School Social Studies Syllabus, performance tasks are used as part of the grading system for the assessment of SSP at the end of Semester 1 and 2 for all levels. Performance tasks are effective ways to check for students’ understanding of the concepts taught. These tasks introduced are relevant and meaningful to the students. Students would develop a tangible product or performance for an identified audience and in doing so, they would communicate key understanding(s) or message(s) pertaining to the topic of study. Examples of the performance tasks that are required for the students to produce are as follows:
 
+<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
