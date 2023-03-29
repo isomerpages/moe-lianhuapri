@@ -88,9 +88,9 @@ The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:
 
 ## The Team
 
-Mr Fadial B Jamaludin
-Mr Kathiravan S/O M K K Murugiah
-Ms Shafira Zailani 
-Mdm Shanthini D/O Radha Krishnan  
-Mr Dennis Wong
+Mr Fadial B Jamaludin </br>
+Mr Kathiravan S/O M K K Murugiah </br>
+Ms Shafira Zailani  </br>
+Mdm Shanthini D/O Radha Krishnan   </br>
+Mr Dennis Wong </br>
 Mdm Kuan Shua Shi
