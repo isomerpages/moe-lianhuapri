@@ -4,7 +4,8 @@ permalink: /learning/student-development/
 description: ""
 ---
 # **Student Development**
-![](/images/Learning/Student%20Management/image1.jpg)
+<img src="" style="width:65%">
+/images/Learning/Student%20Management/image1.jpg
 
 #### **Purpose
 
