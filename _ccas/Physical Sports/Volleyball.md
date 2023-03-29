@@ -85,19 +85,13 @@ Due to Covid-19 and abiding by the safe management measures, the P1 CCAs Experie
 
 ## Students' Voices
 
-#### Sumiko
-
-**Primary 6 2021**
-
 Hi everyone! I'm Sumiko from 6 Diligence, and I'm the captain of the senior girls volleyball team. When I first joined volleyball in P3, I wasn't very keen as my hands would hurt after a long training session. However, I tried my best and it turned out that I really enjoyed volleyball! Being in volleyball has taught me many skills, like teamwork and quick thinking. I remembered one of my proudest moments in volleyball. was when I was told that I was selected as the captain of the school team! I was so excited to be able to represent the school with my teammates in tournaments and matches. I hope you will choose volleyball cca as your first option. Join us for training next time. We look forward to seeing you!
 
+<p style="text-align: right"> Sumiko, Primary 6, 2021<br></p>
   
-
-#### BOGWANG
-
-**Primary 6 2021**
-
 Hi everyone, I am Bogwang from 6 Resilience and I am the captain of the school volleyball team. When I first joined Volleyball, I was not good at it and would often need others to help me, but slowly I improved and learnt to be resilient and work with others better. When my team competed in the soft volleyball tournament against 10 schools in 2019, our team came in first place! I was also proud of our achievement. However, I also realised that volleyball was not all about winning. We also learnt to display good sportsmanship when we lost a match and to cooperate well with my team members. Through all these, our team grew stronger mentally and physically. Our volleyball CCA has both boys and girls teams. I hope you will choose volleyball CCA as your first option and join us for training. We look forward to having you join us!
+
+<p style="text-align: right"> Bogwang, Primary 6, 2021<br></p>
 
 **Students who were successful in their DSA applications to their preferred Secondary School**
 
