@@ -123,9 +123,11 @@ It was therefore not surprising to see students volunteering in various ways, ra
 
 In June this year, one of our Primary One students, started a ‘Care and Share’ corner with her own savings in order to help the needy residents in her estate. Shakthi from Primary One Resilience was so inspired by the Project SMILE that she decided to pay it forward to the society in her own way. Now, Shakthi is an inspiration to all of us. She captured the spirit of Volunteerism so well that we hope more of her generation will be like her one day.
 
-# image too large
+|   |  
+|---|  
+| ![](/images/Learning/CCE/LHPS_CCE3.png) <center>Our Primary One Shakthi’s very own community outreach</center> |
 
-#### LHPS CCE Roadmap
+#### **LHPS CCE Roadmap**
 
 The LHPS CCE Roadmap helps the school, the staff and the students to make sense of the CCE experiences in the school. It aims to build and use a common language to communicate and reinforce consistent messages on what it takes to foster dispositions of character and citizenship and apply social-emotional competencies in the process.
 
