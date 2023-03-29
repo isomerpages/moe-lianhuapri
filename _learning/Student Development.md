@@ -41,7 +41,9 @@ The one-day camp is carried out by our teachers to provide student leaders with 
 
 <center>Being able to work in teams is very important</center>
 
-<img src="" style="width:65%">/images/Learning/Student%20Management/image7.jpg
+<br>
+<img src="/images/Learning/Student%20Management/image7.jpg" style="width:65%">
+
 
 <center>Building confidence in our student leaders to speak in front of others</center>
 
@@ -49,7 +51,8 @@ The one-day camp is carried out by our teachers to provide student leaders with 
 
 Our student leaders are given opportunities to propose and plan projects to make a difference to the class, school or community. This is in line with our school mission, Hearts of Service, and it encourages them to start small and understand that no effort is too small.
 
-![](/images/Learning/Student%20Management/image6.jpg)
+<img src="/images/Learning/Student%20Management/image6.jpg" style="width:65%">
+
 
 <center>Collecting old shoes for a good cause</center>
 
