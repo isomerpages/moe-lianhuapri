@@ -4,7 +4,7 @@ permalink: /learning/information-n-communications-technology/
 description: ""
 ---
 # links broken: (more info on ALP) https://lianhuapri.moe.edu.sg/learning/ict AND ALP (found at the bottom)
-# Information & Communications Technology
+# **Information & Communications Technology**
 
 **ICT Department Vision:**  Every child a self-directed and engaged digital learner by harnessing ICT.
 
