@@ -37,11 +37,11 @@ The one-day camp is carried out by our teachers to provide student leaders with 
 <center>Learning skills beyond the classroom</center>
 
 <br>
-<img src="" style="width:65%">/images/Learning/Student%20Management/image4.jpg
+<img src="/images/Learning/Student%20Management/image4.jpg" style="width:65%">
 
 <center>Being able to work in teams is very important</center>
 
-![](/images/Learning/Student%20Management/image7.jpg)
+<img src="" style="width:65%">/images/Learning/Student%20Management/image7.jpg
 
 <center>Building confidence in our student leaders to speak in front of others</center>
 
