@@ -4,14 +4,16 @@ permalink: /learning/student-development/
 description: ""
 ---
 # **Student Development**
-<img src="" style="width:65%">
-/images/Learning/Student%20Management/image1.jpg
 
-#### **Purpose
+<br>
+<img src="/images/Learning/Student%20Management/image1.jpg" style="width:65%">
+
+
+#### **Purpose**
 
 At Lianhua Primary School, we believe that every child has the potential to become a leader, so every student is given the opportunity to become a leader to develop his or her leadership qualities and skills. Various platforms are provided for our students to initiate, organise and manage events and projects. By designing experiences using the LHPS Student Experience Framework, we work towards empowering our student leaders in their roles and responsibilities.
 
-![](/images/Learning/Student%20Management/image3.png)
+<img src="" style="width:65%">/images/Learning/Student%20Management/image3.png
 
 #### **Key Feature**
 
