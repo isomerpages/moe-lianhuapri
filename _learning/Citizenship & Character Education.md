@@ -6,7 +6,7 @@ description: ""
 # images for : "Community Outreach During Chinese New Year", "Bringing Joy to Others", "Our Primary One Shakthi’s very own community outreach">5MB
 
 
-# Citizenship & Character Education
+# **Citizenship & Character Education**
 
 Character and Citizenship Education (CCE) in Lianhua Primary School (LHPS) is integral to the holistic development of our students, leading to positive life outcomes. LHPS CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
