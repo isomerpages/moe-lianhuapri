@@ -3,8 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /highlights/applied-learning-programme-alp/
 description: ""
 ---
-# link broken: Mirco:bit
-
 # Applied Learning Programme (ALP)
 
 ### **RITE @ LIANHUA**
