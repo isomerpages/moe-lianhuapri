@@ -43,8 +43,7 @@ sections:
       image: /images/2nd fold-purpose.jpg
       alt: 2nd fold-purpose
   - infobar:
-      title: "HERE AT "
-      description: Lianhua Primary School
-      button: LHPS Sports Day
+      title: Students in Action
+      button: Click to Find out more
       url: https://youtu.be/fEZQi53taQ8?list=PLKrKUKNhArYWoIEtZkNiqyBuIP_I7qKDn
 ---
