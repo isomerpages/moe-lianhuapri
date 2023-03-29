@@ -63,6 +63,8 @@ Our student leaders are given opportunities to propose and plan projects to make
 <center>Reaching out to the elderlies in our community</center>
 
 
-![](/images/Learning/Student%20Management/image8.jpg)
+
+<img src="/images/Learning/Student%20Management/image8.jpg" style="width:65%">
+
 
 <center>Heart work!</center>
