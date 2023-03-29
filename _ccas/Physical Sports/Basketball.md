@@ -63,7 +63,7 @@ Due to Covid-19 and the need to adhere to the safety management guidelines, the 
 | 2017 |       West Zone Basketball Championship<br>(Senior Boys)       |   2nd Runner Up  |
 |      |       West Zone Basketball Championship<br>(Junior Boys)       |   2nd Runner Up  |
 
-### Students’ Voices
+<center><b>Students’ Voices</b></center>
 
 During CCA training, we learn more than just playing basketball. There were times when teachers and coaches scolded us, and I always take those as constructive feedback. I understood the intention of teachers and coaches in reprimanding us due to the high expectation set for us to be better. Hence, I never feel demoralized or sad every time I get scolded. I had a lot of fun when we had CCA training. Whether it is the training, getting punished for our mistakes, we often do it together as a team. Together these form good memories that I will never forget. Even during the pandemic, we managed to have online CCAs. My CCA has not only helped me improve my skills in basketball, but it has also improved my leadership skills. It has also taught me to be more independent. I have learnt to respect everyone regardless of their background. My CCA has molded me into the person that I am today, and for that, I am really grateful.
 
