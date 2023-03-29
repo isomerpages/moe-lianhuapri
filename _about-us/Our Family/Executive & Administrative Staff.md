@@ -7,9 +7,7 @@ third_nav_title: Our Family
 # Executive &amp; Administrative Staff
 	
 <ul class="jekyllcodex_accordion">
-<li>
-  <input id="accordion1" type="checkbox">
-  <label for="accordion1">Executive & Administrative Staff</label>
+<label for="accordion1">Executive & Administrative Staff</label>
     <div>
       <p>
       <table width="750px">
@@ -46,9 +44,7 @@ third_nav_title: Our Family
 </p>	
   </div>
 	</li>
-<li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Support Staff</label>
+        <label for="accordion2">Support Staff</label>
     <div>
       <p>
 				<table width="750px">
@@ -62,7 +58,7 @@ third_nav_title: Our Family
 <tbody>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS14.jpg"> Mr Victor Lam<br>Librarian</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS16.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td><td width="250px" style="text-align: center;"><img src=""><br><br><br>Mr Joe<br>Desktop Engineer</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS16.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td><td width="250px" style="text-align: center;"><><br><br><br>Mr Joe<br>Desktop Engineer</td>
   </tr>
    <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&%20Admin%20Staff/EAS17.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
