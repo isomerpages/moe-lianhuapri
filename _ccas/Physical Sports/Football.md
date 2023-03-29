@@ -93,4 +93,4 @@ Mr Kathiravan S/O M K K Murugiah </br>
 Ms Shafira Zailani  </br>
 Mdm Shanthini D/O Radha Krishnan   </br>
 Mr Dennis Wong </br>
-Mdm Kuan Shua Shi
+Mdm Kuan Suan Shi
