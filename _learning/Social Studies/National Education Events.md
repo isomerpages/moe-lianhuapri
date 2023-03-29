@@ -30,7 +30,7 @@ A surprise fire drill was conducted in the early Tuesday morning this week. The 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-#### International Friendship Day 2021
+#### **International Friendship Day 2021**
 
 Our school commemorated International Friendship Day (IFD) on Tuesday, 6th April, and the theme is&nbsp;**‘Singapore in the World’**&nbsp;. More than ever, Covid-19 has brought both challenges and opportunities for Singapore, and reminded us on the importance of international collaboration and cooperation. The changing global landscapes and the complexities of the world highlight the importance of maintaining good relationships and the needs for our youths to recognise the importance of connectedness within and beyond ASEAN.
 
