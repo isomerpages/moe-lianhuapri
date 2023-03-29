@@ -72,7 +72,7 @@ Have a sense of purpose in life, develop the dispositions of adaptability and li
 4\.  Active citizenship:   
 Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.
 
-#### Play, Passion, Purpose
+#### **Play, Passion, Purpose**
 
 ‘Play, Passion, Purpose’ is the school’s motto which encapsulates the school’s vision of ‘Hearts of Service’, ‘Minds of Inquiry’, Joy in Learning’ and ‘Confidence in Life’.
 
