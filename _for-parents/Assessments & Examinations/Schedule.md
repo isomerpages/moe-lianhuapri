@@ -24,17 +24,3 @@ Primary 5
 Primary 6
 ![](/images/P6.jpeg)
 ![](/images/P6_2.jpeg)
-
-
-
-![](/images/Assessments%20&%20Examinations/P1.png)
-
-![](/images/Assessments%20&%20Examinations/P2.png)
-
-![](/images/Assessments%20&%20Examinations/p3.png)
-
-![](/images/Assessments%20&%20Examinations/P4.png)
-
-![](/images/Assessments%20&%20Examinations/P5.png)
-
-![](/images/Assessments%20&%20Examinations/P6.png)
