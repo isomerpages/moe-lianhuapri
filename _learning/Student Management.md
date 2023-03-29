@@ -3,7 +3,7 @@ title: Student Management
 permalink: /learning/student-management/
 description: ""
 ---
-# Student Management
+# **Student Development**
 ![](/images/Learning/Student%20Management/image1.jpg)
 
 #### Purpose
