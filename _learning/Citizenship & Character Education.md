@@ -109,7 +109,11 @@ Volunteerism is the word used by the school to encourage our students to create 
 
 In the previous years, students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Runninghour, the Marine Life Conservation, the Green Schools Projects, and the Community Outreach.
 
-# image too large
+|   |   |  
+|---|---|  
+| ![](/images/Learning/CCE/LHPS_CCE%201%20.png) <center>Community Outreach During Chinese New Year</center> | ![](/images/Learning/CCE/LHPS_CCE2.png) <center>Bringing Joy to Others</center> |
+
+
 
 2021, however, was a year in which the Covid situation disrupted most the schools’ plan for VIA projects. Many projects were shelved due to the restrictions in interactions among students and external agencies.
 
