@@ -32,11 +32,12 @@ At Lianhua Primary School, we believe that every child has the potential to beco
 
 The one-day camp is carried out by our teachers to provide student leaders with a day of targeted and focused learning on different leadership skills i.e. conflict management, public speaking, project planning. The needs of the student leaders are assessed at the start of the year and the training content caters to their learning needs.
 
-<img src="" style="width:65%">/images/Learning/Student%20Management/image5.jpg
+<img src="/images/Learning/Student%20Management/image5.jpg" style="width:65%">
 
 <center>Learning skills beyond the classroom</center>
 
-![](/images/Learning/Student%20Management/image4.jpg)
+<br>
+<img src="" style="width:65%">/images/Learning/Student%20Management/image4.jpg
 
 <center>Being able to work in teams is very important</center>
 
