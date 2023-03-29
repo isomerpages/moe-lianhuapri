@@ -56,7 +56,7 @@ CCE cannot be perceived in a silo or taught as a subject. Instead, the education
 
 Effective CCE implementation also requires conviction and dedicated support from school leaders, all key personnel, teachers and other staff. For this reason, LHPS has established and internalised a shared vision and purpose for CCE through a process of dialogue and meaning-making. We aim to build and use a common language to communicate and reinforce consistent messages on what it takes to foster dispositions of character and citizenship and apply social-emotional competencies in the process.
 
-#### LHPS CCE Goals
+#### **LHPS CCE Goals**
 
 LHPS CCE aims to develop in our students:
 
