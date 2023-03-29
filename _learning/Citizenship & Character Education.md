@@ -10,11 +10,12 @@ description: ""
 
 Character and Citizenship Education (CCE) in Lianhua Primary School (LHPS) is integral to the holistic development of our students, leading to positive life outcomes. LHPS CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
-![](/images/Learning/CCE/Im%20A%20Superhero%20CCE%20Roadmap.jpg)
+
+<img src="/images/Learning/CCE/Im%20A%20Superhero%20CCE%20Roadmap.jpg" style="width:65%">
 
 <center>Figure 1 : I’m A Superhero CCE Roadmap</center>
 
-#### LHPS CCE Philosophical Foundations
+#### **LHPS CCE Philosophical Foundations**
 
 The following philosophical foundations are fundamental to the broad approach towards the design and enactment of LHPS CCE, in alignment with the Singapore Curriculum Philosophy.
 
@@ -35,7 +36,7 @@ The following philosophical foundations are fundamental to the broad approach to
 
 *   It takes a village to raise a child. Schools partner with families, and the broader community in the upbringing and education of our children to grow in character, and play an active role in society, the nation and beyond.
 
-#### LHPS CCE Curriculum Frame Guiding Principles
+#### **LHPS CCE Curriculum Frame Guiding Principles**
 
 1\.  Student-centricity
 
