@@ -56,7 +56,9 @@ Our student leaders are given opportunities to propose and plan projects to make
 
 <center>Collecting old shoes for a good cause</center>
 
-![](/images/Learning/Student%20Management/image9.jpg)
+
+<img src="/images/Learning/Student%20Management/image9.jpg" style="width:65%">
+
 
 <center>Reaching out to the elderlies in our community</center>
 
