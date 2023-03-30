@@ -3,7 +3,6 @@ title: Information & Communications Technology
 permalink: /learning/information-n-communications-technology/
 description: ""
 ---
-# links broken: (more info on ALP) https://lianhuapri.moe.edu.sg/learning/ict AND ALP (found at the bottom)
 # **Information & Communications Technology**
 
 **ICT Department Vision:**  Every child a self-directed and engaged digital learner by harnessing ICT.
@@ -45,5 +44,3 @@ For the installation guide, FAQs and the support team contact email address, you
 **Other platforms (eg Nearpod, Flipgrid, Edmodo etc)**
 
 In addition to the portals by MOE, our school uses appropriate online platforms to cater to the needs of our pupils. With the use of Nearpod, the interactions between the teacher and pupils are enhanced and timely quality feedback can be given. Our school uses Flipgrid extensively to build their confidence in speaking, presenting and showmanship. This portal prepares our pupils for the future digital world.
-
-### <a href="https://lianhuapri.moe.edu.sg/highlights/applied-learning-programme" target="_blank">ALP</a>
