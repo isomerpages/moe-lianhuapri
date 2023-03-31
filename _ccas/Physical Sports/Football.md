@@ -4,7 +4,7 @@ permalink: /ccas/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 ---
-# Football
+# **Football**
 
 Football is played by 250 million players in over 200 countries which makes it the most popular sport in the world. In some countries football is also known as “soccer” where a team of eleven players sweat it out in the field against the opponent, passing the ball around and aiming to get the ball into the opponent’s goal. It is a great form of exercise as there is lots of running and footwork involved. Apart from its health benefits, football also emphasises on the values of teamwork and discipline, as it promotes good sportsmanship.
 
@@ -16,7 +16,7 @@ This popular game has enticed many students in Lianhua Primary School to join th
 
 ![](/images/CCAs/Football/Training%2002.jpg)
 
-## Experiences
+## **Experiences**
 
 Our current coach, Coach Wandy, ensured that the zoom CCA sessions were meaningful and filled with lots of experiences for our players to remember. Apart from learning football skills, Coach Wandy even boosted the students’ fitness levels through carefully selected drills.
 
@@ -34,7 +34,7 @@ The football stars shared their struggles and how they persevered during their f
 
 Our football players learnt valuable pointers from our local football stars. Their sharing will definitely motivate our footballers to grow in this sport. Who best to give them life lessons other than the personalities who are directly involved in this beautiful game!
 
-## Students' Voices
+## **Students' Voices**
 
 I have always been fascinated by my brother, Hakeem. He is a good player and is able to control the ball well. I realised that Hakeem was good because of the long hours of training and playing soccer. Thus I am inspired to become like him. I am lucky as my brother Hakeem always trains me in the afternoons.
 
@@ -45,7 +45,7 @@ One player I love to play with is Danish Alfian. He plays as the striker in our 
 <p style="text-align: right"> Syed Al Shahid, 6 Unity<br></p>
 <br>
 
-I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.  
+I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.&nbsp;&nbsp;
 
 I remembered playing in the tournament. I can see that the team puts so much trust in me to score goals. I was a little nervous at first but after a few games, I began to be more confident and make fewer mistakes.
 
@@ -57,7 +57,7 @@ I still remember when I made a last pass to Gahan during a game and he managed t
 
 ![](/images/CCAs/Football/Training%2008.jpg)
 
-## Useful Links
+## **Useful Links**
 
 Dynamic Exercises That You Can Do At Home by Solvpro:   
 <a href="https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet" target="_blank">https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet</a>
@@ -83,7 +83,7 @@ The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:
 <a href="https://youtu.be/fXvTV6DnpaE" target="_blank">https://youtu.be/fXvTV6DnpaE</a>
 
 
-## The Team
+## **The Team**
 
 Mr Fadial B Jamaludin <br>
 Mr Kathiravan S/O M K K Murugiah <br>
