@@ -91,7 +91,7 @@ The Lay Up | Basketball
 <a href="https://www.youtube.com/watch?v=q4IqeXob_qg">https://www.youtube.com/watch?v=q4IqeXob_qg</a>
 
 
-## <center>The Team</center>
+## <center>**The Team**</center>
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |   |
 |---|---|---|    
@@ -100,11 +100,6 @@ The Lay Up | Basketball
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |   
 |---|---|   
-| ![](/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg) <center></center> | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) <center>MRS TAN JYE EN</center> | 
-MR TAN CHIN CHUAN <br>
-MR WILLIE WONG <br>
-MDM PEK PEET JUAN SHANICE <br>
-MS TAN LI YAN  <br>
-MS ABIGAIL ANG JIA MIN <br>
-MS ALYSSA <br>
-MRS TAN JYE EN <br>
+| ![](/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg) <center>MR TAN CHIN CHUAN <br></center> | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) <center>MRS TAN JYE EN</center> | 
+
+ 
