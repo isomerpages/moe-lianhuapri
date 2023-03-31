@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Our Family
 ---
 # School Staff
-
+<br>
 <ul class="jekyllcodex_accordion">
-<li>
-  <input id="accordion1" type="checkbox">
   <label for="accordion1">Primary One Teachers</label>
     <div>
       <p>
@@ -127,7 +125,7 @@ third_nav_title: Our Family
   </tr>
 </tbody>
 </table>
-</p></div></li><li>
+</p></div><li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
     <div>
