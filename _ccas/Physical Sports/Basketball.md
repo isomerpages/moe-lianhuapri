@@ -100,7 +100,7 @@ The Lay Up | Basketball
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |   
 |---|---|   
-| ![](/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg) <center></center> | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) <center>MR WILLIE WONG</center> | 
+| ![](/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg) <center></center> | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) <center>MRS TAN JYE EN</center> | 
 MR TAN CHIN CHUAN <br>
 MR WILLIE WONG <br>
 MDM PEK PEET JUAN SHANICE <br>
