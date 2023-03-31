@@ -32,7 +32,7 @@ third_nav_title: Our Family
 .tg .tg-ztfi{background-color:#F5F7F6;color:#FD9047;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-8q31{background-color:#F5F7F6;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 642px">
+</tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 642px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 201px">
@@ -53,7 +53,7 @@ third_nav_title: Our Family
   </tr>
 </tbody>
 </table>
-  <tr>
+  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -127,7 +127,7 @@ third_nav_title: Our Family
   </tr>
 </tbody>
 </table>
-<li>
+</p></div></li><li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
     <div>
@@ -151,7 +151,7 @@ third_nav_title: Our Family
 .tg .tg-xir6{background-color:#F5F7F6;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-8q31{background-color:#F5F7F6;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 655px">
+</tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 655px">
 <colgroup>
 <col style="width: 151px">
 <col style="width: 201px">
@@ -165,20 +165,7 @@ third_nav_title: Our Family
   </tr>
 </thead>
 </table>
-  <tr>
-		<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mtj8{background-color:#F5F7F6;text-align:left;vertical-align:top}
-.tg .tg-frjl{background-color:#F5F7F6;color:#FD9047;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lsa6{background-color:#F5F7F6;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-8q31{background-color:#F5F7F6;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ztfi{background-color:#F5F7F6;color:#FD9047;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
+ 
 <table class="tg" style="undefined;table-layout: fixed; width: 695px">
 <colgroup>
 <col style="width: 151px">
@@ -237,7 +224,7 @@ third_nav_title: Our Family
 </table>
  
 		
-<li>
+</p></div></li><li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">Primary Three Teachers</label>
     <div>
@@ -261,7 +248,7 @@ third_nav_title: Our Family
 .tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lsa6{background-color:#F5F7F6;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 657px">
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 657px">
 <colgroup>
 <col style="width: 151px">
 <col style="width: 201px">
@@ -342,7 +329,7 @@ third_nav_title: Our Family
 </table>
 
 
-<li>
+</p></div></li><li>
     <input id="accordion4" type="checkbox">
     <label for="accordion4">Primary Four Teachers</label>
     <div>
@@ -367,7 +354,7 @@ third_nav_title: Our Family
 .tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lsa6{background-color:#F5F7F6;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 654px">
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 654px">
 <colgroup>
 <col style="width: 151px">
 <col style="width: 201px">
@@ -437,7 +424,7 @@ third_nav_title: Our Family
 </tbody>
 </table>
   
-<li>
+</p></div></li><li>
     <input id="accordion5" type="checkbox">
     <label for="accordion5">Primary Five Teachers</label>
     <div>
@@ -462,7 +449,7 @@ third_nav_title: Our Family
 .tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lsa6{background-color:#F5F7F6;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 648px">
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 648px">
 <colgroup>
 <col style="width: 151px">
 <col style="width: 201px">
@@ -533,7 +520,7 @@ third_nav_title: Our Family
 </table>
 
 	
-<li>
+</p></div></li><li>
     <input id="accordion6" type="checkbox">
     <label for="accordion6">Primary Six Teachers</label>
     <div>
@@ -558,7 +545,7 @@ third_nav_title: Our Family
 .tg .tg-30r1{background-color:#F5F7F6;border-color:inherit;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lsa6{background-color:#F5F7F6;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 645px">
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 645px">
 <colgroup>
 <col style="width: 151px">
 <col style="width: 201px">
@@ -625,7 +612,7 @@ third_nav_title: Our Family
 
 	
 	
-<li>
+</p></div></li><li>
   <input id="accordion7" type="checkbox">
   <label for="accordion7">Specialised Support Staff</label>
     <div>
@@ -655,7 +642,7 @@ third_nav_title: Our Family
 .tg .tg-d16l{background-color:#F5F7F6;border-color:inherit;color:#FD9047;text-align:left;text-decoration:underline;
   vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 646px">
+</tr></tbody></table><table class="tg" style="undefined;table-layout: fixed; width: 646px">
 <colgroup>
 <col style="width: 152px">
 <col style="width: 202px">
@@ -684,4 +671,4 @@ third_nav_title: Our Family
     <td class="tg-d16l"><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
 </tbody>
-</table>
+</table></p></div></li></ul>
