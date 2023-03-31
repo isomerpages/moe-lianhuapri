@@ -41,7 +41,7 @@ Friendly matches with schools are always organized on an annual basis to provide
 
 Great power comes with great responsibilities. CCA members will render help in maintaining the school environment regularly and providing assistance to community when the need arises..
 
-<iframe width="718" height="522" src="https://www.youtube.com/embed/GhH6Wye5Nq4" title="CCA EXPERIENCE   SPORTS BASKETBALL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **_<u>Promotion of CCA Video</u>_**
 
@@ -84,19 +84,19 @@ I used to play basketball for recreation. However, joining the basketball CCA al
 ####  Useful Links   
 
 How To Dribble A Basketball For Beginners! Basketball Basics    
-<a href="https://www.youtube.com/watch?v=CMQp0bwjokw" target="_blank">https://www.youtube.com/watch?v=CMQp0bwjokw</a>    
+<a href="https://www.youtube.com/watch?v=CMQp0bwjokw">https://www.youtube.com/watch?v=CMQp0bwjokw</a>    
 Shooting Basics (how to shoot a basketball)   
-<a href="https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15" target="_blank">https://www.youtube.com/watch?v=nqqw_hYT4QM&list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&start_radio=1&rv=nqqw_hYT4QM&t=15</a>    
+<a href="https://www.youtube.com/watch?v=nqqw_hYT4QM&amp;list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&amp;start_radio=1&amp;rv=nqqw_hYT4QM&amp;t=15">https://www.youtube.com/watch?v=nqqw_hYT4QM&amp;list=RDCMUCSPmvWDcGGA6T0I0qFU6LoA&amp;start_radio=1&amp;rv=nqqw_hYT4QM&amp;t=15</a>    
 The Lay Up | Basketball    
-<a href="https://www.youtube.com/watch?v=q4IqeXob_qg" target="_blank">https://www.youtube.com/watch?v=q4IqeXob_qg</a>
+<a href="https://www.youtube.com/watch?v=q4IqeXob_qg">https://www.youtube.com/watch?v=q4IqeXob_qg</a>
 
 
 ## <center>The Team</center>
 
-|   |   |   |
-|:-:|:-:|:-:|
-| <img src="/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg" style="width:70%"> MR YAO HUA SONG | <img src="/images/CCAs/Basketball/WILLIE%20WONG.jpg" style="width:70%"> MR WILLIE WONG |  ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg) MR SAMUEL WONG  |
-
-|   |   | 
-|:-:|:-:|
-|  <img src="/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg" style="width:45%">  MR TAN CHIN CHUAN |  <img src="/images/CCAs/Basketball/TAN%20JYE%20EN.jpg" style="width:50%"> MRS TAN JYE EN   |
+MR TAN CHIN CHUAN <br>
+MR WILLIE WONG <br>
+MDM PEK PEET JUAN SHANICE <br>
+MS TAN LI YAN  <br>
+MS ABIGAIL ANG JIA MIN <br>
+MS ALYSSA <br>
+MRS TAN JYE EN <br>
