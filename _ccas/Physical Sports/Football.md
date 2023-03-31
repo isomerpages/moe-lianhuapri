@@ -36,14 +36,21 @@ Our football players learnt valuable pointers from our local football stars. The
 
 ## **Students' Voices**
 
+#### <p style="text-align: left"> **Syed Al Shahid,** </p>
+<b>6 Unity</b>
+
+
 I have always been fascinated by my brother, Hakeem. He is a good player and is able to control the ball well. I realised that Hakeem was good because of the long hours of training and playing soccer. Thus I am inspired to become like him. I am lucky as my brother Hakeem always trains me in the afternoons.
 
 Training with my friends in school further enhances my skills and knowledge about soccer. Our Soccer CCA teachers train us to become good players. I love to learn from them. Not only on technique, we are also reminded of teamwork, the motivation to fight as a team and also to lose as a team.  
 
 One player I love to play with is Danish Alfian. He plays as the striker in our team. Danish is a skillful player. Playing along with him gives me the confidence of winning. Football has given me so much and I will continue to strive to be a better player.
 
-<p style="text-align: right"> Syed Al Shahid, 6 Unity<br></p>
-<br>
+#### <p style="text-align: left"> **Danish Alfian Adam** </p>
+	
+	
+<b>6 Compassion</b>
+
 
 I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.&nbsp;&nbsp;
 
@@ -51,7 +58,7 @@ I remembered playing in the tournament. I can see that the team puts so much tru
 
 I still remember when I made a last pass to Gahan during a game and he managed to score a goal for the team. Although we lost the game, the teamwork, motivation to fight as a team and play for our school is very satisfying.
 
-<p style="text-align: right"> Danish Alfian Adam, 6 Compassion<br></p>
+
 
 ![](/images/CCAs/Football/Training%2006.jpg)
 
