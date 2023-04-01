@@ -103,13 +103,12 @@ Hi everyone, I am Bogwang from 6 Resilience and I am the captain of the school v
 
 ## <center>The Team</center>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/CCAs/Volleyball/Mr%20Foo%20Zhi%20Bao%20Jonathan.jpg)  |  ![](/images/CCAs/Volleyball/Mr%20Ramadhan%20Bin%20Omar.jpg) |
-
-Clara Tan Yi Jun <br>
-Hana Diyana<br>
-Jolene Ng
+MR FOO ZHI BAO JONATHAN<br>
+MR RAMADHAN BIN OMAR <br>
+MS FARAH SYAFIQAH BINTE JOHARI <br>
+MS CLARA TAN YI JUN <br>
+MDM HANA DIYANA<br>
+MS JOLENE NG
 
 
 **Additional Resources**   
