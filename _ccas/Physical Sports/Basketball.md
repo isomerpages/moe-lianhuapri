@@ -75,15 +75,15 @@ During CCA training, we learn more than just playing basketball. There were time
 My experience in the basketball CCA was fun and exciting, we learned a lot about teamwork as we need teamwork to win! The training was tough but enjoyable at the same time, my other teammates always cracked jokes and made us laugh. We can also make new friends with other school players when we participate in competitions. Playing basketball is more than just mastering the skills. Friendships are made and sound values have been acquired at the same time.
 
  
- 
 <br>
 
- 
+ <p style="text-align: left"> Andy Zheng Yongjie, Primary 6' 2021<br></p>
+	
 <br>
 I used to play basketball for recreation. However, joining the basketball CCA allowed me to play basketball competitively. I have learnt a lot of values and skills in the process. I have improved after joining basketball CCA. The teachers and coaches have also helped me to think critically and gain a better understanding of basketball techniques and tactics. Basketball is such a great sport to play even if it is played at leisure. The best choice I have made in my primary school is to join basketball CCA and I will never regret it.
 
 
-  <p style="text-align: right"> Andy Zheng Yongjie, Primary 6' 2021<br></p>
+ 
 <br>
 
 ####  **Useful Links**   
