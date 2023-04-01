@@ -95,10 +95,18 @@ The Lay Up | Basketball
 
 ####  **The Team**   
 
+
+| ![](/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg) | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) | ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg)  |  
+|---|---|---| 
+| <center>MR YAO HUA SONG</center> | <center>MR WILLIE WONG </center> |<center>MR SAMUEL WONG</center> |
+
+|&nbsp;![](/images/CCAs/Basketball/TAN%20CHIN%20CHUAN.jpg&nbsp;) |&nbsp;&nbsp;![](/images/CCAs/Basketball/TAN%20JYE%20EN.jpg) |  
+|---|---|  
+|&nbsp; <center></center> | <center></center> |
 MR TAN CHIN CHUAN <br>
-MR WILLIE WONG<br>
+<br>
 MDM PEK PEET JUAN SHANICE <br>
 MS TAN LI YAN  <br>
 MS ABIGAIL ANG JIA MIN <br>
-MS ALYSSA POH<br>
+MS ALYSSA <br>
 MRS TAN JYE EN <br>
