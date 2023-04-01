@@ -2,7 +2,7 @@
 title: Robotics Club
 permalink: /ccas/clubs-n-societies/robotics-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 # Robotics Club
 
@@ -25,7 +25,7 @@ Members undergo training to help them develop and deepen their understanding of 
 
 ## Experiences
 
-#### Robot Design & Mechanics
+#### Robot Design &amp; Mechanics
 
 Members creatively design and build robots and mechanisms in their teams. Members have opportunities to showcase and share about their robots and designs.
 
@@ -69,7 +69,7 @@ In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competitio
 
 <center>Completing CoderZ Disco Blocks mission</center>
 
-<iframe width="711" height="510" src="https://www.youtube.com/embed/3eZNB4mCK5s" title="SolvingRoboGolfMission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="510" src="https://www.youtube.com/embed/3eZNB4mCK5s" title="SolvingRoboGolfMission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center>Completed CoderZ Robo Golf mission</center>
 
@@ -79,7 +79,7 @@ In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competitio
 During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the codes and programs created by members using SCRATCH.
 
 
-<iframe width="711" height="512" src="https://www.youtube.com/embed/Wl2nQVKNpfQ" title="Coral Reef Cleanup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="512" src="https://www.youtube.com/embed/Wl2nQVKNpfQ" title="Coral Reef Cleanup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center>Controlling a VR Robot to clean up a coral reef<br>(Collect as much trash as possible before the batteries run out of power)</center>
 
@@ -87,7 +87,7 @@ During eCCA Zoom sessions, members continue to learn programming using various s
 
 <center>Drawing different beautiful drawings with a robot.</center>
 
-<iframe width="711" height="512" src="https://www.youtube.com/embed/1wH62dnql5g" title="Wall Maze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="512" src="https://www.youtube.com/embed/1wH62dnql5g" title="Wall Maze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center>Controlling a VR Robot to navigate through a maze</center>
 
@@ -96,15 +96,15 @@ During eCCA Zoom sessions, members continue to learn programming using various s
 During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the games and programs created by members using SCRATCH.
 
 
-<iframe width="711" height="512" src="https://www.youtube.com/embed/vHYdHl4EIYw" title="Ping Pong Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="512" src="https://www.youtube.com/embed/vHYdHl4EIYw" title="Ping Pong Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center>Score as many points as possible in this Ping Pong Ball Game</center>
 
-<iframe width="711" height="511" src="https://www.youtube.com/embed/c-9JqcP9cOI" title="Balloon Popping Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="511" src="https://www.youtube.com/embed/c-9JqcP9cOI" title="Balloon Popping Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <center>Pop the balloons in this Balloon Popping Game</center>
 
-<iframe width="711" height="512" src="https://www.youtube.com/embed/YieFV2I31I4" title="Robotics CCA Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="512" src="https://www.youtube.com/embed/YieFV2I31I4" title="Robotics CCA Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **_<u>Promotion of CCA Video</u>_**
 
@@ -113,7 +113,7 @@ During eCCA Zoom sessions, members continue to learn programming using various s
 Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCAs Experience is conducted online. Dayan Soh, Chairperson of Robotics Club, and Kavin, Vice-chairperson of Robotics Club would like to invite robotics lovers from P1 to join us and have fun!
 
 
-<center><span style = "color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
+<center><span style="color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
 
 
 **<center>Achievements</center>**
@@ -171,6 +171,9 @@ I have experienced a wonderful 2 years in the robotics CCA. It has helped me imp
 
 ## The Team
 
-|   |   |   |   |
-|:-:|:-:|:-:|:---:|
-|  ![](/images/CCAs/Robotics%20Club/MRS%20ALEXIS%20PUA.jpg)  MRS ALEXIS PUA |  <img src="/images/CCAs/Robotics%20Club/MR%20LIM%20SOON%20WEI.jpg" style="width:60%">  MR LIM SOON WEI  |  <img src="/images/CCAs/Robotics%20Club/MS%20CHOO%20YEN%20LENG.jpg" style="width:60%">  MS CHOO YEN LENG  |  <img src="/images/CCAs/Robotics%20Club/MDM%20KONG%20KAM%20FOONG.jpg" style="width:58%">  MDM KONG KAM FOONG |
+MR LEE SOON WEI<br>
+MS CHOO YEN LENG JOSEPHINE<br>
+MRS ALEXIS PUA<br>
+MDM KONG KAM FOONG<br>
+MS GRACIA EE EN<br>
+MDM TAN XIAOHUI
