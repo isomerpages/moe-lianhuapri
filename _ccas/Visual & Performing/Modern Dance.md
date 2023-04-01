@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /ccas/visual-n-performing/modern-dance/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # **Modern Dance**
 
@@ -26,7 +26,7 @@ Our dancers have participated in various competitions such as the Dance Works!, 
 
   
 
-Our dancers also perform in events and school concerts such as the 75th Anniversary celebration, Lianhua Singing Festival, annual prize giving day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation.
+Our dancers also perform in events and school concerts such as the 75th&nbsp;Anniversary celebration, Lianhua Singing Festival, annual prize giving day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation.
 
 #### **Singing festival 2019**
 
@@ -68,7 +68,7 @@ Lianhua Primary School’s Modern dancers performed in the SYF in March 2018 and
 
 Due to Covid-19 and abiding the safety measures management, the P1 CCAs Experience is conducted online. Modern Dance CCA leaders, Jessy Yap, Phang Wei Xian, Catherine Cing and Aubrey would like to invite Modern Dance lovers from P1 to join us for our dance practices to master more dancing skills and enjoy dancing together.
 
-<iframe width="711" height="509" src="https://www.youtube.com/embed/_hcabobrG1c" title="Modern Dance P1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="509" src="https://www.youtube.com/embed/_hcabobrG1c" title="Modern Dance P1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## **Students' Voices**
 
@@ -136,7 +136,7 @@ Hip Hop For Beginners- 5 Basic Moves
 
 ## **The Team**
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Modern%20Dance/Peir.jpg)  Mdm Lee Peir Chuang (Mrs Loke) | <img src="/images/CCAs/Modern%20Dance/87_9545.jpg" style="width:73%">   Mdm Tan Xiao Hui  |
-|  <img src="/images/CCAs/Modern%20Dance/P_42_9665.jpg" style="width:60%">  Mdm Liu Chang | ![](/images/CCAs/Modern%20Dance/hoshueyun.jpg)   Mdm Ho Sheu Yun |
+MDM LIU CHANG<br>
+MDM NOOR DAYANA BTE MOHD SALEH<br>
+MS ARSHVINI PAULOSE MANOHAR<br>
+MDM RAMZANIAH BINTI LATEH
