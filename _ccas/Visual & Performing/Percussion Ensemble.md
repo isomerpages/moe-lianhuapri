@@ -2,7 +2,7 @@
 title: Percussion Ensemble
 permalink: /ccas/visual-n-performing/percussion-ensemble/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # **Percussion Ensemble**
 
@@ -25,7 +25,7 @@ Through the learning and performance of percussion instruments, students have be
 
 Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen of 5 Compassion.
 
-<iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
 
@@ -50,28 +50,31 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 
 ## **Students' Voices**
 
-**BRUZO NATHANIEL CLYDE BIGLAEN P6 RESILIENCE**  
-
 Initially, I was confused as to how to play with the mallets as I only knew how to play the piano. But over time, I learned to use the mallets to play the Marimba and Xylophone. I should say I am good at playing the instruments now.
 
+ <p style="text-align: right"> BRUZO NATHANIEL CLYDE BIGLAEN, 6 RESILIENCE<br></p>
+<br>
 
-**NUR IFFAH ZARIFAH BINTE RUZAINI P6 EXCELLENCE**
 
 I have learnt to be patient when practising on the drum pad, as I had to take baby steps to master the drumming skills. Besides the friendly and helpful training instructor, I was grateful to my friend as well, who was always by my side to help me during our training sessions.
 
-**NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID P6 COMPASSION**
+ <p style="text-align: right">NUR IFFAH ZARIFAH BINTE RUZAINI, 6 EXCELLENCE<br></p>
+<br>
+
 
 I always look forward to the training sessions because it is fun playing the Marimba and practising on the drum pad. Although it could be tough learning to play the pieces, I had fun learning together with my friends. Our training instructor will explain to us in simple terms.
 
-
-**BEH JUN HAO P5 COMPASSION**
-
+ <p style="text-align: right">NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID, 6 COMPASSION<br></p>
+<br>
 I had a lot of fun playing the Marimba, Bass Drum and Drum Set together with my friends. I had also learned more about the musical terms and concepts and I enjoyed the training sessions very much.
 
-
-**ILDEFONSO GREYSON TOBEY PONTE P5 COMPASSION**
+ <p style="text-align: right"> BEH JUN HAO, 5 COMPASSION<br></p>
+<br>
 
 I have learned to read musical notes and play a variety of instruments like the Bass Drum, Drums and Marimba. I have also exhibited values such as Resilience and Excellence by never giving up and playing the instruments to the best of my ability.
+
+ <p style="text-align: right"> ILDEFONSO GREYSON TOBEY PONTE, 5 COMPASSION<br></p>
+<br>
 
 ## Useful Links
 
@@ -95,8 +98,6 @@ Fanfare to the Future : Fantasie de Bali '84
 
 ## The Team
 
-
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Percussion%20Ensemble/Mrs%20Tay%20Peck%20San.jpg)  Mrs Tay Peck San | ![](/images/CCAs/Percussion%20Ensemble/Mdm%20Koh%20Wan%20Ting.jpg)  Mdm Koh Wan Ting  |
-|  ![](/images/CCAs/Percussion%20Ensemble/Ms%20Lin%20Jun.jpg) Ms Lin Jun  | ![](/images/CCAs/Percussion%20Ensemble/Mdm%20Kuan%20Suan%20Shi.jpg)   Mdm Juan Suan Shi |
+MRS TAY PECK SAN<br>
+MDM KOH WAN TING<br>
+MS SOH FAN YING
