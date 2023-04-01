@@ -8,7 +8,7 @@ third_nav_title: Physical Sports
 
 |   |   |
 |:-:|:-:|
-| ![](/images/CCAs/Basketball/TRAINING%20PHOTO%207.jpg)  |   ![](/images/CCAs/Basketball/TRAINING%20PHOTO%202.jpg)  <br> ![](/images/CCAs/Basketball/TRAINING%20PHOTO%205.jpg)   |
+| ![](/images/CCAs/Basketball/TRAINING%20PHOTO%207.jpg)  |   ![](/images/CCAs/Basketball/TRAINING%20PHOTO%202.jpg) <br> ![](/images/CCAs/Basketball/TRAINING%20PHOTO%205.jpg)   |
 
 #### **Purposes of CCA**
 
@@ -95,10 +95,15 @@ The Lay Up | Basketball
 
 ####  **The Team**   
 
+
+| ![](/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg) | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg) | ![](/images/CCAs/Basketball/SAMUEL%20WONG.jpg)  |  
+|---|---|---| 
+| <center>MR YAO HUA SONG</center> | <center>MR WILLIE WONG </center> |<center>MR SAMUEL WONG</center> |
+
 MR TAN CHIN CHUAN <br>
-MR WILLIE WONG <br>
+<br>
 MDM PEK PEET JUAN SHANICE <br>
 MS TAN LI YAN  <br>
 MS ABIGAIL ANG JIA MIN <br>
-MS ALYSSA POH<br>
+MS ALYSSA <br>
 MRS TAN JYE EN <br>
