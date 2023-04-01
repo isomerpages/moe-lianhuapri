@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Our Family
 ---
 # School Leaders &amp; School Management Committee
-
-
 <table width="750px">
 <thead>
   <tr>
@@ -19,7 +17,7 @@ third_nav_title: Our Family
   <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/SLM1.jpg"> Ms Pamela Kiew<br>Principal</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/SLM3.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Mavis%20Low.jpg">Mrs Mavis Low<br>Vice-Principal </td>
+    <td width="250px" style="text-align: center;"><img src="/images/mrsmavislow.png">Mrs Mavis Low<br>Vice-Principal </td>
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image6.png"> Ms Wang Xiaoxuan<br>Year Head P2 &amp; P3 </td>
