@@ -36,7 +36,9 @@ Our football players learnt valuable pointers from our local football stars. The
 
 ## **Students' Voices**
 
-<p style="text-align: left"><b> Syed Al Shahid, 6 Unity</b><br></p>
+####  **Syed Al Shahid**
+<b>6 Unity</b>
+
 
 I have always been fascinated by my brother, Hakeem. He is a good player and is able to control the ball well. I realised that Hakeem was good because of the long hours of training and playing soccer. Thus I am inspired to become like him. I am lucky as my brother Hakeem always trains me in the afternoons.
 
@@ -47,8 +49,9 @@ One player I love to play with is Danish Alfian. He plays as the striker in our 
   
 <br>
 
-<p style="text-align: left"><b> Danish Alfian Adam, 6 Compassion</b><br></p>
-<br>
+####  Danish Alfian Adam
+<b> 6 Compassion</b>
+
 
 I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.
 
