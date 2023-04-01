@@ -47,6 +47,9 @@ One player I love to play with is Danish Alfian. He plays as the striker in our 
   
 <br>
 
+<p style="text-align: left"><b> Danish Alfian Adam, 6 Compassion</b><br></p>
+<br>
+
 I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.
 
 I remembered playing in the tournament. I can see that the team puts so much trust in me to score goals. I was a little nervous at first but after a few games, I began to be more confident and make fewer mistakes.
@@ -54,8 +57,7 @@ I remembered playing in the tournament. I can see that the team puts so much tru
 I still remember when I made a last pass to Gahan during a game and he managed to score a goal for the team. Although we lost the game, the teamwork, motivation to fight as a team and play for our school is very satisfying.
 
 
-  <p style="text-align: right"> Danish Alfian Adam, 6 Compassion<br></p>
-<br>
+  
 
 ![](/images/CCAs/Football/Training%2006.jpg)
 
