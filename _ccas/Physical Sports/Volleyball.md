@@ -35,7 +35,7 @@ Selected players will represent Lianhua to participate in the Annual National Sp
 
 Friendly matches with schools are always organized on an annual basis to provide an avenue for members to build confidence and foster strong bonds with each other. It also serves as a platform for coaches and teachers to select the school team members.
 
-## Coach Appreciation Day
+## **Coach Appreciation Day**
 
 |   |   |
 |:-:|:-:|
