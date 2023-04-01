@@ -25,7 +25,7 @@ In Lianhua Primary School, Volleyball CCA is more than just a platform for stude
 |:-:|:-:|
 | ![](/images/CCAs/Volleyball/Competition%20Pic%206.jpeg)  |   ![](/images/CCAs/Volleyball/Competition%20Pic%207.jpeg)  |
 
-## Competition
+## **Competition**
 
 Selected players will represent Lianhua to participate in the Annual National Sports Games. Players learn how to win sportingly and lose with dignity. In the meantime, they also learn to exhibit Olympian Values such as respect, excellence and friendship in the competition.
 
