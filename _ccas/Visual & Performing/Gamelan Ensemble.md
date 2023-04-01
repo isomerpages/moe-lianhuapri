@@ -4,7 +4,6 @@ permalink: /ccas/visual-n-performing/gamelan-ensemble/
 description: ""
 third_nav_title: Visual &amp; Performing
 ---
-# upload image slide to google slide
 # Gamelan Ensemble
 
 Gamelan CCA has been around in the school for more than 20 years. The gamelan member’s journey starts with the commitment to enjoy and develop the skills needed to play a few of the instruments. The students do not need to have any prior or basic musical knowledge or experience in playing the instruments but must have perseverance and resilient and also the willingness to learn to play the different instruments.
