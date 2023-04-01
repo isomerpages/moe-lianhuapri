@@ -2,7 +2,7 @@
 title: Malay Dance
 permalink: /ccas/visual-n-performing/malay-dance/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # Malay Dance
 
@@ -56,7 +56,7 @@ In 2017, our Malay Dancers performed a dance item at a community club for the Na
 The Covid19 situation is not hindering our efforts to recruit new members and to share our journey. In the following video, our Malay Dance leaders will highlight the experiences which every Malay Dance member goes through, the skills learnt and the friendships and memories made in Malay Dance CCA.
 
 
-<iframe width="713" height="565" src="https://www.youtube.com/embed/rk7_0mrZ-5M" title="CCA EXPERIENCE   PA MALAY DANCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="713" height="565" src="https://www.youtube.com/embed/rk7_0mrZ-5M" title="CCA EXPERIENCE   PA MALAY DANCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **<center>Achievements</center>**
 
@@ -90,6 +90,6 @@ In Malay Dance I have learnt to be resilient and not give up even when the dance
 
 ## The Team
 
-![](/images/CCAs/Malay%20Dance/Malay%20Dance%20Teachers.jpg)
-
-<center>(From Top Right)Mdm Norlieza Bte Ahmad, Mdm Rosnah Bte Rosman, Mdm Ramzaniah Bte Lateh and Mdm Norhayati Bte Ruhani.</center>
+MDM ROSNAH BTE ROSMAN<br>
+MDM NORLIEZA BTE AHMAD<br>
+MS SOH FANG YING
