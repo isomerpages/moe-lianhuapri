@@ -1,12 +1,9 @@
 ---
-title: Citizenship & Character Education
+title: Citizenship &amp; Character Education
 permalink: /learning/citizenship-n-character-education/
 description: ""
 ---
-# images for : "Community Outreach During Chinese New Year", "Bringing Joy to Others", "Our Primary One Shakthi’s very own community outreach">5MB
-
-
-# **Citizenship & Character Education**
+# **Citizenship &amp; Character Education**
 
 Character and Citizenship Education (CCE) in Lianhua Primary School (LHPS) is integral to the holistic development of our students, leading to positive life outcomes. LHPS CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
@@ -76,13 +73,13 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 
 ‘Play, Passion, Purpose’ is the school’s motto which encapsulates the school’s vision of ‘Hearts of Service’, ‘Minds of Inquiry’, Joy in Learning’ and ‘Confidence in Life’.
 
-Our school vision ‘Hearts of Service. Minds of Inquiry. Joy in Learning. Confidence in Life.’ encapsulates the philosophy with which our students will approach lifelong learning and learning for life. 
+Our school vision ‘Hearts of Service. Minds of Inquiry. Joy in Learning. Confidence in Life.’ encapsulates the philosophy with which our students will approach lifelong learning and learning for life.&nbsp;
 
-Through ‘Hearts of Service’, we want our students to be empowered leaders who will nurture students to lead by serving others, school and community; to volunteer and pay it forward; and to do their part to make a difference to self and others. 
+Through ‘Hearts of Service’, we want our students to be empowered leaders who will nurture students to lead by serving others, school and community; to volunteer and pay it forward; and to do their part to make a difference to self and others.&nbsp;
 
-‘Minds of Inquiry’ is about developing the attitude and habits of mind in seeking knowledge and understanding, and to possess the analytical and problem-solving skills in order to become effective agents of self-directed and collaborative learning. 
+‘Minds of Inquiry’ is about developing the attitude and habits of mind in seeking knowledge and understanding, and to possess the analytical and problem-solving skills in order to become effective agents of self-directed and collaborative learning.&nbsp;
 
-‘Joy in Learning’ is about having engaged learners who will learn through curiosity and discovery. It aims to provide the platforms for our students to learn by sharing, creating, playing and enjoying authentic experiences. 
+‘Joy in Learning’ is about having engaged learners who will learn through curiosity and discovery. It aims to provide the platforms for our students to learn by sharing, creating, playing and enjoying authentic experiences.&nbsp;
 
 With ‘Confidence in Life’, we hope that our students will be able to gain self-confidence through the identification of their strengths and talents, and to be aware of their own aspirations, in order to ignite the intrinsic motivation in themselves and others, and therefore be able to express themselves well and confidently.
 
@@ -109,9 +106,9 @@ Volunteerism is the word used by the school to encourage our students to create 
 
 In the previous years, students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Runninghour, the Marine Life Conservation, the Green Schools Projects, and the Community Outreach.
 
-|   |   |  
+|&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
-| ![](/images/Learning/CCE/LHPS_CCE%201%20.png) <center>Community Outreach During Chinese New Year</center> | ![](/images/Learning/CCE/LHPS_CCE2.png) <center>Bringing Joy to Others</center> |
+| ![](/images/lhpscce%201%20(1).jpg) <center>Community Outreach During Chinese New Year</center> | ![](/images/lhpscce%201%20(2).jpg)<center>Bringing Joy to Others</center> |
 
 
 
@@ -123,9 +120,10 @@ It was therefore not surprising to see students volunteering in various ways, ra
 
 In June this year, one of our Primary One students, started a ‘Care and Share’ corner with her own savings in order to help the needy residents in her estate. Shakthi from Primary One Resilience was so inspired by the Project SMILE that she decided to pay it forward to the society in her own way. Now, Shakthi is an inspiration to all of us. She captured the spirit of Volunteerism so well that we hope more of her generation will be like her one day.
 
-|   |  
+|&nbsp;&nbsp; |&nbsp;&nbsp;
 |---|  
-| ![](/images/Learning/CCE/LHPS_CCE3.png) <center>Our Primary One Shakthi’s very own community outreach</center> |
+| ![](/images/lhps_cce11.jpg) <center>Our Primary One Shakthi’s very own community outreach</center> |
+
 
 #### **LHPS CCE Roadmap**
 
