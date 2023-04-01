@@ -13,11 +13,11 @@ third_nav_title: Aesthetics
 <br>
 
 
-**Our Vision & Mission**   
+**Our Vision &amp; Mission**   
 Vision: Every student is able to create, perform, listen and respond to music.   
-Mission (3Es): To **educate** students in listening and understanding of musical elements and concepts.   
-To **enable** students to create original music pieces.   
-To **empower** students to perform music from the local and global cultures confidently.
+Mission (3Es): To&nbsp;**educate**&nbsp;students in listening and understanding of musical elements and concepts.   
+To&nbsp;**enable**&nbsp;students to create original music pieces.   
+To&nbsp;**empower**&nbsp;students to perform music from the local and global cultures confidently.
 
   
 
@@ -51,9 +51,9 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 
 **Major Programmes**
 
-**<u>P1 & P2 Shining Artz Celebration</u>**
+**<u>P1 &amp; P2 Shining Artz Celebration</u>**
 
-The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Performing Arts. In the celebration, the students from each class will showcase what they have learnt during the music lessons, such as singing community songs and playing musical instruments. Selected students will serve as emcees to introduce the musical performances to the audience.
+The P1 &amp; P2 Shining Artz Celebration aims to showcase our students’ talents in Performing Arts. In the celebration, the students from each class will showcase what they have learnt during the music lessons, such as singing community songs and playing musical instruments. Selected students will serve as emcees to introduce the musical performances to the audience.
 
 |   |   |
 |:---:|:---:|
@@ -98,6 +98,6 @@ We have also created a Lianhua personalised music video playlist with Times Tabl
 
 ### **Our Team**
 
-|   |   |
-|:---:|:---:|
-| ![](/images/Learning/Music/Music%20Dept%20Team%20Photo%201.jpeg)  |  <img src="/images/Learning/Music/Music%20Dept%20Team%20Photo%202.jpeg" style="width:75%">   |
+MRS TAY PECK SAN <br>
+MR SIM WEE CHOON <br>
+MS SOH FANG YING <br>
