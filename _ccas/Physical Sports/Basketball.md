@@ -72,7 +72,7 @@ During CCA training, we learn more than just playing basketball. There were time
   
 <br>
  <p style="text-align: left"><b>CHEN HONGXUAN, Primary 6' 2021</b><br></p>
-<br>
+
 
 My experience in the basketball CCA was fun and exciting, we learned a lot about teamwork as we need teamwork to win! The training was tough but enjoyable at the same time, my other teammates always cracked jokes and made us laugh. We can also make new friends with other school players when we participate in competitions. Playing basketball is more than just mastering the skills. Friendships are made and sound values have been acquired at the same time.
 
