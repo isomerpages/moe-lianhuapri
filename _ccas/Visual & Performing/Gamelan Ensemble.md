@@ -2,7 +2,7 @@
 title: Gamelan Ensemble
 permalink: /ccas/visual-n-performing/gamelan-ensemble/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # upload image slide to google slide
 # Gamelan Ensemble
@@ -91,3 +91,10 @@ Gamelan has taught me to be patient. When a member need the instructor's help, t
 
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 3" src="https://www.youtube.com/embed/-ELcfeVFz54" height="308" width="351"></iframe></center>
+<br>
+
+#### The Team
+
+MDM KHILFINA BTE KAMARUDDIN SHAH<br>
+MDM NORLAILAWATI BTE OSMAN<br>
+MDM SITI NURAINI MUSTAQIIM M YUSOF
