@@ -10,7 +10,7 @@ third_nav_title: Aesthetics
 |:---:|:---:|
 | <img src="/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden.jpg" style="width:75%">  |  ![](/images/Learning/Visual%20Art/Main%20Photo%202-%20drawing%20activity%20infused%20with%20ICT%20.jpg) |
 
-**Our Vision & Mission**
+**Our Vision &amp; Mission**
 
 **Vision: Inspiring Minds, Moving HeArts**   
 **Mission: Cultivate passion and working towards excellence in Visual Art.**
@@ -52,7 +52,7 @@ Through this platform, we hope to provide students with an alternative mode of s
 
 **<u>Museum-Based Learning Programme</u>**
 
-In the Museum-based learning module, the P4 and P5 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. In the process, students develop visual observation, appreciation and pride in local art, culture & heritage. Students will have a pre-museum visit lesson to learn about museum etiquettes and the artworks. At the National Gallery, students will do individual and pair-work museum-visit activities using the inquiry-based learning approach. For the post-visit, the art teacher will lead the students to create an artwork in response to their learning experience and the art style of the artist's artworks viewed. In view of the current COVID situation, changes have been made to engage our P4 and P5 students to embark on a virtual National Gallery visit in a safe learning environment within the school.
+In the Museum-based learning module, the P4 and P5 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. In the process, students develop visual observation, appreciation and pride in local art, culture &amp; heritage. Students will have a pre-museum visit lesson to learn about museum etiquettes and the artworks. At the National Gallery, students will do individual and pair-work museum-visit activities using the inquiry-based learning approach. For the post-visit, the art teacher will lead the students to create an artwork in response to their learning experience and the art style of the artist's artworks viewed. In view of the current COVID situation, changes have been made to engage our P4 and P5 students to embark on a virtual National Gallery visit in a safe learning environment within the school.
 
 |   |   |
 |---|---|
@@ -68,9 +68,9 @@ Our P1 and P2 students undergo iPad photography lessons as part of their digital
 | ![](/images/Learning/Visual%20Art/Digital%20Media%20-%20P1%20Student%20at%20Science%20Garden.jpg)  | ![](/images/Learning/Visual%20Art/Student_s%20ipad%20photography%20work%20@Science%20Garden.jpg)   |  ![](/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden%20(2).jpg) |
 
 
-**<u>P1 & P2 Shining Artz Celebration</u>**
+**<u>P1 &amp; P2 Shining Artz Celebration</u>**
 
-The P1 & P2 Shining Artz Celebration aims to showcase our students’ talents in Visual Art curriculum featuring artworks ranging from two-dimensional artworks- drawings to three-dimensional artworks – food plastiscines, and ICT works – iPad photography works from the Digital Media module. Selected student art leaders would serve as art emcees or art guides to introduce artworks and interview visitors. This is to provide students with similar roles and experience akin to the SYF Art Exhibition.
+The P1 &amp; P2 Shining Artz Celebration aims to showcase our students’ talents in Visual Art curriculum featuring artworks ranging from two-dimensional artworks- drawings to three-dimensional artworks – food plastiscines, and ICT works – iPad photography works from the Digital Media module. Selected student art leaders would serve as art emcees or art guides to introduce artworks and interview visitors. This is to provide students with similar roles and experience akin to the SYF Art Exhibition.
 
 
 |   |   |   |
@@ -98,10 +98,14 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 
 ### **Useful links**
 
-Brainpop - <a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
-National Gallery Singapore - <a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
+Brainpop -&nbsp;<a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
+National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
 
 ### **Our Visual Art Team**
 
 
 ![](/images/Learning/Visual%20Art/Visual%20Art%20Dept%20Team%20Photo.jpeg)
+
+MDM LEE GIM FANG <br>
+MS CHEN YIMENG VIVIAN <br>
+MDM AZIZAH <br>
