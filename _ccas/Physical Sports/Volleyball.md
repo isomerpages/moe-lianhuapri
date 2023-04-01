@@ -31,7 +31,7 @@ Selected players will represent Lianhua to participate in the Annual National Sp
 
 ![](/images/CCAs/Volleyball/Competition%20Pic2%20VB%20boys%20LHPS%20vs%20AIPS%202021.jpg)
 
-## Friendly matches
+## **Friendly matches**
 
 Friendly matches with schools are always organized on an annual basis to provide an avenue for members to build confidence and foster strong bonds with each other. It also serves as a platform for coaches and teachers to select the school team members.
 
