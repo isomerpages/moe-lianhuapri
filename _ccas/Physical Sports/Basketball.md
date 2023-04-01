@@ -96,7 +96,7 @@ The Lay Up | Basketball
 ####  **The Team**   
 
 
-|   |   |   |  
+| ![](/images/CCAs/Basketball/YAO%20HUA%20SONG.jpg)  | ![](/images/CCAs/Basketball/WILLIE%20WONG.jpg)  |   |  
 |---|---|---| 
 | <center></center> | <center></center> |<center></center> |
 
