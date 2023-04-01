@@ -2,7 +2,7 @@
 title: Science Club
 permalink: /ccas/clubs-n-societies/science-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 # Science Club
 
@@ -41,7 +41,7 @@ Members go beyond what they have learnt in the textbooks and classrooms. They ge
 Physical Science is not boring--not when we can conduct a range of experiments involving sound, rainbows, static electricity and optical illusions on campus. In addition, we had excursions to the Science Centre to learn how to make ice cream and launch rockets! There is no limit to the number of things that we can learn by just being curious about how things around us work!
 
 
-<iframe width="742" height="521" src="https://www.youtube.com/embed/yKn4C5r3h0Q" title="CCA EXPERIENCE   STEM COOL SCIENCE CLUB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="742" height="521" src="https://www.youtube.com/embed/yKn4C5r3h0Q" title="CCA EXPERIENCE   STEM COOL SCIENCE CLUB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### Promotion of CCA Video
 
@@ -51,22 +51,23 @@ Due to Covid-19 and abiding by the safety measures management guidelines, the P1
 
 ## Students' Voices
 
-#### Kowsik
-
-**Primary 5 2021**
 
 I am the club’s chairperson and have been in the CCA since I was in Primary 3. I have had fun attending the Cool Science Club activities for the past few years. My most memorable activity was the Paper Plane Flying Competition. Though folding paper aeroplanes seems an easy feat, there are many science concepts involved. The forces acting on the plane when it is flying and also the way we fold the plane affect the plane’s ability to fly a longer distance or to stay aloft in the air for a longer period of time. I had a lot of fun folding, flying the plane and most importantly, I learnt new Science concepts through the activity.
 
-#### Shine
+  <p style="text-align: right"> Kowsik, Primary 5' 2021<br></p>
+<br>
 
-**Primary 5 2021**
 
 I have joined the club as my CCA since Primary 3. Besides taking part in the club activities, I was also given the opportunity to take part in a collaborative research programme with NUS. I remember having to wear devices to record data like my daily steps and the air quality. Even information on the amount of light and sound was also recorded. It was truly an interesting experience. The CCA session that I liked most was the bubble blowing activity. We learnt how to make our bubbles last longer without bursting, blowing the biggest bubble and even blowing a bubble inside a bubble. Imagine that! The activities that we engaged in have truly broadened my horizons and to learn more about the world around me in an interesting manner!
 
+  <p style="text-align: right"> Shine, Primary 5' 2021<br></p>
+<br>
+
 ## <center>The Team</center>
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Mdm%20Ruth%20Lai.jpg)  Mdm Ruth Lai |   <img src="/images/CCAs/Science%20Club/Ms%20Wok.jpg" style="width:98%"> Ms Elizabeth Wok |
-| ![](/images/CCAs/Science%20Club/Mrs%20Brenda%20Sin.jpg)  Mrs Brenda Sin |   <img src="/images/CCAs/Science%20Club/Mrs%20Nonis.jpg" style="width:98%"> Mrs Monis |
-|  ![](/images/CCAs/Science%20Club/Mdm%20Dayana.jpg) Mrs Dayana  |  <img src="/images/CCAs/Science%20Club/Mdm%20Masrini.jpg" style="width:98%"> Mrs Masrini   |
+MRS NONIS<br>
+MS ELIZABETH WOK<br>
+MDM RUTH LAI<br>
+MDM LEE PEIR CHUANG<br>
+MS FATIMAH SAJIDAH BINTE ABDUL RAZAK<br>
+MDM LEE SOK NGEE PAULINE<br>
