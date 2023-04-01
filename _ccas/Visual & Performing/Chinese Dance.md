@@ -2,7 +2,7 @@
 title: Chinese Dance
 permalink: /ccas/visual-n-performing/chinese-dance/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # Chinese Dance
 
@@ -78,13 +78,13 @@ Due to Covid-19 and abiding by the Safety Management Guidelines, the P1 CCAs Exp
 </thead>
 <tbody>
   <tr>
-    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/AeUP_GCTTwg" title="Chinese Dance 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/XouC5-B7PII" title="Chinese Dance 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/AeUP_GCTTwg" title="Chinese Dance 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/XouC5-B7PII" title="Chinese Dance 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
 
-<center><iframe width="351" height="308" src="https://www.youtube.com/embed/xZyutcq03zg" title="Chinese Dance 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="351" height="308" src="https://www.youtube.com/embed/xZyutcq03zg" title="Chinese Dance 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 **<center>Students’ Voices</center>**
@@ -107,7 +107,6 @@ Through these 6 years, I learnt to be resilient and diligent. I never gave up ev
 
 ## The Team
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Chinese%20Dance/MDM%20PEK%20PEET%20JUAN.jpg)  MDM PEK PEET JUAN |  ![](/images/CCAs/Chinese%20Dance/MDM%20CHANG%20MA%20LI.jpg) MDM CHANG MA LI     |
-|  ![](/images/CCAs/Chinese%20Dance/MDM%20YAP%20SWEE%20QUIN.jpg)  MDM YAP SWEE QUIN  |   ![](/images/CCAs/Chinese%20Dance/MS%20TAN%20LI%20YAN.jpg)  MS TAN LI YAN   |
+MDM LEE QIAN REN<br>
+MDM LIN JUN<br>
+MDM SELVA RANI
