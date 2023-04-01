@@ -174,7 +174,6 @@ I was inspired to learn Indian dance when I was 8 years old. My friend showed me
 
 When I knew I was selected as a leader in Indian dance I was delighted and surprised and knew all my effort paid off. Even though I did not get to participate in SYF, I participated in other performances. The experience was great.
 
-## Useful Links
 
 ## The Team
 
