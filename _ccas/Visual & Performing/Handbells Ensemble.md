@@ -2,7 +2,7 @@
 title: Handbells Ensemble
 permalink: /ccas/visual-n-performing/handbells-ensemble/
 description: ""
-third_nav_title: Visual & Performing
+third_nav_title: Visual &amp; Performing
 ---
 # Handbells Ensemble
 
@@ -48,7 +48,7 @@ Those who love music have happy hearts. Griffin Bellz will continue its pursuit 
 Due to Covid-19 and the safety management measures, the P1 CCAs Experience is conducted online. Griffin Bellz’s Chairperson, Annisa would like to invite our young music lovers from P1 to join us in spreading the magic of music.
 
 
-<iframe width="711" height="512" src="https://www.youtube.com/embed/gegna590jjk" title="P1 CCA Experience Griffin Bellz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="512" src="https://www.youtube.com/embed/gegna590jjk" title="P1 CCA Experience Griffin Bellz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Achievements
 
@@ -77,9 +77,12 @@ Due to Covid-19 and the safety management measures, the P1 CCAs Experience is co
 
 An Introduction to Handbell Ringing   
 <a href="https://www.makingmusic.org.uk/resource/introduction-handbell-ringing" target="_blank">https://www.makingmusic.org.uk/resource/introduction-handbell-ringing</a>
+
+
 ## The Team
 
-Ms Edelyn Lee    
-Mr Sim Wee Choon   
-Mdm Wee Aye Maye   
-Mdm Zhang Yao
+MS EDELYN LEE<br>
+MR SIM WEE CHOON<br>
+MS TOH BEE HONG<br>
+MDM YANG FAN<br>
+MDM HO SHEU YUN
