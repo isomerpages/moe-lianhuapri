@@ -13,10 +13,10 @@ The Lianhua’s Cub Scout programme consists of three elements, namely, Scout Sk
   
 
 Some of the interesting activities are highlighted here:   
-**Scout Skills** – Pitching Tents, Outdoor Field Cooking and Map Reading.   
-**Adventure Time** – Producing Fresh Water by distillation and Tracking activities.   
-**Community Service** – Packing of groceries (together with our School Prefects) for the residence around our community.   
-**Others** – Self-reflecting expression through artwork, National Day flag raising and Marching.
+**Scout Skills**&nbsp;– Pitching Tents, Outdoor Field Cooking and Map Reading.   
+**Adventure Time**&nbsp;– Producing Fresh Water by distillation and Tracking activities.   
+**Community Service**&nbsp;– Packing of groceries (together with our School Prefects) for the residence around our community.   
+**Others**&nbsp;– Self-reflecting expression through artwork, National Day flag raising and Marching.
 
   
 
@@ -28,7 +28,7 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 
   
 
-**Trend** – We are trending towards more HBL (Home-based Learning) sessions. Some of the eCCA highlights are, Good Deed Day Project (VDD) and Virtual Hiking. In the VDD project, Scouts submitted good deeds, such as maintaining household cleanliness, supporting friends among many others. The Scouts went for Virtual Hiking, gave feedback on what suitable attire to wear during hiking for example. All these are done via platforms such as the SLS, Padlets, Zoom, Filmorago and many more in the future
+**Trend**&nbsp;– We are trending towards more HBL (Home-based Learning) sessions. Some of the eCCA highlights are, Good Deed Day Project (VDD) and Virtual Hiking. In the VDD project, Scouts submitted good deeds, such as maintaining household cleanliness, supporting friends among many others. The Scouts went for Virtual Hiking, gave feedback on what suitable attire to wear during hiking for example. All these are done via platforms such as the SLS, Padlets, Zoom, Filmorago and many more in the future
 
 |   |   |
 |:-:|:-:|
@@ -54,18 +54,17 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 |  <img src="/images/CCAs/Scouts/Good%20Deed%20Day%20Project.jpeg" style="width:42%">   Cub Scout tidied up his sister’s room (HBL) |       ![](/images/CCAs/Scouts/Teacher%20brought%20Cub%20Scouts%20for%20a%20Virtual%20Hiking%20video%20session%20(HBL).jpg)  Teacher brought Cub Scouts for a<br>Virtual Hiking video session (HBL) |
 
 
-#### From Scout Teachers!
-
-Hassan Mohideen (2nd IC)   
-Mohammad Faizal   
-Samantha Lee (Scout Advisor)   
-Siti Aishah   
-Subathra   
-Zainul Shaffee (IC)   
-Rachel Ang
-
-<iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br>
 
-<iframe width="711" height="509" src="https://www.youtube.com/embed/zNdVKmt2A8s" title="Scouts CCA 2021 Rev B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="509" src="https://www.youtube.com/embed/zNdVKmt2A8s" title="Scouts CCA 2021 Rev B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+
+#### The Team
+
+MDM SITI AISHAH<br>
+MR MOHAMMAD FAIZAL<br>
+MR ZAINUL SHAFFEE<br>
+MS IRNNY IRIANNY BINTE CHUMA'ING<br>
+MS LIM CHIEN LING, SHENLYNN
