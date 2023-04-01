@@ -102,8 +102,6 @@ P5 &amp; P6: Advertisement
 
 ## Publication
 
-Content
-
 In order to arouse students’ interest in creating stories and also to enhance their writing skills, we provide platforms like showcasing their work through termly exhibition or publication.
 
 Every year, we will encourage students to create stories that based on their interest or the happenings that they observed. Every student will get a copy of the publication and teachers will read with them during reading period.
@@ -145,7 +143,6 @@ Other than in-house publishing and news reporting, our Young Journalists embarke
 
 In 2021, MTL Young Journalist Programme has stepped up by introducing the Lianhua FM, "Connecting you and me".
 
-  
 
 This year, we are pleased to launch Lianhua FM, where Young Journalists get the opportunity to do live broadcasting in their Mother Tongue Language during Recess. During HBL, we leveraged on SLS platform to bring Lianhua FM closer to them at home. Through their voices, we aim to connect with all Lianhuareans and ignite the passion of Journalism and Broadcasting in our students.
 
@@ -172,3 +169,10 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 
 
 <center><iframe width="280" height="271" src="https://www.youtube.com/embed/uWe9KGRafZk" title="YJ CNL Frog enclosure 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<br>
+
+### The Team
+
+| Chinese Language | Malay Language | Tamil Language |
+| -------- | -------- | -------- |
+|   Mdm Woo Yeong Yi<br> Ms Tan Li Yan<br> Mdm Liu Chang<br> Mdm Kuan Suan Shi<br> Mdm Koh Wan Ting<br> Mdm Tan Xiaohui<br> Mdm Tan Jye En<br> Mdm Pap Swee Quin<br> Mdm Maggie Fong <br>Mdm Lin Jun<br> Ms Alena Chiong<br> Ms Abigail Ang<br> Mdm Lee Qian Ren<br> Mdm Yang Fan   |  Mdm Norhayati<br> Mr Fadial<br> Mdm Rosnah<br> Mdm Norlieza<br> Mdm Ramzaniah<br> Mdm Siti Aishah<br> Ms Farah<br> Mr Faizal    | Mdm Subathra<br> Mdm Reqha<br> Ms Arshvini   |
