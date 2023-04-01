@@ -6,8 +6,9 @@ third_nav_title: Our Family
 ---
 # School Staff
 <br>
-<ul class="jekyllcodex_accordion">
-  <label for="accordion1">Primary One Teachers</label>
+<p></p><li>
+    <input id="accordion2" type="checkbox">
+    <label for="accordion2">Primary One Teachers</label>
     <div>
       <p>
 <table width="600px">
@@ -125,7 +126,7 @@ third_nav_title: Our Family
   </tr>
 </tbody>
 </table>
-</p></div><li>
+</p></div></li><li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Primary Two Teachers</label>
     <div>
@@ -180,8 +181,8 @@ third_nav_title: Our Family
 <tbody>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Compassion</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Wee Aye Maye</span><br><span style="color:inherit;background-color:transparent">Mdm Siti Aishah Bte Mohd Rasid</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:wee_aye_maye@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wee_aye_maye@moe.edu.sg</span></a><br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Poh Jing Wen Alyssa</span><br><span style="color:inherit;background-color:transparent">Mdm Siti Aishah Bte Mohd Rasid</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:poh_jing_wen_alyssa@moe.edu.sg."><span style="font-weight:400;text-decoration:underline;color:#FD9047">poh_jing_wen_alyssa@moe.edu.sg</span></a><br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Diligence</span></td>
@@ -215,8 +216,8 @@ third_nav_title: Our Family
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Unity</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Masrini Samsi</span><br><span style="color:inherit;background-color:transparent">Mr Tan Chin Chuan</span></td>
-    <td class="tg-ztfi"><a href="mailto:masrini_samsi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">masrini_samsi@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Masrini Samsi</span><br><span style="color:inherit;background-color:transparent">Mr Tan Chin Chuan</span><br><span style="color:inherit;background-color:transparent">Mdm Hana Diyana Abd Kahar</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:masrini_samsi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">masrini_samsi@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a><br><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
@@ -295,13 +296,13 @@ third_nav_title: Our Family
   </tr>
   <tr>
     <td class="tg-8q31">3 Diligence</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Adib Azad Jasman</span><br><span style="color:inherit;background-color:transparent">Ms Maggie Fong</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Adib Azad Jasman</span><br><span style="color:inherit;background-color:transparent">Ms Maggie Fong</span><br><span style="color:inherit;background-color:transparent">Ms Ng Ziqian Jolene</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a><br><a href="mailto:ng_ziqian_jolene@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ng_ziqian_jolene@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Excellence</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Alexis Pua</span><br><span style="color:inherit;background-color:transparent">Ms Yang Fan</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><br></td>
+    <td class="tg-ztfi"><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Honesty</td>
@@ -417,7 +418,7 @@ third_nav_title: Our Family
   <tr>
     <td class="tg-8q31">4 Resilience</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
-    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
   </tr>
 </tbody>
 </table>
@@ -669,4 +670,4 @@ third_nav_title: Our Family
     <td class="tg-d16l"><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
 </tbody>
-</table></p></div></li></ul>
+</table></p></div></li>
