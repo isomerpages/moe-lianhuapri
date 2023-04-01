@@ -104,7 +104,7 @@ Hi everyone, I am Bogwang from 6 Resilience and I am the captain of the school v
 ## <center>The Team</center>
 
 MR FOO ZHI BAO JONATHAN<br>
-MR RAMADHAN BIN OMAR <br>
+MR SAMUEL WONG<br>
 MS FARAH SYAFIQAH BINTE JOHARI <br>
 MS CLARA TAN YI JUN <br>
 MDM HANA DIYANA<br>
