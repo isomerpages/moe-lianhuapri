@@ -175,4 +175,4 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 
 | Chinese Language | Malay Language | Tamil Language |
 | -------- | -------- | -------- |
-|   Mdm Woo Yeong Yi<br> Ms Tan Li Yan<br> Mdm Liu Chang<br> Mdm Kuan Suan Shi<br> Mdm Koh Wan Ting<br> Mdm Tan Xiaohui<br> Mdm Tan Jye En<br> Mdm Pap Swee Quin<br> Mdm Maggie Fong <br>Mdm Lin Jun<br> Ms Alena Chiong<br> Ms Abigail Ang<br> Mdm Lee Qian Ren<br> Mdm Yang Fan   |  Mdm Norhayati<br> Mr Fadial<br> Mdm Rosnah<br> Mdm Norlieza<br> Mdm Ramzaniah<br> Mdm Siti Aishah<br> Ms Farah<br> Mr Faizal    | Mdm Subathra<br> Mdm Reqha<br> Ms Arshvini   |
+|   Mdm Woo Yeong Yi<br> Ms Tan Li Yan<br> Mdm Liu Chang<br> Mdm Kuan Suan Shi<br> Mdm Koh Wan Ting<br> Mdm Tan Xiaohui<br> Mdm Tan Jye En<br> Mdm Yap Swee Quin<br> Mdm Maggie Fong <br>Mdm Lin Jun<br> Ms Alena Chiong<br> Ms Abigail Ang<br> Mdm Lee Qian Ren<br> Mdm Yang Fan   |  Mdm Norhayati<br> Mr Fadial<br> Mdm Rosnah<br> Mdm Norlieza<br> Mdm Ramzaniah<br> Mdm Siti Aishah<br> Ms Farah<br> Mr Faizal    | Mdm Subathra<br> Mdm Reqha<br> Ms Arshvini   |
