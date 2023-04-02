@@ -48,6 +48,21 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 |:-:|:-:|
 | ![](/images/CCAs/Scouts/ND%20Flag%20Raising%20Rehearsal.jpg) ND flag raising rehearsal |  <img src="/images/CCAs/Scouts/Teacher%20attended%20%20cooking%20lesson.jpg" style="width:53%">   Teacher attended outdoor cooking lesson  |
 
+#### **From Scout Teachers!**
+
+Hassan Mohideen (2nd IC)
+
+Mohammad Faizal
+
+Samantha Lee (Scout Advisor)
+
+Siti Aishah
+
+Subathra
+
+Zainul Shaffee (IC)
+
+Rachel Ang
 
 |   |   |
 |:-:|:-:|
@@ -61,10 +76,3 @@ Our Scout teachers regularly attend courses and meetings conducted by the Singap
 <iframe width="711" height="509" src="https://www.youtube.com/embed/zNdVKmt2A8s" title="Scouts CCA 2021 Rev B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
 
-#### The Team
-
-MDM SITI AISHAH<br>
-MR MOHAMMAD FAIZAL<br>
-MR ZAINUL SHAFFEE<br>
-MS IRNNY IRIANNY BINTE CHUMA'ING<br>
-MS LIM CHIEN LING, SHENLYNN
