@@ -53,7 +53,7 @@ The Lianhua Chinese Dance has regularly participated in Singapore Youth Festival
 
 In 2020, due to Covid-19 outbreak, the Singapore Youth Festival was cancelled. Our members were disappointed as they had prepared and practised diligently for it. Nonetheless, it had been a good learning experience for all.
 
-## Achievements
+## **Achievements**
 
 
 | Year |                                Competition                                |             Award             |
