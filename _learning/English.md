@@ -65,12 +65,6 @@ Video on Oracy @ LIanhua:
 Storytelling Festival    
 <a href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
 
-**Debate**   
-<p style="text-align: justify;">Debate lessons are carried out to enhance students’ critical thinking skills. Students discuss and research current issues presented in the Little Red Dot. Mini debate sessions were carried out in class where students indulge in a structured argument. Two sides speak alternately for and against a particular contention based on a topic presented in the Little Red Dot.</p>
-
-![](/images/Learning/English/debate.jpeg)
-
-<center>A mini debate session from students of 5 Compassion</center>
 
 **<u>Learning Support Programme (LSP)</u>**
 
