@@ -83,7 +83,7 @@ Due to Covid-19 and abiding by the safe management measures, the P1 CCAs Experie
 | 2015 |           National Inter-School Volleyball Championships (Senior Boys           | 2nd Runner Up |
 
 
-## ** Students' Voices **
+## **Students' Voices**
 
 Hi everyone! I'm Sumiko from 6 Diligence, and I'm the captain of the senior girls volleyball team. When I first joined volleyball in P3, I wasn't very keen as my hands would hurt after a long training session. However, I tried my best and it turned out that I really enjoyed volleyball! Being in volleyball has taught me many skills, like teamwork and quick thinking. I remembered one of my proudest moments in volleyball. was when I was told that I was selected as the captain of the school team! I was so excited to be able to represent the school with my teammates in tournaments and matches. I hope you will choose volleyball cca as your first option. Join us for training next time. We look forward to seeing you!
 
