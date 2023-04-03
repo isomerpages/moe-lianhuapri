@@ -55,7 +55,7 @@ On the actual day, students get to view the concert that brings out the traditio
   </tr>
   <tr>
     <td><iframe width="280" height="271" src="https://www.youtube.com/embed/jUmiulS4Ojs" title="CNY 2021 Behind the Scenes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/b1lcDj40g8A" title="01 Deepavali Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+    <td><iframe width="280" height="271" src="https://www.youtube.com/embed/YVtJEIBgDI0" title="Deepavali Montage 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
   </tr>
 </tbody>
 </table>
@@ -63,7 +63,6 @@ On the actual day, students get to view the concert that brings out the traditio
 
 ## MTL Fortnight
 
-Mother Tongue Fortnight
 
 The start of Term 2 is an exciting one, with Mother Tongue Fortnight activities engaging our students in their respective Mother Tongue Languages, and kindling their love for it.
 
@@ -77,10 +76,6 @@ The Mother Tongue Fortnight, an MOE initiative since 2011, serves as an apt remi
 Like previous years, Mother Tongue Fortnight continues to have a wide range of activities in place for respective levels. Some activities include:
 
 All Levels: Creative Writing Competition / Penmanship Competition / Reading with Parents / Language &amp; Cultural Games/ Meet the author session and many others.  
-
-P1 &amp; P2: Poem Recitation &amp; Singing    
-P3 &amp; P4: Little Tour Guide of Singapore   
-P5 &amp; P6: Advertisement
 
 
 <table>
