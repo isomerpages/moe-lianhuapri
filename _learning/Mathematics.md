@@ -59,7 +59,6 @@ _Hi-Five!_
 
 ![](/images/Learning/Mathematics/Maths19_4.jpg)
 
-![](/images/Learning/Mathematics/MathsGames20_32.jpg)
 
 ### _I am a Maths Multiplication Master_
 
@@ -110,19 +109,19 @@ List of approved scientific calculators for P5 and P6 students
 
 ### **The Team**
 
-Miss Yong Hua Moy (Head of Department)     
-Mrs Alexis Pua (Level Head)   
-Miss Toh Bee Hong (Senior Teacher/Maths)   
-Miss Edelyn Lee (Maths Coordinator)    
-Mrs Emily Chia   
-Miss Josephine Choo   
-Mdm Ho Sheu Yun   
-Mdm Ruth Lai   
-Mdm Lee Peir Chuang   
-Mdm Noor Dayana   
-Mdm Pek Peet Juan   
-Mdm Rabiatuladawiyah   
-Mr Dennis Wong   
-Mdm Jacqueline Ma   
-Mdm Hana Diyana   
-Ms Jolene Ng
+MS YONG HUA MOY<br>
+MRS ALEXIS PUA<br>
+MS TOH BEE HONG<br>
+MS EDELYN LEE<br>
+MRS EMILY CHIA<br>
+MS JOSEPHINE CHOO<br>
+MDM HO SHEU YUN<br>
+MDM RUTH LAI<br>
+MDM LEE PEIR CHUANG<br>
+MDM NOOR DAYANA<br>
+MDM PEK PEET JUAN<br>
+MDM RABIATULADAWIYAH<br> &nbsp;&nbsp;&nbsp;
+MR DENNIS WONG<br>
+MDM JACQUELINE MA<br>
+MDM HANA DIYANA<br>
+MS JOLENE NG
