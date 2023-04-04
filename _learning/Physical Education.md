@@ -96,7 +96,7 @@ The Sports Enrichment Programme was introduced in 2017 to cater to the diverse s
 ### The Team
 
 <img src="/images/Learning/Physical%20Education/Picture%2016.jpg" style="width:65%"><br>
-ADIB AZAD BIN JASMAN <br>
+MR ADIB AZAD BIN JASMAN <br>
 MR WONG EE MENG SAMUEL <br>
 MR LOW TECK CHYE VINCENT <br>
 MR TAN CHIN CHUAN <br>
