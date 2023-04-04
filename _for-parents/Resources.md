@@ -12,6 +12,9 @@ Primary 1
 
 19 NOV 2022 2023 P1 Orientation Slides- [2023 P1 Orientation 19 Nov 2022.pdf](https://lianhuapri.moe.edu.sg/qql/slot/u493/Parents/Slides%20for%20P1%20Orientation/2023%20P1%20Orientation%2019%20Nov%202022.pdf)
 
+https://drive.google.com/file/d/1LsQV56JzenTIahkYiuqvZ8kfsv2T-BF4/view?usp=sharing
+
+
 Primary 2
 ---------
 
