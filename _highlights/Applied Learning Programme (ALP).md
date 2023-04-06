@@ -9,7 +9,7 @@ description: ""
 
 #### _**Robotics, Information and Technology in Education**_
 
-![](/images/Highlights/Applied%20Learning%20Programme/ALP%20Cover%20Photo.jpg)
+![](/images/Highlights/Applied%20Learning%20Programme/main%20photo%20new.JPG)
 
 ### Objective  
 
@@ -23,36 +23,25 @@ ALP is non-examinable and its emphasis is on the application of knowledge and th
 
   
 
-At Lianhua Primary School, our focus is on Science, Technology, Engineering & Mathematics (STEM), particularly in the area of sustainability. Every Lianhuaren will go through ALP from P1 to P5. They will engage in meaningful activities that integrate computational thinking and design thinking using various ICT and non-ICT platforms.
+At Lianhua Primary School, our focus is on Science, Technology, Engineering &amp; Mathematics (STEM), particularly in the area of sustainability. Every Lianhuaren will go through ALP from P1 to P5. They will engage in meaningful activities that integrate computational thinking and design thinking using various ICT and non-ICT platforms.
 
 ### ALP Activities
 
-![](/images/Highlights/Applied%20Learning%20Programme/image4.png)
+![](/images/Highlights/Applied%20Learning%20Programme/activities.jpg)
 
 ### Students in Action
 
-|   |   |
+
+
+
+| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_1_resize.JPG) | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_2_resize.JPG) | 
 |:-:|:-:|
-| ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%201.jpg)  |   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%203.jpg)  |
-|   ![](/images/Highlights/Applied%20Learning%20Programme/Strawbees%202.jpg)  |   <img src="/images/Highlights/Applied%20Learning%20Programme/Strawbees%204.jpg" style="width:88%">  |
-
-**<center>The children built their prototypes to convey their ideas with straws and gears.</center>**
-
-|   |   |
-|:-:|:-:|
-|   <img src=" /images/Highlights/Applied%20Learning%20Programme/Sphero%203.jpg" style="width:50%">      |    ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%204.jpg)  |
-|    ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%202.jpg) |  ![](/images/Highlights/Applied%20Learning%20Programme/Sphero%201.jpg)    |
-
-**<center>Coding for the robotic ball to move and to complete missions.</center>**
-
-
-<iframe width="703" height="507" src="https://www.youtube.com/embed/--oHyLiMv_s" title="ALP Website Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_3_resize.JPG)     | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_4_resize.JPG)    | 
+| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_5_resize.JPG)    | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_6.JPG)     | 
+| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_7.jpeg)   | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_8.JPG)     | 
 
 
 ### Useful Links
 
-<a href="https://strawbees.com/" target="_blank">Strawbees</a>   
 <a href="https://scratch.mit.edu/parents/" target="_blank">Scratch</a>   
 <a href="https://makecode.microbit.org/" target="_blank">Mirco:bit</a>   
-<a href="https://sphero.com/" target="_blank">Sphero</a>   
-<a href="https://www.vexrobotics.com/iq" target="_blank">VEX IQ</a>
