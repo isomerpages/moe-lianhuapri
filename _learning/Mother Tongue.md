@@ -3,7 +3,6 @@ title: Mother Tongue
 permalink: /learning/mother-tongue/
 description: ""
 ---
-# deepavali video embedding error
 # Mother Tongue
 
 **Vision**
