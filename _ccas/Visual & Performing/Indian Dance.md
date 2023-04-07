@@ -4,7 +4,6 @@ permalink: /ccas/visual-n-performing/indian-dance/
 description: ""
 third_nav_title: Visual &amp; Performing
 ---
-# video embedding error for video: "Indian Dance 1"
 # Indian Dance
 
 ![](/images/CCAs/Indian%20Dance/Indian%20Dance.jpg)
