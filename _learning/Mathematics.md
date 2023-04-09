@@ -57,8 +57,7 @@ _Hi-Five!_
 
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
-![](/images/Learning/Mathematics/Maths19_4.jpg)
-
+![](/images/Learning/Mathematics/website_funwithmaths.jpg)
 
 ### _I am a Maths Multiplication Master_
 
@@ -69,9 +68,6 @@ _Hi-Five!_
 
 <p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.</p>
 
-![](/images/Learning/Mathematics/MathsGames20_8.jpg)
-
-<center>Hungry Fish</center>
 
 ![](/images/Learning/Mathematics/MathsGames20_51.jpg)
 
@@ -104,7 +100,8 @@ For students who entered Primary 1 before 2021
 List of approved scientific calculators for P5 and P6 students    
 <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">https://www.seab.gov.sg/home/examinations/approved-calculators</a>
   
-
+KooBits (For P3 &amp; P4 students)    
+<a href="https://member.koobits.com/" target="_blank">https://member.koobits.com/</a>
   
 
 ### **The Team**
