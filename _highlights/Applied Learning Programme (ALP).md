@@ -44,4 +44,4 @@ At Lianhua Primary School, our focus is on Science, Technology, Engineering &amp
 ### Useful Links
 
 <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>   
-<a href="https://makecode.microbit.org/" target="_blank">mirco:bit</a>
+<a href="https://makecode.microbit.org/" target="_blank">micro:bit</a>
