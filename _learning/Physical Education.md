@@ -23,9 +23,10 @@ To provide fun learning experiences for students to acquire knowledge, skills an
 The aim of the Step-It-Up Challenge is to encourage students and staff to increase their daily physical activity levels. The different yearly themes also allows students and staff to demonstrate class unity by participating together to complete the challenge.
 
 
-
+|   |   |
+|:---:|:---:|
 | ![](/images/Learning/Physical%20Education/stepitup23_69.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
-| -------- | -------- | 
+|   |   |
 
 <u>Sports Day</u>
 
