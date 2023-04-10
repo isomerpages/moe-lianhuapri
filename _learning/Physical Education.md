@@ -28,6 +28,13 @@ The aim of the Step-It-Up Challenge is to encourage students and staff to increa
 | ![](/images/Learning/Physical%20Education/stepitup23_69.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
 |   |   |
 
+test
+
+| ![](/images/Learning/Physical%20Education/stepitup23_69.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
+| -------- | -------- | 
+
+
+
 <u>Sports Day</u>
 
 The school’s annual Sports Day comprises of a Track &amp; Field meet for the upper primary students, and our own version of a Spartan’s Race, Lianhua Superhero Challenge, for the lower primary students. The Track &amp; Field meet provides students with an experience of the Olympic Movement and serves as a platform for them to demonstrate the 21st Century Competencies and core values of the school.&nbsp; In addition, students can apply the athletics skills and knowledge learnt in their Physical Education (PE) curriculum.
