@@ -23,8 +23,6 @@ third_nav_title: Our Family
 
 <p style="text-align: justify;">Homecoming Day is organized on a yearly basis with different themes to encourage ex-students and ex-staff to reconnect with and establish a sense of belonging to our school. This event strongly brings out our school core value of Loyalty' and many of our students continue to come back with success stories to share with us. This event not only allows us to reunite, it also establishes new connections as our alumni return and contribute to our school in one way or another.</p>
 
-![](/images/About%20us/Alumni/Homecoming%20Day.jpg)
-
 #### Alumni Stories
 
 <p style="text-align: justify;">Inspiring stories and wonderful memories of LHPS are collected through Facebook, along with interviews to engage our Alumni. These stories and well-wishes instill in us a sense of pride of being a Lianhuarean and motivates us to do even better in the years to come.</p>
