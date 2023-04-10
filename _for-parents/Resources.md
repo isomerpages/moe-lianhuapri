@@ -16,24 +16,24 @@ Primary 1
 Primary 3
 ---------
 
-2023 P3 Parents' Briefing- [2023 P3 Parents' Briefing Slides](https://drive.google.com/drive/folders/1iGamZldf0L5f1ne22qv2PyQUfenRfq49)
+2023 P3 Parents' Briefing- [2023 P3 Parents' Briefing Slides](https://drive.google.com/file/d/1wRVcgjbTFHxbNw_PzDVfk5_mKQXvTWeO/view)
 
 Primary 4
 ---------
 
-2023 P4 Parents' Briefing- [2023 P4 Parents' Briefing Slides](https://drive.google.com/drive/folders/1RgxDTTxlX7facX2G6u0cO3zEt1HUNCO0)
+2023 P4 Parents' Briefing- [2023 P4 Parents' Briefing Slides](https://drive.google.com/file/d/17LPAgfATtnfpwhDrMF5bVRPm1Wowcn4V/view?usp=sharing)
   
 Primary 5
 ---------
 
-2023 P5 Parents' Briefing- [2023 P5 Parents' Briefing Slides](https://drive.google.com/drive/folders/1frd2VQjO_XMX6sUHrN5EQ-QOwp-bc7PN)	
+2023 P5 Parents' Briefing- [2023 P5 Parents' Briefing Slides](https://drive.google.com/file/d/13qVkH7W2jPPsCNNdlEoMohz7ZVuXkvYK/view?usp=sharing)	
 
 
 Primary 6
 ---------
 
-2023 P6 Parents Class eBriefing- [2023 P6 Parents Class eBriefing Slides](https://drive.google.com/drive/folders/12ZAARVwUqZxgDz5UJenYRDii8lKFoapw)	
+2023 P6 Parents Class eBriefing- [2023 P6 Parents Class eBriefing Slides](https://drive.google.com/file/d/1jjFD_-khJ3rA_dlD5qdZms93Yr5ZCnuV/view?usp=sharing)	
 
 
 
-2023 P5 & P6 e-Briefing (PSLE, DSA & FSBB)- [2023 P5_P6_Parents e-Briefing_PSLE_DSA_FSBB_10FEB2023 Slides](https://drive.google.com/drive/folders/12ZAARVwUqZxgDz5UJenYRDii8lKFoapw)	
+2023 P5 & P6 e-Briefing (PSLE, DSA & FSBB)- [2023 P5_P6_Parents e-Briefing_PSLE_DSA_FSBB_10FEB2023 Slides](https://drive.google.com/file/d/1LJorSeSJDmxIkjg3VC0B5rnAPw4XbiC9/view?usp=sharing)
