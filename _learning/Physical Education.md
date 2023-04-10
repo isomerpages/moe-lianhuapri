@@ -23,13 +23,6 @@ To provide fun learning experiences for students to acquire knowledge, skills an
 The aim of the Step-It-Up Challenge is to encourage students and staff to increase their daily physical activity levels. The different yearly themes also allows students and staff to demonstrate class unity by participating together to complete the challenge.
 
 
-|   |   |
-|:---:|:---:|
-| ![](/images/Learning/Physical%20Education/stepitup23_69.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
-|   |   |
-
-test
-
 | ![](/images/Learning/Physical%20Education/stepitup23_69.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
 | -------- | -------- | 
 |   |   |
@@ -45,6 +38,7 @@ Whereas the Lianhua Warrior Challenge allows parents and students to bond over p
 
 | ![](/images/Learning/Physical%20Education/sportsday23_370.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
 | -------- | -------- | 
+|   |   |
 
 
 <u>Outdoor Adventure Learning Cohort Camp</u>
@@ -53,6 +47,7 @@ Our students will have the opportunity to participate in a 3D2N outdoor adventur
 
 | ![](/images/Learning/Physical%20Education/p5camp22_resize.JPG) | ![](/images/Learning/Physical%20Education/p5camp22day2_67_resize.jpg) | 
 | -------- | -------- | 
+|   |   |
 
 
 <u>Inter Class Games</u>
@@ -61,6 +56,7 @@ The Inter-Class Games is organised every year in Term 4 as a culminating event f
 
 | ![](/images/Learning/Physical%20Education/interclassgames.JPG) | ![](/images/Learning/Physical%20Education/p5%20interclassgames_10.JPG) | 
 | -------- | -------- | 
+|   |   |
 
 <u>Sports Education Programme</u>
 
@@ -68,6 +64,7 @@ The Sports Education Programme exposes students to a variety of sports beyond th
 
 | ![](/images/Learning/Physical%20Education/sportseducationprog1.JPG) | ![](/images/Learning/Physical%20Education/sportseducationprog2.JPG) | 
 | -------- | -------- | 
+|   |   |
 
 
 
