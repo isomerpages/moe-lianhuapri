@@ -36,7 +36,7 @@ Whereas the Lianhua Warrior Challenge allows parents and students to bond over p
 
 ![](/images/Learning/Physical%20Education/sportsday23_341.JPG)
 
-| ![](/images/Learning/Physical%20Education/sportsday23_370.JPG) | ![](/images/Learning/Physical%20Education/stepitup23_88.JPG) | 
+| ![](/images/Learning/Physical%20Education/sportsday23_370.JPG)   | ![](/images/Learning/Physical%20Education/sportsday23_576_resize.JPG)   | 
 | -------- | -------- | 
 |   |   |
 
