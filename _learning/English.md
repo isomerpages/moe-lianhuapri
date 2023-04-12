@@ -29,17 +29,21 @@ description: ""
 
 **<u>Reading @ Lianhua</u>**
 
-<p style="text-align: justify;">In Lianhua, we believe in cultivating the love of reading in our students so that they can experience an amazing and exciting life in the world of books. Our reading programme strives to bring these experiences to our students. Dare 2 Read Challenge booklet is our main reading programme where our students have to read books and complete the activities in the booklet. At the end of each term, the classes are awarded certificates to show the reading level they have achieved. The classes are doing extremely well achieving more than just the Novice Level in the Reading Challenge.  </p>
+<p style="text-align: justify;">At Lianhua, we believe in cultivating the love of reading in our students so that they can experience an exciting life through the world of books. Our reading programme strives to bring these experiences to our students.
 
-<p style="text-align: justify;">For our Monday Recess Programme, we had interesting activities held in the library such as ‘Storytelling Videos’ which portrayed the school values of the month, ‘Guess the Genre’ where students read abstracts from books and guessed the genre and ‘Tongue Twisters’ which challenged the students in reciting the famous rhymes and poems. We also showcased our students’ talents in storytelling and book sharing at the Imaginarium. It has been very well received by our students and they enjoy supporting their school mates during recess.</p>
+</p><p style="text-align: justify;">This year, our students are subscribing to myON® Reader that gives students access to digital books tailored to their reading interests and levels. Through the use of this reading portal, we hope that we can foster deeper student engagement with books and achieve greater reading growth. Additionally, students’ reading efforts will be recognised and will be awarded with certificates and/or tokens termly.
 
-<p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities!</p>
+</p><p style="text-align: justify;">Our daily pre-assembly programme, USSR (Uninterrupted Sustained Silent Reading) is a designated time for all students to do free voluntary reading. Silent reading helps them concentrate, with the focus on understanding the content of the book and in turn, derive pleasure from it.
 
-  
+</p><p style="text-align: justify;">This year for USSR, Lianhua has decided to incorporate the use of e-books/videos for a day each week so that the repertoire of stories which students have access to can be widened. Engagement activities such as active questioning and choral reading were also carried out during the session to check for students’ understanding and involvement level.
+
+</p><p style="text-align: justify;">It has been observed that these e-books/ videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
+
+</p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! 
 
 **<u>Oracy @ Lianhua</u>**
 
-<p style="text-align: justify;"><b>News in Brief</b>&nbsp;is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the New in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking.&nbsp;</p>
+</p><p style="text-align: justify;"><b>News in Brief</b>&nbsp;is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the New in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking.&nbsp;</p>
 
 Video on Oracy @ LIanhua:    
 <a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
