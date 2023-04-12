@@ -32,8 +32,7 @@ You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
   
 
-#### Overview of Lianhua primary school’s Sexuality Education Programme for 2021
-
+#### Overview of Lianhua Primary School’s Sexuality Education Programme 
 
 <p style="text-align: justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
 
