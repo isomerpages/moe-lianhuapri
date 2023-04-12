@@ -43,14 +43,18 @@ description: ""
 
 **<u>Oracy @ Lianhua</u>**
 
-</p><p style="text-align: justify;"><b>News in Brief</b>&nbsp;is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the News in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking.&nbsp;</p>
+</p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
+
+</p><p style="text-align: justify;">In collaboration with News in Brief, Our Stories is another segment which allows our students to deepen their historical knowledge of Singapore. The segment allows students to know more about the stories behind famous historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to our country and appreciate the rich history and contributions of our forefathers.
+	
+</p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners.
 
 Video on Oracy @ LIanhua:    
 <a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
 **Storytelling**
 
-<p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
+</p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
 
 ![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
 
