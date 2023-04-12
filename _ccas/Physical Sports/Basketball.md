@@ -71,7 +71,7 @@ In the Nationals, we won our first match. We got complacent and that caused our 
 
 I started playing basketball when I first joined Lianhua Primary School in Primary 4. At first, I thought that basketball was all about dribbling and throwing&nbsp; the ball into the hoop. That changed completely after all the vigorous training. I realised that every game encompasses a&nbsp; purpose. Since then, I started to play basketball for at least two hours a day and gradually, basketball became my passion. I remember that I was over the moon whenever I had the chance to play in a basketball game. When I got to represent the school in basketball for the first time, I was still quite daunted. However, opportunity waits for no man. I grabbed it and I have learnt a lot from it. Now, I am way more confident in everything I do during a competition and I want to thank the coaches for giving me the opportunity to improve. During the competition period, I managed to get to know my teammates better as we had spent a lot of time playing basketball together and enjoyed doing so a lot . I take this as a once in a lifetime opportunity and I treasured it.
 
-<p style="text-align: right">**Matthew , Primary 6’ 2023**<br></p>
+<p style="text-align: right">Matthew , Primary 6’ 2023<br></p>
 <br>
 
 
