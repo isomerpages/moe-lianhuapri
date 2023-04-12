@@ -6,10 +6,6 @@ third_nav_title: Aesthetics
 ---
 # **Music**
 ![](/images/Learning/Music/0music.jpg)
-<br>
-
-<br>
-
 
 **Our Vision &amp; Mission**   
 Vision: Every student is able to create, perform, listen and respond to music.   
