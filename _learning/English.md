@@ -43,7 +43,7 @@ description: ""
 
 **<u>Oracy @ Lianhua</u>**
 
-</p><p style="text-align: justify;"><b>News in Brief</b>&nbsp;is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the New in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking.&nbsp;</p>
+</p><p style="text-align: justify;"><b>News in Brief</b>&nbsp;is a platform that showcases our budding newscasters. The programme delivers the latest news and events happening around the world to students. Listening to the News in Brief enables students to get the latest scoop of what is happening around the world from a distance. The news keeps them updated and provides important educational value. Our student newscasters also honed their skills in public speaking.&nbsp;</p>
 
 Video on Oracy @ LIanhua:    
 <a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
