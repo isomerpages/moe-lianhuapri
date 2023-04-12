@@ -49,7 +49,7 @@ description: ""
 	
 </p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners.
 
-Video on Oracy @ LIanhua:    
+Video on Oracy @ Lianhua:    
 <a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
 **Storytelling**
