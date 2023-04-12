@@ -9,7 +9,7 @@ description: ""
 
 **Our English Department Vision**
 
-<p style="text-align: justify;">We strive to nurture the love for learning English language to enable our students to be an effective and competent reader, writer and speaker of the language.</p>
+<p style="text-align: justify;">We strive to nurture the love for learning English language to enable our students to be effective and competent readers, writers and speakers of the language.</p>
 
 
 **Key Features**
