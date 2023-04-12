@@ -54,8 +54,10 @@ Singing the self-composed songs creates a sense of pride in students as the song
 
 Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to bond and grow together as a family.
 
-|  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   | <img src="/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg" style="width:63%">    |
+|||
 |:---:|:---:|
+|  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   | <img src="/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg" style="width:63%">    |
+
 
 **Major Programmes**
 
