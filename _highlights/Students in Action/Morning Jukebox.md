@@ -32,6 +32,7 @@ I was excited yet nervous when I was rehearsing the script with my classmate, Kr
 
 
 ![](/images/Highlights/Music%20Jukebox/4jukebox.jpg)
+
 | ![](/images/Highlights/Music%20Jukebox/1jukebox.jpg)   | ![](/images/Highlights/Music%20Jukebox/3jukebox.jpg)   | 
 |:-:|:-:|
 | ![](/images/Highlights/Music%20Jukebox/7jukebox.jpg)     | ![](/images/Highlights/Music%20Jukebox/5jukebox.jpg)   | 
