@@ -41,6 +41,7 @@ description: ""
 
 </p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! 
 
+	
 **<u>Oracy @ Lianhua</u>**
 
 </p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
