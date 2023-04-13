@@ -27,7 +27,7 @@ description: ""
  
 **Major Programmes**
 
-**<u>Reading @ Lianhua</u>**
+**Reading @ Lianhua**
 
 <p style="text-align: justify;">At Lianhua, we believe in cultivating the love of reading in our students so that they can experience an exciting life through the world of books. Our reading programme strives to bring these experiences to our students.
 
@@ -40,25 +40,23 @@ description: ""
 </p><p style="text-align: justify;">It has been observed that these e-books/ videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
 
 </p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! <br>
-<br>
-
+</p>
 	
-**<u>Oracy @ Lianhua</u>**
+**Oracy @ Lianhua**
 	
-</p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
+<p></p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
 
 </p><p style="text-align: justify;">In collaboration with News in Brief, Our Stories is another segment which allows our students to deepen their historical knowledge of Singapore. The segment allows students to know more about the stories behind famous historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to our country and appreciate the rich history and contributions of our forefathers.
 	
 </p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners. <br>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>
-	
-**<u>Storytelling</u>**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>	
+</p>
 
-**<u>Storytelling</u>**
-	
-</p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
+**Storytelling**
+
+<p></p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
 
 ![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
 
@@ -78,7 +76,7 @@ Storytelling Festival
 <a target="_blank" href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
 
 
-**<u>Stretch Your Mind - A Fun and Effective way to learn English</u>**
+**Stretch Your Mind - A Fun and Effective way to learn English**
 
 At Lianhua, we strive to develop our students into critical and creative thinkers. The English Department hence introduced a new pre-assembly segment, “Stretch Your Mind” where rebus puzzles are presented to students for them to solve.
 Rebuses are a great tool for developing critical thinking skills. A rebus is a puzzle that uses pictures, symbols, or letters to represent words or phrases, and the solver must use logic and reasoning to figure out the meaning of the puzzle. Solving rebuses requires several critical thinking skills, including pattern recognition, inference, and deduction. For example, a rebus that includes an image of a heart, the letter "U", and the word "4" could be interpreted as "I love you forever." Solving this puzzle requires the solver to recognize the patterns and associations between the symbols and words.
