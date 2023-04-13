@@ -49,8 +49,10 @@ description: ""
 	
 </p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+	
 Video on Oracy @ Lianhua:    
-<a href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
+<a target="_blank" href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
 **Storytelling**
 
@@ -71,7 +73,7 @@ Video on Oracy @ Lianhua:
 
 
 Storytelling Festival    
-<a href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
+<a target="_blank" href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
 
 **Stretch Your Mind - A Fun and Effective way to learn English**
 
@@ -102,8 +104,8 @@ Stretch Your Mind will be a weekly Tuesday feature with levelled rebus puzzles f
 
 ### **Useful links** 
 
-<a href="https://www.nlb.gov.sg/" target="_blank">https://www.nlb.gov.sg/</a>   
-<a href="https://www.languagecouncils.sg/goodenglish/" target="_blank">https://www.languagecouncils.sg/goodenglish/</a>
+<a target="_blank" href="https://www.nlb.gov.sg/">https://www.nlb.gov.sg/</a>   
+<a target="_blank" href="https://www.languagecouncils.sg/goodenglish/">https://www.languagecouncils.sg/goodenglish/</a>
 
 
   
