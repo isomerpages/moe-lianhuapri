@@ -12,34 +12,24 @@ third_nav_title: Students in Action
 <p style="text-align: justify;">Different student DJs take turns hosting the ‘Morning Jukebox’ for each session. They play the songs composed by their schoolmates through the programme developed by the music department. The songs that are played are aligned with the school value of each month, as well as songs that are meant for different festivals or occasions. In addition, our DJs conduct interview sessions with the school leaders and teachers.</p>
 
 
-Below are the reflections of some of our student DJs:
+#### Students' Voices ####
 
+I enjoyed being a student deejay with my classmate, Hardy Irfan in the Morning Jukebox segment. I think it is a great opportunity for students to participate in Morning Jukebox as student deejays or interviewers. Personally, through the preparation process, I developed the values of Diligence and resilience. This was because I had to rehearse a number of times with my partner before we managed to deliver a well-rehearsed piece during the recording session. I hope I will be able to have more opportunities like this when I am in secondary school.&nbsp;&nbsp;
 
-<p style="text-align: justify;">I felt nervous but happy to be able to participate as a student DJ. I practised in front of the mirror, reading out the script over and over again, with expression. I learned to be resilient and not to give up so easily. I realised I had become more confident after the video-recording.</p>
+<p style="text-align: right"> NNISA NUR KHALIFATUNISA, 6 Diligence (2022)<br></p>
 
-<p style="text-align: right"> Zara Allie Hayleyana Binti Mohammad Firdaus, 6 Loyalty<br></p>
+I was delighted to be interviewed by my classmate, Gautami, in Morning Jukebox. I was in a state of euphoria as I played the Chinese flute, Dizi. It was as though I was free from all the troubles that were impeding me! I had acquired the values of resilience and diligence as I did not learn to play the Chinese flute well overnight. It took me many hours of practice to master the technique of playing the instrument. I had a sense of achievement when I performed well during the recording session.
 
-<p style="text-align: justify;">My experience being a student DJ for the Morning Jukebox was quite enjoyable. The teachers helped and guided me on the rehearsing of the script and also during the filming. They also provided me with encouragement so I was more confident. I am grateful to the teachers and will apply what I have learned in my future endeavours.</p>
+<p style="text-align: right"> ESSHANAA, 6 Compassion (2022)<br></p>
 
-<p style="text-align: right"> Sophia Rose Tan, 6 Diligence<br></p>
+I was hesitant when I was selected by Mrs Tay to be the student deejay for Morning Jukebox. I was not an eloquent speaker nor did I have the confidence to speak in front of the camera. After much consideration, I agreed to it as I thought it would be a good learning experience. Due to the safe distancing measures, Mrs Tay rehearsed the script with me via Zoom. Throughout the Zoom sessions, Mrs Tay taught me important tips and tricks to speak well and be confident. Not long after, it was time to record the video. I felt that my recording was decent and my speaking skills had improved significantly. I hope that the school can provide more opportunities like this to more students to build up their confidence.&nbsp;
 
-<p style="text-align: justify;">I was filled with excitement to have the opportunity to appear on screen before the whole school. Although I was nervous during the video-recording, I plucked up the courage to complete my task of being a student DJ. I would like to thank my teachers and friends for giving me their full support.</p>
+<p style="text-align: right"> CHIEW BANGYU JAYDEN, 6 Compassion (2022)<br></p>
 
-<p style="text-align: right"> Chindarat Archita Anthony Yip, 6 Excellence<br></p>
+I was excited yet nervous when I was rehearsing the script with my classmate, Krystabelle, for a number of times. I faced my fear of having to speak in front of the camera with the support of my friends, who cheered me up and I felt confident after some time. I was proud of myself for not giving up easily when I encountered difficulties with the pronunciation of some words.&nbsp;
 
+<p style="text-align: right"> MOHAMMAD AISY ARFAN BIN MOHAMAD SHAFIEE, 6 Honesty (2022)<br></p>
 
-<p style="text-align: justify;">I had a lot of fun being a DJ for Morning Jukebox. Prior to that, I had a few rehearsals with Mrs Tay during recess. I also had a lot of practice at home. I realised the importance of being diligent and showing resilience during the process.</p>
-
-<p style="text-align: right"> Anggun Qaisara Binte Mohamed Norisham, 6 Compassion<br></p>
-
-
-<p style="text-align: justify;">The whole experience had helped me to improve my verbal expression and I gained confidence. The effort that I had put in was worth it as I was satisfied when I saw myself in the video. I am very grateful for the opportunity given to me.</p>
-
-<p style="text-align: right"> Palaniappan Abishek Priyan, 6 Resilience<br></p>
-<br>
-<br>
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGE6djsHaU9vOzgi7M0YuQvJSC94kUfSGcZYQz4V8KZNl7YU2slxz9XqyjUrBjQpmarYXXyXOLAHMp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Below is the link to access to our Morning Jukebox playlist:
 
