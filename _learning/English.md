@@ -73,6 +73,14 @@ Video on Oracy @ Lianhua:
 Storytelling Festival    
 <a href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
 
+**Stretch Your Mind - A Fun and Effective way to learn English**
+
+At Lianhua, we strive to develop our students into critical and creative thinkers. The English Department hence introduced a new pre-assembly segment, “Stretch Your Mind” where rebus puzzles are presented to students for them to solve.
+Rebuses are a great tool for developing critical thinking skills. A rebus is a puzzle that uses pictures, symbols, or letters to represent words or phrases, and the solver must use logic and reasoning to figure out the meaning of the puzzle. Solving rebuses requires several critical thinking skills, including pattern recognition, inference, and deduction. For example, a rebus that includes an image of a heart, the letter "U", and the word "4" could be interpreted as "I love you forever." Solving this puzzle requires the solver to recognize the patterns and associations between the symbols and words.
+Rebuses can also be used to enhance vocabulary and language skills, as they often require the solver to make connections between words and their meanings.
+Stretch Your Mind will be a weekly Tuesday feature with levelled rebus puzzles for students to solve and learn English in a fun and meaningful manner.
+
+
 
 **<u>Learning Support Programme (LSP)</u>**
 
