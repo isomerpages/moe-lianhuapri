@@ -18,7 +18,7 @@ description: ""
 
 ![](/images/Learning/English/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png)
 
-<u>STELLAR Programme</u>
+<u>STELLAR</u>
 
 *   <p style="text-align: justify;">The STELLAR (Strategies for English Language Learning and Reading) Programme was developed by the Ministry of Education (MOE) to cater to the diverse range of English language learners in Singapore. This programme has been implemented in our English Language curriculum from Primary One to Primary Six.</p>
 
