@@ -48,14 +48,15 @@ description: ""
 
 </p><p style="text-align: justify;">In collaboration with News in Brief, Our Stories is another segment which allows our students to deepen their historical knowledge of Singapore. The segment allows students to know more about the stories behind famous historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to our country and appreciate the rich history and contributions of our forefathers.
 	
-</p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners.
+</p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners. <br>
+
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>       
 
 	
 Video on Oracy @ Lianhua:      
 <a target="_blank" href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
-
+<br>
 	
 **<u>Storytelling</u>**
 
