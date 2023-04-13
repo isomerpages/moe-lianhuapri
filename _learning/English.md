@@ -50,12 +50,14 @@ description: ""
 	
 </p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>       
+
 	
-Video on Oracy @ Lianhua:    
+Video on Oracy @ Lianhua:      
 <a target="_blank" href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
 
-**Storytelling**
+	
+**<u>Storytelling</u>**
 
 </p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
 
@@ -76,7 +78,8 @@ Video on Oracy @ Lianhua:
 Storytelling Festival    
 <a target="_blank" href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
 
-**Stretch Your Mind - A Fun and Effective way to learn English**
+
+**<u>Stretch Your Mind - A Fun and Effective way to learn English</u>**
 
 At Lianhua, we strive to develop our students into critical and creative thinkers. The English Department hence introduced a new pre-assembly segment, “Stretch Your Mind” where rebus puzzles are presented to students for them to solve.
 Rebuses are a great tool for developing critical thinking skills. A rebus is a puzzle that uses pictures, symbols, or letters to represent words or phrases, and the solver must use logic and reasoning to figure out the meaning of the puzzle. Solving rebuses requires several critical thinking skills, including pattern recognition, inference, and deduction. For example, a rebus that includes an image of a heart, the letter "U", and the word "4" could be interpreted as "I love you forever." Solving this puzzle requires the solver to recognize the patterns and associations between the symbols and words.
