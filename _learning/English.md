@@ -80,7 +80,7 @@ Rebuses are a great tool for developing critical thinking skills. A rebus is a p
 Rebuses can also be used to enhance vocabulary and language skills, as they often require the solver to make connections between words and their meanings.
 Stretch Your Mind will be a weekly Tuesday feature with levelled rebus puzzles for students to solve and learn English in a fun and meaningful manner.
 
-
+![](/images/Learning/English/whatsapp2.jpeg)
 
 **<u>Learning Support Programme (LSP)</u>**
 
