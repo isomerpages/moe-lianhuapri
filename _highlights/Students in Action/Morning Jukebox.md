@@ -30,6 +30,13 @@ I was excited yet nervous when I was rehearsing the script with my classmate, Kr
 
 <p style="text-align: right"> MOHAMMAD AISY ARFAN BIN MOHAMAD SHAFIEE, 6 Honesty (2022)<br></p>
 
+![](/images/Highlights/Music%20Jukebox/4jukebox.jpg)
+
+| ![](/images/Highlights/Music%20Jukebox/1jukebox.jpg) | ![](/images/Highlights/Music%20Jukebox/3jukebox.jpg) | 
+| -------- | -------- | 
+| ![](/images/Highlights/Music%20Jukebox/7jukebox.jpg)    | ![](/images/Highlights/Music%20Jukebox/5jukebox.jpg)     | 
+| ![](/images/Highlights/Music%20Jukebox/6jukebox.jpg)     | ![](/images/Highlights/Music%20Jukebox/2jukebox.jpg)     | 
+
 
 ![](/images/Highlights/Music%20Jukebox/4jukebox.jpg)
 
