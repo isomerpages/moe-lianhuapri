@@ -54,11 +54,6 @@ description: ""
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>
 	
-Video on Oracy @ Lianhua: <br>
-<a target="_blank" href="https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing">https://drive.google.com/file/d/1PXBwLgUTDWqM6FiAkA5utd9aYxTbbZQJ/view?usp=sharing</a>
-<br>
-
-
 **<u>Storytelling</u>**
 
 </p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
