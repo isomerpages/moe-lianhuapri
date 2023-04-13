@@ -40,7 +40,7 @@ description: ""
 </p><p style="text-align: justify;">It has been observed that these e-books/ videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
 
 </p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! <br>
-
+<br>
 
 **<u>Oracy @ Lianhua</u>**
 	
@@ -55,6 +55,8 @@ description: ""
 	
 **<u>Storytelling</u>**
 
+**<u>Storytelling</u>**
+	
 </p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
 
 ![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
