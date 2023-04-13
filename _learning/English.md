@@ -43,7 +43,7 @@ description: ""
 
 	
 **<u>Oracy @ Lianhua</u>**
-
+	
 </p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
 
 </p><p style="text-align: justify;">In collaboration with News in Brief, Our Stories is another segment which allows our students to deepen their historical knowledge of Singapore. The segment allows students to know more about the stories behind famous historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to our country and appreciate the rich history and contributions of our forefathers.
