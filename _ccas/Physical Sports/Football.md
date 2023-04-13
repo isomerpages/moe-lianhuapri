@@ -6,9 +6,11 @@ third_nav_title: Physical Sports
 ---
 # **Football**
 
-Football is played by 250 million players in over 200 countries which makes it the most popular sport in the world. In some countries football is also known as “soccer” where a team of eleven players sweat it out in the field against the opponent, passing the ball around and aiming to get the ball into the opponent’s goal. It is a great form of exercise as there is lots of running and footwork involved. Apart from its health benefits, football also emphasises on the values of teamwork and discipline, as it promotes good sportsmanship.
+Football is a fantastic way to stay fit and active, as it involves a lot of running and footwork. Beyond its physical benefits, football also promotes important values such as teamwork and discipline, fostering good sportsmanship. This year, our school's football team has demonstrated these values through their exemplary actions and attitudes.
 
-This popular game has enticed many students in Lianhua Primary School to join the Football CCA which has been around for many years. Every year, we participated in the highly sought after Inter School Tournament which consists of more than 40 schools in the West Zone. At the beginning of the year 2021, we had a few fruitful face-to-face sessions and were preparing our boys for the tournament. However, due to COVID-19 regulations, the tournament was cancelled. Nevertheless, we persevered and continued our CCA through zoom sessions.
+Every year, our football teams (Senior &amp; Junior Division) participate in the highly competitive National School Games (NSG). At the start of 2023, our senior boys faced off against numerous schools, displaying great teamwork, discipline, and sportsmanship in every match. They demonstrated their loyalty and dedication to our school by singing the school song before and after each game. Their remarkable sportsmanship after each game, cheering and wishing their opponents well, was truly exceptional and deserving of praise. Through hard work and dedication, our boys secured 4th place at the NSG West Zone Senior Division Football competition.
+
+Up next, are our Junior Division boys, who will be competing in the NSG Junior Division Football competition. We wish them the best of luck and hope they will follow in the footsteps of their senior counterparts by demonstrating strong teamwork, discipline, and sportsmanship. Well done, Lianhua football teams!
 
 ![](/images/CCAs/Football/Training%2001.jpg)
 
@@ -16,23 +18,6 @@ This popular game has enticed many students in Lianhua Primary School to join th
 
 ![](/images/CCAs/Football/Training%2002.jpg)
 
-## **Experiences**
-
-Our current coach, Coach Wandy, ensured that the zoom CCA sessions were meaningful and filled with lots of experiences for our players to remember. Apart from learning football skills, Coach Wandy even boosted the students’ fitness levels through carefully selected drills.
-
-On top of that, Coach Wandy also managed to invite Singapore’s local football stars such as Bhaihaki Khaizan, Gabriel Quek, Shahril Ishak and the legend of Singapore football, Fandi Ahmad himself to our zoom CCA sessions!
-
-The football stars shared their struggles and how they persevered during their football career. The insightful session had them sharing with us their words of wisdom that emphasises on personal values which reignited our students’ passion in football.
-
-“There is nothing but only hard work. It’s hard work. Hard work and only hard work. There is no…I mean there is no short cut,” quipped Bhaihaki Khaizan and he further advised our students not to only train in the field with their coach but to carry out their own training whenever they can.
-
-“Football is a team game. There are 11 individuals in there with only 1 goal in mind, to win the match,” Gabriel Quek said as he went on to mention that students must also focus when they are playing the game.
-
-“You just need to go out there and do your best. It is all in the mind,” Sharil Ishak encouraged the students by informing them that hard work is the key to everything.
-
-“The three D’s in football - discipline, determination and dedication. But the most important thing is sacrifice. If you do not sacrifice, you will never go anywhere. It is not always about the skill. It’s the will. You must sacrifice,” Fandi Ahmad passionately advised the students. He further said that as players, they need to stay focused and have a plan in mind. It is all about the passion for the game that should propel them to improve themselves and to enjoy the game when they play.
-
-Our football players learnt valuable pointers from our local football stars. Their sharing will definitely motivate our footballers to grow in this sport. Who best to give them life lessons other than the personalities who are directly involved in this beautiful game!
 
 ## **Students' Voices**
 
