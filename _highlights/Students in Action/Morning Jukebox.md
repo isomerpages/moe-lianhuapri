@@ -14,9 +14,9 @@ third_nav_title: Students in Action
 
 #### Students' Voices ####
 
-I enjoyed being a student deejay with my classmate, Hardy Irfan in the Morning Jukebox segment. I think it is a great opportunity for students to participate in Morning Jukebox as student deejays or interviewers. Personally, through the preparation process, I developed the values of Diligence and resilience. This was because I had to rehearse a number of times with my partner before we managed to deliver a well-rehearsed piece during the recording session. I hope I will be able to have more opportunities like this when I am in secondary school.&nbsp;&nbsp;
+I enjoyed being a student deejay with my classmate, Hardy Irfan. I think it is a great opportunity for students to participate in Morning Jukebox as student deejays or interviewers. Personally, through the preparation process, I developed the values of diligence and resilience. This was because I had to rehearse a number of times with my partner before we managed to deliver a well-rehearsed piece during the recording session. I hope I will be able to have more opportunities like this when I am in secondary school.&nbsp;&nbsp;
 
-<p style="text-align: right"> NNISA NUR KHALIFATUNISA, 6 Diligence (2022)<br></p>
+<p style="text-align: right"> ANNISA NUR KHALIFATUNISA, 6 Diligence (2022)<br></p>
 
 I was delighted to be interviewed by my classmate, Gautami, in Morning Jukebox. I was in a state of euphoria as I played the Chinese flute, Dizi. It was as though I was free from all the troubles that were impeding me! I had acquired the values of resilience and diligence as I did not learn to play the Chinese flute well overnight. It took me many hours of practice to master the technique of playing the instrument. I had a sense of achievement when I performed well during the recording session.
 
