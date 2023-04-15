@@ -27,6 +27,20 @@ third_nav_title: Our Family
 
 <p style="text-align: justify;">Inspiring stories and wonderful memories of LHPS are collected through Facebook, along with interviews to engage our Alumni. These stories and well-wishes instill in us a sense of pride of being a Lianhuarean and motivates us to do even better in the years to come.</p>
   
+**Miss Hazelle Teo Ying Shuang graduated in Year 2006**     
+
+Hazelle Teo Ying Shuang is a name on the lips of many radio listeners in Singapore, and she has become a beloved figure in the local entertainment scene. As her alma mater, we are incredibly proud of the achievements and success she has attained in her
+career as a radio personality and DJ.
+
+Having a great passion for the world of journalism, Hazelle engaged our students in journalism during a workshop conducted. Hazelle has shared excellent advice, insights, and personal experiences, which
+are truly enlightening and informative. Her wealth of knowledge has inspired our Young Journalists.
+
+Hazelle's infectious personality, passion for the entertainment industry, and commitment to excellence embody the values that we strive to instil in all our students.
+
+We are honoured to have her back in Lianhua Primary School and we looked forward to welcoming her back again!
+
+Stay tune to the music video featuring Hazelle, who has graciously participated in for our upcoming Lianhua Homecoming Day!
+
 
 #### Alumni’s Voices
 
