@@ -6,11 +6,15 @@ third_nav_title: Visual &amp; Performing
 ---
 # Handbells Ensemble
 
-![](/images/CCAs/Handbells%20Ensemble/Handbells%20Ensemble_1.jpg)
+![](/images/CCAs/Handbells%20Ensemble/handbells4.jpg)
 
-![](/images/CCAs/Handbells%20Ensemble/Handbells%20Ensemble_2.jpg)
 
-![](/images/CCAs/Handbells%20Ensemble/Handbells%20Ensemble_3.jpg)
+
+| ![](/images/CCAs/Handbells%20Ensemble/handbells1.jpg) | ![](/images/CCAs/Handbells%20Ensemble/handbells3.jpg) | 
+| -------- | -------- | 
+
+
+
 
 The Lianhua Handbell Ensemble was established in 2013 and was named the “Griffin Bellz”.
 
@@ -26,6 +30,8 @@ The Griffin Bellz achieved the Certificate of Distinction at the Singapore Youth
 
 Those who love music have happy hearts. Griffin Bellz will continue its pursuit to bring joy to everyone with its resounding and mellifluous music.
 
+
+
 ## Major Performances
 
 |      |                                                           |
@@ -38,41 +44,37 @@ Those who love music have happy hearts. Griffin Bellz will continue its pursuit 
 | 2019 | Lianhua Musical @ Dulwich College                         |
 | 2019 | 3rd Singapore Handbells Festival                          |
 
-## Other Programmes
-
-
-**_<u>Promotion of CCA Video</u>_**
-
-**P1 CCAs Experience**
-
-Due to Covid-19 and the safety management measures, the P1 CCAs Experience is conducted online. Griffin Bellz’s Chairperson, Annisa would like to invite our young music lovers from P1 to join us in spreading the magic of music.
-
-
-<iframe width="711" height="512" src="https://www.youtube.com/embed/gegna590jjk" title="P1 CCA Experience Griffin Bellz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 ## Achievements
 
 | Year |                                       Competition                                       |             Award             |
 |:----:|:-----------------:|:-----------------------------:|
+| 2022 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Handbell) | Certificate of Participation |
 | 2018 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Handbell) | Certificate of Accomplishment |
 | 2016 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Handbell) | Certificate of Accomplishment |
 
 ## Students' Voices
 
-“During my experience in the Handbells CCA, I learnt many valuable values like unity, self-discipline, resilience and compassion. I learnt the basic techniques like ringing the chimes and handbells properly. After which, my seniors taught me to recognise and identify notes and how to read the beat numbers. It took a few months to get used to play according to the beat. My journey was rocky initially but eventually, it got smoother. I am sure it is the same for each Handbells member. Despite the challenges, I really like Handbells a lot and I hope that more people can experience playing this graceful instrument.” ~ SU MYAT NOE WIN, 2019
+“I am really glad to be in Handbells as it not only provides us with the opportunity to learn hard skills like identifying notes, reading musical scores but also soft skills like learning how to communicate with friends from different levels, having the compassion to teach the juniors and unity in counting on one another to present a beautiful piece of music to the audience. Most importantly, I made a lot of friends whom I could laugh and share my experiences with.”
 
-  
+ <p style="text-align: right"> Bernice Chung Hee Chee<br></p>
 
-“I think Handbells gives us the opportunity to learn a special musical instrument. I get to make new friends and play together. With this CCA, we learn how to be united. I appreciate the opportunity to join Handbells as I always go home with a smile on my face after each session.” ~ TAN EMMA XIN PING, 2019
 
-  
+“Handbells is an amazing CCA. Every song that you play with your handbell members is melodious. Handbells made me learn the values of resilience and teamwork. I find all the sessions enjoyable no matter how tiring it may sometimes get. All the handbell members are very cheerful and friendly. Anyone who joins handbells will never regret the decision.” &nbsp;
 
-“I think joining Handbells is very interesting as one can play many songs with your friends and also gain the opportunity to perform for others. During CCA, I get to meet friends who are not from my class. We also have many chances to try different techniques and notes. One will surely enjoy playing this instrument if you join our CCA.” ~ SOON YEE THANG, 2019
+ <p style="text-align: right"> Karis Koh Yee Hwee<br></p>
 
-  
+“I have been in Handbells for the past four years. The SYF was very exciting. It has taught me not to give up and to be resilient. I enjoy and appreciate the time our instructor puts in to teach us the techniques to ring the bells.”
 
-“I have been in the Handbells CCA for the past two years. I have learnt not to give up no matter how hard the challenge is. I also learnt about the spirit of excellence because I always give my best efforts into playing the songs. I will always do my very best in my CCA.” ~ SOH XIN YU JOEY, 2019
+ <p style="text-align: right"> Isabel Foo<br></p>  
 
+“During our handbell practice, I have learnt values like unity, resilience, diligence, self-discipline and loyalty. When I was in Primary Three, I was very lost when I just joined the handbell club. I did not know how to ring the bells and chimes. In addition, I could not even read the notes on the score. Thankfully, with my instructor’s and seniors’ guidance, I overcame my difficulties and learnt how to play the notes. I must also thank my teachers and fellow club members for guiding me along. I really enjoy the handbell practices!”&nbsp;
+
+ <p style="text-align: right">Lauryn Kuah<br></p>  
+
+“During my time in Handbells, I have not only learnt about music, but also the meaning of unity and resilience. All of us have to work together in Handbells. Without teamwork, the whole song will be messed up. I also learnt not to give up. Ever since I joined Handbells, my seniors have taught me how to play the chimes, ring the bells and identify the notes. Over time, I started to be able to play the notes on my own. Some may think that Handbells is merely about the simple ringing of bells. There are actually different techniques to produce the sound from the bells such as plucking and damping. If you have a passion for melodious and classical music, this CCA could just be meant for you!”
+
+ <p style="text-align: right">Lee Daeen<br></p>
+ 
 ## Useful Link
 
 An Introduction to Handbell Ringing   
@@ -82,7 +84,7 @@ An Introduction to Handbell Ringing
 ## The Team
 
 MS EDELYN LEE<br>
+MDM HO SHEU YUN<br>
 MR SIM WEE CHOON<br>
 MS TOH BEE HONG<br>
-MDM YANG FAN<br>
-MDM HO SHEU YUN
+MDM YANG FAN
