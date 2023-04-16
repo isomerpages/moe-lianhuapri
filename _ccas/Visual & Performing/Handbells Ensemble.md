@@ -12,6 +12,7 @@ third_nav_title: Visual &amp; Performing
 
 | ![](/images/CCAs/Handbells%20Ensemble/handbells1.jpg) | ![](/images/CCAs/Handbells%20Ensemble/handbells3.jpg) | 
 | -------- | -------- | 
+|   |   |
 
 
 
