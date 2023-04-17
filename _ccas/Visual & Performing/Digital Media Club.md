@@ -33,6 +33,10 @@ Members are provided with opportunities through various organized activities to 
 ![](/images/CCAs/Digital%20Media%20Club/osos3pic.jpg)
 ![](/images/CCAs/Digital%20Media%20Club/event1.jpg)
 ![](/images/CCAs/Digital%20Media%20Club/event2.jpg)
+![](/images/CCAs/Digital%20Media%20Club/event3.jpg)
+![](/images/CCAs/Digital%20Media%20Club/event4.jpg)
+
+
 ## The Team
 
 MS CHEN YIMENG<br>
