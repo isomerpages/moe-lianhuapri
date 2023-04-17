@@ -19,10 +19,17 @@ The Lianhua Digital Media Club was established in 2015 to inspire appreciation f
 Members are provided with opportunities through various organized activities to hone their observation, analytical, evaluative and communicative skills, while enhancing their love for the aesthetic. While learning to conduct independent research, they are also taught presentation skills and using the support of technology in photography. The club emphasizes three key values of our school—self-discipline, excellence and resilience, which we believe are the cornerstones of success.
 
  
+### Achievements
 
 
 
-<iframe width="711" height="511" src="https://www.youtube.com/embed/W1DbIu8_u3A" title="Photography Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+| Year | Competition | Award |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
+
 
 
 ## The Team
