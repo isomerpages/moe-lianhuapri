@@ -6,6 +6,18 @@ third_nav_title: Visual &amp; Performing
 ---
 # **Percussion Ensemble**
 
+
+
+| ![](/images/CCAs/Percussion%20Ensemble/1photo.jpeg) | ![](/images/CCAs/Percussion%20Ensemble/2photo.jpeg) | 
+| -------- | -------- | 
+| ![](/images/CCAs/Percussion%20Ensemble/3photo.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/4photo.jpg)   | 
+| ![](/images/CCAs/Percussion%20Ensemble/5photo.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6photo.jpg)     | 
+
+
+
+
+
+
 |   |   |   |
 |:-:|:-:|:-:|
 | <img src="/images/CCAs/Percussion%20Ensemble/training%20session%201.jpg" style="width:58%">  |  ![](/images/CCAs/Percussion%20Ensemble/training%20session%202.jpg)   | <img src="/images/CCAs/Percussion%20Ensemble/training%20session%203.jpg" style="width:67%">    |
