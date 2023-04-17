@@ -50,44 +50,20 @@ Our members took part in SYF art competitions this year and submitted artwork fo
 <center>Category C - “A Dedication to Our World”</center>
 
 
+**PAssionArts Festival 2022- Façade Art Painting**
+
+Lianhua Primary School is proud to be one of the community partners collaborating with Bukit Gombak CC to celebrate PAssionArts Festival 2022. In this national-level Façade Art collaboration, our Art Club students, teachers, and parent volunteers painted 2 canvases to express the unique artistic representations of Bukit Gombak neighbourhood at Little Guilin.
+
+| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo12.JPG) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo13.JPG) | 
+| -------- | -------- | 
 
 
+**National Day 2021 Nagomi Art**
 
-
-
-<center>Our Art Club session in progress.</center>
-
-The Lianhua Art Club aims to provide opportunities for budding artists to explore creativity through 2D and 3D art in an array of visual art media and forms. Members have participated and clinched awards in various competitions (e.g. Singapore Youth Art Festival 2021. Our Category A artwork received the Special Mention Award. They share their passion with the school and the community at large to promote the beauty of Art. Exploration also extends beyond the classroom setting, where students develop a deeper appreciation for the Arts through engagements with the surroundings as well contributing their art work to the community through PAssionArts collaboration for this year's National Day celebration creating Nagomi Art.
-
-
-<iframe width="711" height="510" src="https://www.youtube.com/embed/gt2ynGcQ1N8" title="Art Club P1 CCAs Experiences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-## **SYF 2021**
-
-**<u><b>Singapore Youth Festival 2021</b></u>**
-
-Our school participated in the SYF Art competition this year and submitted artwork for three categories. It is our great pleasure to announce that our category A artwork clinched the Special Mention Award. Students and teachers in the group worked hand in hand to create the 3-Dimensional Artwork that captured the judges’ attention. Based on the theme, “No Tech No life” our students experienced using different materials to create a beautiful sculpture. Well done!
-
-|     |     |
-|:-:|:-:|
-|  <img src="/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_1.jpg" style="width:80%"> Our Category A members in action. |  ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_2.jpg) Our Category B team members handling the materials.  |
-
-|    |       |
-|:----:|:----:|
-|  ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_3.jpg)   Our P3 and P4 club members working on their artwork.  |  <img src="/images/CCAs/Art%20&amp;%20Crafts%20Club/Training%20photos%203.jpg" style="width:55%">  Our Category C team working on their artwork. |
-
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_4.jpg)  
-
-<center>Our winning entry for Category A SYF Art Competition 2021.</center>
-
-## **National Day 2021 Nagomi Art**
-
-**<u><b>National Day Nagomi Art</b></u>**
-
-Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by the PAssionArts in collaboration with the Bukit Gombak Constituency and Hill View Community Club. Our students spent their Saturday afternoon creating beautiful Nagomi Art in conjunction with National Day 2021 celebrations.
+In 2021, our Art Club members in P4 to P6 took part in the Nagomi Art organized by the PAssionArts in collaboration with the Bukit Gombak Constituency and Hill View Community Club. Our students spent their Saturday afternoon creating beautiful Nagomi Art in conjunction with National Day 2021 celebrations.
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png)
+
 
 
 ## **Achievements**
@@ -99,26 +75,26 @@ Our Art Club members in P4 to P6 also took part in the Nagomi Art organized by t
 
 ## **Students’ Voices**
 
+"When I did my SYF art work with my team members, I displayed the value of resilience as I overcame challenges without giving up. The journey was fun and it was the first time I used posca markers to draw short repeated lines on a shrinkable plastic just like the artwork by Vincent Van Gogh, Starry Night. I am proud of myself for all the efforts put in. I think our art work is beautiful. "
 
-"SYF was very exciting as I can create lots of new art pieces from modelling clay and transforming them into human figures. I am so happy that my group artwork is selected for this year’s Special Mention. I am so proud of my teammates too.”
+  <p style="text-align: right"> AVA CHAN XIN YU, 2 DISCIPLINE ’2023<br></p>
 
-  <p style="text-align: right"> SEBASTIAN TEA ZHI JUN, 2 DILIGENCE' 2021<br></p>
-<br>
+"It was a wonderful experience as I learned new painting techniques and art skills in my art making process. I learned that if we work together in unity, we can support and learn from one another in the journey to achieve our common goal.&nbsp; I felt that our SYF artwork is very meaningful as it can raise the awareness in people not to waste food and to buy the amount of food needed. I am very happy to be part of the SYF art team and I love our artwork. "
 
-"SYF was very fun. I learned teamwork as I shared materials with my friends and we worked well together making the sculpture."
+  <p style="text-align: right"> GAZA ALTHEA CASSANDRA BACLIG, 4 RESILLIENCE ’2023<br></p>
 
-  <p style="text-align: right"> LIU JIANING, 4 Unity'2021<br></p>
-<br>
+"The SYF art activity was so fun as I got to work with the P5 and P6 friends and we all got along well. I put my art skills to good use and acquired new skills as we learned metal embossing. We embossed images representing our emotions and things associated with COVID on small metallic pieces which we pieced together to form our beautiful globe. I have become more resilient and learnt never to give up in face of challenges. Together with my friends, I have learned unity as we learned and worked together as a team to complete our artwork. I felt happy and proud that we have created a masterpiece and I hope everyone will also appreciate our artwork and effort."
 
-"As the team leader in my group, I feel happy about collaborating with my other team members, brainstorming sessions while experiencing the art-making process. I get to experience different art processes using different materials that I have not used before. It was so exciting and enriching.”
+  <p style="text-align: right"> CHOO ENXIN, 5 RESILLIENCE ’2023<br></p>
 
-  <p style="text-align: right"> GOH SHU EN AMELIA, 4 RESILIENCE' 2021<br></p>
-<br>
+"Being in the SYF Art Club team was extremely fun and exciting. I am very proud that I was chosen to be part of the team. In this journey, it was enjoyable working with my friends and teachers, and I made new friends as well. Through this experience, it has taught everyone the value of resilience and unity as we thought we could not finish the art work in time however, we persevered on and work together as a team and even created an additional mini globe. I am proud of our unique and beautiful artwork, which is a dedication to everyone who have emerged stronger and more resilient after the COVID.&nbsp;&nbsp;
 
-"SYF was very exciting as I could create lots of new art pieces based on the theme ‘Technology’. We worked in small groups to brainstorm for ideas and eventually created a giant I-Pad sculpture that looked fantastic.”
+  <p style="text-align: right"> BOO ING SWUNG SAFFRON, 6 HONESTY ’2023<br></p>
+"As the team leader in my group, I feel happy about collaborating with my other team members, brainstorming sessions while experiencing the art-making process. I get to experience different art processes using different materials that I have not used before. It was so exciting and enriching."
 
-  <p style="text-align: right"> JULIA HUI, 5 DILIGENCE' 2021<br></p>
-<br>
+  <p style="text-align: right"> GOH SHU EN AMELIA, 6 HONESTY '2023<br></p>
+
+
 
 ## **The Team**
 
