@@ -13,25 +13,15 @@ third_nav_title: Visual &amp; Performing
 | ![](/images/CCAs/Percussion%20Ensemble/3photo.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/4photo.jpg)   | 
 | ![](/images/CCAs/Percussion%20Ensemble/5photo.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6photo.jpg)     | 
 
-
-
-
-
-
-|   |   |   |
-|:-:|:-:|:-:|
-| <img src="/images/CCAs/Percussion%20Ensemble/training%20session%201.jpg" style="width:58%">  |  ![](/images/CCAs/Percussion%20Ensemble/training%20session%202.jpg)   | <img src="/images/CCAs/Percussion%20Ensemble/training%20session%203.jpg" style="width:67%">    |
-
-
 The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.
+
+Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
 
   
 
 Through the learning and performance of percussion instruments, students have been inculcated with our school’s core values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
 
 ## **Programme**
-
-**_<u>Promotion of CCA video</u>_**
 
 **P1 CCA Experience**  
 
@@ -50,7 +40,6 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
-<center>Video Coming Soon</center>
 
 |   |   |   |
 |:-:|:-:|:-:|
@@ -62,31 +51,21 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 
 ## **Students' Voices**
 
-Initially, I was confused as to how to play with the mallets as I only knew how to play the piano. But over time, I learned to use the mallets to play the Marimba and Xylophone. I should say I am good at playing the instruments now.
+I have joined the Percussion Ensemble CCA for almost four years. I have learned to play instruments like Timpani, Xylophone and Bongos. I have also learned to exercise self-discipline, to perform in unity as an ensemble, to be resilient and diligent in order to achieve excellence during my training. I would like to thank my seniors for helping and guiding me.
 
- <p style="text-align: right"> BRUZO NATHANIEL CLYDE BIGLAEN, 6 RESILIENCE<br></p>
-<br>
+ <p style="text-align: right"> KEITH TANG JUN JUO, 5 Resilience (2022)<br></p>
 
+In this Percussion Ensemble CCA, not only do we need to play the notes correctly, we have to keep to a steady beat and look at the conductor to ensure that the music is played well. I have learned the importance of Teamwork. I have also learned to value friendship as we have gone through the numerous practice sessions together to perform for the SYF Arts Presentation.
 
-I have learnt to be patient when practising on the drum pad, as I had to take baby steps to master the drumming skills. Besides the friendly and helpful training instructor, I was grateful to my friend as well, who was always by my side to help me during our training sessions.
+ <p style="text-align: right">GUI JUN LING YSABEL, 3 Diligence (2022)<br></p>
 
- <p style="text-align: right">NUR IFFAH ZARIFAH BINTE RUZAINI, 6 EXCELLENCE<br></p>
-<br>
+Initially, I joined the Percussion Ensemble as I loved music and would like to learn how to play musical instruments. This CCA has helped me to understand music notes better and play as a group. I have learned to be resilient and diligent because no matter how many mistakes I make, I must try to play well. Now with the SYF Arts Presentation, I know I must practise even harder as I do not want to let my entire ensemble down and all my hard work go to waste. We will strive hard to excel in our performance.
 
+ <p style="text-align: right">OLIVIA KHAW LI YEAN, 4 Diligence (2022)<br></p>
 
-I always look forward to the training sessions because it is fun playing the Marimba and practising on the drum pad. Although it could be tough learning to play the pieces, I had fun learning together with my friends. Our training instructor will explain to us in simple terms.
+I really enjoyed this SYF journey. I enjoyed the weekly training very much and also the chance that we get to play the percussion instruments like the Marimba, Vibraphone, Xylohone and Timpani. I had acquired the values of Diligence – to work hard on the instruments that we play; Unity – to work together on our music piece and Resilience – to never give up no matter how tough the training was.
 
- <p style="text-align: right">NUR DANIYA ASHLYNN BINTE MUHAMMAD KHALID, 6 COMPASSION<br></p>
-<br>
-I had a lot of fun playing the Marimba, Bass Drum and Drum Set together with my friends. I had also learned more about the musical terms and concepts and I enjoyed the training sessions very much.
-
- <p style="text-align: right"> BEH JUN HAO, 5 COMPASSION<br></p>
-<br>
-
-I have learned to read musical notes and play a variety of instruments like the Bass Drum, Drums and Marimba. I have also exhibited values such as Resilience and Excellence by never giving up and playing the instruments to the best of my ability.
-
- <p style="text-align: right"> ILDEFONSO GREYSON TOBEY PONTE, 5 COMPASSION<br></p>
-<br>
+ <p style="text-align: right"> TEO RUI CHENG, 5 Honesty (2022)<br></p>
 
 ## Useful Links
 
