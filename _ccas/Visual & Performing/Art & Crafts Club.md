@@ -8,6 +8,7 @@ third_nav_title: Visual &amp; Performing
 
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo1.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo2.jpg) | 
 | -------- | -------- | 
+|   |   |
 
 ### Purpose of Art Club
 
@@ -31,11 +32,16 @@ Our winning entry for Category A SYF Art Competition 2021.
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) 
 <center>Category A - “Through The Eyes of A Child”</center>
 
+| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) |![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) | 
+| -------- | -------- | 
+|   |   |
+<center>Category A - “Through The Eyes of A Child”</center>
 
 Our members took part in SYF art competitions this year and submitted artwork for three categories. Students and teachers worked hand in hand to create the 3-Dimensional Artwork. Based on the theme, our students experienced using different materials to create a beautiful sculpture. Well done!
 
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo7.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo6.jpg) | 
 | -------- | -------- | 
+|   |   |
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo8.jpg)
 
@@ -44,6 +50,7 @@ Our members took part in SYF art competitions this year and submitted artwork fo
 
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo9.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo11.jpg) | 
 | -------- | -------- | 
+|   |   |
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo10.jpg)
 
