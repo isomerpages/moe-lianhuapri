@@ -70,7 +70,6 @@ In 2021, our Art Club members in P4 to P6 took part in the Nagomi Art organized 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png)
 
 
-
 ## **Achievements**
 
 | Year | Achievements                                                                                  | Award |
