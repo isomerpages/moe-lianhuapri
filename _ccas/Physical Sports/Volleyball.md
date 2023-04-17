@@ -23,11 +23,14 @@ Our program is designed to encourage a joy of learning, where students can disco
 
 
 ![](/images/CCAs/Volleyball/volleyball23_26.JPG)
+
 | ![](/images/CCAs/Volleyball/vb%2020photo.JPG) | ![](/images/CCAs/Volleyball/vb%203photo.JPG) | 
 | -------- | -------- | 
 |   |   |
 
-
+| ![](/images/CCAs/Volleyball/volleyball22_99.JPG) | ![](/images/CCAs/Volleyball/volleyball22_57.JPG) | 
+| -------- | -------- | 
+|   |   |
 
 ### Friendly matches
 
