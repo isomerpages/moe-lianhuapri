@@ -69,11 +69,8 @@ In February 2023, we were honoured to be invited to perform for Club HEAL's 10th
 Pending
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRwX-A0GOdE8fcS5ZWkYKpjXmIZUTssXQdSq-la2N3zpGBC5ZbMIBeoCxr0cffXXsBg2Bo5cjZNv1aN/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
-
 #### The Team
 
 MDM KHILFINA BTE KAMARUDDIN SHAH<br>
-MDM SITI NURAINI MUSTAQIIM M YUSOF
-MDM NORLAILAWATI BTE OSMAN<br>
+MDM SITI NURAINI MUSTAQIIM M YUSOF<br>
+MDM NORLAILAWATI BTE OSMAN
