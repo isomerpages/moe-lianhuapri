@@ -8,7 +8,10 @@ third_nav_title: Visual &amp; Performing
 
 ![](/images/CCAs/Digital%20Media%20Club/reupload%20image%201.jpg)
 
-The Lianhua Digital Media Club was established in 2015 to inspire appreciation for the beauty we see around us every day. Taking photographs allows us to express ourselves in a creative manner. It also offers the chance to capture memorable moments. Members are exposed to elements of photo-taking and given ample opportunities to put their learning into practice, both in and out of school. Through photography, students learn to notice details as they start viewing the world around them through the eyes of a photographer.
+### Experience
+
+The Lianhua Digital Media Club was established in 2015 to inspire appreciation for the beauty we see around us every day. Taking photographs allows us to express ourselves in a creative manner. It also offers the chance to capture memorable moments. Members are exposed to elements of photo-taking and video-taking. They are given ample opportunities to put their learning into practice, both in and out of school. We encourage students to explore and discover new things in their surroundings through photography. Students learn to develop a keen eye for details as they start viewing the world around them through the lens.
+
 
   
 
