@@ -28,9 +28,6 @@ Our winning entry for Category A SYF Art Competition 2021.
 
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo3.jpg)
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) 
-<center>Category A - “Through The Eyes of A Child”</center>
 
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) |![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) | 
 | -------- | -------- | 
