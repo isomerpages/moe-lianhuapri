@@ -39,7 +39,7 @@ Members are provided with opportunities through various organized activities to 
 
 ## The Team
 
-MS CHEN YIMENG<br>
+MS VIVIAN CHEN YIMENG<br>
 MDM LEE GIM FANG<br>
 MR RAMADHAN BIN OMAR<br>
 MDM SUBATHRA
