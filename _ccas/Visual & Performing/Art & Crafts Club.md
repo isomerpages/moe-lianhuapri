@@ -6,7 +6,54 @@ third_nav_title: Visual &amp; Performing
 ---
 # **Art &amp; Crafts Club**
 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/Art%20%20Crafts%20Club.jpg)
+| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo1.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo2.jpg) | 
+| -------- | -------- | 
+
+### Purpose of Art Club
+
+The Lianhua Art Club aims to provide opportunities for budding artists to explore creativity through 2D and 3D art in an array of visual art media and forms. Students develop their artistic skills, learn to work collaboratively with others, and build self-confidence.&nbsp;
+
+Members have participated and clinched awards in various competitions. They share their passion with the school and the community at large to promote the beauty of Art. Exploration also extends beyond the classroom setting, where students develop a deeper appreciation for the Arts through engagements with the surroundings as well contributing their art work to the community.
+
+
+### Experiences
+
+**Singapore Youth Festival (SYF) Art Competition**
+
+The Lianhua Art Club has regularly participated in Singapore Youth Festival (SYF) Art Competition. To date, our Category A artwork “No Tech No Life!” has awarded the Special Mention award at the Singapore Youth Art Festival 2021.
+
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_4.jpg)
+Our winning entry for Category A SYF Art Competition 2021.
+
+
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo3.jpg)
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) 
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) 
+<center>Category A - “Through The Eyes of A Child”</center>
+
+
+Our members took part in SYF art competitions this year and submitted artwork for three categories. Students and teachers worked hand in hand to create the 3-Dimensional Artwork. Based on the theme, our students experienced using different materials to create a beautiful sculpture. Well done!
+
+| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo7.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo6.jpg) | 
+| -------- | -------- | 
+
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo8.jpg)
+
+<center>Category B - “Feed People, Not Landfills!”</center>
+
+
+| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo9.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo11.jpg) | 
+| -------- | -------- | 
+
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo10.jpg)
+
+<center>Category C - “A Dedication to Our World”</center>
+
+
+
+
+
+
 
 <center>Our Art Club session in progress.</center>
 
