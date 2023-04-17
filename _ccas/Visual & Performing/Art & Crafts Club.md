@@ -24,7 +24,7 @@ Members have participated and clinched awards in various competitions. They shar
 The Lianhua Art Club has regularly participated in Singapore Youth Festival (SYF) Art Competition. To date, our Category A artwork “No Tech No Life!” has awarded the Special Mention award at the Singapore Youth Art Festival 2021.
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_4.jpg)
-Our winning entry for Category A SYF Art Competition 2021.
+<center>Our winning entry for Category A SYF Art Competition 2021.</center>
 
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo3.jpg)
