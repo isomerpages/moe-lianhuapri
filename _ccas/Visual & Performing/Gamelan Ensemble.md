@@ -32,16 +32,14 @@ In September 2022, our Second Minister for Education, Dr Maliki Bin Osman visite
 ![](/images/CCAs/Gamelan%20Ensemble/1_photo.jpeg)
 
 In February 2023, we were honoured to be invited to perform for Club HEAL's 10th Gala Dinner where Mdm President's Halimah Yaakob is the Patron-in-Chief. Our students were thrilled to have met and engaged our Head of State in a short conversation.&nbsp;
+![](/images/CCAs/Gamelan%20Ensemble/5_photo.jpeg)
 
-| ![](/images/CCAs/Gamelan%20Ensemble/5_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/6_photo.jpeg)| 
-| -------- | -------- | 
-| ![](/images/CCAs/Gamelan%20Ensemble/7_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/8_photo.JPG)| 
-| ![](/images/CCAs/Gamelan%20Ensemble/5_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/6_photo.jpeg)| 
-| -------- | -------- | 
-|   |   |
+| ![](/images/CCAs/Gamelan%20Ensemble/13_photo.jpg)  | ![](/images/CCAs/Gamelan%20Ensemble/6_photo.jpeg) | 
+|:-:|:-:|
+| ![](/images/CCAs/Gamelan%20Ensemble/14_photo.jpg)   | ![](/images/CCAs/Gamelan%20Ensemble/10_photo.jpg)     | 
+| ![](/images/CCAs/Gamelan%20Ensemble/8_photo.JPG)   | ![](/images/CCAs/Gamelan%20Ensemble/12_photo.jpg)     | 
 
-(insert any pictures 5 to 14)
-
+ ![](/images/CCAs/Gamelan%20Ensemble/7_photo.jpeg) 
 
 ### Major Performances
 
