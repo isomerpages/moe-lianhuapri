@@ -59,9 +59,7 @@ Our members took part in SYF art competitions this year and submitted artwork fo
 
 Lianhua Primary School is proud to be one of the community partners collaborating with Bukit Gombak CC to celebrate PAssionArts Festival 2022. In this national-level Façade Art collaboration, our Art Club students, teachers, and parent volunteers painted 2 canvases to express the unique artistic representations of Bukit Gombak neighbourhood at Little Guilin.
 
-| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo12.JPG) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo13.JPG) | 
-| -------- | -------- | 
-|   |   |
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo13.JPG)
 
 **National Day 2021 Nagomi Art**
 
