@@ -28,10 +28,11 @@ Members are provided with opportunities through various organized activities to 
 | 2022     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Certificate of Participation     |
 | 2021     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Honorable Mention     |
 
-
-
-
-
+![](/images/CCAs/Digital%20Media%20Club/osos1pic.jpg)
+![](/images/CCAs/Digital%20Media%20Club/osos2pic.jpg)
+![](/images/CCAs/Digital%20Media%20Club/osos3pic.jpg)
+![](/images/CCAs/Digital%20Media%20Club/event1.jpg)
+![](/images/CCAs/Digital%20Media%20Club/event2.jpg)
 ## The Team
 
 MS CHEN YIMENG<br>
