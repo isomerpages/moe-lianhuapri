@@ -28,15 +28,13 @@ Our program is designed to encourage a joy of learning, where students can disco
 | -------- | -------- | 
 |   |   |
 
-| ![](/images/CCAs/Volleyball/volleyball22_99.JPG) | ![](/images/CCAs/Volleyball/volleyball22_57.JPG) | 
-| -------- | -------- | 
-|   |   |
 
 ### Friendly matches
 
 We also organize friendly matches with other schools on an annual basis. These matches provide an avenue for our members to build confidence, foster strong bonds with their teammates, and showcase their skills to coaches and teachers who may select them for the school team. Through these activities, we hope to instill a love for the sport, promote teamwork and sportsmanship, and prepare our members for success in all aspects of life.
 
 ![](/images/CCAs/Volleyball/vb%202photo.JPG)
+
 | ![](/images/CCAs/Volleyball/volleyball23_22.JPG) | <br><br>![](/images/CCAs/Volleyball/volleyball23_5.JPG) | 
 | -------- | -------- | 
 |   |   |
