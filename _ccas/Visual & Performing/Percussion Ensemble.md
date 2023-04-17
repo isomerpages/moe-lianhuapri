@@ -31,6 +31,8 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
 
+
+
 ## **Achievements**
 
 |                      |                   |               |
@@ -40,14 +42,12 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
+![](/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg) 
 
-|   |   |   |
-|:-:|:-:|:-:|
-| <img src="/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg" style="width:83%">  |  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg" style="width:83%">  |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)  |
+| ![](/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg) |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg) | 
+| -------- | -------- | 
+| ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg)   | 
 
-|   |   |
-|:-:|:-:|
-|  <img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg" style="width:75%"> | <img src="/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg" style="width:50%">  |
 
 ## **Students' Voices**
 
