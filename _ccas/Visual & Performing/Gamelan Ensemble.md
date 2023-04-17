@@ -11,7 +11,6 @@ Lianhua Gamelan Ensemble has been around in the school for more than two decades
 
 During the #COVID19 period when CCAs had to be conducted online, Lianhua Primary School’s Gamelan Ensemble was not fazed. No instruments? No problem. Bins, sticks, containers, maracas… students made do with any alternatives that they could rustle up at home to practise their beats and hone their sense of rhythm.&nbsp;
 
-  
 *(insert 2 zoom pictures in current website gamelan photo gallery)* 
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 3" src="https://www.youtube.com/embed/-ELcfeVFz54" height="308" width="351"></iframe></center>
@@ -25,16 +24,21 @@ Our Gamelan Ensemble also gave an invigorating showcase of three pieces that the
 
   ![](/images/CCAs/Gamelan%20Ensemble/photo2.jpeg)
 
+
+
 In September 2022, our Second Minister for Education, Dr Maliki Bin Osman visited Lianhua where, he and our School Leaders tried their hand at some of our Gamelan instruments for a segment of “PIE”. Under the confident tutelage of our Gamelan Chairperson, Marissa Bte Munir (6R), and Vice-Chairperson, Soe Su Myat Mon Gania (6H), and with the careful guidance of another four of our experienced Gamelan members, they indeed “Played It Easy” right alongside our students.
 
   
-
-(insert picture 1)
-
-  
+![](/images/CCAs/Gamelan%20Ensemble/1_photo.jpeg)
 
 In February 2023, we were honoured to be invited to perform for Club HEAL's 10th Gala Dinner where Mdm President's Halimah Yaakob is the Patron-in-Chief. Our students were thrilled to have met and engaged our Head of State in a short conversation.&nbsp;
 
+| ![](/images/CCAs/Gamelan%20Ensemble/5_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/6_photo.jpeg)| 
+| -------- | -------- | 
+| ![](/images/CCAs/Gamelan%20Ensemble/7_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/8_photo.JPG)| 
+| ![](/images/CCAs/Gamelan%20Ensemble/5_photo.jpeg) | ![](/images/CCAs/Gamelan%20Ensemble/6_photo.jpeg)| 
+| -------- | -------- | 
+|   |   |
 
 (insert any pictures 5 to 14)
 
