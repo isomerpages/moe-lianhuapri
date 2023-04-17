@@ -25,8 +25,8 @@ Members are provided with opportunities through various organized activities to 
 
 | Year | Competition | Award |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| 2022     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Certificate of Participation     |
+| 2021     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Honorable Mention     |
 
 
 
