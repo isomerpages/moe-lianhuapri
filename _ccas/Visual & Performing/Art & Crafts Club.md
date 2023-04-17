@@ -32,6 +32,7 @@ The Lianhua Art Club has regularly participated in Singapore Youth Festival (SYF
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) |![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) | 
 | -------- | -------- | 
 |   |   |
+
 <center>Category A - “Through The Eyes of A Child”</center>
 
 Our members took part in SYF art competitions this year and submitted artwork for three categories. Students and teachers worked hand in hand to create the 3-Dimensional Artwork. Based on the theme, our students experienced using different materials to create a beautiful sculpture. Well done!
@@ -60,7 +61,7 @@ Lianhua Primary School is proud to be one of the community partners collaboratin
 
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo12.JPG) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo13.JPG) | 
 | -------- | -------- | 
-
+|   |   |
 
 **National Day 2021 Nagomi Art**
 
