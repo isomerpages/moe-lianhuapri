@@ -12,11 +12,11 @@ Every year, our football teams (Senior &amp; Junior Division) participate in the
 
 Up next, are our Junior Division boys, who will be competing in the NSG Junior Division Football competition. We wish them the best of luck and hope they will follow in the footsteps of their senior counterparts by demonstrating strong teamwork, discipline, and sportsmanship. Well done, Lianhua football teams!
 
-![](/images/CCAs/Football/Training%2001.jpg)
-
-![](/images/CCAs/Football/Training%2003.jpg)
-
-![](/images/CCAs/Football/Training%2002.jpg)
+| ![](/images/CCAs/Football/soccer23_14_resize.JPG) | ![](/images/CCAs/Football/soccer23_3.JPG) | 
+|:-:|:-:|
+| ![](/images/CCAs/Football/soccer23_38.JPG)     | ![](/images/CCAs/Football/soccer23_35.JPG)    | 
+| ![](/images/CCAs/Football/soccer23_13_resize.JPG)    | ![](/images/CCAs/Football/soccer23_29.JPG)     | 
+| ![](/images/CCAs/Football/soccer23_45.JPG)  | ![](/images/CCAs/Football/soccer23_45.JPG)     | 
 
 
 ## **Students' Voices**
