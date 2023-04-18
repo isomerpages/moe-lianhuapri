@@ -42,6 +42,11 @@ We are honoured to have her back in Lianhua Primary School and we looked forward
 Stay tune to the music video featuring Hazelle, who has graciously participated in for our upcoming Lianhua Homecoming Day!
 
 
+
+| <br><br>![](/images/About%20us/Alumni/hazelle.JPG) | ![](/images/About%20us/Alumni/hazelle2.JPG) | 
+| -------- | -------- | 
+|||
+
 #### Alumni’s Voices
 
   
