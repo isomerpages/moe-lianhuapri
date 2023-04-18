@@ -1,9 +1,9 @@
 ---
-title: Parent Support Group & Parent Volunteers
+title: Parent Support Group &amp; Parent Volunteers
 permalink: /for-parents/parent-support-group-n-parent-volunteers/
 description: ""
 ---
-# Parent Support Group & Parent Volunteers
+# Parent Support Group &amp; Parent Volunteers
 
 ![](/images/Parent%20Support%20Group/image5.jpg)
 
@@ -15,9 +15,17 @@ Our PSG has been true to their belief in making positive changes and building a 
 
 #### <center>Programs</center>
 
-|   |   |
-|:-:|:-:|
 | ![](/images/Parent%20Support%20Group/image8.jpg)  **Bonding Sessions** ![](/images/Parent%20Support%20Group/image1.jpg) |  ![](/images/Parent%20Support%20Group/image4.jpg) |
+| -------- | -------- |
+|||
+
+
+![](/images/Parent%20Support%20Group/image8.jpg) 
+
+| <br>![](/images/Parent%20Support%20Group/image1.jpg)  |  ![](/images/Parent%20Support%20Group/image4.jpg) | 
+| -------- | -------- | 
+|||
+
 
 
 PSG bonding sessions are organized on a termly basis to engage parents and promote bonding. Parent volunteers initiated and helped in the planning of the activities. Through the fun-filled activities, new friendships were formed, creating positive communication between parents and their children. Even if face-to-face interactions are suspended, we continued to have fun learning though a virtual cooking class conducted by our PSG leader Mdm Kamilah, creating wonderful memories with brownies and yoga sessions for a healthy lifestyle.
@@ -26,13 +34,15 @@ PSG bonding sessions are organized on a termly basis to engage parents and promo
 
 #### Helping out in school activities
 
-It has been a challenging year for Lianhua PSG as we face difficulties in planning meetings and events. However, this period of uncertainty not only strengthens the spirit of volunteerism spirit in our parent volunteers, but inspire creativity as well. Our committed PSG leaders and members came up with initiatives that never fails to amaze us. To celebrate 75th anniversary with LHPS family, they made paper strips out of old school magazines, breaking a Singapore record with our students and teachers. In the spirit of upcycling, Mdm Yong Karen taught the staff on handmade scrubs during SWC. Our PSG’s care and thoughtfulness for our students and other parents extends through their kind actions. It was a touching sight to see the smiles on our students and teachers’ faces when they helped in the various school activities
+It has been a challenging year for Lianhua PSG as we face difficulties in planning meetings and events. However, this period of uncertainty not only strengthens the spirit of volunteerism spirit in our parent volunteers, but inspire creativity as well. Our committed PSG leaders and members came up with initiatives that never fails to amaze us. To celebrate 75th anniversary with LHPS family, they made paper strips out of old school magazines, breaking a Singapore record with our students and teachers. In the spirit of upcycling, Mdm Yong Karen taught the staff on handmade scrubs during SWC. Our PSG’s care and thoughtfulness for our students and other parents extends through their kind actions. It was a touching sight to see the smiles on our students and teachers’ faces when they helped in the various school activities.
 
-![](/images/Parent%20Support%20Group/image6.jpg)
+![](/images/Parent%20Support%20Group/mt%20fiesta%2023_93.JPG)
 
 #### Dads-for-life
 
 Our Fathers group has been active in planning and organizing father-child activities. The various activities give opportunities for Daddies to bond with their children and leaves wonderful memories.
+
+![](/images/Parent%20Support%20Group/image6.jpg)
 
 #### <center>Parents' Voices</center>
 
