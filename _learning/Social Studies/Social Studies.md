@@ -38,6 +38,22 @@ As part of the Primary School Social Studies Syllabus, performance tasks are use
 
 <br>
 
+
+
+| Level | Semester 1 | Semester 2  |
+| -------- | -------- | -------- |
+| P1     | Create a video to share about their roles in school and at home     | Design their future neighbourhood     |
+| P2     | Design a school stamp     | Create a diorama on their favourite sporting activity    |
+| P3     | Design a poster on 3Rs (Reduce, Reuse and Recycle)     | Design a 2D/3D model on the future housing of Singapore     |
+| P4    | Create an informational poster on one of the early settlers they have learnt   | Design a digital story to share the contributions of a war hero     |
+| P5    | Design a poster to honour the different people who had contributed to the building of Singapore’s defence     | Design a board game related to Southeast Asia     |
+| P6    | Design an infographic featuring two innovations of the civilisations of the Indian subcontinent or the Chinese civilisation     | Create a PowerPoint presentation based on one of the UNESCO Heritage sites in Southeast Asia   |
+
+
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
