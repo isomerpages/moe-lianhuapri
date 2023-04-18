@@ -81,6 +81,10 @@ Crash Cymbals 2: Playing Techniques / Vic Firth Percussion 101
 <a href="https://www.youtube.com/watch?v=OdYU7RA-IA4" target="_blank">https://www.youtube.com/watch?v=OdYU7RA-IA4</a>
 
 
+Percussion Ensemble 2022 SYF - Arts Presentation
+  <a href="https://www.youtube.com/watch?v=TL4N86083Fc" target="_blank">https://www.youtube.com/watch?v=TL4N86083Fc</a>
+
+
 ## The Team
 
 MRS TAY PECK SAN<br>
