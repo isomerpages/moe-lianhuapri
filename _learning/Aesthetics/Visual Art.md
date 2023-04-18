@@ -57,7 +57,7 @@ Students are exposed to visual-thinking routine questions in the group activitie
 
 At the end of their learning journey, the students will reflect upon their experiences at the museum and apply this in the pieces they will create in response.
 
-| ![](/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden.jpg) | <br> ![](/images/Learning/Visual%20Art/Main%20Photo%202-%20drawing%20activity%20infused%20with%20ICT%20.jpg) | 
+|![](/images/Learning/Visual%20Art/photo4a.JPG) | ![](/images/Learning/Visual%20Art/photo5a.JPG) | 
 | -------- | -------- | 
 |   |   |
 
