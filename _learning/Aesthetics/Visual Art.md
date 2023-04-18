@@ -65,10 +65,9 @@ At the end of their learning journey, the students will reflect upon their exper
 
 Our P1 and P2 students undergo iPad photography lessons as part of their digital media module. In this learning experience, students explore different parts of the school environment to capture images using iPads. They then apply basic photo composition techniques and patterns. Students acquire SEL skills as they work together with peers to learn to take and review their photos. At the end of the module, students’ work would be exhibited in school.
 
-|   |   |   |
-|:---:|:---:|:---:|
 | ![](/images/Learning/Visual%20Art/Digital%20Media%20-%20P1%20Student%20at%20Science%20Garden.jpg)  | ![](/images/Learning/Visual%20Art/Student_s%20ipad%20photography%20work%20@Science%20Garden.jpg)   |  ![](/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden%20(2).jpg) |
-
+|:---:|:---:|:---:|
+|   |   |   |
 
 **<u>P1 &amp; P2 Shining Artz Celebration</u>**
 
