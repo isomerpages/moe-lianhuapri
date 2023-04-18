@@ -110,3 +110,17 @@ As part of the Primary School Social Studies Syllabus, performance tasks are use
   </tr>
 </tbody>
 </table>
+
+#### **P4 Social Studies Heritage Tower Experience**
+
+As part of the P4 Social Studies Curriculum, the Primary 4 students will be given the opportunity to explore the school’s heritage tower to allow them to learn more about the school’s history and appreciate the contributions made by the pioneers. This programme extends the students’ learning on the topic of “Early Settlers” where they will learn about the contributions made by the early settlers in areas of education and health.&nbsp;
+
+Students will be involved in a series of lessons where they will have the chance to look for information at the heritage tower to answer a series of questions (e.g fill in the blanks, matching, scrambled words). This learning experience aims to allow students get to know more about the school and at the same time inculcating a sense of belonging and pride in them.&nbsp;&nbsp;
+
+  
+
+#### **Our Stories**
+
+Our Stories is a segment in News in Brief where it allows our students to deepen their knowledge about Singapore. The segment conducted on Fridays fortnightly via Zoom allows students to get to know about famous and historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to the county and appreciate the rich history and contribution of our forefathers.
+
+Through these platforms, we hope to hone our newscasters to become confident speakers and passionate learners.
