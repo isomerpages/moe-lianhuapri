@@ -14,9 +14,15 @@ The learning of Social Studies provides many opportunities for the achievement o
 
 For details on the Desired Outcomes of Education, please refer to the link below:
 
-https://www.moe.gov.sg/education-in-sg/desired-outcomes
+[Desired Outcomes of Education](https://www.moe.gov.sg/education-in-sg/desired-outcomes)
 
 In Lianhua, the Social Studies curriculum envisions students to have joy in learning Social Studies, through inquiry and meaningful authentic learning experiences. Through these experiences, we envision that students will develop into informed, concerned and participative citizens with the passion to contribute responsibly to the society and world they live in.
+
+| ![](/images/Learning/Social%20Studies/img_6307.PNG) | <br> ![](/images/Learning/Social%20Studies/img_6308.PNG) |
+| -------- | -------- | 
+| | |
+
+
 
 <b> **Learning Journeys** </b>
 
@@ -50,74 +56,12 @@ As part of the Primary School Social Studies Syllabus, performance tasks are use
 | P6    | Design an infographic featuring two innovations of the civilisations of the Indian subcontinent or the Chinese civilisation     | Create a PowerPoint presentation based on one of the UNESCO Heritage sites in Southeast Asia   |
 
 
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vxga{background-color:#ffffff;text-align:center;vertical-align:middle}
-.tg .tg-haiz{background-color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-m1o8{background-color:#ffffff;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 720px">
-<colgroup>
-<col style="width: 240px">
-<col style="width: 240px">
-<col style="width: 240px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-m1o8">Level</th>
-    <th class="tg-haiz">Semester 1</th>
-    <th class="tg-haiz">Semester 2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vxga">P1</td>
-    <td class="tg-vxga">Design a logo to represent themselves.</td>
-    <td class="tg-vxga">Design their future neighbourhood.</td>
-  </tr>
-  <tr>
-    <td class="tg-vxga">P2</td>
-    <td class="tg-vxga">Design a group stamp.</td>
-    <td class="tg-vxga">Create a diorama on their favourite sporting activity.</td>
-  </tr>
-  <tr>
-    <td class="tg-vxga">P3</td>
-    <td class="tg-vxga">Design a poster on 3Rs (Reduce, Reuse, Recycle)</td>
-    <td class="tg-vxga">Design a 2D/3D model on the future housing of Singapore.</td>
-  </tr>
-  <tr>
-    <td class="tg-vxga">P4</td>
-    <td class="tg-vxga">Create an informational poster on one of the early settlers they have learnt.</td>
-    <td class="tg-vxga">Design a commemorative $50 SG note</td>
-  </tr>
-  <tr>
-    <td class="tg-vxga">P5</td>
-    <td class="tg-vxga">Create a Thank You Card for Mr Ong Teng Cheong.</td>
-    <td class="tg-vxga">Design a board game related to Southeast Asia.</td>
-  </tr>
-  <tr>
-    <td class="tg-vxga">P6</td>
-    <td class="tg-vxga">Create a PowerPoint Slide on Singapore Botanical Gardens.</td>
-    <td class="tg-vxga">Design an information report which features a festival that is celebrated in some Southeast Asian countries but not in Singapore.</td>
-  </tr>
-</tbody>
-</table>
-
 #### **P4 Social Studies Heritage Tower Experience**
 
 As part of the P4 Social Studies Curriculum, the Primary 4 students will be given the opportunity to explore the school’s heritage tower to allow them to learn more about the school’s history and appreciate the contributions made by the pioneers. This programme extends the students’ learning on the topic of “Early Settlers” where they will learn about the contributions made by the early settlers in areas of education and health.&nbsp;
 
 Students will be involved in a series of lessons where they will have the chance to look for information at the heritage tower to answer a series of questions (e.g fill in the blanks, matching, scrambled words). This learning experience aims to allow students get to know more about the school and at the same time inculcating a sense of belonging and pride in them.&nbsp;&nbsp;
-
-  
+ 
 
 #### **Our Stories**
 
