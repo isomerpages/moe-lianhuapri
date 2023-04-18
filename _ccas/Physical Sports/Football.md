@@ -39,12 +39,6 @@ I remembered playing in the tournament. I can see that the team puts so much tru
 I still remember when I made a last pass to Gahan during a game and he managed to score a goal for the team. Although we lost the game, the teamwork, motivation to fight as a team and play for our school is very satisfying.
 
   <p style="text-align: right"> DANISH ALFIAN ADAM,  6 Compassion<br></p>
-<br>
-  
-
-![](/images/CCAs/Football/Training%2006.jpg)
-
-![](/images/CCAs/Football/Training%2008.jpg)
 
 ## **Useful Links**
 
