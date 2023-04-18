@@ -109,5 +109,5 @@ National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" targ
 ![](/images/Learning/Visual%20Art/Visual%20Art%20Dept%20Team%20Photo.jpeg)
 
 MDM LEE GIM FANG <br>
-MS CHEN YIMENG VIVIAN <br>
+MS VIVIAN CHEN YIMENG<br>
 MDM AZIZAH <br>
