@@ -12,16 +12,16 @@ third_nav_title: Visual &amp; Performing
 
 ### Purpose of Art Club
 
-The Lianhua Art Club aims to provide opportunities for budding artists to explore creativity through 2D and 3D art in an array of visual art media and forms. Students develop their artistic skills, learn to work collaboratively with others, and build self-confidence.&nbsp;
-
-Members have participated and clinched awards in various competitions. They share their passion with the school and the community at large to promote the beauty of Art. Exploration also extends beyond the classroom setting, where students develop a deeper appreciation for the Arts through engagements with the surroundings as well contributing their art work to the community.
+The Lianhua Art Club aims to provide opportunities for budding artists to explore their creativity through 2D and 3D art in an array of visual art media and forms. Students develop their artistic skills, learn to work collaboratively with others, and build self-confidence.&nbsp;
+  
+Members have participated in and clinched awards at various competitions. They share their passion with the school and the community at large to promote the beauty of Art. Exploration also extends beyond the classroom setting, where students develop a deeper appreciation for the Arts through engagements with the surroundings as well contributing their art work to the community.
 
 
 ### Experiences
 
 **Singapore Youth Festival (SYF) Art Competition**
 
-The Lianhua Art Club has regularly participated in Singapore Youth Festival (SYF) Art Competition. To date, our Category A artwork “No Tech No Life!” has awarded the Special Mention award at the Singapore Youth Art Festival 2021.
+The Lianhua Art Club has regularly participated in the Singapore Youth Festival (SYF) Art Competition. To date, our Category A artwork “No Tech No Life!” has been awarded the Special Mention award at the Singapore Youth Art Festival 2021.
 
 ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_4.jpg)
 <center>Our winning entry for Category A SYF Art Competition 2021.</center>
@@ -77,15 +77,15 @@ In 2021, our Art Club members in P4 to P6 took part in the Nagomi Art organized 
 
 ## **Students’ Voices**
 
-"When I did my SYF art work with my team members, I displayed the value of resilience as I overcame challenges without giving up. The journey was fun and it was the first time I used posca markers to draw short repeated lines on a shrinkable plastic just like the artwork by Vincent Van Gogh, Starry Night. I am proud of myself for all the efforts put in. I think our art work is beautiful. "
+"When I did my SYF art work with my team members, I displayed the value of resilience as I overcame challenges I faced. The journey was fun and it was the first time I used posca markers to draw short repeated lines on a shrinkable plastic just like the artwork by Vincent Van Gogh, Starry Night. I am proud of myself for all the efforts put in. I think our art work is beautiful."
 
   <p style="text-align: right"> AVA CHAN XIN YU, 2 DISCIPLINE ’2023<br></p>
 
-"It was a wonderful experience as I learned new painting techniques and art skills in my art making process. I learned that if we work together in unity, we can support and learn from one another in the journey to achieve our common goal.&nbsp; I felt that our SYF artwork is very meaningful as it can raise the awareness in people not to waste food and to buy the amount of food needed. I am very happy to be part of the SYF art team and I love our artwork. "
+"It was a wonderful experience as I learned new painting techniques and art skills in my art making process. I learned that if we work together in unity, we can support and learn from one another in the journey to achieve our common goal.&nbsp; I felt that our SYF artwork is very meaningful as it can raise awareness in people not to waste food and to only buy the amount of food needed. I am very happy to be part of the SYF art team and I love our artwork."
 
   <p style="text-align: right"> GAZA ALTHEA CASSANDRA BACLIG, 4 RESILLIENCE ’2023<br></p>
 
-"The SYF art activity was so fun as I got to work with the P5 and P6 friends and we all got along well. I put my art skills to good use and acquired new skills as we learned metal embossing. We embossed images representing our emotions and things associated with COVID on small metallic pieces which we pieced together to form our beautiful globe. I have become more resilient and learnt never to give up in face of challenges. Together with my friends, I have learned unity as we learned and worked together as a team to complete our artwork. I felt happy and proud that we have created a masterpiece and I hope everyone will also appreciate our artwork and effort."
+"The SYF art activity was so fun as I got to work with the P5 and P6 friends and we all got along well. I put my art skills to good use and acquired new skills as we learned metal embossing. We embossed images representing our emotions and things associated with COVID on small metallic pieces which we pieced together to form our beautiful globe. I have become more resilient and have learnt never to give up in face of challenges. Together with my friends, I have learned unity as we learned and worked together as a team to complete our artwork. I felt happy and proud that we have created a masterpiece and I hope everyone will also appreciate our artwork and effort."
 
   <p style="text-align: right"> CHOO ENXIN, 5 RESILLIENCE ’2023<br></p>
 
