@@ -17,15 +17,14 @@ The Percussion Ensemble was set up in 2018. To lay a strong foundation for the s
 
 Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
 
-  
-
-Through the learning and performance of percussion instruments, students have been inculcated with our school’s core values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
 
 ## **Programme**
 
+**Promotion of CCA video**
+
 **P1 CCA Experience**  
 
-Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen of 5 Compassion.
+Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen.
 
 <iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -81,14 +80,9 @@ THE PERCUSSION FAMILY
 Crash Cymbals 2: Playing Techniques / Vic Firth Percussion 101    
 <a href="https://www.youtube.com/watch?v=OdYU7RA-IA4" target="_blank">https://www.youtube.com/watch?v=OdYU7RA-IA4</a>
 
-Fantaisie de Bali'84    
-<a href="https://youtu.be/InTh5UH85VQ" target="_blank">https://youtu.be/InTh5UH85VQ</a>
-
-Fanfare to the Future : Fantasie de Bali '84    
-<a href="https://youtu.be/DKKRqwyBbco" target="_blank">https://youtu.be/DKKRqwyBbco</a>
 
 ## The Team
 
 MRS TAY PECK SAN<br>
 MDM KOH WAN TING<br>
-MS SOH FAN YING
+MS SOH FANG YING
