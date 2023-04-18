@@ -23,8 +23,6 @@ third_nav_title: Aesthetics
 
 **Key Feature**
 
-<br>
-
 ![](/images/Learning/Visual%20Art/Art%20framework.jpg)
 <br>
 
