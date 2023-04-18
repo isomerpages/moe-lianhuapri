@@ -89,7 +89,7 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png) | ![](/images/Learning/Visual%20Art/photo10a.JPG) | 
 | -------- | -------- | 
 | ![](/images/Learning/Visual%20Art/Notes%20of%20Appreciation%20for%20our%20NTFGH%20Frontline%20Healthcare%20workers.jpg)    | ![](/images/Learning/Visual%20Art/Nagomi%20Art%20-%20Mrs%20Loke%20guiding%20her%20son.jpeg)     |
-| ![](/images/Learning/Visual%20Art/photo10a.JPG)     | ![](/images/Learning/Visual%20Art/photo9a.jpg)     |
+| ![](/images/Learning/Visual%20Art/photo12.JPG)     | ![](/images/Learning/Visual%20Art/photo9a.jpg)     |
 
 ![](/images/Learning/Visual%20Art/Ms%20Kiew%20with%20her%20Nagomi%20artpieces.jpeg)
 
