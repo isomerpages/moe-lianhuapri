@@ -15,11 +15,6 @@ Our PSG has been true to their belief in making positive changes and building a 
 
 #### <center>Programs</center>
 
-| ![](/images/Parent%20Support%20Group/image8.jpg)  **Bonding Sessions** ![](/images/Parent%20Support%20Group/image1.jpg) |  ![](/images/Parent%20Support%20Group/image4.jpg) |
-| -------- | -------- |
-|||
-
-
 ![](/images/Parent%20Support%20Group/image8.jpg) 
 
 | <br>![](/images/Parent%20Support%20Group/image1.jpg)  |  ![](/images/Parent%20Support%20Group/image4.jpg) | 
