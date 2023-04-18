@@ -86,6 +86,5 @@ MDM HANA DIYANA<br>
 MS JOLENE NG
 
 
-**Additional Resources**   
-**Video on volleyball children for trainings and competition:**   
+**Watch this video to see how volleyball is played:**<br>
 <a href="https://www.youtube.com/watch?v=QD-19uNnG-c" target="_blank">https://www.youtube.com/watch?v=QD-19uNnG-c</a>
