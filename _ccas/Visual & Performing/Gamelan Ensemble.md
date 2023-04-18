@@ -11,16 +11,10 @@ Lianhua Gamelan Ensemble has been around in the school for more than two decades
 
 During the #COVID19 period when CCAs had to be conducted online, Lianhua Primary School’s Gamelan Ensemble was not fazed. No instruments? No problem. Bins, sticks, containers, maracas… students made do with any alternatives that they could rustle up at home to practise their beats and hone their sense of rhythm.&nbsp;
 
-*(insert 2 zoom pictures in current website gamelan photo gallery)* 
-
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Gamelan 3" src="https://www.youtube.com/embed/-ELcfeVFz54" height="308" width="351"></iframe></center>
 <br>
   
 Our Gamelan Ensemble also gave an invigorating showcase of three pieces that they had been practicing since the beginning of 2022 during the Singapore Youth Festival in 2022 – “Eling-Eling”, “Jaranan” and “Play It Easy”, playfully referred to by our members as “PIE”.
-
-  
-
-(insert pictures 2 to 4)
 
   ![](/images/CCAs/Gamelan%20Ensemble/photo2.jpeg)
 
