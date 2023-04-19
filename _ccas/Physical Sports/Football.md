@@ -16,7 +16,7 @@ Up next, are our Junior Division boys, who will be competing in the NSG Junior D
 |:-:|:-:|
 | ![](/images/CCAs/Football/soccer23_38.JPG)     | ![](/images/CCAs/Football/soccer23_35.JPG)    | 
 | ![](/images/CCAs/Football/soccer23_13_resize.JPG)    | ![](/images/CCAs/Football/soccer23_29.JPG)     | 
-| ![](/images/CCAs/Football/soccer23_45.JPG)  | ![](/images/CCAs/Football/soccer23_45.JPG)     | 
+| ![](/images/CCAs/Football/soccer23_39.JPG)  | ![](/images/CCAs/Football/soccer23_45.JPG)     | 
 
 
 ## **Students' Voices**
