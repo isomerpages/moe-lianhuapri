@@ -14,8 +14,8 @@ The Lianhua Modern Dance CCA aims to nurture and groom students, both boys and g
 
 | ![](/images/CCAs/Modern%20Dance/syf%201photo.jpg) | ![](/images/CCAs/Modern%20Dance/photomodern.jpeg) | 
 |:-:|:-:|
-| ![](/images/CCAs/Modern%20Dance/health%20campus%203.jpg)     |  ![](/images/CCAs/Modern%20Dance/practice%20time.jfif)   | 
-| ![](/images/CCAs/Percussion%20Ensemble/5photo.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6photo.jpg)     | 
+| ![](/images/CCAs/Modern%20Dance/health%20campus%203.jpg)     | ![](/images/CCAs/Modern%20Dance/health%20campus%201.jpg)   | 
+|  ![](/images/CCAs/Modern%20Dance/practice%20time.jfif)     | ![](/images/CCAs/Modern%20Dance/syf%206photo.jpg)     | 
 
 Our dancers perform in events and school concerts such as LHPS Arts Community Outreach @ Ng Teng Fong General Hospital ‘Health on Track’ event, Mid-Autumn Festival Celebration Performance at Bukit Gombak, the 75th&nbsp;Anniversary celebration, Lianhua Singing Festival, our Annual Prize Giving Day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation. They put up impressive performances which amazed audience with their energy, enthusiasm and commitment.
 
@@ -58,67 +58,27 @@ Lianhua Primary School’s Modern dancers performed in the SYF in March 2022. Al
 
 **P1 CCAs Experiences** 
 
-Due to Covid-19 and abiding the safety measures management, the P1 CCAs Experience is conducted online. Modern Dance CCA leaders, Jessy Yap, Phang Wei Xian, Catherine Cing and Aubrey would like to invite Modern Dance lovers from P1 to join us for our dance practices to master more dancing skills and enjoy dancing together.
+The P1 CCAs Experience is conducted online due to Covid-19 and abiding the safety measures management. Our P1 students joined us for our dance practices to master more dancing skills and enjoy dancing together.
 
 <iframe width="711" height="509" src="https://www.youtube.com/embed/_hcabobrG1c" title="Modern Dance P1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## **Students' Voices**
 
-<b>Aubrey, 5 Diligence 2021</b>
+I joined Modern Dance CCA because I love to dance. I did a video during Passion Project showing my passion in dance when I as in Primary 1.
 
-When I first found out about Modern Dance, I decided to join as I enjoy dancing. Our instructor is very patient and teaches us easy steps to learn.
+When I first started my CCA in Primary 2, I felt that the warm-up steps were very difficult. I almost give up. But after few days, the dance training become more fun, I had the opportunity to join in SYF and it really made me happy.
 
+My most memorable experience in Modern Dance is when I was getting ready to go to SYF. I was very shy because I never performed at any stage. I feared standing in front of so many audiences. But when I remembered I had my parents, teachers, and friends there to support me, I overcome my fear. It was a very memorable SYF day.
+
+<p style="text-align: right">Chua Si Ting Desiree, 3 Excellence '2023<br></p>
+
+I have been a member of modern dance since July 2022.&nbsp; It has been a great experience thus far. I particularly enjoy Modern Dance as I can learn many different dance styles through the CCA. In addition, there are many opportunities for me to perform in and outside of school. One of my most unforgettable experiences would be my performance out of school. Although I was very nervous, I did my best to put up an amazing performance for the members of the public. If you like dancing, then I am certain that Modern Dance is the CCA for you!&nbsp;
+
+  <p style="text-align: right">Lee Daeen, 4 Diligence '2023<br></p>
   
+I joined Modern dance because I enjoy dancing to music. My sister was also a great influence. I used to watch her dancing and I grew to love dancing. One of my most memorable experiences in Modern Dance was when I participated in the Singapore Youth Festival (SYF) in 2022. I represented my school with my CCA mates in this nationwide festival. It was a very memorable and proud moment for me. I also had the opportunity to watch and learn from other schools’ performances in SYF. It really was a marvelous experience.**
 
-Although I make some mistakes, our instructor is still patient and helps me to get the steps. I like to practise dances that our instructor has taught us with my friends. My friends are also very patient and help me to learn the dance steps. From Modern Dance, I learn to be resilient and more compassionate.
-
-  
-
-My most memorable moment was when we were recording for our school’s 75th anniversary. We would practise the steps again when some of us forgot the dance steps. We showed unity, compassion and resilience. We encouraged each other to persevere and have energy as we were recording after school and had to dance under the hot sun.
-
-  
-
-<b>Catherine Cing Nuam Dim, 5 Diligence 2021</b>
-
-  
-
-I joined Modern Dance because I can get to learn the importance of movement and also keep fit. I feel proud that I get to play a part in bringing people together through dance when we perform for special events.
-
-  
-
-I enjoy coming for Modern Dance practices as dancing is fun and it makes me feel happy. Sometimes we get to express ourselves by coming up with short dance sequences on our own. I enjoy these segments as I get to develop my confidence and creativity.
-
-  
-
-My most memorable experience so far would be the Lianhua Singing Festival as it was my first performance on stage. It was a new venue outside school and there was a large audience watching us perform. We practised very hard in the weeks before the event but I had a lot of fun with my friends. We showed unity, compassion and resilience. We encouraged one another and worked together to perfect our dance steps.
-
-  
-
-<b>Jessy Yap, P5 Compassion 2021</b>
-
-  
-
-I joined Modern Dance as I had a passion for dancing. I also wanted to learn different styles of dances and to have more knowledge about dance.
-
-I like dancing as it is a form of exercise and I enjoy dancing whether it’s with my friends or alone. Dancing makes me feel happy whenever I feel down.
-
-  
-
-The most memorable performance I did was when we shot a dance music video for our School’s 75th anniversary celebration. I had a lot of fun dancing with my friends and I learnt a lot. I learnt that we have to be resilient in whatever we do. It was a great experience and I wish that I will have more opportunities!
-
-  
-
-<b>Phang Wei Xuan-P5 Compassion </b>
-
-  
-
-The reason why I joined Modern Dance is because my passion is dancing. I have taken part in dance competitions for the past 5 years and gotten many medals and trophies. When Jessy told me about her CCA practices, I was amazed by the practices and how she enjoys dancing with her teachers and friends during lessons. So I asked her if i could join too. About 3 weeks later, I got the consent form. I was over the moon. I got back home happily and practised my dance techniques straight away.
-
-  
-
-Soon I got to make many friends in the class. I learned more techniques and choreographed dances with my team. It was such an enjoyable experience for me. I always look forward to Tuesdays as I can go for CCA.
-
-During CCA, I learned more about the values of resilience, compassion, diligence and unity because we cannot give up during tough times. I could also get to care for people more often when they do not feel right. Now, I am the Vice-Chairman of Modern Dance CCA. I do not feel any regret for joining Modern Dance as all of my efforts have paid off.
+  <p style="text-align: right">Phang Wei Jie, 4 Diligence '2023<br></p>
 
 ## **Useful Links**
 
