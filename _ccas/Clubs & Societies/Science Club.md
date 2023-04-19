@@ -8,7 +8,7 @@ third_nav_title: Clubs &amp; Societies
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Garden%204.jpg) |  ![](/images/CCAs/Science%20Club/Garden%2010.jpg)   |
+|  ![](/images/CCAs/Science%20Club/Garden%204.jpg) |     |
 |  ![](/images/CCAs/Science%20Club/Balloon%201.jpg) |   ![](/images/CCAs/Science%20Club/Rocket%205.jpg)  |
 
 ## Purposes of Cool Science Club
@@ -28,13 +28,15 @@ Members go beyond what they have learnt in the textbooks and classrooms. They ge
 Physical Science is not boring – not when we can conduct a range of experiments involving paper planes and optical illusions on campus. Our members were also tasked to complete STEM challenges using their creativity and knowledge of Science. There is truly no limit to the number of things that we can learn and make by just being curious about how things around us work!
 
 ![](/images/CCAs/Science%20Club/canbridge%20hold_em.jpg)
-CanBridge Hold'em Challenge
+<center>CanBridge Hold'em Challenge</center>
 
-|  ![](/images/CCAs/Science%20Club/Garden%204.jpg) |  ![](/images/CCAs/Science%20Club/Garden%2010.jpg)   |
+![](/images/CCAs/Science%20Club/copy%20of%20img_1650%20edited.jpg)
+
+|  ![](/images/CCAs/Science%20Club/copy%20of%20img_1653%20edited.jpg) |  ![](/images/CCAs/Science%20Club/copy%20of%20img_2327%20edited.jpg)   |
 |:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Balloon%201.jpg) |   ![](/images/CCAs/Science%20Club/Rocket%205.jpg)  |
-|   |   |
+|||
 
+![](/images/CCAs/Science%20Club/copy%20of%20copy%20of%20img_2331%20edited.jpg)  
 
 #### Eco-stewardship
 
