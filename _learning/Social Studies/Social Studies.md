@@ -72,3 +72,9 @@ Students will be involved in a series of lessons where they will have the chance
 Our Stories is a segment in News in Brief where it allows our students to deepen their knowledge about Singapore. The segment conducted on Fridays fortnightly via Zoom allows students to get to know about famous and historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to the county and appreciate the rich history and contribution of our forefathers.
 
 Through these platforms, we hope to hone our newscasters to become confident speakers and passionate learners.
+
+| ![](/images/Learning/Social%20Studies/1photo.jpg) |![](/images/Learning/Social%20Studies/2photo.jpg) | 
+|:-:|:-:|
+| ![](/images/Learning/Social%20Studies/3photo.jpg)|  ![](/images/Learning/Social%20Studies/4photo.jpg) |
+|![](/images/Learning/Social%20Studies/5photo.jpg)| ![](/images/Learning/Social%20Studies/6photo.jpg)  |
+|![](/images/Learning/Social%20Studies/7photo.jpg)|  ![](/images/Learning/Social%20Studies/8photo.jpg)   ||![](/images/Learning/Social%20Studies/9photo.jpg)|  ![](/images/Learning/Social%20Studies/10photo.jpg)   |
