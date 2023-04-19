@@ -20,28 +20,21 @@ Cool Science Club is the place to be if you are passionate about Science. At our
 
 ## Life Science
 
-
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Garden%201.jpg) Exploring the Science Garden  | ![](/images/CCAs/Science%20Club/Plant%20Tissue%202.jpg) Plant Tissue Culturing experience |
-| ![](/images/CCAs/Science%20Club/Plant%20Tissue%201.jpg)  Data collection and results tabulation |   |
-
-
 Members go beyond what they have learnt in the textbooks and classrooms. They get to explore and discover the nature around them. With the number of rich learning spaces in our school, our members had multiple opportunities to have close-up encounters with flora and fauna.
 
 
 ## Physical Science
 
-
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Ice%2013.jpg)  Making ice cream @ Science Centre <br><br>![](/images/CCAs/Science%20Club/Balloon%204.jpg) Having fun with static electricity |  ![](/images/CCAs/Science%20Club/Optical%202.jpg)  Optical illusion photo challenge  |
-
-
 Physical Science is not boring – not when we can conduct a range of experiments involving paper planes and optical illusions on campus. Our members were also tasked to complete STEM challenges using their creativity and knowledge of Science. There is truly no limit to the number of things that we can learn and make by just being curious about how things around us work!
 
+![](/images/CCAs/Science%20Club/canbridge%20hold_em.jpg)
+CanBridge Hold'em Challenge
 
-<iframe width="742" height="521" src="https://www.youtube.com/embed/yKn4C5r3h0Q" title="CCA EXPERIENCE   STEM COOL SCIENCE CLUB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+|  ![](/images/CCAs/Science%20Club/Garden%204.jpg) |  ![](/images/CCAs/Science%20Club/Garden%2010.jpg)   |
+|:-:|:-:|
+|  ![](/images/CCAs/Science%20Club/Balloon%201.jpg) |   ![](/images/CCAs/Science%20Club/Rocket%205.jpg)  |
+|   |   |
+
 
 #### Eco-stewardship
 
