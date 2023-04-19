@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Family
 ---
 # Executive &amp; Administrative Staff
-	![](/images/librarianchua.jpeg)![](/images/SLM3.jpg)
+
 <ul class="jekyllcodex_accordion">
 <label for="accordion1">Executive &amp; Administrative Staff</label>
     <div>
