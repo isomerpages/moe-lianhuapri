@@ -73,8 +73,10 @@ Our Stories is a segment in News in Brief where it allows our students to deepen
 
 Through these platforms, we hope to hone our newscasters to become confident speakers and passionate learners.
 
-| ![](/images/Learning/Social%20Studies/1photo.jpg) |![](/images/Learning/Social%20Studies/2photo.jpg) | 
+
+| ![](/images/Learning/Social%20Studies/1photo.jpg) | ![](/images/Learning/Social%20Studies/2photo.jpg) | 
 |:-:|:-:|
-| ![](/images/Learning/Social%20Studies/3photo.jpg)|  ![](/images/Learning/Social%20Studies/4photo.jpg) |
-|![](/images/Learning/Social%20Studies/5photo.jpg)| ![](/images/Learning/Social%20Studies/6photo.jpg)  |
-|![](/images/Learning/Social%20Studies/7photo.jpg)|  ![](/images/Learning/Social%20Studies/8photo.jpg)   |![](/images/Learning/Social%20Studies/9photo.jpg)|  ![](/images/Learning/Social%20Studies/10photo.jpg)   |
+| ![](/images/Learning/Social%20Studies/3photo.jpg)     | ![](/images/Learning/Social%20Studies/4photo.jpg)     | 
+| ![](/images/Learning/Social%20Studies/5photo.jpg)    | ![](/images/Learning/Social%20Studies/6photo.jpg)   | 
+| ![](/images/Learning/Social%20Studies/7photo.jpg)     | ![](/images/Learning/Social%20Studies/8photo.jpg)     | 
+| ![](/images/Learning/Social%20Studies/9photo.JPG)    | ![](/images/Learning/Social%20Studies/10photo.jpg)    | 
