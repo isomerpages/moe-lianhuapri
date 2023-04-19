@@ -34,29 +34,21 @@ More than 30,000 students are expected to participate in the performances and ac
 
 Lianhua Primary School’s Modern dancers performed in the SYF in March 2022. All participating schools achieved the Participation Award for the SYF 2022. They also prepared an item for the SYF 2020. Unfortunately, the SYF 2020 was cancelled due to the Covid-19 situation in 2020. Nonetheless, we are very proud of the commitment and efforts that our Modern dancers have put in for both years.
 
-| ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%204.JPG) | ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%202022.JPG) |
-|:-:|:-:|
+![](/images/CCAs/Modern%20Dance/syf%203photo.jpeg) 
 
+![](/images/CCAs/Modern%20Dance/syf%204photo.jpg) 
 
-#### **Singapore Youth Festival (SYF) 2020 and 2018**
-
-The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the achievements of our youths in their co-curricular activities (CCAs). Starting in March and culminating in a month-long celebration in July, the SYF will engage students from schools across Singapore involved in the performing arts, sports and uniformed group CCAs.
-
-More than 30,000 students are expected to participate in the performances and activities in the SYF as well as events leading up to the SYF. The SYF reflects MOE's belief in the importance of a well-rounded education.
-
-![](/images/CCAs/Modern%20Dance/Modern%20Dance_syf%202018.jpeg)
-
-![](/images/CCAs/Modern%20Dance/Modern%20Dance_syf2018_2.jpeg)
-
-Lianhua Primary School’s Modern dancers performed in the SYF in March 2018 and achieved the Accomplishment Award for the SYF 2018. They also prepared for the 2020 SYF performance. Unfortunately, the SYF 2020 was cancelled due to the Covid-19 situation in 2020. Nonetheless, we are proud of the commitment and efforts that our Modern Dancers have put in for both years.
 
 ## **Achievements**
 
 | Year |     Competition / Performances     |    Award     |
 |:----:|:----------------:|:-------------:|
-| 2021 |                                          75th Anniversary Dance Performance                                          |                               |
+| 2023 |                                          LHPS Arts Community Outreach @ Ng Teng Fong General Hospital “Health on Track”&nbsp;– Performance at the Opening Ceremony                                          |        -                       |
+| 2022 |                                          Mid-Autumn Festival Celebration Performance at Bukit Gombak at the Bukit Gombak Sports Centre                                          |         -                      |        
+| 2022 |                                         Singapore Youth Festival (SYF) – Arts Presentation for Dance (Modern)                                          |                      Certificate of Participation         |
+| 2021 |                                          75th Anniversary Dance Performance                                          |                    -           |
 | 2020 | Singapore Youth Festival (SYF) Rehearsal only– Actual Arts Presentation For Dance (Modern) cancelled due to Covid-19 |               -               |
-| 2019 |                                               Lianhua Singing Festival                                               |                               |
+| 2019 |                                               Lianhua Singing Festival                                               |            -                   |
 | 2018 |                         Singapore Youth Festival (SYF) – Arts Presentation For Dance (Modern)                        | Certificate of Accomplishment |
 |      |                            DANCEWORKS! 2018 Anti-Drug Dance Competition - #TheNextLitMoves                           |       Best Outfit Award       |
 |      |             National Day Observance Ceremony organised by Bukit Gombak National Day Organising Committee             |                               |
