@@ -8,25 +8,26 @@ third_nav_title: Visual &amp; Performing
 
 ## **Purpose of CCA**
 
-![](/images/CCAs/Modern%20Dance/75th%20anniversay%20dance.jpg)
+The Lianhua Modern Dance CCA aims to nurture and groom students, both boys and girls, to excel in the area of dance. Modern Dance is a platform for students to perform their choreographed dance items which instills the school values in them. In Lianhua Primary School, we strive to ignite the passion for dance in young talents and set high standards of achievements in all activities and performances we participate in.
 
-![](/images/CCAs/Modern%20Dance/Prize%20giving%20day%202018.jpg)
 
-![](/images/CCAs/Modern%20Dance/Danceworks%202018.jpg)
 
-![](/images/CCAs/Modern%20Dance/Modern%20Dance%20Practice%20Session%20in%20music%20rm.jpg)
+| ![](/images/CCAs/Modern%20Dance/syf%201photo.jpg) | ![](/images/CCAs/Modern%20Dance/photomodern.jpeg) | 
+|:-:|:-:|
+| ![](/images/CCAs/Modern%20Dance/health%20campus%203.jpg)     |  ![](/images/CCAs/Modern%20Dance/practice%20time.jfif)   | 
+| ![](/images/CCAs/Percussion%20Ensemble/5photo.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6photo.jpg)     | 
 
-![](/images/CCAs/Modern%20Dance/Modern%20Dance%20Gp%20Photo.jpeg)
+Our dancers perform in events and school concerts such as LHPS Arts Community Outreach @ Ng Teng Fong General Hospital ‘Health on Track’ event, Mid-Autumn Festival Celebration Performance at Bukit Gombak, the 75th&nbsp;Anniversary celebration, Lianhua Singing Festival, our Annual Prize Giving Day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation. They put up impressive performances which amazed audience with their energy, enthusiasm and commitment.
 
-Lianhua Modern Dance CCA aims to nurture and groom students, both boys and girls, to excel in the area of dance. Through Modern Dance, a platform is provided for students to perform their choreographed dance item which also instills in them the school values. We strive to ignite the passion for dance in young talents and ambitions for high standards of achievements in all activities and performances that we participate in.
 
-  
+| ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%204.JPG) | ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%202022.JPG) | 
+|:-:|:-:|
+| ![](/images/CCAs/Modern%20Dance/health%20campus%203.jpg)     |  ![](/images/CCAs/Modern%20Dance/health%20campus%204.jpg)  | 
+| ![](/images/CCAs/Modern%20Dance/health%20campus%202.jpg)    | ![](/images/CCAs/Modern%20Dance/teacher_s%20day%202.jpg)  | 
 
-Our dancers have participated in various competitions such as the Dance Works!, Environmental Dance Floor Competition and Strictly Jump Jam. As a result of their continued hard work, they have clinched awards and made the school proud.
 
-  
 
-Our dancers also perform in events and school concerts such as the 75th&nbsp;Anniversary celebration, Lianhua Singing Festival, annual prize giving day and community functions like the National Day Observance Ceremony held by the Grassroots Organisation.
+
 
 #### **Singing festival 2019**
 
