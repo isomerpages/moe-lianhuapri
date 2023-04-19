@@ -36,6 +36,7 @@ Physical Science is not boring – not when we can conduct a range of experiment
 |  ![](/images/CCAs/Science%20Club/img_9664%20edited.jpg) |  ![](/images/CCAs/Science%20Club/img_9667%20edited.jpg)  |
 |:-:|:-:|
 |||
+
 <center>Karakuri Projects</center>
 
 #### Eco-stewardship
@@ -48,6 +49,7 @@ Life on Mother Earth can only be sustained if we use her resources wisely and in
 |  <br>![](/images/CCAs/Science%20Club/e-stem%20waste%201.JPG)|  ![](/images/CCAs/Science%20Club/e-stem%20waste%202.JPG)  |
 |:-:|:-:|
 |||
+
 <center>Making of prototypes to separate waste</center>
 
 ## Students' Voices
