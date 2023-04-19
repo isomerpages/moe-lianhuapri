@@ -21,6 +21,17 @@ Up next, are our Junior Division boys, who will be competing in the NSG Junior D
 
 ## **Students' Voices**
 
+Here is an update on our National School Games journey. My team has made our school proud by clinching the top four positions at the West Zone Inter-School Football Tournament this year!
+
+Even though we lost a game with Bukit View Primary School during the second round, we did not let it affect us. We worked hard and motivated each other. This resulted in us getting closer as a team. As we played the game against St Anthony, we kept our focus and showed grit! We won and we got through the semifinals! However, during the semi-final game against Dazhong Primary School, we lost 2-1.&nbsp;
+
+We will continue to work hard and make our school proud!
+
+Next week, my team will be continuing the tournament and will be fighting for 3rd/4th placing in the Nationals!&nbsp;
+
+I would like to take this opportunity to thank Ms Kiew, Mdm Tan, Mrs Low, teachers, our parents and all our schoolmates for their support.
+
+  <p style="text-align: right"> RAYYAN DANI, 6 Resilience<br></p>
 
 I have always been fascinated by my brother, Hakeem. He is a good player and is able to control the ball well. I realised that Hakeem was good because of the long hours of training and playing soccer. Thus I am inspired to become like him. I am lucky as my brother Hakeem always trains me in the afternoons.
 
@@ -29,7 +40,6 @@ Training with my friends in school further enhances my skills and knowledge abou
 One player I love to play with is Danish Alfian. He plays as the striker in our team. Danish is a skillful player. Playing along with him gives me the confidence of winning. Football has given me so much and I will continue to strive to be a better player.
 
   <p style="text-align: right"> SYED AL SHAHID, 6 Unity<br></p>
-<br>
 
 
 I always strive to be the best in the team. So to achieve that, I have to train hard and work hard during training. I really love the training conducted by our Soccer teachers. It consists of so many activities from ball skills and playing as a team.
