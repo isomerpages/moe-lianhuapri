@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Clubs &amp; Societies
 ---
 # Science Club
-
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Science%20Club/Garden%204.jpg) |     |
-|  ![](/images/CCAs/Science%20Club/Balloon%201.jpg) |   ![](/images/CCAs/Science%20Club/Rocket%205.jpg)  |
-
 ## Purposes of Cool Science Club
 
 Cool Science Club is the place to be if you are passionate about Science. At our club, we want our members to be curious about their world. As good scientists, our members learn to make observations, ask questions and do research work in the process of searching for the answers to the many questions they encounter in our daily lives. By doing research and gathering evidence, they also learn how to communicate their findings through data and results. We hope to continue to cultivate our members’ abilities to make contributions and positively impact the community around them.
@@ -37,11 +31,24 @@ Physical Science is not boring – not when we can conduct a range of experiment
 |||
 
 ![](/images/CCAs/Science%20Club/copy%20of%20copy%20of%20img_2331%20edited.jpg)  
+<center>Building the strongest and tallest tower</center>
+
+|  ![](/images/CCAs/Science%20Club/img_9664%20edited.jpg) |  ![](/images/CCAs/Science%20Club/img_9667%20edited.jpg)  |
+|:-:|:-:|
+|||
+<center>Karakuri Projects</center>
 
 #### Eco-stewardship
 
 Life on Mother Earth can only be sustained if we use her resources wisely and in a sustainable manner. Through E-STEM projects, our students learned to use our natural environment wisely and to protect it. Our E-STEM programmes sought to integrate Design Thinking principles to solve real-life environmental problems that Lianhua pupils might be familiar with.
 
+![](/images/CCAs/Science%20Club/eco-detergent.JPG)
+<center>Eco-detergent workshop</center>
+
+|  <br>![](/images/CCAs/Science%20Club/e-stem%20waste%201.JPG)|  ![](/images/CCAs/Science%20Club/e-stem%20waste%202.JPG)  |
+|:-:|:-:|
+|||
+<center>Making of prototypes to separate waste</center>
 
 ## Students' Voices
 
