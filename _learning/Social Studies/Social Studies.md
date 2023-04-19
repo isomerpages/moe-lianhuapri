@@ -36,7 +36,7 @@ Starting in 2023, we have decided to administer this programme to the Primary 2,
 
 Due to our commitment to the programme, the school has been awarded the School Heritage Champion Awards (Primary School) in 2019.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-3aidMt79OW52aMuIWNU7pwwkQ1rcuOiIzZrmhqSQ0X930d_KJ9ooWFbGHTs7W7OudzQPqkxXxQLP/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2VW-d_aRQT5DczNTry7tGOfrbJ7IqIgLjxEyduqrxnPlQHHP-5rYX8jkpcXICoBOop6pXZIL5rTJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### **Performance Tasks**
 
