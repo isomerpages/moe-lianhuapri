@@ -26,18 +26,17 @@ Our dancers perform in events and school concerts such as LHPS Arts Community Ou
 | ![](/images/CCAs/Modern%20Dance/health%20campus%202.jpg)    | ![](/images/CCAs/Modern%20Dance/teacher_s%20day%202.jpg)  | 
 
 
+#### Singapore Youth Festival (SYF) 2022 and 2020
 
+The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the achievements of our youths in their co-curricular activities (CCAs). Starting in March and culminating in a month-long celebration in July, the SYF will engage students from schools across Singapore involved in the performing arts, sports and uniformed group CCAs.
 
+More than 30,000 students are expected to participate in the performances and activities in the SYF as well as events leading up to the SYF. The SYF reflects MOE’s belief in the importance of a well-rounded education.
 
-#### **Singing festival 2019**
+Lianhua Primary School’s Modern dancers performed in the SYF in March 2022. All participating schools achieved the Participation Award for the SYF 2022. They also prepared an item for the SYF 2020. Unfortunately, the SYF 2020 was cancelled due to the Covid-19 situation in 2020. Nonetheless, we are very proud of the commitment and efforts that our Modern dancers have put in for both years.
 
-![](/images/CCAs/Modern%20Dance/Modern%20Dance%20Singfest%202019_gp%20photo.jpg)
+| ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%204.JPG) | ![](/images/CCAs/Modern%20Dance/mid-autumn%20festival%202022.JPG) |
+|:-:|:-:|
 
-![](/images/CCAs/Modern%20Dance/Modern%20Dance%20Singfest%20-%20Harry%20Potter%20Dance.jpg)
-
-![](/images/CCAs/Modern%20Dance/Modern%20Dance_Singfest%201_stage.png)
-
-Our dancers were involved in a dance item which was part of our school first ever outside school production, A Musical Treasure Hunt in the Land of Stories, which was held in Dulwich College on 13 April 2019. They put in a lot of effort and practiced hard for the performance. They put up an impressive performance which amazed everyone with their energy, enthusiasm and commitment.
 
 #### **Singapore Youth Festival (SYF) 2020 and 2018**
 
