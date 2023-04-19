@@ -77,4 +77,4 @@ Through these platforms, we hope to hone our newscasters to become confident spe
 |:-:|:-:|
 | ![](/images/Learning/Social%20Studies/3photo.jpg)|  ![](/images/Learning/Social%20Studies/4photo.jpg) |
 |![](/images/Learning/Social%20Studies/5photo.jpg)| ![](/images/Learning/Social%20Studies/6photo.jpg)  |
-|![](/images/Learning/Social%20Studies/7photo.jpg)|  ![](/images/Learning/Social%20Studies/8photo.jpg)   ||![](/images/Learning/Social%20Studies/9photo.jpg)|  ![](/images/Learning/Social%20Studies/10photo.jpg)   |
+|![](/images/Learning/Social%20Studies/7photo.jpg)|  ![](/images/Learning/Social%20Studies/8photo.jpg)   |![](/images/Learning/Social%20Studies/9photo.jpg)|  ![](/images/Learning/Social%20Studies/10photo.jpg)   |
