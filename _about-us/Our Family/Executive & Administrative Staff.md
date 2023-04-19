@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Family
 ---
 # Executive &amp; Administrative Staff
-	
+	![](/images/librarianchua.jpeg)![](/images/SLM3.jpg)
 <ul class="jekyllcodex_accordion">
 <label for="accordion1">Executive &amp; Administrative Staff</label>
     <div>
@@ -57,7 +57,7 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS14.jpg"> Mr Victor Lam<br>Librarian</td>
+    <td width="250px" style="text-align: center;"><img src="/images/librarianchua.jpeg"> Mrs Eugenia Chua<br>Librarian</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS16.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td><td width="250px" style="text-align: center;">&lt;&gt;<br><br><br>Mr Joe<br>Desktop Engineer</td>
   </tr>
    <tr>
