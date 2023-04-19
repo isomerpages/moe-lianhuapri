@@ -58,13 +58,13 @@ As part of the Primary School Social Studies Syllabus, performance tasks are use
 As part of the P4 Social Studies Curriculum, the Primary 4 students will be given the opportunity to explore the school’s heritage tower to allow them to learn more about the school’s history and appreciate the contributions made by the pioneers. This programme extends the students’ learning on the topic of “Early Settlers” where they will learn about the contributions made by the early settlers in areas of education and health.&nbsp;
 
 Students will be involved in a series of lessons where they will have the chance to look for information at the heritage tower to answer a series of questions (e.g fill in the blanks, matching, scrambled words). This learning experience aims to allow students get to know more about the school and at the same time inculcating a sense of belonging and pride in them.&nbsp;&nbsp;
- 
-| ![](/images/Learning/Social%20Studies/2cb214a3-e6d4-4bf1-985f-009e54d66c63.jpg)|  ![](/images/Learning/Social%20Studies/cd442760-5233-4f13-85ce-55ab3a717563.jpg) |
+
+| ![](/images/Learning/Social%20Studies/df3176bc-797a-4f45-a018-0f34aaa9407e.jpg) |![](/images/Learning/Social%20Studies/5f81e089-f5a7-4f7a-abc2-f5d73dc26af0.jpg) | 
 |:-:|:-:|
+| ![](/images/Learning/Social%20Studies/2cb214a3-e6d4-4bf1-985f-009e54d66c63.jpg)|  ![](/images/Learning/Social%20Studies/cd442760-5233-4f13-85ce-55ab3a717563.jpg) |
 |![](/images/Learning/Social%20Studies/f7e84271-75e7-410a-99cc-2fc767c998aa.jpg)|  ![](/images/Learning/Social%20Studies/e91f8237-0451-43d9-b9b3-675a85fb0b04.jpg)  |
 | ![](/images/Learning/Social%20Studies/b5b3a5b7-075b-4554-b165-0c4ddb7305a8.jpg)|  ![](/images/Learning/Social%20Studies/c93e8bdf-cfe8-4e64-94d0-a37b999844b7.jpg)   |
 |![](/images/Learning/Social%20Studies/f7e84271-75e7-410a-99cc-2fc767c998aa.jpg)|  ![](/images/Learning/Social%20Studies/e91f8237-0451-43d9-b9b3-675a85fb0b04.jpg)  |
-| ![](/images/Learning/Social%20Studies/df3176bc-797a-4f45-a018-0f34aaa9407e.jpg) |![](/images/Learning/Social%20Studies/5f81e089-f5a7-4f7a-abc2-f5d73dc26af0.jpg) |
 
  ![](/images/Learning/Social%20Studies/img_9148.jpg)
 
