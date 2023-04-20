@@ -6,16 +6,6 @@ third_nav_title: Visual & Performing
 ---
 # Malay Dance
 
-|   |   |
-|:-:|:-:|
-|  <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_1.jpg" style="width:92%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_2.jpg)   |
-
-
-
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_3.jpg) | <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_4.jpg" style="width:85%">   |
-
 ## Purpose of CCA
 
 Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Students’ interest in performing arts can be developed and stretched, underpinned by the school values of Self-discipline, Resilience and Excellence.&nbsp; At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
@@ -24,9 +14,7 @@ Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Danc
 
 The Singapore Youth Festival competition is a much awaited event for our dancers. This is a bi-annual competition organized by the Ministry of Education to celebrate the achievements of youths in their co-curricular activities. It is usually held in April although preparations for the competition start as early as November in the previous year. Dancers are selected based on their readiness and the skills mastered for the choreographed dance.
 
-![](/images/CCAs/Malay%20Dance/Malay%20Dance_9.jpg) 
 
-![](/images/CCAs/Malay%20Dance/Malay%20Dance_10.png) 
 
 ## Collaboration with the community
 
@@ -48,6 +36,16 @@ The Singapore Youth Festival competition is a much awaited event for our dancers
 In 2022, our Malay dancers participated in Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
 
 
+
+![](/images/CCAs/Malay%20Dance/mld39-23.jpg) 
+
+![](/images/CCAs/Malay%20Dance/mld39-27%20(1).jpg)  
+
+
+
+![](/images/CCAs/Malay%20Dance/photo1.jpeg) | <br><br>![](/images/CCAs/Malay%20Dance/photo3.jpeg)
+|:-:|:-:|
+|   |   |
 
 ## Students’ Voices
 
