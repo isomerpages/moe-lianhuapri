@@ -46,6 +46,7 @@ In 2022, our Chinese Dance Troupe was invited to perform as part of the Bukit Go
 
 | ![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg) |![](/images/CCAs/Chinese%20Dance/img-20220809-wa0002.jpg) | 
 |:-:|:-:|
+|||
 
 ![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg)
 
