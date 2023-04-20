@@ -2,7 +2,7 @@
 title: Chinese Dance
 permalink: /ccas/visual-n-performing/chinese-dance/
 description: ""
-third_nav_title: Visual &amp; Performing
+third_nav_title: Visual & Performing
 ---
 # **Chinese Dance**
 
@@ -44,11 +44,11 @@ Members have been given opportunities to display their talents through various s
 
 In 2022, our Chinese Dance Troupe was invited to perform as part of the Bukit Gombak National Day Observance Ceremony 2022. Our menbers put up a splendid and joyful performance for the Bukit Gombak residents. They certainly charmed the audience with their graceful moves and vibrant and dazzling costumes.
 
-| ![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg) |![](/images/CCAs/Chinese%20Dance/img-20220809-wa0002.jpg) | 
+|![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg) |![](/images/CCAs/Chinese%20Dance/img-20220809-wa0002.jpg) | 
 |:-:|:-:|
 |||
 
-![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg)
+![](/images/CCAs/Chinese%20Dance/fb_img_1681197148309.jpg)
 
 ## **Competition**
 
@@ -60,7 +60,6 @@ In 2020, due to Covid-19 outbreak, the Singapore Youth Festival was cancelled. I
 
 ![](/images/CCAs/Chinese%20Dance/img-20220718-wa0045.jpg)
 
-In 2020, due to Covid-19 outbreak, the Singapore Youth Festival was cancelled. Our members were disappointed as they had prepared and practised diligently for it. Nonetheless, it had been a good learning experience for all.
 
 ## **Achievements**
 
