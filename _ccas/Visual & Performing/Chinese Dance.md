@@ -54,14 +54,9 @@ The Lianhua Chinese Dance has regularly participated in Singapore Youth Festival
 
 In 2020, due to Covid-19 outbreak, the Singapore Youth Festival was cancelled. In 2022, our members have the chance to present a vibrant and vivacious dance titled《织锦姑娘》in SYF Arts Presentations. We are proud of ours dancers, who despite the odds, had displayed much resilience and excellence as they strove to perfect their dance movements.
 
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-3.jpg)
+![](/images/CCAs/Chinese%20Dance/img-20220718-wa0054.jpg) 
 
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-4.jpg)
-
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-5.jpg)
-
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-6.jpg)
-
+![](/images/CCAs/Chinese%20Dance/img-20220718-wa0045.jpg)
 
 In 2020, due to Covid-19 outbreak, the Singapore Youth Festival was cancelled. Our members were disappointed as they had prepared and practised diligently for it. Nonetheless, it had been a good learning experience for all.
 
