@@ -43,6 +43,11 @@ Members have been given opportunities to display their talents through various s
 
 In 2022, our Chinese Dance Troupe was invited to perform as part of the Bukit Gombak National Day Observance Ceremony 2022. Our menbers put up a splendid and joyful performance for the Bukit Gombak residents. They certainly charmed the audience with their graceful moves and vibrant and dazzling costumes.
 
+| ![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg) |![](/images/CCAs/Chinese%20Dance/img-20220809-wa0002.jpg) | 
+|:-:|:-:|
+
+![](/images/CCAs/Chinese%20Dance/img-20220809-wa0003.jpg)
+
 ## **Competition**
 
 The Lianhua Chinese Dance has regularly participated in Singapore Youth Festival (SYF) – Arts Presentation For Dance (Chinese). To date, the Lianhua Chinese Dance has achieved good results at the SYF Dance competitions.
