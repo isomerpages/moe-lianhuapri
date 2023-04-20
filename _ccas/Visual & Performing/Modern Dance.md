@@ -38,6 +38,9 @@ Lianhua Primary School’s Modern dancers performed in the SYF in March 2022. Al
 
 ![](/images/CCAs/Modern%20Dance/syf%204photo.jpg) 
 
+![](/images/CCAs/Modern%20Dance/md4photo.jpg)
+
+![](/images/CCAs/Modern%20Dance/md6photo.jpg)
 
 ## **Achievements**
 
