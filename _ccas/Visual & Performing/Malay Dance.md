@@ -30,7 +30,7 @@ The Singapore Youth Festival competition is a much awaited event for our dancers
 
 ## Collaboration with the community
 
-In 2017, our Malay Dancers performed a dance item at a community club for the National Day celebration. The dancers were excited about their performance as it was a great opportunity for them to showcase their talent. Although they had to reach school by 6am to prepare their outfits and makeup, nevertheless, it was a wonderful and fruitful experience for the dancers.
+**In 2022, our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebrations.&nbsp; It was a wonderful and fruitful experience for the dancers.**
 
 |   |   |
 |:-:|:-:|
@@ -48,23 +48,16 @@ In 2017, our Malay Dancers performed a dance item at a community club for the Na
 In 2022, our Malay dancers participated in Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
 
 
+
 ## Students’ Voices
 
-**Qidran Najmi Bin Shahrin P6 Resilience**
+My SYF journey was a very memorable one. At the start of the year, I struggled to balance my study and my CCA. But overtime, I managed to balance both of them.&nbsp; It was my first time experiencing performing to strangers.&nbsp; I was only used to performing for my school. My experience has taught me to be resilient and disciplined.&nbsp; I hope to be able to experience this again in secondary school.
 
-As a Malay Dance member, I've experienced many events such as the Singapore Youth Festival (SYF) in 2018. In my opinion, the SYF experience aided me to build my reputation as a student in Lianhua Primary. During the CCA lessons, I've learnt to be patient and optimistic. I was taught to stay strong and healthy by my instructors and teachers-in-charge, therefore I could do well in my studies and in my CCA. My most memorable moment was when I had taken part in an event that took place in Dulwich College. That event taught me a bunch of values. For example, to unite with other dancers in my school and create a better and more fascinating item that would mesmerise the audience.
+<p style="text-align: right">Siti Khadijah Binte Mohd Shahril Aman, 6 Diligence '2022<br></p>
 
-  
+My experience in the SYF journey was unforgettable.&nbsp; I had an enjoyable time with my friends in the CCA.&nbsp; At first, before the performance, I was really nervous as it was my first time performing for SYF but when I got on the stage, I was having fun.&nbsp; After the performance, I remembered talking to my friends on how I wanted to perform again on stage. &nbsp; There were so many people clapping for us. Overall, it was a day that I would always remember and I hope to experience it again in secondary school.
 
-**Siti Khadijah Binte MD Shahril Aman P5 Diligence**
-
-In Malay Dance CCA, I learn many new things about my culture. My dance instructor often teaches us about the meaning behind the various dance steps in Malay Dance . It has been a wonderful experience in Malay Dance and I do not regret joining this CCA. I will not forget the memorable moments when we performed on stage for many events, be it a big or a small event. Throughout this journey, I learnt many new things about Malay dance which never fail to interest me.
-
-  
-
-**Sophia Abigail Cabajes Abarico 5 Diligence**
-
-In Malay Dance I have learnt to be resilient and not give up even when the dance step is hard.My most memorable experience was when we performed to the song "Ugly Duckling" during our school’s Music Festival in 2018 at Dulwich International School. It was a very fun and enriching experience.
+<p style="text-align: right">Sophia Abigail C. Abarico, 6 Diligence '2022<br></p>
 
 ## Useful Links
 
