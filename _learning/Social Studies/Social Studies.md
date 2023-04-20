@@ -24,7 +24,7 @@ In Lianhua, the Social Studies curriculum envisions students to have joy in lear
 
 
 
-<b> **Learning Journeys** </b>
+#### Learning Journeys
 
 The Learning Journeys initiative, which is an annual programme in Lianhua Primary School aims to support and complement the Social Studies curriculum. The school has collaborated with participating organisations to make learning more authentic and experiential. Much thought was put in to ensure that the venues of the learning journeys tie in well with the syllabus that they are learning.
 
@@ -79,4 +79,4 @@ Through these platforms, we hope to hone our newscasters to become confident spe
 | ![](/images/Learning/Social%20Studies/3photo.jpg)     | ![](/images/Learning/Social%20Studies/4photo.jpg)     | 
 | ![](/images/Learning/Social%20Studies/5photo.jpg)    | ![](/images/Learning/Social%20Studies/6photo.jpg)   | 
 | ![](/images/Learning/Social%20Studies/7photo.jpg)     | ![](/images/Learning/Social%20Studies/8photo.jpg)     | 
-| ![](/images/Learning/Social%20Studies/9photo.JPG)    | ![](/images/Learning/Social%20Studies/10photo.jpg)    | 
+| ![](/images/Learning/Social%20Studies/9photo.JPG)    | ![](/images/Learning/Social%20Studies/10photo.jpg)    |
