@@ -6,7 +6,7 @@ third_nav_title: Visual &amp; Performing
 ---
 # **Chinese Dance**
 
-![](/images/CCAs/Chinese%20Dance/6R6A8100.jpg)
+![](/images/CCAs/Chinese%20Dance/fb_img_1681197193421.jpg)
 
 ## **Purposes of CCA**
 
@@ -24,6 +24,11 @@ The Lianhua Chinese Dance has been around for about 20 years and aims to provide
 
 提升学生的舞蹈技巧以及鉴赏舞蹈能力。  
 We aim to challenge our dancers with varied dance techniques and different dance forms for them to attain greater heights of performance.
+
+
+
+| ![](/images/CCAs/Chinese%20Dance/img-20220721-wa0011.jpg) | ![](/images/CCAs/Chinese%20Dance/fb_img_1681197180103.jpg) | 
+| -------- | -------- | 
 
 
 
