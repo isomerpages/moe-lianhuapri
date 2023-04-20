@@ -36,14 +36,10 @@ We aim to challenge our dancers with varied dance techniques and different dance
 
 Members have been given opportunities to display their talents through various school concerts and community events held by the Grassroots Organization (e.g. Chinese New Year celebrations).
 
+| ![](/images/CCAs/Chinese%20Dance/cny23_30.JPG) | ![](/images/CCAs/Chinese%20Dance/cny23_25.JPG) | 
+|:-:|:-:|
+| ![](/images/CCAs/Chinese%20Dance/cny23_14.JPG)     | ![](/images/CCAs/Chinese%20Dance/cny23_27.JPG)   | 
 
-![](/images/CCAs/Chinese%20Dance/6R6A8076.jpg)
-
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-1.jpg)
-
-![](/images/CCAs/Chinese%20Dance/Chinese%20Dance-2.jpg)
-
-![](/images/CCAs/Chinese%20Dance/IMG_0623.jpg)
 
 In 2022, our Chinese Dance Troupe was invited to perform as part of the Bukit Gombak National Day Observance Ceremony 2022. Our menbers put up a splendid and joyful performance for the Bukit Gombak residents. They certainly charmed the audience with their graceful moves and vibrant and dazzling costumes.
 
