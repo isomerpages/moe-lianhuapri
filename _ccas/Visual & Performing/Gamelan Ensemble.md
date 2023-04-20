@@ -60,7 +60,19 @@ In February 2023, we were honoured to be invited to perform for Club HEAL's 10th
 
 ### Students' Voices
   
-Pending
+"My elder sister, who is in Gamelan since she is in P2, came home and told me that Gamelan is fun. When I came in Primary 1, I decided to discover it myself, so I joined Gamelan. Gamelan is indeed fun! I really enjoy it on the first training session.&nbsp;
+
+In Gamelan, I learnt to be resilient - never to give up easily. All members are encouraged to learn to play different instruments. It is not easy. I have learnt to play two instrument and this year, I am learning to play the Bonang, a Javanese gong chime consisting of ten to fourteen small tuned gongs set in a horizontal wooden frame. When playing Gamelan, teamwork is very important. To play in unison and listening to each other when playing is very important."&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <p style="text-align: right">NURA'ALIYAH QALISHA BINTE ROSLAN, 3 COMPASSION  <br></p>
+
+
+"Each time my elder brother comes home after a Gamelan training session, his face beamed with delight. I decided to join Gamelan seeing how he has enjoyed each session. I also always have this passion for music. Playing musical instruments not only brings joy to me, it also brings joy to those who listen to it. Since I like music, I look forward to every Gamelan training sessions. I treasure every second during training sessions to learn as much as I can.
+
+I have learnt to be resilient because nothing is easy. I must always persevere no matter the difficulty. As a senior member of the Gamelan Ensemble, I try my best to bring unity to the team to overcome challenges adn work together. I respect my teachers and&nbsp; instructors by listening to them when they are sharing their wealth of knowledge."&nbsp;
+
+<p style="text-align: right">KHAYLA AMILY BINTE MOHAMAD KHAIDIR, 5 RESILIENCE<br></p>
+
 
 
 #### The Team
