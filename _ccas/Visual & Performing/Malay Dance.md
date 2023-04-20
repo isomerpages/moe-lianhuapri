@@ -2,7 +2,7 @@
 title: Malay Dance
 permalink: /ccas/visual-n-performing/malay-dance/
 description: ""
-third_nav_title: Visual &amp; Performing
+third_nav_title: Visual & Performing
 ---
 # Malay Dance
 
@@ -18,20 +18,7 @@ third_nav_title: Visual &amp; Performing
 
 ## Purpose of CCA
 
-Malay Dance CCA in Lianhua Primary school aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Here, students’ interest in performing arts can be developed and stretched, underpinned by the school values of Self-discipline, Resilience and Excellence. We believe that all students can achieve success in the interest they choose. At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
-
-## Experiences(in school)
-
-Malay dance students performed in Lianhua’s first ever outside school production, A Musical Treasure Hunt In the Land of Stories which was held in Dulwich College on 13 April 2019. The performers presented their items with open and fearless hearts which impressed the audience. Their dedication and passion towards the dance amazed everyone with their energy, enthusiasm and commitment.
-
-|   |   |
-|:-:|:-:|
-| <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_5.jpg" style="width:75%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_6.jpg)   |
-
-
-|   |   |
-|:-:|:-:|
-| <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_7.jpg" style="width:65%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_8.jpg)   |
+Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Students’ interest in performing arts can be developed and stretched, underpinned by the school values of Self-discipline, Resilience and Excellence.&nbsp; At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
 
 ## Competition
 
@@ -49,23 +36,19 @@ In 2017, our Malay Dancers performed a dance item at a community club for the Na
 |:-:|:-:|
 | <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_11.jpg" style="width:75%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_12.jpg)   |
 
-## Promotion of CCA Video
 
-**P1 CCAs Experiences**
-
-The Covid19 situation is not hindering our efforts to recruit new members and to share our journey. In the following video, our Malay Dance leaders will highlight the experiences which every Malay Dance member goes through, the skills learnt and the friendships and memories made in Malay Dance CCA.
-
-
-<iframe width="713" height="565" src="https://www.youtube.com/embed/rk7_0mrZ-5M" title="CCA EXPERIENCE   PA MALAY DANCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-**<center>Achievements</center>**
+## Achievements
 
 | Year |                Competition                |             Award            |
 |:----:|:-------------:|:------------------:|
-| 2020 | Singapore Youth Festival (Rehearsal only) |                              |
-| 2018 |          Singapore Youth Festival         | Certificate of Participation |
+| 2020 | Singapore Youth Festival  |                  Certificate of Participation            |
+| 2018 | Singapore Youth Festival  |            Certificate of Accomplishment                  |
+| 2016 |          Singapore Youth Festival         | Certificate of Accomplishment |
 
-**<center>Students’ Voices</center>**
+In 2022, our Malay dancers participated in Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
+
+
+## Students’ Voices
 
 **Qidran Najmi Bin Shahrin P6 Resilience**
 
