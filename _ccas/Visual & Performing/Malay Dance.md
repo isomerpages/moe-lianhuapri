@@ -15,14 +15,11 @@ Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Danc
 The Singapore Youth Festival competition is a much awaited event for our dancers. This is a bi-annual competition organized by the Ministry of Education to celebrate the achievements of youths in their co-curricular activities. It is usually held in April although preparations for the competition start as early as November in the previous year. Dancers are selected based on their readiness and the skills mastered for the choreographed dance.
 
 
-
 ## Collaboration with the community
 
-**In 2022, our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebrations.&nbsp; It was a wonderful and fruitful experience for the dancers.**
+In 2022, our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebrations.&nbsp; It was a wonderful and fruitful experience for the dancers.
 
-|   |   |
-|:-:|:-:|
-| <img src="/images/CCAs/Malay%20Dance/Malay%20Dance_11.jpg" style="width:75%"> |  ![](/images/CCAs/Malay%20Dance/Malay%20Dance_12.jpg)   |
+![](/images/CCAs/Malay%20Dance/photo2.jpeg)
 
 
 ## Achievements
