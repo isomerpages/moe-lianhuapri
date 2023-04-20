@@ -2,17 +2,11 @@
 title: Robotics Club
 permalink: /ccas/clubs-n-societies/robotics-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 # Robotics Club
 
-|   |   |
-|:-:|:-:|
-|  ![](/images/CCAs/Robotics%20Club/Students%20programming%20for%20robot%20at%20computer%20lab.jpg) | ![](/images/CCAs/Robotics%20Club/Students%20at%20work%20-%20building%20robot.jpg)  |
-
-|   |   |   |
-|:---:|:---:|:---:|
-|  <img src="/images/CCAs/Robotics%20Club/NRC%20CoderZ%20Coding%20Challenge.jpg" style="width:80%">  |   <img src="/images/CCAs/Robotics%20Club/Showcase%20-%20competition%20robot.jpg" style="width:50%"> |  ![](/images/CCAs/Robotics%20Club/Students%20at%20work%20-%20Singapore%20VRC%20National%20Championship%20(2020).jpg)   |
+photos
 
 
 ## Purposes of CCA
@@ -23,11 +17,15 @@ Robotics Club is an excellent avenue for pupils to engage in meaningful and acti
 
 Members undergo training to help them develop and deepen their understanding of the mechanics of robot design and movement which strengthens their analytical and creative thinking skills. Members also develop their logical thinking and refine their programming skills as they continue to gain exposure when they learn to design and program using various programming platforms.
 
+
 ## Experiences
 
 #### Robot Design &amp; Mechanics
 
 Members creatively design and build robots and mechanisms in their teams. Members have opportunities to showcase and share about their robots and designs.
+
+
+
 
 |   |   |
 |:-:|:-:|
@@ -77,6 +75,11 @@ In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competitio
 #### VR.VEX Programming
 
 During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the codes and programs created by members using SCRATCH.
+
+Controlling a VR Robot to clean up a coral reef
+
+(Collect as much trash as possible before the batteries run out of power)
+
 
 
 <iframe width="711" height="512" src="https://www.youtube.com/embed/Wl2nQVKNpfQ" title="Coral Reef Cleanup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
