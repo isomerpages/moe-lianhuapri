@@ -26,7 +26,7 @@ In 2022, our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebration
 
 | Year |                Competition                |             Award            |
 |:----:|:-------------:|:------------------:|
-| 2020 | Singapore Youth Festival  |                  Certificate of Participation            |
+| 2022 | Singapore Youth Festival  |                  Certificate of Participation            |
 | 2018 | Singapore Youth Festival  |            Certificate of Accomplishment                  |
 | 2016 |          Singapore Youth Festival         | Certificate of Accomplishment |
 
