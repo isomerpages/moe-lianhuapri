@@ -59,10 +59,9 @@ Weekly training sessions comprising of scouting skills that allows them to achie
 
 <iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<br>
 
-<iframe width="711" height="509" src="https://www.youtube.com/embed/zNdVKmt2A8s" title="Scouts CCA 2021 Rev B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<br>
+For more information about Scouting, you may visit [https://www.scout.sg/](https://www.scout.sg/)
+
 
 ####  **The Team**   
 
