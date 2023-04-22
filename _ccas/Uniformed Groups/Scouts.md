@@ -40,8 +40,21 @@ As they are prepared to become more aware of the needs of the community through 
 
 <center>Adventure time! Cub scouts have a meaningful exploration attending Cub Scout Leadership Camp and the Cub Scout Field Day. They experienced outdoor cooking and scouting skills.</center>
 
+![](/images/CCAs/Scouts/founder_s%20day%20rally%202023(1)1.jpg)  
+
+![](/images/CCAs/Scouts/founder_s%20day%20rally%202023.jpg)
+
+<center>Cub scouts participating in Founder’s Day Rally. They had fun and most importantly they make friends and establishes relationship.</center>
 
 
+Weekly training sessions comprising of scouting skills that allows them to achieve the three progress badges. They are the Bronze Arrow, Silver Arrow and Gold Arrow. The highest award is the Akela Award. Our Lianhua Cub Scouts are exposed to ample opportunities to learn, strive and practice values such as Loyalty, Honesty, Compassion, Diligence, Excellence, Unity, Resilience and Self-Discipline. They are also given opportunity to achieve their proficiency badges.
+
+
+
+
+| ![](/images/CCAs/Scouts/knotting%20training%20session.jpg)Knotting| <br>![](/images/CCAs/Scouts/astronomy%20training%20session.jpg)Astronomy | <br>![](/images/CCAs/Scouts/first%20aid%20training%20session(1).jpg)First Aid|
+|:-:|:-:|:-:|
+|   |   |   |
 
 
 <iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
