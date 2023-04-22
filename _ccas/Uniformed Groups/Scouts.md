@@ -52,9 +52,9 @@ Weekly training sessions comprising of scouting skills that allows them to achie
 
 
 
-| ![](/images/CCAs/Scouts/knotting%20training%20session.jpg)Knotting| <br>![](/images/CCAs/Scouts/astronomy%20training%20session.jpg)Astronomy | <br>![](/images/CCAs/Scouts/first%20aid%20training%20session(1).jpg)First Aid|
-|:-:|:-:|:-:|
-|   |   |   |
+| <br> ![](/images/CCAs/Scouts/knotting%20training%20session.jpg)Knotting| ![](/images/CCAs/Scouts/astronomy%20training%20session.jpg)Astronomy![](/images/CCAs/Scouts/first%20aid%20training%20session(1).jpg)First Aid | 
+|:-:|:-:|
+|   |   | 
 
 
 <iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
