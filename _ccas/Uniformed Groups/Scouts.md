@@ -24,9 +24,21 @@ As they are prepared to become more aware of the needs of the community through 
 
 ![](/images/CCAs/Scouts/national%20day%20observance%202022.jpg)
 
-
-
 <center>Our Sixers are honoured to be part of National Day Observance Day.</center>
+
+| ![](/images/CCAs/Scouts/police%20heritage%20centre%20learning%20journey(1).jpg) | ![](/images/CCAs/Scouts/police%20heritage%20centre%20learning%20journey.jpg) |
+|:-:|:-:|
+|   |   |
+
+<center>Our cub scouts went for learning journey to the Police Heritage Centre. It really is an insightful discovery.</center>
+
+![](/images/CCAs/Scouts/cub%20scout%20field%20day%202022.jpg)
+
+| <br> ![](/images/CCAs/Scouts/sarimbun%20camp%20adventure%202022.jpg) |![](/images/CCAs/Scouts/cub%20scout%20leadership%20camp%202022.jpg) |
+|:-:|:-:|
+|   |   |
+
+<center>Adventure time! Cub scouts have a meaningful exploration attending Cub Scout Leadership Camp and the Cub Scout Field Day. They experienced outdoor cooking and scouting skills.</center>
 
 
 
