@@ -167,6 +167,6 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 
 ### The Team
 
-| Chinese Language | Malay Language | Tamil Language |
+| CHINESE LANGUAGE | MALAY LANGUAGE | TAMIL LANGUAGE |
 | -------- | -------- | -------- |
 |   MDM WOO YEONG YI<br> MS TAN LI YAN<br> MDM LIU CHANG<br> MDM KUAN SUAN SHI<br> MDM KOH WAN TING<br> MDM TAN XIAOHUI<br> MDM TAN JYE EN<br> MDM YAP SWEE QUIN<br> MDM MAGGIE FONG <br>MDM LIN JUN<br> MS ALENA  CHIONG<br> MS ABIGAIL ANG<br> MDM LEE QIAN REN<br> MDM YANG FAN<br> MDM ONG SEE SEE   |  MDM NORHAYATI<br> MR FADIAL<br> MDM ROSNAH<br> MDM NORLIEZA<br> MDM RAMZANIAH<br> MDM SITI AISHAH<br> MS FARAH<br> MR FAIZAL    | MDM SUBATHRA<br> MDM REQHA<br> MS ARSHVINI<br> MDM SLEVARANI   |
