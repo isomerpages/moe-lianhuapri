@@ -34,29 +34,22 @@ The school rules and regulations state clearly the boundaries of acceptable cond
     *   Any other items that may disrupt learning
 
 
-# **Attire & Appearance**
+# **Attire &amp; Appearance**
 
 All students are expected to wear the school uniform and the PE attire on days when they have PE lessons. Any modification to the uniform is not allowed.
 
 
-|   |     
-|---|  
-|![](/images/LHAA1.jpg) |
+![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyfront.jpg)
 
-<center> Name tags above the school crest</center>  <center>Plain black socks above the ankle</center>
-	<center>Plain black shoes without any coloured stripes or design</center>
+<center> Name tags above the school crest</center> <center>Plain black socks above the ankle</center><center>Plain black shoes without any coloured stripes or design</center>
 	
-|   |     
-|---|  
-|![](/images/LHPSCC1.png) |
+![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlfront.jpg)
 
-<center>Upturned collar</center>  <center>Untucked T-shirt</center>
-	<center>Skirt’s length near kneecap</center>
+
+<center>Upturned collar</center> 
+<center>Untucked T-shirt</center>
+<center>Skirt’s length near kneecap</center>
 	
-
-|   |   |    
-|---|---|    
-|![](/images/LHPSCC2.jpg) | ![](/images/LHPSCC3.jpg)|
 
 
 1.  Jewellery or ornaments are not allowed.
@@ -69,10 +62,9 @@ All students are expected to wear the school uniform and the PE attire on days w
 **Hair (Boys)**
 
 
-|   |   |    |   
-|---|---|---|  
-|![](/images/LHPSCC4.jpg)|![](/images/LHPSCC5.jpg)|![](/images/LHPSCC6.jpg)|
-
+|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyhairfront.JPG)  |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyhairback.JPG)  | 
+| -------- | -------- | 
+|     |    | 
 
 1.  Hair must be short and neatly combed.
 2.  Hair must be cropped at the back, gently sloping down to reach the neck.
@@ -85,12 +77,15 @@ All students are expected to wear the school uniform and the PE attire on days w
 
 **Hair (Girls)**
 
-|   |   |    |   
+
+
+
+|&nbsp;&nbsp; |&nbsp; &nbsp;|&nbsp;   |&nbsp;  
 |---|---|---|  
 |![](/images/LHPSCC7.jpg)|![](/images/LHPSCC8.jpg)|![](/images/LHPSCC9.jpg)|
 
 
-|   |   |    |   
+|&nbsp;&nbsp; |&nbsp; &nbsp;|&nbsp;   |&nbsp;  
 |---|---|---|  
 |![](/images/LHPSCC10.png)|![](/images/LHPSCC11.png)|![](/images/LHPSCC12.png)|
 
