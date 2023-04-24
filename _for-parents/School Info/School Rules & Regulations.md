@@ -77,19 +77,13 @@ All students are expected to wear the school uniform and the PE attire on days w
 
 **Hair (Girls)**
 
+| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairside.JPG) | 
+| -------- | -------- | 
+|   |   | 
 
-
-
-|&nbsp;&nbsp; |&nbsp; &nbsp;|&nbsp;   |&nbsp;  
-|---|---|---|  
-|![](/images/LHPSCC7.jpg)|![](/images/LHPSCC8.jpg)|![](/images/LHPSCC9.jpg)|
-
-
-|&nbsp;&nbsp; |&nbsp; &nbsp;|&nbsp;   |&nbsp;  
-|---|---|---|  
-|![](/images/LHPSCC10.png)|![](/images/LHPSCC11.png)|![](/images/LHPSCC12.png)|
-
-
+| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairside.JPG) | 
+| -------- | -------- | 
+|   |   | 
 
 1.  Girls with hair touching the collar must tie it up neatly with dark blue/black hair accessories ensuring that the fringe does not touch the eyebrows or is pinned up at all times
 2.  Girls with short hair must also keep the fringe short or pin it up.
