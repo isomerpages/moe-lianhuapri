@@ -81,7 +81,7 @@ All students are expected to wear the school uniform and the PE attire on days w
 | -------- | -------- | 
 |   |   | 
 
-| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairside.JPG) | 
+| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairside.JPG) | 
 | -------- | -------- | 
 |   |   | 
 
