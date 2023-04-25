@@ -46,3 +46,7 @@ As our Primary 6s prepare for their journey towards the national examinations, o
 While studying is important, it is also crucial to have skills on how to manage expectations, study skills or managing motivation issues. Customised class talks are conducted by our School Counsellor to suit the needs of each class.&nbsp;
 
 Our Parent Support Group (PSG) also shows their support by providing treats for our students to let them know that they are not alone in this journey and that parents are behind them!
+
+| ![](/images/Learning/Student%20Management/photo11.jpeg) | ![](/images/Learning/Student%20Management/photo12.jpeg) | 
+| -------- | -------- | 
+|     |     | 
