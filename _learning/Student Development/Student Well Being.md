@@ -6,11 +6,16 @@ third_nav_title: Student Development
 ---
 # **Student Well-Being**
 
-**Peer Support & Relationships (PSR)**
+#### **Peer Support & Relationships (PSR)**
 
- Every Student a Peer Supporter 
+**Every Student a Peer Supporter**
   
 A caring school culture is one in which all members of the school community feel safe and cared for, have a sense of belonging and connectedness. It is strengthened through positive Teacher-Student relationships and Student-Student relationships. Students contribute to the caring and positive peer culture when they look out for one another and provide support to their peers in need. Here we have an example of how our Upper Primary students look out for their Primary 1 buddies.
+
+
+| ![](/images/Learning/Student%20Management/photo1.jpeg) | ![](/images/Learning/Student%20Management/photo2.jpeg) | ![](/images/Learning/Student%20Management/photo3.jpeg)|
+| -------- | -------- | -------- |
+|    |      |   |
 
 **
 
@@ -18,13 +23,18 @@ In 2022, we started on our journey in building the Peer Support Network with the
 
 
 
-**Lifting Hearts Programme **
+#### **Lifting Hearts Programme**
 
 To support our students, our school provides space and time to occupy these students meaningfully. Every Wednesday, selected students come together where they will spend time checking in and doing homework. The session is then followed by an hour of activities which includes art activities and learning of skills like time management, and sandwich-making.
 
-**
 
-**P6 Cheerleaders Programme**
+| ![](/images/Learning/Student%20Management/photo5.jpeg) | ![](/images/Learning/Student%20Management/photo6.jpeg) | 
+| -------- | -------- | 
+|     |     | 
+
+
+
+#### **P6 Cheerleaders Programme**
 
 As our Primary 6s prepare for their journey towards the national examinations, our team of teachers aims to provide timely boosts for the students emotionally, socially and physically. The students are given opportunities to share their thoughts, anxieties or emotions through an online platform known as ‘Mr Talk to Me’. This allows teachers to check in with a follow up conversation or the necessary support that the child needs. 
 
