@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Student Well Being.md
       - English.md
       - Mathematics.md
       - Science.md
