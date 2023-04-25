@@ -2,9 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Student Development/Student Well Being.md
-      - Student Development/Student Development.md
-      - Student Development/.keep
       - English.md
       - Mathematics.md
       - Science.md
@@ -16,5 +13,8 @@ collections:
       - Social Studies/.keep
       - Social Studies/Social Studies.md
       - Social Studies/National Education Events.md
+      - Student Development/.keep
+      - Student Development/Student Well Being.md
+      - Student Development/Student Development.md
       - Citizenship & Character Education.md
       - Information & Communications Technology.md
