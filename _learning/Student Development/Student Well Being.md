@@ -17,7 +17,9 @@ A caring school culture is one in which all members of the school community feel
 | -------- | -------- | -------- |
 |    |      |   |
 
-**
+<center>Selected Students as Peer Support Leaders</center>
+
+![](/images/Learning/Student%20Management/picture1.png)
 
 In 2022, we started on our journey in building the Peer Support Network with the nomination and training of Peer Support Leaders (PSLs). Our Primary 4 to 6 PSLs went through face-to-face and asynchronous training via SLS. The PSL trainings are designed to the needs and profile of our students covering the three domains of Peer Bonding, Peer Helping and Peer Influencing.
 
@@ -49,4 +51,4 @@ Our Parent Support Group (PSG) also shows their support by providing treats for 
 
 | ![](/images/Learning/Student%20Management/photo11.jpeg) | ![](/images/Learning/Student%20Management/photo12.jpeg) | 
 | -------- | -------- | 
-|     |     | 
+|     |     |
