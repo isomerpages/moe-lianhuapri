@@ -1,0 +1,23 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Volleyball.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Science Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
+      - Visual & Performing/.keep
+      - Visual & Performing/Chinese Dance.md
+      - Visual & Performing/Indian Dance.md
+      - Visual & Performing/Malay Dance.md
+      - Visual & Performing/Modern Dance.md
+      - Visual & Performing/Gamelan Ensemble.md
+      - Visual & Performing/Handbells Ensemble.md
+      - Visual & Performing/Percussion Ensemble.md
+      - Visual & Performing/Art & Crafts Club.md
+      - Visual & Performing/Digital Media Club.md

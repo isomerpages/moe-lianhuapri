@@ -1,0 +1,20 @@
+collections:
+  learning:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Visual Art.md
+      - Aesthetics/Music.md
+      - Social Studies/.keep
+      - Social Studies/Social Studies.md
+      - Social Studies/National Education Events.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Student Well Being.md
+      - Citizenship & Character Education.md
+      - Information & Communications Technology.md
