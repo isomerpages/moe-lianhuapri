@@ -77,7 +77,7 @@ All students are expected to wear the school uniform and the PE attire on days w
 
 **Hair (Girls)**
 
-|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20front.png)  |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20side3.png) | 
+|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20front2.png)  |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20side3.png) | 
 | -------- | -------- | 
 |   |   | 
 
