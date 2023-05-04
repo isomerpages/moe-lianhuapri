@@ -8,7 +8,7 @@ description: ""
 #### **Moe Sexuality Education in Schools**
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues. <p></p>
-
+<p></p>
 
 2. The **Goals** of Sexuality Education are:
 
@@ -53,7 +53,7 @@ b. Character and Citizenship Education (CCE)
 
 **<center>Primary 5</center>**
 
-|            CCE(FTGP) Theme            |          LESSON TITLE / DURATION          |                                                                                                                                                   LESSON OVERVIEW                                                                                                                                                   | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+|            CCE(FTGP) THEME            |          LESSON TITLE / DURATION          |                                                                                                                                                   LESSON OVERVIEW                                                                                                                                                   | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 |:------------:|:----------:|------------|:----------------:|
 |     Growing Years    | The Changes in Me?<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.                                                                                                    |  Term 2 <br>Week 1 <br>24 Mar 2023  |
 |                            |  Did You Know? <br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do**’. This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.      |  Term 2 <br>Week 2 <br>31 Mar 2023  |
