@@ -18,5 +18,5 @@ Nearest MRT Station: Bukit Gombak MRT and Bukit Batok MRT
 **School Operating Hours**
 
 The school operates on a 5-day week (Monday to Friday).   
-School Term: 7.00am to 6.00pm   
+School Term: 7.00am to 5.30pm   
 School Holiday: 7.00am to 5.00pm
