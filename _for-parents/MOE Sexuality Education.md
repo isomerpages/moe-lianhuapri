@@ -5,44 +5,42 @@ description: ""
 ---
 # MOE Sexuality Education
 
-<p style="text-align: justify;">1.&nbsp;Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  </p>
+#### **Moe Sexuality Education in Schools**
+
+1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.<p></p>
 
   
 
-2\. The goals of Sexuality Education are:
+2. The **Goals** of Sexuality Education are:
 
-<p style="text-align: justify;">(i)&nbsp;To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;</p>
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
 
-<p style="text-align: justify;">(ii)&nbsp;To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional</u> skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</p>
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-<p style="text-align: justify;">(iii)&nbsp;To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values</u>&nbsp;and attitudes about sexuality.</p>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
-  
+3. The **Key Messages** of Sexuality Education are:
 
-3\. The key messages of Sexuality Education are:
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect yourself as you love and respect others;<br>
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible decisions for yourself, your family and society; and<br>
+(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-(i)&nbsp;Love and respect yourself as you love and respect others;   
-(ii)&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);   
-(iii)&nbsp;Make responsible decisions for yourself, your family and society; and   
-(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-  
+You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.
 
-You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.
 
-  
 
 #### Overview of Lianhua Primary School’s Sexuality Education Programme 
 
-<p style="text-align: justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
 
-  
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.<p></p>
 
-5\. The subjects that incorporate topics on sexuality include:
+
+5. The subjects that incorporate topics on sexuality include:
 
 a. Science   
-b. Form Teacher Guidance Period (FTGP)   
-c. Character and Citizenship Education (CCE)
+b. Character and Citizenship Education (CCE)
 
   
 
