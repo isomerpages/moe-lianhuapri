@@ -18,16 +18,16 @@ third_nav_title: Contact Us
 | Fax number     | 6563 9591                    |
 | Email address  | [lianhua\_ps@moe.edu.sg](mailto:lianhua_ps@moe.edu.sg)      |
 | School website | <a href="http://lianhuapri.moe.edu.sg" target="_blank">http://lianhuapri.moe.edu.sg</a> |
-| Facebook       |   <a href="http://on.fb.me/1GnnKSv " target="_blank">http://on.fb.me/1GnnKSv </a>   |
+| Facebook       |   <a href="http://on.fb.me/1GnnKSv" target="_blank">http://on.fb.me/1GnnKSv </a>   |
 
 
 
 ## School Operating Hours
 
 
-The school operates on a 5-day week, from Monday to Friday.   
+The school operates on a 5-day week (Monday to Friday).                
 
 |                |               |
 |------------|-----------|
-| School Term    | 7am to 5.30pm |
-| School Holiday | 7am to 5pm    |
+| School Term    | 7.00am to 5.30pm |
+| School Holiday | 7.00am to 5.00pm    |
