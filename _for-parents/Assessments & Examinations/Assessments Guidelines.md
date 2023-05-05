@@ -2,7 +2,7 @@
 title: Assessments Guidelines
 permalink: /for-parents/assessments-n-examinations/assessments-guidelines/
 description: ""
-third_nav_title: Assessments &amp; Examinations
+third_nav_title: Assessments & Examinations
 ---
 # Assessments Guidelines
 
