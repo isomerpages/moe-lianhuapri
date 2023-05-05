@@ -2,7 +2,7 @@
 title: Art &amp; Crafts Club
 permalink: /ccas/visual-n-performing/art-n-crafts-club/
 description: ""
-third_nav_title: Visual &amp; Performing
+third_nav_title: Visual & Performing
 ---
 # **Art &amp; Crafts Club**
 
