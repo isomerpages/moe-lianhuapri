@@ -2,7 +2,7 @@
 title: Science Club
 permalink: /ccas/clubs-n-societies/science-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 # Science Club
 ## Purposes of Cool Science Club
