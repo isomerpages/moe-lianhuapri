@@ -1,5 +1,5 @@
 ---
-title: School Leaders &amp; School Management Committee
+title: School Leaders & School Management Committee
 permalink: /about-us/our-family/school-leaders-n-school-management-committee/
 description: ""
 third_nav_title: Our Family
@@ -25,7 +25,7 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image10.jpg">Mrs Samantha Soh<br>Year Head P1 &amp; P6 </td>
   </tr>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image3.jpg"> Ms Juliswati<br>HOD English Lang  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image3.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image9.png"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/SLM9.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
   </tr>
