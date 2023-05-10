@@ -39,11 +39,11 @@ The school rules and regulations state clearly the boundaries of acceptable cond
 All students are expected to wear the school uniform and the PE attire on days when they have PE lessons. Any modification to the uniform is not allowed.
 
 
-![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyfront.jpg)
+![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boy%20front.png)
 
 <center> Name tags above the school crest</center> <center>Plain black socks above the ankle</center><center>Plain black shoes without any coloured stripes or design</center>
 	
-![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlfront.jpg)
+![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20front.png)
 
 
 <center>Upturned collar</center> 
@@ -62,7 +62,7 @@ All students are expected to wear the school uniform and the PE attire on days w
 **Hair (Boys)**
 
 
-|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyhairfront.JPG)  |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boyhairback.JPG)  | 
+|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boy%20hair%20front.png) |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/boy%20hair%20back.png)  | 
 | -------- | -------- | 
 |     |    | 
 
@@ -77,11 +77,11 @@ All students are expected to wear the school uniform and the PE attire on days w
 
 **Hair (Girls)**
 
-| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girlshorthairside.JPG) | 
+|![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20front2.png)  |![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20short%20hair%20side3.png) | 
 | -------- | -------- | 
 |   |   | 
 
-| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairfront.JPG) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girllonghairside.JPG) | 
+| ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20long%20hair%20front2.png) | ![](/images/School%20Info/School%20Rules%20&amp;%20Regulations/School%20Attire/girl%20long%20hair%20side.png) | 
 | -------- | -------- | 
 |   |   | 
 

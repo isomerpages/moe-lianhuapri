@@ -30,6 +30,7 @@ The IFD@LHPS experiences were brought back to the classrooms when the teachers r
 
 The challenge for all of us now is to be exemplary ambassadors for Singapore, both as a host to the international students both amongst us, as well as to students on exchange programmes visiting our school. To achieve this, which school values do you think are essential for our students to learn?
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS51HkDj3GH3rSnxJa8WkzqMXBeiJ39hvxO2apbhuJ_QemUkmROft8F-xWy2iIttttKFR1gDA5BKQt1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### **Total Defence Day**&nbsp;
 
@@ -53,4 +54,4 @@ Recess activities were specially designed for the students to express their unde
 
 A surprise fire drill was conducted in the early Tuesday morning this week. The drill seemed so real that some students were seen crying during the fire evacuation. Staff and students were also seen supporting those who are emotionally affected. Everybody managed to evacuate safely within 11 minutes 35 seconds. At the end of the drill, everyone understood the importance of taking care of self and others in times of emergency. Everyone agreed that the school will try to evacuate within 10 minutes in the next fire drills.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
