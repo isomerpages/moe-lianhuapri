@@ -79,7 +79,7 @@ The event serves as a celebration of the efforts that our students have put in d
 |  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
 | ![](/images/Learning/Music/5shining.JPG)   | ![](/images/Learning/Music/6shining.JPG)    |
 |  ![](/images/Learning/Music/7shining.JPG)   | ![](/images/Learning/Music/8shining.JPG)    |
-| ![](/images/Learning/Music/9shining.JPG)   | ![](/images/Learning/Music/10shining.JPG)    | ![](/images/Learning/Music/11shining.JPG)    | ![](/images/Learning/Music/12shining.JPG)    | 
+| ![](/images/Learning/Music/11shining.JPG)   | ![](/images/Learning/Music/12shining.JPG)    | 
 
 
 **<u>Showtime!</u>**
