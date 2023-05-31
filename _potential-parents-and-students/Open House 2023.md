@@ -19,4 +19,4 @@ Last but not least, a big thank you to all who graced our Open House and gave us
 | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_58.JPG) | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_130.JPG)    | 
 | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_18.JPG)  | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_101.jpg) | 
 | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse3.jpeg)     | ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_135.JPG)    | 
-| ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_138.JPG) | ![](/images/openhouse23_701.jpg)   | 
+| ![](/images/Potential%20Parents%20&%20Students/Open%20House%202023/openhouse23_138.JPG) | ![](/images/openhouse23_701.jpg)   |
