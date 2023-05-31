@@ -52,14 +52,14 @@ third_nav_title: Our Family
 	  <tr>
 	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Pek.png"> Mdm Pek Peet Juan<br>Assistant Year Head </td>
    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image17.png"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Ms%20Khilfina.jpg"> Mdm Khilfina<br>SH Student Well-Being (Covering)  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Ms%20Khilfina.jpg"> Mdm Khilfina<br>SH Student Well-Being  </td>
     <td width="250px" style="text-align: center;"></td>
     <td width="250px" style="text-align: center;"></td>
   </tr>
  
 	  <tr>
 	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Mdm%20Po%20Mun%20Ying.jpg"> Mdm Po Mun Ying<br>LH Science (Covering) </td>
-   <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20pri_Mr%20Ramadhan.jpg"> Mr Ramadhan Omar<br>SH CCE (Covering) </td>
+   <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20pri_Mr%20Ramadhan.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Tan.jpg"> Mdm Tan Xiaohua<br>SH ICT (Covering)  </td>
     <td width="250px" style="text-align: center;"></td>
     <td width="250px" style="text-align: center;"></td>
