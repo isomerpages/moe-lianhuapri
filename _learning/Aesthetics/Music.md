@@ -56,8 +56,9 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 
 ![](/images/Learning/Music/1young.jpeg)
 
-| <br>![](/images/Learning/Music/2young.jpeg)  |  ![](/images/Learning/Music/3young.jpeg)   | <br>![](/images/Learning/Music/4young.jpeg)     |
-|:---:|:---:|:---:|
+| <br>![](/images/Learning/Music/2young.jpeg) | ![](/images/Learning/Music/3young.jpeg) | <br>![](/images/Learning/Music/4young.jpeg) |
+| -------- | -------- | -------- |
+
 
 
 **Major Programmes**
