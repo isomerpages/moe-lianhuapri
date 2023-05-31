@@ -54,12 +54,10 @@ Singing the self-composed songs creates a sense of pride in students as the song
 
 Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to bond and grow together as a family.
 
-![](/images/Learning/Music/1showtime.JPG)
+![](/images/Learning/Music/1young.jpeg)
 
-| ![](/images/Learning/Music/5showtime.jpg) | ![](/images/Learning/Music/6showtime.jpg)  | 
-| -------- | -------- | 
-|   |   |
-
+| <br>![](/images/Learning/Music/2young.jpeg)  |  ![](/images/Learning/Music/3young.jpeg)   | <br>![](/images/Learning/Music/4young.jpeg)     |
+|:---:|:---:|:---:|
 
 
 **Major Programmes**
@@ -88,12 +86,11 @@ The event serves as a celebration of the efforts that our students have put in d
 
 ‘SHOWTIME!’ is one of Lianhua’s platforms for our budding musicians to showcase their musical talents in front of their peers during recess. Performances range from singing to playing of musical instruments, like the piano and violin. As students perform to an audience, it provides our students with a non-threatening environment for the performers and allows them to develop greater confidence in themselves.
 
-![](/images/Learning/Music/2%20(1)music.jpg)
+![](/images/Learning/Music/1showtime.JPG)
 
-
-| ![](/images/Learning/Music/1music.jpeg)  |  ![](/images/Learning/Music/Showtime_Keyboard%20Performance.jpg)     |
-|:---:|:---:|
-|  ![](/images/Learning/Music/Showtime_Violin%20Performance.jpg)   | ![](/images/Learning/Music/Showtime_Violin%20Performance%202.jpg)    |
+| ![](/images/Learning/Music/5showtime.jpg) | ![](/images/Learning/Music/6showtime.jpg)  | 
+| -------- | -------- | 
+|   |   |
 
 
 **<u>LHPS Song List</u>**
