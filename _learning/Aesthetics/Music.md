@@ -55,9 +55,12 @@ Singing the self-composed songs creates a sense of pride in students as the song
 Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to bond and grow together as a family.
 
 ![](/images/Learning/Music/1showtime.JPG)
-|||
-|:---:|:---:|
-|  ![](/images/Learning/Music/5showtime.jpg)   | ![](/images/Learning/Music/6showtime.jpg)    |
+
+| ![](/images/Learning/Music/5showtime.jpg) | ![](/images/Learning/Music/6showtime.jpg)  | 
+| -------- | -------- | 
+|   |   |
+
+
 
 **Major Programmes**
 
