@@ -54,37 +54,44 @@ Singing the self-composed songs creates a sense of pride in students as the song
 
 Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhua Primary School, as long as we cherish music and song, we will continue to bond and grow together as a family.
 
+![](/images/Learning/Music/1young.jpeg)
+
+| <br>![](/images/Learning/Music/2young.jpeg) | ![](/images/Learning/Music/3young.jpeg) | <br>![](/images/Learning/Music/4young.jpeg) |
+| -------- | -------- | -------- |
 |||
-|:---:|:---:|
-|  ![](/images/Learning/Music/Anniversary%20Song%20This%20is%20where%20we%20start%20_%20LHPS%20Recording%20studio.jpg)   | <img src="/images/Learning/Music/Singing%20Festival%20Recording%20@%20LHPS%20Recording%20Studio.jpg" style="width:63%">    |
 
 
 **Major Programmes**
 
 **<u>P1 &amp; P2 Shining Artz Celebration</u>**
 
+
 The P1 &amp; P2 Shining Artz Celebration provides a platform for our students to perform on stage in front of an audience, largely made up of their parents. This is to build up their confidence level and to showcase what they have learned during the music lessons.&nbsp;
 
 Through the process of preparing for the event, values such as ‘diligence’, ‘resilience’, ‘compassion’ and ‘unity’ are inculcated in our students.
 
-In addition to musical performances, our students’ visual art works are also displayed.&nbsp; These masterpieces are the final products of what they have been working on during their art lessons. The event serves as a celebration of the efforts that our students have put into the mastery of art.**
+In addition to the musical performances, our students’ visual art works are also displayed.&nbsp; These masterpieces are the final products of what they have been working on during their art lessons.&nbsp;
+
+The event serves as a celebration of the efforts that our students have put in during their music and art lessons.
 
 
-| ![](/images/Learning/Music/Shining%20Artz%20Performance%202.jpg)  |  ![](/images/Learning/Music/Shining%20Artz%20Performance%201.jpg)     |
+| ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
 |:---:|:---:|
-|  ![](/images/Learning/Music/Shining%20Art%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
+|  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
+| ![](/images/Learning/Music/5shining.JPG)   | ![](/images/Learning/Music/6shining.JPG)    |
+|  ![](/images/Learning/Music/7shining.JPG)   | ![](/images/Learning/Music/8shining.JPG)    |
+| ![](/images/Learning/Music/11shining.JPG)   | ![](/images/Learning/Music/12shining.JPG)    | 
 
 
 **<u>Showtime!</u>**
 
 ‘SHOWTIME!’ is one of Lianhua’s platforms for our budding musicians to showcase their musical talents in front of their peers during recess. Performances range from singing to playing of musical instruments, like the piano and violin. As students perform to an audience, it provides our students with a non-threatening environment for the performers and allows them to develop greater confidence in themselves.
 
-![](/images/Learning/Music/2%20(1)music.jpg)
+![](/images/Learning/Music/1showtime.JPG)
 
-
-| ![](/images/Learning/Music/1music.jpeg)  |  ![](/images/Learning/Music/Showtime_Keyboard%20Performance.jpg)     |
-|:---:|:---:|
-|  ![](/images/Learning/Music/Showtime_Violin%20Performance.jpg)   | ![](/images/Learning/Music/Showtime_Violin%20Performance%202.jpg)    |
+| ![](/images/Learning/Music/5showtime.jpg) | ![](/images/Learning/Music/6showtime.jpg)  | 
+| -------- | -------- | 
+|   |   |
 
 
 **<u>LHPS Song List</u>**
