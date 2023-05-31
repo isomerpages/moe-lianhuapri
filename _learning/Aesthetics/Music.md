@@ -63,16 +63,22 @@ Songs raise people's spirits and bring forth hope and joy to everyone. At Lianhu
 
 **<u>P1 &amp; P2 Shining Artz Celebration</u>**
 
+
 The P1 &amp; P2 Shining Artz Celebration provides a platform for our students to perform on stage in front of an audience, largely made up of their parents. This is to build up their confidence level and to showcase what they have learned during the music lessons.&nbsp;
 
 Through the process of preparing for the event, values such as ‘diligence’, ‘resilience’, ‘compassion’ and ‘unity’ are inculcated in our students.
 
-In addition to musical performances, our students’ visual art works are also displayed.&nbsp; These masterpieces are the final products of what they have been working on during their art lessons. The event serves as a celebration of the efforts that our students have put into the mastery of art.**
+In addition to the musical performances, our students’ visual art works are also displayed.&nbsp; These masterpieces are the final products of what they have been working on during their art lessons.&nbsp;
+
+The event serves as a celebration of the efforts that our students have put in during their music and art lessons.
 
 
-| ![](/images/Learning/Music/Shining%20Artz%20Performance%202.jpg)  |  ![](/images/Learning/Music/Shining%20Artz%20Performance%201.jpg)     |
+| ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
 |:---:|:---:|
-|  ![](/images/Learning/Music/Shining%20Art%20Performance%204.jpg)   | ![](/images/Learning/Music/Shining%20Artz%20Performance%203.jpg)    |
+|  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
+| ![](/images/Learning/Music/5shining.JPG)   | ![](/images/Learning/Music/6shining.JPG)    |
+|  ![](/images/Learning/Music/7shining.JPG)   | ![](/images/Learning/Music/8shining.JPG)    |
+| ![](/images/Learning/Music/9shining.JPG)   | ![](/images/Learning/Music/10shining.JPG)    | ![](/images/Learning/Music/11shining.JPG)    | ![](/images/Learning/Music/12shining.JPG)    | 
 
 
 **<u>Showtime!</u>**
