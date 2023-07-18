@@ -5,4 +5,4 @@ description: ""
 ---
 # Our Vision, Mission, Values, Motto & Culture
 
-![](/images/About%20us/LCSuperheroes.jpg)
+![](/images/About%20us/newvmm.jpeg)
