@@ -9,4 +9,4 @@ Mobile: +65 9023 1486
 Email: Lianhua@Shgstudentcare.Com.Sg
 
 
-![](/images/About%20us/scc%20new.jpg)
+![](/images/About%20us/Student%20Care%20Centre/sccnew.jpg)
