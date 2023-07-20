@@ -60,7 +60,7 @@ third_nav_title: Our Family
 	  <tr>
 	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Mdm%20Po%20Mun%20Ying.jpg"> Mdm Po Mun Ying<br>LH Science (Covering) </td>
    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20pri_Mr%20Ramadhan.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Tan.jpg"> Mdm Tan Xiaohua<br>SH ICT (Covering)  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Tan.jpg"> Mdm Tan Xiaohui<br>SH ICT (Covering)  </td>
     <td width="250px" style="text-align: center;"></td>
     <td width="250px" style="text-align: center;"></td>
   </tr>
