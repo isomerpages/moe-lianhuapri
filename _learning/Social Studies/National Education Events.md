@@ -10,7 +10,7 @@ third_nav_title: Social Studies
 
 Lianhua Primary School commemorated Racial Harmony Day on Tuesday, 18th July 2023. The theme for this year is ‘Our Multicultural Mosaic’, which reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. Hence, as part of that theme, our students and teachers were encouraged to wear their traditional costumes to school for that day.
 
-Passionate Learners
+**Passionate Learners**
 
 The session was kicked off by a mass singing session. Voices intertwined, filling the air as students and&nbsp; alike sang our school’s self-composed song, ‘Diversity’, and the classic song about Friendship, ‘The More We Get Together’, in our four national languages.&nbsp;
 
@@ -18,7 +18,7 @@ This was followed by a cultural fashion talk as seven Primary Three students sha
 
 This was followed by a quiz segment to engage students and help them to better understand the importance of racial harmony in Singapore.&nbsp;
 
-Creative and Critical Thinkers
+**Creative and Critical Thinkers**
 
 The school buzzed with excitement as students immersed themselves in the variety of engaging activities planned for them.
 
@@ -30,7 +30,7 @@ At another station, our students had to explore ways of picking up marbles using
 
 Finally, at the Indian Cultural booth, they challenged their senses by guessing the types of Indian spices. Apart from creativity, these activities also fostered cultural appreciation, curiosity, and a spirit of inclusivity among our students.
 
-Confident Communicators
+**Confident Communicators**
 
 At the end of the week, during CCE (FTGP) lessons, students were engaged in meaningful conversation about the significance of Racial Harmony and how it could be applied into our daily lives.&nbsp;
 
