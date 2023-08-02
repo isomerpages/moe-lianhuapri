@@ -37,7 +37,7 @@ At the end of the week, during CCE (FTGP) lessons, students were engaged in mean
 This discussion was triggered using videos and facilitated through cooperative learning strategies in the class and the focus was on the importance of being mindful of the cultural differences in Singapore so that we can express our cultural identities freely and respectfully. Students were also encouraged to share what they had learnt with their family as part of Lianhua’s Family Education.
 
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQaXwGRE1vYpWUPGrF6tNnHQAdRU2v1DnXK75R1308zrHXVnrEZIZqfBnbjcqxQdBxeUx9flwgpgNv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 
@@ -61,7 +61,7 @@ As the show came to a close, the audience united in a rousing rendition of Shine
 
 Catch their excitement and enthusiasm below!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRP0WFRec9adBR7RtNi7JxutHjaPtQ4RFEJ2SJm5KFZTQeGsxVJ-8N9tVwc0eZa2PQza4kmAjbheb9n/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRP0WFRec9adBR7RtNi7JxutHjaPtQ4RFEJ2SJm5KFZTQeGsxVJ-8N9tVwc0eZa2PQza4kmAjbheb9n/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 
@@ -94,7 +94,7 @@ The IFD@LHPS experiences were brought back to the classrooms when the teachers r
 
 The challenge for all of us now is to be exemplary ambassadors for Singapore, both as a host to the international students both amongst us, as well as to students on exchange programmes visiting our school. To achieve this, which school values do you think are essential for our students to learn?
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS51HkDj3GH3rSnxJa8WkzqMXBeiJ39hvxO2apbhuJ_QemUkmROft8F-xWy2iIttttKFR1gDA5BKQt1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS51HkDj3GH3rSnxJa8WkzqMXBeiJ39hvxO2apbhuJ_QemUkmROft8F-xWy2iIttttKFR1gDA5BKQt1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### **Total Defence Day**&nbsp;
 
@@ -118,4 +118,4 @@ Recess activities were specially designed for the students to express their unde
 
 A surprise fire drill was conducted in the early Tuesday morning this week. The drill seemed so real that some students were seen crying during the fire evacuation. Staff and students were also seen supporting those who are emotionally affected. Everybody managed to evacuate safely within 11 minutes 35 seconds. At the end of the drill, everyone understood the importance of taking care of self and others in times of emergency. Everyone agreed that the school will try to evacuate within 10 minutes in the next fire drills.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqWRID2hVsYscLRHo5_xob06NTnjagdz8y2_raYmKMSB2oehpdEgG9Vy9jM2eMss1vmRenyHqksZqg/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
