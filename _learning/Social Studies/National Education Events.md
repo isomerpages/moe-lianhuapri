@@ -6,6 +6,70 @@ third_nav_title: Social Studies
 ---
 # **National Education Events**
 
+#### **Racial Harmony Day 2023**
+
+Lianhua Primary School commemorated Racial Harmony Day on Tuesday, 18th July 2023. The theme for this year is ‘Our Multicultural Mosaic’, which reflects how each community, while having the space to express its own identity as part of Singapore society, also intertwines with others to depict the unique cultural diversity that characterises Singapore life. Hence, as part of that theme, our students and teachers were encouraged to wear their traditional costumes to school for that day.
+
+**Passionate Learners**
+
+The session was kicked off by a mass singing session. Voices intertwined, filling the air as students and&nbsp; alike sang our school’s self-composed song, ‘Diversity’, and the classic song about Friendship, ‘The More We Get Together’, in our four national languages.&nbsp;
+
+This was followed by a cultural fashion talk as seven Primary Three students shared about their traditional ethnic costumes. Next, a skit, titled “Singapore through my eyes” was performed. The skit showed us how our students’ sense of cultural identity was expressed in their daily lives, and it served to remind us that even in our diversity, much exists to unite us. In addition, as we progress towards the future together, to continue to be united, we will need to be culturally sensitive to such differences.&nbsp;
+
+This was followed by a quiz segment to engage students and help them to better understand the importance of racial harmony in Singapore.&nbsp;
+
+**Creative and Critical Thinkers**
+
+The school buzzed with excitement as students immersed themselves in the variety of engaging activities planned for them.
+
+Coincidentally, six students and two teachers from Xi’an Veritas School, China, were the special guests of the day, and they were invited to take part in the activities. It was truly an eye-opener for them as they immersed themselves in the festivities and games, which showcased the richness and diversity of Singapore’s cultural heritage.
+
+The school grounds transformed into a cultural playground during recess as students enthusiastically engaged in traditional games and activities. The participants had to find ways and means to overcome different challenges such as keeping a feathered shuttlecock in the air as long as possibly by kicking it up with different parts of the body in the game of chapteh.&nbsp;
+
+At another station, our students had to explore ways of picking up marbles using chopsticks, while at the photo booth, they were invited to commemorate the occasion by taking a photo with a friend or two.&nbsp;
+
+Finally, at the Indian Cultural booth, they challenged their senses by guessing the types of Indian spices. Apart from creativity, these activities also fostered cultural appreciation, curiosity, and a spirit of inclusivity among our students.
+
+**Confident Communicators**
+
+At the end of the week, during CCE (FTGP) lessons, students were engaged in meaningful conversation about the significance of Racial Harmony and how it could be applied into our daily lives.&nbsp;
+
+This discussion was triggered using videos and facilitated through cooperative learning strategies in the class and the focus was on the importance of being mindful of the cultural differences in Singapore so that we can express our cultural identities freely and respectfully. Students were also encouraged to share what they had learnt with their family as part of Lianhua’s Family Education.
+
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQaXwGRE1vYpWUPGrF6tNnHQAdRU2v1DnXK75R1308zrHXVnrEZIZqfBnbjcqxQdBxeUx9flwgpgNv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+
+#### **P5 NE Show 2023**
+
+The National Education (NE) show is a rite of passage for Primary 5 students in Singapore and this year, Lianhua’s students went for their NE show on the 15th July. The show was held at The Padang, just like the very first National Day Parade in 1966.&nbsp;
+
+The air was filled with excitement, and everyone was eager to partake in the festivities and embrace the spirit of patriotism. The atmosphere was electric, as our students gathered, adorned in red tops. The sea of vibrant colours, coupled with the infectious smiles and cheerful chatter of the students, created an ambiance of unity and national pride.
+
+This year’s NE show is titled, “Building Our Shared Future As One”, and celebrates the diversity that forms the basis and fabric of our Singaporean identity and resilience as a nation. It comprises four live Acts, interwoven with three short films. The films feature Singaporeans and tell of their&nbsp; dreams, passions, aspirations and of their giving back to society.&nbsp;
+
+The “Defending Our Nation as One” segment was also an eye-opener to all of us. It comprised the Parade and Ceremony (P&amp;C) and Total Defence Parade (TDP). Our students enjoyed the full-scale physical parade tremendously. The military tattoo performance featuring the combined talents of the SAF and SPF Bands, along with the combined schools’ band, as well as the choir music video, were also some of the crowd favourites.&nbsp;
+
+Next up were the cultural performances, which showcased the vibrant multicultural heritage of Singapore. Performers from different ethnic groups performed traditional and contemporary pieces, reflecting the diversity and unity of the nation.
+
+The aerial displays by the Republic of Singapore Air Force (RSAF), featuring precision maneuvers, flypasts, and landings by the Red Lions parachutists, wowed our students and teachers.&nbsp;
+
+However, the feather on the cap was, as always, the spectacular fireworks display, symbolising the nation’s progress and aspirations, that illuminated the Singapore skyline.
+
+As the show came to a close, the audience united in a rousing rendition of Shine Your Light. Overall, NE show 2023 would no doubt be a memory to cherish, especially for our Primary 5 students and teachers! This experience has stirred up a renewed sense of love and patriotism for our country.
+
+Catch their excitement and enthusiasm below!
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRP0WFRec9adBR7RtNi7JxutHjaPtQ4RFEJ2SJm5KFZTQeGsxVJ-8N9tVwc0eZa2PQza4kmAjbheb9n/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+
+
+
+
+
+
 #### **INTERNATIONAL FRIENDSHIP DAY 2023**
 
 Lianhua Primary School commenced the commemoration of the International Friendship Day (IFD) on Tuesday, 4 April 2023. The IFD commemoration lasted til 14 April 2023. In line with this year’s theme–‘Singapore in Asia’, IFD@LHPS conducted programmes which focused on our diverse and colourful cultural identities, through which our students could foster the spirit of friendship, cooperation, and connectedness.&nbsp;
