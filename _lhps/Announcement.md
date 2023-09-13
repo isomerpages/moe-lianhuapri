@@ -5,8 +5,11 @@ description: ""
 ---
 # Announcement
 
-#### Open House 2023 
+#### Caring Teacher Award 2024
 
-Date: 27 May 2023 (Saturday)<br>
-Time: 9:00am to 11:00am
-![](/images/Lphs/lhps%20open%20house%202023%20poster.png)
+ 
+Dear Students, Parents and Educators,
+
+Nomination for the Caring Teacher Award 2024 is now open. You can nominate deserving teachers for the award via online submission at [https://www.cta.nie.edu.sg/home.](https://www.cta.nie.edu.sg/home) Deadline for submission is 12 January 2024.
+
+![](/images/caringteacheraward2024.jpg)
