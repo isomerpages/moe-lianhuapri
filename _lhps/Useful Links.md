@@ -26,7 +26,7 @@ description: ""
   <tr>
     <td><a href="https://www.hrp.gov.sg/hrp/#/" target="_blank"> <img src="/images/Lphs/HRP.png" style="width:100px"></a></td>
     <td><a href="https://member.koobits.com/" target="_blank"> <img src="/images/Lphs/koobits.png" style="width:100px"></a></td>
-		  <td><a href="https://schoolibrary.moe.edu.sg/Lianhuapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" target="_blank"> <img src="/images/ubfbox_transparent.jpg" style="width:100px"></a></td>
+		  <td><a href=")" target="_blank"> <img src="/images/ubfbox_transparentnew.jpg" style="width:100px"></a></td>
     <td></td>
     <td></td>
     <td></td>
