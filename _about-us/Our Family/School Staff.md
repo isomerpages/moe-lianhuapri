@@ -3,6 +3,7 @@ title: School Staff
 permalink: /about-us/our-family/school-staff/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 # School Staff
 <br>
@@ -39,7 +40,7 @@ third_nav_title: Our Family
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xir6">Year Head (P1 &amp; P6) </th>
+    <th class="tg-xir6">Year Head (P1, P2 &amp; P6) </th>
     <th class="tg-mtj8">Mrs Samantha Soh-Lee</th>
     <th class="tg-ztfi"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></th>
   </tr>
@@ -79,51 +80,48 @@ third_nav_title: Our Family
   </tr>
 </thead>
 <tbody>
+
   <tr>
-    <td class="tg-8q31">1 Compassion</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Fatimah Sajidah</span><br><span style="color:inherit;background-color:transparent">Mdm Ruth Lai</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a><br></td>
+    <td class="tg-8q31">1 Discipline 1</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Miss Alyssa Poh</span><br><span style="color:inherit;background-color:transparent">Mdm Azizah Bte Mohd Ali</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">Poh_Jing_Wen_Alyssa@moe.edu.sg</span></a><br><a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">1 Diligence</td>
+    <td class="tg-8q31">1 Discipline 2</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Siti Nuraini</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_nuraini_mustaqiim_yusof@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-8q31">1 Discipline 3</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Kong Kam Foong</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:kong_kam_foong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_kam_foong@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>	
+	<tr>
+    <td class="tg-8q31">1 Discipline 4</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Kong Kam Foong</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:kong_kam_foong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_kam_foong@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+<tr>
+    <td class="tg-8q31">1 Discipline 5</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Kong Kam Foong</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:kong_kam_foong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_kam_foong@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-8q31">1 Discipline 6</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Kong Kam Foong</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
     <td class="tg-ztfi"><a href="mailto:kong_kam_foong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_kam_foong@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-8q31">1 Discipline</td>
+    <td class="tg-8q31">1 Discipline 7</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Shanthini</span><br><span style="color:inherit;background-color:transparent">Ms Chiong Liling Alena</span><br></td>
     <td class="tg-ztfi"><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:chiong_li_ling_alena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chiong_li_ling_alena@moe.edu.sg</span></a><br></td>
   </tr>
-  <tr>
-    <td class="tg-8q31">1 Excellence</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Clara Tan</span><br><span style="color:inherit;background-color:transparent">Ms Shafira Binte Zailani</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a><br></td>
+	<tr>
+    <td class="tg-8q31">1 Discipline 8</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Kong Kam Foong</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:kong_kam_foong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_kam_foong@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-8q31">1 Honesty</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Ho Sheu Yun</span><br><span style="color:inherit;background-color:transparent">Miss Arshvini</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:ho_sheu_yun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ho_sheu_yun@moe.edu.sg</span></a><br><a href="mailto:arshvini_paulose_manohar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">arshvini_paulose_manohar@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-8q31">1 Joy</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Rabia</span><br><span style="color:inherit;background-color:transparent">Mrs Tay Peck San</span>    <br></td>
-    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-8q31">1 Loyalty</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Ma Su Lin</span><br><span style="color:inherit;background-color:transparent">Ms Norlieza Bte Ahmad</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-8q31">1 Resilience</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Norlailawati Bte Osman</span><br><span style="color:inherit;background-color:transparent">Mdm Lee Qian Ren</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-8q31">1 Unity</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Lee Peir Chuang</span><br><span style="color:inherit;background-color:transparent">Mdm Ramzaniah Lateh</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
-  </tr>
+  
 </tbody>
 </table>
 </p></div></li><li>
