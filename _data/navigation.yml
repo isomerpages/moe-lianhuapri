@@ -1,0 +1,27 @@
+logo: /images/schoollogo1.jpg
+links:
+  - title: ABOUT US
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message
+      - title: Our Story
+        url: /about-us/our-story
+      - title: Our Family
+        url: /about-us/our-family/school-advisory-commitee
+      - title: Vision, Mission, Values, Motto
+        url: /about-us/our-vision-mission-values-motto-n-culture
+      - title: Our School Crest & Song
+        url: /about-us/our-school-crest-n-song
+      - title: Contact Us
+        url: /about-us/contact-us/school-address-and-useful-contacts
+  - title: Highlights
+    collection: highlights
+  - title: Learning
+    collection: learning
+  - title: CCAs
+    collection: ccas
+  - title: For Parents
+    collection: for-parents
+  - title: LHPS Superheros
+    collection: potential-parents-and-students

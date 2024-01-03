@@ -1,0 +1,19 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Homework Policy.md
+      - School Info/.keep
+      - School Info/School Hours & Recess Timings.md
+      - School Info/School Rules & Regulations.md
+      - School Info/School Bookshop & Uniforms.md
+      - School Info/School Bus.md
+      - School Info/School Dental.md
+      - School Info/Student Care Centre.md
+      - MOE Sexuality Education.md
+      - Resources.md
+      - Parent Support Group & Parent Volunteers.md
+      - Assessments & Examinations/.keep
+      - Assessments & Examinations/Schedule.md
+      - Assessments & Examinations/Assessments Guidelines.md
+      - Forms.md

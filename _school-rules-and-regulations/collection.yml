@@ -1,0 +1,9 @@
+collections:
+  school-rules-and-regulations:
+    output: true
+    order:
+      - Code of Conduct.md
+      - Safety & Security.md
+      - Student Wellbeing.md
+      - National Anthem & Pledge.md
+      - School Attire.md

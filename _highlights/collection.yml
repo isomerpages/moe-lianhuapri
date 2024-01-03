@@ -1,0 +1,12 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Superheroes Vision.md
+      - Students in Action/.keep
+      - Students in Action/Project Smile.md
+      - Students in Action/LHPS Eco Stewardship.md
+      - Students in Action/LHPS Passion Project.md
+      - Students in Action/Morning Jukebox.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md

@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Story.md
+      - Our Family/.keep
+      - Our Family/School Advisory Commitee.md
+      - Our Family/School Leaders & School Management Committee.md
+      - Our Family/Executive & Administrative Staff.md
+      - Our Family/School Staff.md
+      - Our Family/Lian Wah Public Library.md
+      - Our Family/Student Care Centre.md
+      - Our Family/Alumni.md
+      - Our Family/Appreciate our Staff.md
+      - Our Vision, Mission, Values, Motto & Culture.md
+      - Our School Crest & Song.md
+      - Contact Us/.keep
+      - Contact Us/School Address and Useful Contacts.md
