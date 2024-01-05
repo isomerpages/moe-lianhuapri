@@ -3,6 +3,7 @@ title: School Leaders & School Management Committee
 permalink: /about-us/our-family/school-leaders-n-school-management-committee/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 # School Leaders &amp; School Management Committee
 <table width="750px">
@@ -20,9 +21,9 @@ third_nav_title: Our Family
     <td width="250px" style="text-align: center;"><img src="/images/mrsmavislow.png">Mrs Mavis Low<br>Vice-Principal </td>
   </tr>
   <tr>
-    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image6.png"> Ms Wang Xiaoxuan<br>Year Head P2 &amp; P3 </td>
-    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/SLM5.jpg"> Mr Matthew Chong<br>Year Head P4 &amp; P5 and HOD ICT (Covering) </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image10.jpg">Mrs Samantha Soh<br>Year Head P1 &amp; P6 </td>
+    <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image6.png"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
+    <td width="250px" style="text-align: center;">  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image10.jpg">Mrs Samantha Soh<br>Year Head P1, P2 &amp; P6 </td>
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image3.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
@@ -36,7 +37,7 @@ third_nav_title: Our Family
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image14.png"> Mr Adib Azad<br>HOD PE-CCA  </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image8.jpg">Mrs Emily Chia<br>SSD</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/SLM5.jpg"> Mr Matthew Chong<br>HOD ICT<img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image8.jpg">Mrs Emily Chia<br>SSD</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image4.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
 	</tr>
   <tr>
@@ -60,7 +61,7 @@ third_nav_title: Our Family
 	  <tr>
 	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua_Mdm%20Po%20Mun%20Ying.jpg"> Mdm Po Mun Ying<br>LH Science (Covering) </td>
    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20pri_Mr%20Ramadhan.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Tan.jpg"> Mdm Tan Xiaohui<br>SH ICT (Covering)  </td>
+    <td width="250px" style="text-align: center;"> </td>
     <td width="250px" style="text-align: center;"></td>
     <td width="250px" style="text-align: center;"></td>
   </tr>
