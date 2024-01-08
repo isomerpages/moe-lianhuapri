@@ -506,27 +506,27 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8q31">5 Compassion</td>
+    <td class="tg-8q31">5 Unity 1</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Gracia Ee En</span><br><span style="color:inherit;background-color:transparent">Ms Toh Bee Hong</span><br></td>
     <td class="tg-ztfi"><a href="mailto:gracia_ee_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">gracia_ee_en@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">5 Diligence</td>
+    <td class="tg-8q31">5 Unity 2</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Mahesh</span><br><span style="color:inherit;background-color:transparent">Mr Willie Wong</span><br></td>
     <td class="tg-ztfi"><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31">5 Excellence</td>
+    <td class="tg-8q31">5 Unity 3</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Nonis</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel</span><br><span style="color:inherit;background-color:transparent">Ms Lim Chien Ling, Shenlynn</span><br></td>
     <td class="tg-ztfi"><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br><a href="mailto:lim_chien_ling_shenlynn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chien_ling_shenlynn@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31">5 Honesty</td>
+    <td class="tg-8q31">5 Unity 4</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Edelyn Lee Jieying</span><br><span style="color:inherit;background-color:transparent">Mdm Subathra D/O Govindasamy</span><br></td>
     <td class="tg-ztfi"><a href="mailto:lee_jieying_edelyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_jieying_edelyn@moe.edu.sg</span></a><br><a href="mailto:subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">5 Resilience</td>
+    <td class="tg-8q31">5 Unity 5</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Brenda Sin</span><br><span style="color:inherit;background-color:transparent">Ms Tan Li Yan</span><br></td>
     <td class="tg-ztfi"><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
