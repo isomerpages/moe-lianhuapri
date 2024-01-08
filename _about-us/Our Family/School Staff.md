@@ -406,8 +406,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 2</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Wong Jinxing Dennis</span><br><span style="color:inherit;background-color:transparent">Ms Chen Yimeng Vivian</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:wong_jinxing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jinxing@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Ng Ziqian Jolene</span><br><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:ng_ziqian_jolene@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ng_ziqian_jolene@moe.edu.sg</span></a><br><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 3</td>
