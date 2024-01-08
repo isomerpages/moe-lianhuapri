@@ -309,8 +309,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 3</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Alexis Pua</span><br><span style="color:inherit;background-color:transparent">Ms Yang Fan</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Emily Chia</span><br><span style="color:inherit;background-color:transparent">Ms Arshvini Paulose Manohar</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:arshvini_paulose_manohar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">arshvini_paulose_manohar@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 4</td>
