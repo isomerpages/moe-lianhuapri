@@ -224,8 +224,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 9</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Masrini Samsi</span><br><span style="color:inherit;background-color:transparent">Mr Tan Chin Chuan</span>
-    </td><td class="tg-ztfi"><a href="mailto:masrini_samsi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">masrini_samsi@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Lee Peir Chuang</span><br><span style="color:inherit;background-color:transparent">Mr Mohammad Faizal Bin Ismail</span>
+    </td><td class="tg-ztfi"><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
