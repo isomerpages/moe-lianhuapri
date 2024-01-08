@@ -426,8 +426,8 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-8q31">4 Integrity 6</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
-    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Jalifah Bte Ismail</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
+    <td class="tg-ztfi"><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span><br></a><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-8q31">4 Integrity 7</td>
