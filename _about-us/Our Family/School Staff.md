@@ -416,8 +416,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 4</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Chua Yi Ling (Mrs Ho)</span><br><span style="color:inherit;background-color:transparent">Mdm Juliswati Bte Samad</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:chua_yi_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_yi_ling@moe.edu.sg</span></a><br><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Zainul Bin Rahim Shaffee</span><br><span style="color:inherit;background-color:transparent">Mdm Maggie Fong Pui Yi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 5</td>
