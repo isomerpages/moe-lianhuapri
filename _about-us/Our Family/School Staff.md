@@ -204,8 +204,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 5</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Shanice</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Pek Peet Juan Shanice</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 6</span></td>
