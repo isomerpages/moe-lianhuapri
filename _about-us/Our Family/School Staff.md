@@ -608,8 +608,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">6 Resilience 2</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Sheena</span> Foo<br><span style="color:inherit;background-color:transparent">Mdm Rosnah Binte Rosman</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Selva Rani D/O Adekalo Japalla</span> Foo<br><span style="color:inherit;background-color:transparent">Mr Willie Wong Weng Seng</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31">6 Resilience 3</td>
