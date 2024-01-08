@@ -83,7 +83,7 @@ variant: markdown
 
   <tr>
     <td class="tg-8q31">1 Discipline 1</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Miss Alyssa Poh</span><br><span style="color:inherit;background-color:transparent">Mdm Azizah Bte Mohd Ali</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms  Poh Jing Wen Alyssa</span><br><span style="color:inherit;background-color:transparent">Mdm Azizah Bte Mohd Ali</span><br></td>
     <td class="tg-ztfi"><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">Poh_Jing_Wen_Alyssa@moe.edu.sg</span></a><br><a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
