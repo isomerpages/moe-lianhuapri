@@ -522,8 +522,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">5 Unity 4</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Edelyn Lee Jieying</span><br><span style="color:inherit;background-color:transparent">Mdm Subathra D/O Govindasamy</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:lee_jieying_edelyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_jieying_edelyn@moe.edu.sg</span></a><br><a href="mailto:subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Wong Jinxing Dennis</span><br><span style="color:inherit;background-color:transparent">Mdm Masrini Binte Samsi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:wong_jinxing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jinxing@moe.edu.sg</span></a><br><a href="mailto:masrini_samsi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">masrini_samsi@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">5 Unity 5</td>
