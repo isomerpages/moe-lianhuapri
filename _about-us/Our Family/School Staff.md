@@ -421,8 +421,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 5</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
-    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Choo Yen Leng Josephine</span><br><span style="color:inherit;background-color:transparent">Mdm Juliswati Bte Samad</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a><br><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"></a></td>
   </tr>
 	<tr>
     <td class="tg-8q31">4 Integrity 6</td>
