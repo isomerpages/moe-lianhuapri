@@ -314,8 +314,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 4</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Lee Sok Ngee Pauline</span><br><span style="color:inherit;background-color:transparent">Ms Liu Chang</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Lee Sok Ngee Pauline</span><br><span style="color:inherit;background-color:transparent">Mdm Ramzaniah Binti Lateh</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 5</td>
