@@ -304,8 +304,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 2</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Adib Azad Jasman</span><br><span style="color:inherit;background-color:transparent">Ms Maggie Fong</span><br><span style="color:inherit;background-color:transparent">Ms Ng Ziqian Jolene</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a><br><a href="mailto:ng_ziqian_jolene@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ng_ziqian_jolene@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 3</td>
