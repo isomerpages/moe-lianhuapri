@@ -400,30 +400,41 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8q31">4 Compassion</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Vincent Low Teck Chye</span><br><span style="color:inherit;background-color:transparent">Mdm Tan Xiaohui</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">low_teck_chye_vincent@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a><br></td>
+    <td class="tg-8q31">4 Integrity 1</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Rachel Koh Bao Qin</span><br><span style="color:inherit;background-color:transparent">Mdm Lin Jun</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:koh_bao_qin_rachel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_bao_qin_rachel@moe.edu.sg</span></a><br><a href="mailto:lin_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lin_jun@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">4 Diligence</td>
+    <td class="tg-8q31">4 Integrity 2</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Wong Jinxing Dennis</span><br><span style="color:inherit;background-color:transparent">Ms Chen Yimeng Vivian</span><br></td>
     <td class="tg-ztfi"><a href="mailto:wong_jinxing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jinxing@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31">4 Excellence</td>
+    <td class="tg-8q31">4 Integrity 3</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Lim Soon Wei</span><br><span style="color:inherit;background-color:transparent">Ms Ong See See</span><br></td>
     <td class="tg-ztfi"><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:ong_see_see_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ong_see_see_a@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">4 Honesty</td>
+    <td class="tg-8q31">4 Integrity 4</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Chua Yi Ling (Mrs Ho)</span><br><span style="color:inherit;background-color:transparent">Mdm Juliswati Bte Samad</span><br></td>
     <td class="tg-ztfi"><a href="mailto:chua_yi_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_yi_ling@moe.edu.sg</span></a><br><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">4 Resilience</td>
+    <td class="tg-8q31">4 Integrity 5</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
     <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
   </tr>
+	<tr>
+    <td class="tg-8q31">4 Integrity 6</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
+    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
+  </tr>
+	<tr>
+    <td class="tg-8q31">4 Integrity 7</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Fadial B Jamaludin</span><br><span style="color:inherit;background-color:transparent">Ms Pauline Lee</span><br><span style="color:inherit;background-color:transparent">Mr Sim Wee Choon</span></td>
+    <td class="tg-ztfi"><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a><br><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a><br></td>
+  </tr>
+	
 </tbody>
 </table>
   
