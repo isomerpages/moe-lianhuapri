@@ -602,22 +602,27 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8q31">6 Joy</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Khilfina</span><br><span style="color:inherit;background-color:transparent">Mrs Emily Chia</span><br><span style="color:inherit;background-color:transparent">Mr Mohammad Faizal Bin Ismail</span></td>
-    <td class="tg-ztfi"><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
+    <td class="tg-8q31">6 Resilience 1</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Gracia Ee En</span><br><span style="color:inherit;background-color:transparent">Ms Toh Bee Hong</span></td>
+    <td class="tg-ztfi"><a href="mailto:gracia_ee_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">gracia_ee_en@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31">6 Diligence</td>
+    <td class="tg-8q31">6 Resilience 2</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Sheena</span> Foo<br><span style="color:inherit;background-color:transparent">Mdm Rosnah Binte Rosman</span><br></td>
     <td class="tg-ztfi"><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31">6 Honesty</td>
+    <td class="tg-8q31">6 Resilience 3</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Ms Koh Wan Ting</span><br></td>
     <td class="tg-ztfi"><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31">6 Resilience</td>
+    <td class="tg-8q31">6 Resilience 4</td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Ramadhan</span><br><span style="color:inherit;background-color:transparent">Ms Elizabeth Wok</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a><br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-8q31">6 Resilience 5</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Ramadhan</span><br><span style="color:inherit;background-color:transparent">Ms Elizabeth Wok</span><br></td>
     <td class="tg-ztfi"><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a><br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a></td>
   </tr>
