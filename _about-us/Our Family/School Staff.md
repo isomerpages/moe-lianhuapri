@@ -411,8 +411,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 3</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Lim Soon Wei</span><br><span style="color:inherit;background-color:transparent">Ms Ong See See</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:ong_see_see_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ong_see_see_a@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Wok Li Jun, Elizabeth</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah Binte Johari</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 4</td>
