@@ -199,8 +199,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 4</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Clara Tan Yi Jun</span><br><span style="color:inherit;background-color:transparent">Mdm Lee Gim Fang</span></td>
-    <td class="tg-ztfi"><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Clara Tan Yi Jun</span><br><span style="color:inherit;background-color:transparent">Ms Shafira Binte Zailani</span></td>
+    <td class="tg-ztfi"><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Honesty</span></td>
