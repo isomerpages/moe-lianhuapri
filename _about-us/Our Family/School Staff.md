@@ -263,7 +263,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P2 &amp; P3) </td>
+    <td class="tg-30r1">Year Head (P3, P4 &amp; P5 ) </td>
     <td class="tg-lsa6">Ms Wang Xiaoxuan</td>
     <td class="tg-frjl"><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -369,9 +369,9 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P4 &amp; P5) </td>
-    <td class="tg-lsa6">Mr Matthew Chong</td>
-    <td class="tg-frjl"><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a></td>
+    <td class="tg-30r1">Year Head (P3, P4 &amp; P5 ) </td>
+    <td class="tg-lsa6">Ms Wang Xiaoxuan</td>
+    <td class="tg-frjl"><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
 </thead>
 </table>
