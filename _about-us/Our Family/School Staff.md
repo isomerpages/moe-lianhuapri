@@ -618,13 +618,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">6 Resilience 4</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Ramadhan</span><br><span style="color:inherit;background-color:transparent">Ms Elizabeth Wok</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a><br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Lee Jieying Edelyn</span><br><span style="color:inherit;background-color:transparent">Mdm Subathra D/O Govindasamy</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:lee_jieying_edelyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_jieying_edelyn@moe.edu.sg</span></a><br><a href="mailto:subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-8q31">6 Resilience 5</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Ramadhan</span><br><span style="color:inherit;background-color:transparent">Ms Elizabeth Wok</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a><br><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Woan Shu Pei Brenda</span><br><span style="color:inherit;background-color:transparent">Ms Tan Li Yan</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
