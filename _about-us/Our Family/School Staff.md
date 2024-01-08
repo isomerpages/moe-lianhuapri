@@ -114,7 +114,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">1 Discipline 7</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Samantha Liew</span><br><span style="color:inherit;background-color:transparent">Ms B Reqha Trixie</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Samantha Liew-Kong Yue Ping</span><br><span style="color:inherit;background-color:transparent">Mdm B Reqha Trixie</span><br></td>
     <td class="tg-ztfi"><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
