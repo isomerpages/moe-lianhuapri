@@ -324,8 +324,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 6</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Jalifah Bte Ismail</span><br><span style="color:inherit;background-color:transparent">Ms Soh Fang Ying</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:soh_fang_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">soh_fang_ying@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Lim Soon Wei</span><br><span style="color:inherit;background-color:transparent">Mdm Woo Yeong Yi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a><br></td>
   </tr>
   
 </tbody>
