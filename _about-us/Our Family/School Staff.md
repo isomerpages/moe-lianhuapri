@@ -203,19 +203,19 @@ variant: markdown
     <td class="tg-ztfi"><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Honesty</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Fatimah</span><br><span style="color:inherit;background-color:transparent">Mdm Yeong Yi Woo</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a><br></td>
+    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 5</span></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Shanice</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Loyalty</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Noor Dayana Mohd Saleh</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
+    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 6</span></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Resilience</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mrs Samantha Liew</span><br><span style="color:inherit;background-color:transparent">Mdm Norhayati Ruhani</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a><br></td>
+    <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 7</span></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Ma Su Lin Jacqueline</span><br><span style="color:inherit;background-color:transparent">Mdm Norlieza Bte Ahmad</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Unity</span></td>
