@@ -209,8 +209,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 6</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf</span><br><span style="color:inherit;background-color:transparent">Mdm Kuan Suan Shi</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a><br></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf</span><br><span style="color:inherit;background-color:transparent">Mrs Tay-Wong Peck San</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 7</span></td>
@@ -319,8 +319,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 5</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Choo Yen Leng Josephine</span><br><span style="color:inherit;background-color:transparent">Mr Kathiravan</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a><br><a href="mailto:kathiravan_murugiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kathiravan_murugiah@moe.edu.sg</span></a><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Siti Aishah Bte Mohd Rasid</span><br><span style="color:inherit;background-color:transparent">Mr Kathiravan</span><br></td>
+    <td class="tg-ztfi"><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:kathiravan_murugiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kathiravan_murugiah@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 6</td>
