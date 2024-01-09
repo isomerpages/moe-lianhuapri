@@ -29,14 +29,6 @@ variant: markdown
 <a href="/files/Forms/2024_P6_Booklist_Standard.pdf" target="_blank">2024 P6 Booklist (Standard)</a><br>
 <a href="/files/Forms/2024_P6_Booklist_Foundation.pdf" target="_blank">2024 P6 Booklist (Foundation)</a>
 
-[2024_P2_Booklist](/files/Forms/2024_P2_Booklist.pdf) <br>
-[2024_P3_Booklist](/files/Forms/2024_P3_Booklist.pdf) <br>
-[2024_P4_Booklist](/files/Forms/2024_P4_Booklist.pdf) <br>
-[2024_P5_Booklist (Standard)](/files/Forms/2024_P5_Booklist__Standard_.pdf) <br>
-[2024_P5_Booklist (Foundation)](/files/Forms/2024_P5_Booklist__Foundation_.pdf) <br>
-[2024_P6_Booklist (Standard)](/files/Forms/2024_P6_Booklist__Standard_.pdf) <br>
-[2024_P6_Booklist (Foundation)](/files/Forms/2024_P6_Booklist__Foundation_.pdf)
-
 
 <a href="/files/Forms/Online%20Consent%20for%20Dental%20Services.pdf" target="_blank">Online Consent for Dental Services.pdf</a>    
 <a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School) .pdf</a>      
