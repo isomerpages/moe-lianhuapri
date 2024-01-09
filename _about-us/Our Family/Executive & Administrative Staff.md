@@ -59,7 +59,8 @@ variant: markdown
 <tbody>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/librarianchua.jpeg"> Mrs Eugenia Chua<br>Librarian</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS16.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td><td width="250px" style="text-align: center;">&lt;&gt;<br><br><br>Mr Joe<br>Desktop Engineer</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMohamadAidilBinMohamadSaleh.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td>
+		<td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
   </tr>
    <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS17.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
