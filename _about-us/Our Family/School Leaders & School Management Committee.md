@@ -17,7 +17,7 @@ variant: markdown
 <tbody>
   <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
+    <td width="340px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal </td>
   </tr>
   <tr>
@@ -26,8 +26,8 @@ variant: markdown
 	<td width="250px" style="text-align: center;"><img>Mdm Siah Siew Ling<br>Year P5 &amp; P6 </td>
   </tr>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Language  </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
   </tr>
   <tr>
@@ -43,17 +43,17 @@ variant: markdown
 	<tr>
 	    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
 		 <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>LH Science </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language  </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Lang </td>
 	</tr>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Language </td>
-		<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science (Covering) </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Lang </td>
+		<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science </td>
    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MrRamadhanBinOmar.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
 		<td></td>
 		</tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi<br>SH Partnership </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra<br>SH ML/TL</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
   </tr>
 	  <tr>
