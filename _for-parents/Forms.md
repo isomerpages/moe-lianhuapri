@@ -2,6 +2,7 @@
 title: Forms
 permalink: /for-parents/forms/
 description: ""
+variant: markdown
 ---
 # Forms
 
@@ -15,13 +16,20 @@ description: ""
 
 ## Service Providers
 
+<a href="/files/Forms/2024_P1_Booklist.pdf" target="_blank">2024 P1 Booklist</a> <br>
+<a href="/files/Forms/2024_P2_Booklist.pdf" target="_blank">2024 P2 Booklist</a>
+<br>
+<a href="/files/Forms/2024_P3_Booklist.pdf" target="_blank">2024 P3 Booklist</a>
+<br>
+<a href="/files/Forms/2024_p4_Booklist.pdf" target="_blank">2024 P4 Booklist</a><br>
+<a href="/files/Forms/2024_p5_booklist_standard.pdf" target="_blank">2024 P5 Booklist (Standard)</a>
+<br>
+<a href="/files/Forms/2024_p5_booklist_foundation.pdf" target="_blank">2024 P5 Booklist (Foundation)</a>
+<br>
+<a href="/files/Forms/2024_p6_booklist_standard.pdf" target="_blank">2024 P6 Booklist (Standard)</a><br>
+<a href="/files/Forms/2024_p6_booklist_foundation.pdf" target="_blank">2024 P6 Booklist (Foundation)</a>
 
-[2023 P1 Textbook list](/files/p1%20booklist.pdf)<br>[2023 P2 Textbook list](/files/p2%20booklist.pdf)<br>
-[2023 P3 Textbook list](/files/p3%20booklist.pdf)<br>
-[2023 P4 Textbook list](/files/p4%20booklist.pdf)<br>
-[2023 P5 (Standard &amp; Foundation) Textbook list](/files/p5%20(standard%20&amp;%20foundation)%20booklist.pdf)<br>
-[2023 P6 (Standard &amp; Foundation) Textbook list](/files/p6%20(standard%20&amp;%20foundation)%20booklist.pdf)<br>
- 
+
 <a href="/files/Forms/Online%20Consent%20for%20Dental%20Services.pdf" target="_blank">Online Consent for Dental Services.pdf</a>    
 <a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School) .pdf</a>      
 
