@@ -47,11 +47,13 @@ variant: markdown
 	</tr>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Language </td>
+		<td></td>
+		<td></td>
   </tr>
 	  <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image1.png"> Mdm Kuan Suan Shi<br>SH Partnership </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image21.png"> Mdm Subathra<br>SH ML/TL</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image7.png">Mr Sim Wee Choon<br>SH CCE </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi<br>SH Partnership </td>
+    <td width="340px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra<br>SH ML/TL</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
   </tr>
 	  <tr>
 	<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/Lian%20Hua%20Pri_%20Mdm%20Pek.png"> Mdm Pek Peet Juan<br>Assistant Year Head </td>
