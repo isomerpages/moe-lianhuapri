@@ -2,6 +2,7 @@
 title: English
 permalink: /learning/english/
 description: ""
+variant: markdown
 ---
 # **English**
 
@@ -31,13 +32,13 @@ description: ""
 
 <p style="text-align: justify;">At Lianhua, we believe in cultivating the love of reading in our students so that they can experience an exciting life through the world of books. Our reading programme strives to bring these experiences to our students.
 
-</p><p style="text-align: justify;">This year, our students are subscribing to myON® Reader that gives students access to digital books tailored to their reading interests and levels. Through the use of this reading portal, we hope that we can foster deeper student engagement with books and achieve greater reading growth. Additionally, students’ reading efforts will be recognised and will be awarded with certificates and/or tokens termly.
+</p><p style="text-align: justify;">We are thrilled to welcome you to the grand reopening of our newly renovated school library—an exciting hub of knowledge, imagination, and endless possibilities. The rejuvenated space is more than just shelves of books; it's a vibrant centre for exploration and creativity. Get ready to embark on literary adventures with our curated collection, immerse yourselves in the world of storytelling during our exciting reading sessions, and unleash your creativity through a myriad of engaging library programmes. Join us in celebrating the joy of reading and discovery as we open the doors to a world of imagination within our revitalized school library. 
 
 </p><p style="text-align: justify;">Our daily pre-assembly programme, USSR (Uninterrupted Sustained Silent Reading) is a designated time for all students to do free voluntary reading. Silent reading helps them concentrate, with the focus on understanding the content of the book and in turn, derive pleasure from it.
 
-</p><p style="text-align: justify;">This year for USSR, Lianhua has decided to incorporate the use of e-books/videos for a day each week so that the repertoire of stories which students have access to can be widened. Engagement activities such as active questioning and choral reading were also carried out during the session to check for students’ understanding and involvement level.
+</p><p style="text-align: justify;">In Lianhua, we incorporated the use of e-books /videos during USSR so that the repertoire of stories which students have access to can be widened. Engagement activities such as active questioning and choral reading were also carried out during the session to check for students’ understanding and involvement level.
 
-</p><p style="text-align: justify;">It has been observed that these e-books/ videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
+</p><p style="text-align: justify;">It has been observed that these e-books / videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
 
 </p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! <br>
 </p>
@@ -56,7 +57,7 @@ description: ""
 
 **Storytelling**
 
-<p></p><p style="text-align: justify;">Primary 4 students are trained in storytelling skills to enhance their public speaking skills in order to captivate the audience. Students are given opportunities to tell their stories at the Imaginarium during recess.</p>
+<p></p><p style="text-align: justify;">Students unleash their creativity and storytelling skills during recess at the Imaginarium. This unique space is designed to cultivate imagination, and what better way to celebrate that than through storytelling! Our students can now gather in the Imaginarium during recess, where they have the freedom to share their tales, spin imaginative narratives, and transport both themselves and their peers to fantastical worlds.</p>
 
 ![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
 
@@ -71,10 +72,21 @@ description: ""
 
 <center>Our P5 students presenting choral reading during the Storytelling Festival</center>
 
+**English Week**
 
-Storytelling Festival    
-<a target="_blank" href="https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing">https://drive.google.com/file/d/1MCR8ufb7wBSd1qxivabQT8oD5anICefq/view?usp=sharing</a>
+<p>English Week, an annual celebration, unfolds as a captivating week of literary enchantment, eagerly awaited by all. It is a celebration of language, literature, and creativity that promises an immersive experience for students, teachers, and parents alike. Throughout the week, our school will transform into a vibrant hub of English-related activities, ranging from engaging workshops and interactive reading sessions to spirited debates and captivating storytelling competitions. English Week aims not only to foster a deep appreciation for language and literature but also to encourage students to express themselves with confidence and flair. It's a week dedicated to nurturing the linguistic and creative talents of our students, and we invite parents to witness the blossoming of their children's literary skills. Get ready to be immersed in the magic of English Week!</p>
 
+<p>English Week in 2023 was a testament to the collective enthusiasm and talent of our students and teachers. Read, write, speak and play were the central themes for English Week 2023. The ‘LHPS Reading Adventure’ song played during pre-assembly on Thursday, 24 August 2023, kick-started our week. During recess, students looked forward to a delightful break, immersing themselves in English Language activities.</p>
+
+<p>Students escaped into the world of books at the Open Library at the Playlab where they read to their heart's content. What about having fun? Well, they were challenged to ‘Tongue Twisters’ at the Imaginarium and at the Art Corner Games booth, students were captivated by online quizzes. Friday brought a creative twist as students became authors, tasked with crafting their own endings for famous fairy tales at the Fractured Fairy Tales booth. </p>
+
+<p>English Week activities continued the following Monday where students let their imaginations run wild at the ‘Yes, and …’ booth. They began each story with the words “Yes, and …” and gradually crafted sentences that grew more exhilarating, transforming their narratives into potential blockbuster movie scenes. Students even had the opportunity to both donate and acquire books at the “Read, Swap, Share” booth, not only indulging in reading but also sharing their thoughts on the books they read.</p>
+
+<p>The grand finale to the English Week was on Tuesday, 29 August 2023, with the much-anticipated “Book Character Dress-Up Day!” Have you ever wished you could be Cinderella, Harry Potter or even Spiderman? What a feast for the eyes it was when our students and staff transformed into beloved book characters, displaying their creativity through their imaginative attire. The students were also treated to a concert featuring storytelling talents of our young Lianhuareans from Primary 1 to 4. </p>
+
+<p>During recess, we had a lovely author and illustrator, Nurulhuda Izyan who, with her artistic talents and storytelling power, mesmerised the students with her live-drawing demonstrations, igniting their own artistic aspirations.</p>
+
+<p>Finally, a photobooth stationed outside the General Office allowed students to capture cherished memories in their book character get-up. What an amazing English Week it was!</p>
 
 **Stretch Your Mind - A Fun and Effective way to learn English**
 
