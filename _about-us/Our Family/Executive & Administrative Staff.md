@@ -63,8 +63,8 @@ variant: markdown
 		<td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
   </tr>
    <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS17.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS18.jpg">Mr Ng Teck Kwee George<br>Security Officer</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMazlanBinAmat.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrNgTeckKweeGeorge.jpg">Mr Ng Teck Kwee George<br>Security Officer</td>
     <td width="250px" style="text-align: center;"></td>
   </tr>
 </tbody>
