@@ -27,12 +27,12 @@ variant: markdown
   </tr>
    <tr>
     <td width="250px" style="text-align: center;">&lt;&gt; -<br>Ms Phuay Feng Ying<br>ICT Associate </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS5.jpg"> Ms Nur Hanim Bte Harris<br>Admin Executive</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmNurHanimBteHarris.jpg"> Ms Nur Hanim Bte Harris<br>Admin Executive</td>
     <td width="250px" style="text-align: center;">&lt;&gt; -<br> Ms Shazana Binte Shaik Centha Mathar<br>Admin Executive</td>
   </tr>
 	  <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsLeeChuiLian.jpg">Ms Lee Chui Lian<br>CSO </td>
-			<td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsNurashikinBinteMohdRashid.jpg">Ms <br>CSO </td>
+			<td width="250px" style="text-align: center;"> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsNurashikinBinteMohdRashid.jpg">Ms Nurashikin Binte Mohd Rashid<br>CSO </td>
 			<td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS6.jpg"> Mdm Lai Choon Lan<br>MSO</td>
     </tr>
 		<tr>
