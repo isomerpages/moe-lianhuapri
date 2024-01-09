@@ -64,13 +64,7 @@ variant: markdown
 <center>Students listening intently to the storyteller at the Imaginarium</center>
 
 
-![](/images/Learning/English/Storytelling%201.jpg)
 
-<center>P1 students presented their version of stories during our Storytelling Festival</center>
-
-![](/images/Learning/English/storytelling%202.jpg)
-
-<center>Our P5 students presenting choral reading during the Storytelling Festival</center>
 
 **English Week**
 
