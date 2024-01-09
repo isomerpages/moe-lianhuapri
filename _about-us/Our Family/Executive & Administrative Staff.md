@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/our-family/executive-n-administrative-staff/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 # Executive &amp; Administrative Staff
 
@@ -20,9 +21,9 @@ third_nav_title: Our Family
 </thead>
 <tbody>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS2.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS3.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmChanSiewHoon.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrThengYinChye.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrRamanathanAlagappan.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
    <tr>
     <td width="250px" style="text-align: center;">&lt;&gt; -<br>ICT Manager </td>
