@@ -64,8 +64,6 @@ variant: markdown
 <center>Students listening intently to the storyteller at the Imaginarium</center>
 
 
-
-
 **English Week**
 
 <p>English Week, an annual celebration, unfolds as a captivating week of literary enchantment, eagerly awaited by all. It is a celebration of language, literature, and creativity that promises an immersive experience for students, teachers, and parents alike. Throughout the week, our school will transform into a vibrant hub of English-related activities, ranging from engaging workshops and interactive reading sessions to spirited debates and captivating storytelling competitions. English Week aims not only to foster a deep appreciation for language and literature but also to encourage students to express themselves with confidence and flair. It's a week dedicated to nurturing the linguistic and creative talents of our students, and we invite parents to witness the blossoming of their children's literary skills. Get ready to be immersed in the magic of English Week!</p>
