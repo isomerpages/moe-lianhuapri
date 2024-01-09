@@ -38,15 +38,15 @@ variant: markdown
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
-		<td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image8.jpg">Mrs Emily Chia<br>SSD</td>
+		<td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>SSD</td>
 	</tr>
 	<tr>
 	    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
-		 <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image2.jpg"> Mrs Brenda Sin<br>LH Science </td>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image12.jpg">Mdm Shanthini<br>LH English Lang  </td>
+		 <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mrs Brenda Sin<br>LH Science </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language  </td>
 	</tr>
   <tr>
-    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image19.jpg">Ms Tan Li Yan<br>LH Chinese Lang </td>
+    <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Language </td>
   </tr>
 	
 	
