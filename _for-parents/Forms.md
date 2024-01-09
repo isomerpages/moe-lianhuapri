@@ -16,7 +16,9 @@ variant: markdown
 
 ## Service Providers
 
-[2024_P1_Booklist](/files/Forms/2024_P1_Booklist.pdf)
+<a href="/files/Forms/2024_P1_Booklist.pdf" target="_blank">2024 P1 Booklist</a> <br>
+<a href="/files/Forms/2024_P2_Booklist.pdf" target="_blank">2024 P2 Booklist</a>
+
 
 [2024_P2_Booklist](/files/Forms/2024_P2_Booklist.pdf) <br>
 [2024_P3_Booklist](/files/Forms/2024_P3_Booklist.pdf) <br>
