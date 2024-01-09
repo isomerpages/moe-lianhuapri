@@ -24,7 +24,7 @@ variant: markdown
 <a href="/files/Forms/2024_P4_Booklist.pdf" target="_blank">2024 P4 Booklist</a><br>
 <a href="/files/Forms/2024_P5_Booklist_Standard.pdf" target="_blank">2024 P5 Booklist (Standard)</a>
 <br>
-<a href="/files/Forms/2024_P5_Booklist_Standard.pdf" target="_blank">2024 P5 Booklist (Foundation)</a>
+<a href="/files/Forms/2024_P5_Booklist_Foundation.pdf" target="_blank">2024 P5 Booklist (Foundation)</a>
 <br>
 <a href="/files/Forms/2024_P6_Booklist_Standard.pdf" target="_blank">2024 P6 Booklist (Standard)</a><br>
 <a href="/files/Forms/2024_P6_Booklist_Foundation.pdf" target="_blank">2024 P6 Booklist (Foundation)</a>
