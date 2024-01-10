@@ -76,7 +76,7 @@ Lianhua Primary School has a passionate group of youngsters who commit their tim
 
 These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels. <br>
 
-<u>**SCIENCE@HOME PROGRAMME**</u><br>
+<u><strong>SCIENCE@HOME PROGRAMME</strong></u><br>
 One of the things that makes learning Science really fun is the opportunity to explore and learn about scientific concepts and phenomena through experimentation.
 
 
@@ -87,7 +87,6 @@ To this purpose, each P3-P6 pupil was provided with a Science Kit that was relev
 ![](/images/Learning/Science/P5_Student_investigating_on_arrangement_of_electrical_components.jpeg)
 <br>
 ![](/images/Learning/Science/P6_Student_working_on_the_Energy_Conversion_Set.jpg)
-<br>
 
 <u>**FUN WITH SCIENCE**</u><br>
 Fun with Science is a programme for selected students who have done exceptionally well in Science. It is meant to stretch students who already have a firm foundation in basic Science and who have a passion for Science and Science phenomena. 
