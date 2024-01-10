@@ -3,6 +3,7 @@ title: Football
 permalink: /ccas/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Football**
 
@@ -80,7 +81,6 @@ The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:
 
 MR FADIAL B JAMALUDIN <br>
 MS SHAFIRA BINTE ZAILANI<br>
-MR KATHIRAVAN S/O MURUGIAH<br>
 MDM SHANTHINI D/O RADHA KRISHNAN <br>
 MR WONG JINXING DENNIS<br>
 MDM KUAN SUAN SHI
