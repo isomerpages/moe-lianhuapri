@@ -38,6 +38,13 @@ To nurture the student as an inquirer
 **Science Toys and STEM Challenges**
 <p>The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
 
+![](/images/Learning/Science/Seariouschallenge.JPG)
+<br>
+![](/images/Learning/Science/Seariouschallenge2.JPG)
+<br>
+
+**Level-based Programmes**
+<p>For learning to take place effectively, there must be hands-on, active participation. The level-based programmes in YES! empower students to take greater responsibility in their learning as they participate in activities that are aligned with the curriculum.</p>
 
 
 ==================================
