@@ -98,17 +98,17 @@ Fun with Science is a programme for selected students who have done exceptionall
 
 Fun with Science lessons foster an environment that stimulates intellectual curiosity and encourages hands-on exploration. Through engaging and challenging science investigations, these students are provided with opportunities to apply their analytical skills and creativity to scientific problems. The goal is to inspire a deep passion for inquiry, critical thinking, and problem-solving, allowing them to delve into scientific concepts with enthusiasm. By designing and conducting their own investigations, the students not only deepen their understanding of scientific principles but also develop essential skills in experimental design, data analysis, and effective communication. Fun with Science lessons go beyond curriculum, providing an enriching and dynamic experience that cultivates a lifelong love for scientific discovery.
 
-<u>**Eco-Stewardship@LHPS**</u><br>
+<u><strong>Eco-Stewardship@LHPS</strong></u><br>
 To promote sustainable living under the Singapore Green Plan 2030, LHPS aims to nurture students who care and respect the environment. We want our students to make reducing carbon emissions, keeping the environment clean, saving resources and energy as a way of life.
 
-<u>**Aims of Eco-Stewardship Programmes**</u>
+<u><strong>Aims of Eco-Stewardship Programmes</strong></u>
 1. To strengthen and deepen the current strands of environmental education.
 2. To take good care of the environment.
 3. To inculcate informed and responsible sustainability habits.
 4. To empower students to make a positive difference at home, in school and the community.
 <br>
 
-<u>**A glance at some of our programmes:**</u><br>
+<u><strong>A glance at some of our programmes:</strong></u><br>
 **1. Eco Stewardship – P1 and P2 Nearpod 3Rs lesson**<br>
 The Primary 1 and 2 students had an interactive lesson on the 3Rs (Reduce, Reuse and Recycle). The lesson was conducted using Nearpod. Nearpod is an online tool that allows teachers to use slide-based teaching in the classroom. The use of virtual reality in Nearpod allowed students to have the opportunity to explore the Semakau Landfill, very similar to a school trip but without a limit on distance. At the end of the lesson, the students reported having a greater understanding of the 3Rs.
 
