@@ -24,12 +24,12 @@ To nurture the student as an inquirer
 * **Science@Home Programme**
 * **Fun With Science**
 
-<u>**POTS (PRIMARY ONE AND TWO SCIENCE)**</u><br>
+<u><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong></u><br>
 Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.
 
 <p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p><br>
 
-<u>**YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS**</u><br>
+<u><strong>YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS</strong></u><br>
 The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?
 
 <p>Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p><br>
