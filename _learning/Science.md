@@ -132,7 +132,7 @@ Ambassadors spreading the message on how we can ensure that no food is wasted.<b
 
 ![](/images/Learning/Science/aglanceofsomeprog6.jpg)
 <br>
-Students learnt about the recycling of cooking oil at the booth set-up. 
+Students learnt about the recycling of cooking oil at the booth set up. 
 <br>
 
 ![](/images/Learning/Science/aglanceofsomeprog7.jpg)
