@@ -95,7 +95,7 @@ Fun with Science is a programme for selected students who have done exceptionall
 
 | |  |
 | -------- |  -------- |
-| ![](/images/Learning/Science/funwithsci1.jpg) | ![](/images/Learning/Science/funwithsci2_jpg.png) |
+| ![](/images/Learning/Science/funwithsci1.jpg) | ![](/images/Learning/Science/funwithsci2.png) |
 | |  |
 
 Fun with Science lessons foster an environment that stimulates intellectual curiosity and encourages hands-on exploration. Through engaging and challenging science investigations, these students are provided with opportunities to apply their analytical skills and creativity to scientific problems. The goal is to inspire a deep passion for inquiry, critical thinking, and problem-solving, allowing them to delve into scientific concepts with enthusiasm. By designing and conducting their own investigations, the students not only deepen their understanding of scientific principles but also develop essential skills in experimental design, data analysis, and effective communication. Fun with Science lessons go beyond curriculum, providing an enriching and dynamic experience that cultivates a lifelong love for scientific discovery.
