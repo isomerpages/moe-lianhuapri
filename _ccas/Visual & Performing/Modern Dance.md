@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /ccas/visual-n-performing/modern-dance/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # **Modern Dance**
 
@@ -91,7 +92,7 @@ Hip Hop For Beginners- 5 Basic Moves
 
 ## **The Team**
 
-MDM LIU CHANG<br>
 MDM NOOR DAYANA BTE MOHD SALEH<br>
-MS ARSHVINI PAULOSE MANOHAR<br>
-MDM RAMZANIAH BINTI LATEH
+MDM RAMZANIAH BINTI LATEH<br>
+MDM RABIATULADAWIYAH BTE GULAM ASHRAF<br>
+MS IRNNY IRIANNY BINTE CHUMA'ING
