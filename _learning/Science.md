@@ -88,7 +88,7 @@ To this purpose, each P3-P6 pupil was provided with a Science Kit that was relev
 <br>
 ![](/images/Learning/Science/P6_Student_working_on_the_Energy_Conversion_Set.jpg)
 
-<u>**FUN WITH SCIENCE**</u><br>
+<u><strong>FUN WITH SCIENCE</strong></u><br>
 Fun with Science is a programme for selected students who have done exceptionally well in Science. It is meant to stretch students who already have a firm foundation in basic Science and who have a passion for Science and Science phenomena. 
 
 | |  |
