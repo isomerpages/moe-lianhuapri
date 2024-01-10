@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /ccas/visual-n-performing/indian-dance/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # Indian Dance
 
@@ -87,5 +88,5 @@ We have been throuh a lot of practice sessions and struggles practicing for Sing
 ## The Team
 
 MDM B REQHA TRIXIE<br>
-MDM NORHAYATI BTE RUHANI<br>
-MS HUSSUM FATIMAH BTE SYED MOHD
+MS HUSSUM FATIMAH BTE SYED MOHD<br>
+MS ARSHVINI PAULOSE MANOHAR
