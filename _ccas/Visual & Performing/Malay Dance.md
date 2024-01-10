@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /ccas/visual-n-performing/malay-dance/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # Malay Dance
 
@@ -63,4 +64,4 @@ My experience in the SYF journey was unforgettable.&nbsp; I had an enjoyable tim
 
 MDM ROSNAH BTE ROSMAN<br>
 MDM NORLIEZA BTE AHMAD<br>
-MS SOH FANG YING
+MDM NORHAYATI BTE RUHANI
