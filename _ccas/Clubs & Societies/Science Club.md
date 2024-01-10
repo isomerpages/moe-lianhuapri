@@ -3,6 +3,7 @@ title: Science Club
 permalink: /ccas/clubs-n-societies/science-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 # Science Club
 ## Purposes of Cool Science Club
@@ -83,7 +84,6 @@ Life on Mother Earth can only be sustained if we use her resources wisely and in
 MRS NONIS<br>
 MS ELIZABETH WOK<br>
 MDM RUTH LAI<br>
-MDM LEE PEIR CHUANG<br>
-MS FATIMAH SAJIDAH BINTE ABDUL RAZAK<br>
 MDM LEE SOK NGEE PAULINE<br>
-MS RAJESHREE
+MRS BRENDA SIN <br>
+MR ZAINUL
