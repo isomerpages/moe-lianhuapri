@@ -3,6 +3,7 @@ title: Social Studies
 permalink: /learning/social-studies/
 description: ""
 third_nav_title: Social Studies
+variant: markdown
 ---
 # **Social Studies**
 
@@ -24,31 +25,25 @@ In Lianhua, the Social Studies curriculum envisions students to have joy in lear
 
 #### **Learning Journeys**
 
-The Learning Journeys initiative, which is an annual programme in Lianhua Primary School aims to support and complement the Social Studies curriculum. The school has collaborated with participating organisations to make learning more authentic and experiential. Much thought was put in to ensure that the venues of the learning journeys tie in well with the syllabus that they are learning.
+<p>The Learning Journeys initiative, which is an annual programme in Lianhua Primary School aims to support and complement the Social Studies curriculum. It allows the students to contextualise their learning experience in an authentic real-world setting, thus enabling the learning of concepts and content. Through this platform, it aims to motivate and sustain the students’ interest in the subject matter as they would learn to explore, construct new knowledge and make connections to the topic being studied.</p> 
 
-#### **Heritage Explorer Programme Booklet**
+<p>The school has collaborated with participating organisations to make learning more authentic and experiential. Much thought was put in to ensure that the venues of the learning journeys tie in well with the syllabus that they are learning.</p>
 
-The school collaborated with the National Heritage Board in 2016 to introduce the Heritage Explorer Programme Booklet to raise students’ awareness and interest in local and community heritage, with the greater goal of enabling them to become informed, active and concerned citizens. Each student will be receiving a Heritage Explorer Booklet which requires them to complete a variety of heritage-related activities, exploring topics that can range from personal family histories to community and national history.
-
-Starting in 2023, we have decided to administer this programme to the Primary 2, 3 and 5 as it is more relevant to what they are learning in the syllabus. Each level is assigned a profession (Curator, Designer and Educator) where they are required to complete at least 3 out of the 5 tasks given. Upon completion of the tasks, students will be awarded with a Heritage Explorers Badge. This programme allows our students to be more self-directed, which encourages proactive learning and helps to cultivate a sense of commitment and passion for the heritage.
-
-Due to our commitment to the programme, the school has been awarded the School Heritage Champion Awards (Primary School) in 2019.
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQW2VW-d_aRQT5DczNTry7tGOfrbJ7IqIgLjxEyduqrxnPlQHHP-5rYX8jkpcXICoBOop6pXZIL5rTJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### **Performance Tasks**
 
 As part of the Primary School Social Studies Syllabus, performance tasks are used as part of the grading system for the assessment of SSP at the end of Semester 1 and 2 for all levels. Performance tasks are effective ways to check for students’ understanding of the concepts taught. These tasks introduced are relevant and meaningful to the students. Students would develop a tangible product or performance for an identified audience and in doing so, they would communicate key understanding(s) or message(s) pertaining to the topic of study. Examples of the performance tasks that are required for the students to produce are as follows:
 
 
-| Level | Semester 1 | Semester 2  |
+
+| Level | Semester 1 | Semester 2 |
 | -------- | -------- | -------- |
-| P1     | Create a video to share about their roles in school and at home     | Design their future neighbourhood     |
-| P2     | Design a school stamp     | Create a diorama on their favourite sporting activity    |
-| P3     | Design a poster on 3Rs (Reduce, Reuse and Recycle)     | Design a 2D/3D model on the future housing of Singapore     |
-| P4    | Create an informational poster on one of the early settlers they have learnt   | Design a digital story to share the contributions of a war hero     |
-| P5    | Design a poster to honour the different people who had contributed to the building of Singapore’s defence     | Design a board game related to Southeast Asia     |
-| P6    | Design an infographic featuring two innovations of the civilisations of the Indian subcontinent or the Chinese civilisation     | Create a PowerPoint presentation based on one of the UNESCO Heritage sites in Southeast Asia   |
+| P1     | Create a video or share with the class about their roles in school and at home.     | Design their future neighbourhood.  |
+| P2     | Design a school stamp.     | Draw their favourite sporting activity individual work.|
+| P3     | Design a poster to show how everyone can play a part in protecting the environment.     | Design a 2D/3D model on the future housing of Singapore.  |
+| P4     | Create an informational poster on one of the early settlers they have learnt.     | Design a digital story featuring one of the war heroes of Singapore. |
+| P5     | Design a poster to honour the different people who had contributed to the building of Singapore’s defence. | Design a board game that relates to the geographical features, economics and social-cultural connections among countries in Southeast Asia.     |
+| P6     | Design an infographic featuring two innovations of the civilisations of the Indian subcontinent or the Chinese civilisation. | Create a digital story based on one of the UNESCO Heritage sites in Southeast Asia. |
 
 
 #### **P4 Social Studies Heritage Tower Experience**
