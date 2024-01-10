@@ -3,6 +3,7 @@ title: Scouts
 permalink: /ccas/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Scouts**
 
@@ -67,6 +68,5 @@ For more information about Scouting, you may visit [https://www.scout.sg/](https
 
 MDM SITI AISHAH<br>
 MR MOHAMMAD FAIZAL<br>
-MR ZAINUL SHAFFEE<br>
-MS IRNNY IRIANNY BINTE CHUMA'ING<br>
-MS LIM CHIEN LING, SHENLYNN
+MS LIM CHIEN LING, SHENLYNN<br>
+MS CHUA WAN JUN
