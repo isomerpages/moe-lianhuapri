@@ -110,7 +110,18 @@ To promote sustainable living under the Singapore Green Plan 2030, LHPS aims to 
 4. To empower students to make a positive difference at home, in school and the community.
 <br>
 
+<u>**A glance at some of our programmes:**</u><br>
+**1. Eco Stewardship – P1 and P2 Nearpod 3Rs lesson**<br>
+The Primary 1 and 2 students had an interactive lesson on the 3Rs (Reduce, Reuse and Recycle). The lesson was conducted using Nearpod. Nearpod is an online tool that allows teachers to use slide-based teaching in the classroom. The use of virtual reality in Nearpod allowed students to have the opportunity to explore the Semakau Landfill, very similar to a school trip but without a limit on distance. At the end of the lesson, the students reported having a greater understanding of the 3Rs.
 
+
+
+
+|  |   |   |
+| -------- | -------- | -------- |
+| ![](/images/Learning/Science/aglanceofsomeprog1.jpg)    |      |      |
+|![](/images/Learning/Science/aglanceofsomeprog2.jpg)  |   |   |
+| ![](/images/Learning/Science/aglanceofsomeprog3.jpg) |   |   |
 
 
 
