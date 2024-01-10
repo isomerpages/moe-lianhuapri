@@ -76,7 +76,16 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 
 Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.
 
-These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels.
+These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels. <br>
+
+<u>**SCIENCE@HOME PROGRAMME**</u><br>
+
+One of the things that makes learning Science really fun is the opportunity to explore and learn about scientific concepts and phenomena through experimentation.
+
+
+To this purpose, each P3-P6 pupil was provided with a Science Kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow students to explore the topic in greater detail and to be able to experiment in science lessons as well as at home. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.
+
+
 
 
 
