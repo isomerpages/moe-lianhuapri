@@ -24,27 +24,37 @@ To nurture the student as an inquirer
 * **Science@Home Programme**
 * **Fun With Science**
 
-<u>**POTS (PRIMARY ONE AND TWO SCIENCE)**</u>
-<p>Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.</p>
+<u>**POTS (PRIMARY ONE AND TWO SCIENCE)**</u><br>
+Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.
 
-<p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p>
+<p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p><br>
 
 <u>**YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS**</u>
 
 <p>The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?</p>
 
-<p>Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p>
+<p>Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p><br>
 
-**Science Toys and STEM Challenges**
-<p>The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
+
+**Science Toys and STEM Challenges**<br>
+The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.
 
 ![](/images/Learning/Science/Seariouschallenge.JPG)
 <br>
 ![](/images/Learning/Science/Seariouschallenge2.JPG)
 <br>
 
-**Level-based Programmes**
-<p>For learning to take place effectively, there must be hands-on, active participation. The level-based programmes in YES! empower students to take greater responsibility in their learning as they participate in activities that are aligned with the curriculum.</p>
+**Level-based Programmes**<br>
+For learning to take place effectively, there must be hands-on, active participation. The level-based programmes in YES! empower students to take greater responsibility in their learning as they participate in activities that are aligned with the curriculum.
+
+
+**P4 – Indoor Hydroponics**<br>
+In this densely populated country, where land and resources are scarce, hydroponics could just be a solution to Singapore’s food supply vulnerabilities. Our P4 students had the opportunity to experience the future of farming in their classrooms! They germinated seeds, transplanted them and cared for them. After weeks of dedication and care, they harvested and were rewarded with fruits of their labour. 
+
+
+![](/images/Learning/Science/p4indoorhydropinics.jpg)
+<br>
+
 
 
 ==================================
