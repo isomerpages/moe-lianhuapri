@@ -2,28 +2,46 @@
 title: Science
 permalink: /learning/science/
 description: ""
+variant: markdown
 ---
 # **Science**
 
-![](/images/Learning/Science/science.jpg)
 
-**OUR VISION:**  
+##### **OUR VISION:**  
 
 To nurture the student as an inquirer
 
-**OUR PEOPLE:**
+##### **OUR PEOPLE:**
 
-<p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. We are:</p>
+<p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. </p>
 
-
-|                   |            |
-|----------------------|-------------------|
-| Mrs Tan-Ong Ee Lee<br>Mrs Nonis<br>Ms Samantha Lee<br>Mdm Dayana<br>Ms Elizabeth Wok<br>Mr Lim Soon Wei<br>Mr Zainul | Mrs Brenda Sin<br>Mrs Sheena Foo<br>Ms Wang Xiaoxuan<br>Mrs Ho-Chua Yi Ling<br>Mdm Khilfina<br>Mr Willie Wong |
+<p>Our science teachers act as leaders of inquirers in the science classroom by creating a learning environment that fosters curiosity, creativity, and critical thinking. This approach enables our students to develop important skills and a deeper understanding of scientific concepts. We also incorporate STEM (Science, Technology, Engineering, and Math) mindsets and attributes in science lessons for our students to foster their interest in Science and develop critical thinking and problem-solving skills.</p>
 
 
-**OUR PROGRAMMES AT A GLANCE:**
+**SOME OF OUR PROGRAMMES AT A GLANCE:**
+* **POTS (Primary One and Two Science)**
+* **Yes! Programme (Young Exploring Scientists! Programme)**
+* **Science@Home Programme**
+* **Fun With Science**
 
-![](/images/Learning/Science/sci%20dept.png)
+<u>**POTS (PRIMARY ONE AND TWO SCIENCE)**</u>
+<p>Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.</p>
+
+<p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p>
+
+<u>**YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS**</u>
+
+<p>The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?</p>
+
+<p>Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p>
+
+**Science Toys and STEM Challenges**
+<p>The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
+
+
+
+==================================
+<br>old
 
 **KEY PROGRAMME: SCIENCE@ HOME**
 
@@ -60,7 +78,7 @@ To nurture the student as an inquirer
 
 
 <img src="/images/Learning/Science/united2.jpg" style="width:30%;float:right; padding: 10px">
-<b>United We Learn</b> is a Science programme that all P3 to P5 pupils go through. This programme allows our pupils to pursue a Science topic that they are passionate about. Pupils then apply at least one science concept that they have learnt by creating a variety of possible exhibits that they then present to other pupils of their level. Possible exhibits include games, an experiment, a working model. Usually, pupils will also create a poster as well.
+<b>United We Learn</b>&nbsp;is a Science programme that all P3 to P5 pupils go through. This programme allows our pupils to pursue a Science topic that they are passionate about. Pupils then apply at least one science concept that they have learnt by creating a variety of possible exhibits that they then present to other pupils of their level. Possible exhibits include games, an experiment, a working model. Usually, pupils will also create a poster as well.
 
 <img src="/images/Learning/Science/united1.jpg" style="width:30%;float:left; padding: 10px">In general, the pupils enjoy the experience and are eager to present to their peers what they have painstakingly learnt and created.
 
