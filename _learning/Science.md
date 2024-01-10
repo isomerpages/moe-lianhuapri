@@ -27,7 +27,7 @@ To nurture the student as an inquirer
 <u><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong></u><br>
 Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.
 
-<p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p><br>
+<p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p>
 
 <u><strong>YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS</strong></u><br>
 The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?
