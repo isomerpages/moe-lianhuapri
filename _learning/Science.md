@@ -115,13 +115,17 @@ To promote sustainable living under the Singapore Green Plan 2030, LHPS aims to 
 The Primary 1 and 2 students had an interactive lesson on the 3Rs (Reduce, Reuse and Recycle). The lesson was conducted using Nearpod. Nearpod is an online tool that allows teachers to use slide-based teaching in the classroom. The use of virtual reality in Nearpod allowed students to have the opportunity to explore the Semakau Landfill, very similar to a school trip but without a limit on distance. At the end of the lesson, the students reported having a greater understanding of the 3Rs.
 
 
+![](/images/Learning/Science/aglanceofsomeprog1.jpg)   
+![](/images/Learning/Science/aglanceofsomeprog2.jpg)  
+![](/images/Learning/Science/aglanceofsomeprog3.jpg)
 
+**2. Eco 6-Week Challenge** <br>
+To develop in our students greater awareness of the environment and how to live in a more sustainable manner, Lianhua Primary School elected to participate in a 6-week sustainability app challenge, supported by the SG Eco Fund of the Ministry of Sustainability and the Environment (MSE). The campaign also aims to reach out to families through our students to reduce waste through reducing, reusing and recycling.
 
-|  |   |   |
-| -------- | -------- | -------- |
-| ![](/images/Learning/Science/aglanceofsomeprog1.jpg)    |      |      |
-|![](/images/Learning/Science/aglanceofsomeprog2.jpg)  |   |   |
-| ![](/images/Learning/Science/aglanceofsomeprog3.jpg) |   |   |
+A total of 386 staff, students and their families unleashed the superheroes within them by adopting Zero Waste Habits from 10th July 2023 to 6th August 2023 by participating in exciting challenges around waste reduction, reusing, recycling and composting both in school and at home via the susGain Impact app.
+
+We had a total of four Superhero Challenges for our participants: Clean Plate Challenge, Recycle Used Cooking Oil Challenge, Clothes Swapping Challenge and Recycle Tetra Paks and Milk Cartons Challenge. At the end of the campaign, our school donated 11.8 kg of used cooking oil, 67 milk cartons, 390 metal cans, 45 HPDE bottles and 987 pieces of secondhand clothing. Thanks to the effort of our staff and students, we managed to reuse and/or recycle the above-mentioned items that would have otherwise been sent to the landfills.
+![](/images/Learning/Science/aglanceofsomeprog4.jpg)
 
 
 
