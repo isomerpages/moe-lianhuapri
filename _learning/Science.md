@@ -54,6 +54,26 @@ In this densely populated country, where land and resources are scarce, hydropon
 
 ![](/images/Learning/Science/p4indoorhydropinics.jpg)
 <br>
+![](/images/Learning/Science/p4indoorhydropinics2.jpg)
+<br>
+
+**P5 – Gardening**<br>
+Equipped with the experience from Indoor Hydroponics, our Primary 5 Science Stewards dedicated their time and effort on food sustainability, growing Spanish Spinach in the school's garden. They used the compost from the P6 Composting programme to enrich the soil. With some tender, loving care, the Spanish Spinach was ready to harvest within weeks. The harvested Spanish Spinach was then taken to the canteen for our canteen vendors to cook - a true definition of the Farm-to-Table concept.
+
+![](/images/Learning/Science/p5gardening.jpg)
+<br>
+![](/images/Learning/Science/p5gardening2.jpg)
+<br>
+
+**P6 – Composting**<br>
+Our Primary 6 students showed how sustainability could be achieved even within the small compound of our very own school. Science Stewards from various P6 classes had their first-hand experience in amassing compost. The compost was later used to fertilise the soil for plants to thrive in the school. Food waste such as banana skins were broken down by the African Night Crawlers in the soil to produce compost.
+
+![](/images/Learning/Science/p6composting.jpg)
+<br>
+
+**Science Stewards**
+
+
 
 
 
