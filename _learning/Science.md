@@ -29,9 +29,8 @@ Our school has crafted a special curriculum to give our students a headstart in 
 
 <p>Students have hands-on activities to learn about the world around them, specifically the flora and fauna.  In addition, through play, they also develop their basic skills such as observing, classifying, comparing and measuring.</p><br>
 
-<u>**YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS**</u>
-
-<p>The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?</p>
+<u>**YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS**</u><br>
+The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?
 
 <p>Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p><br>
 
@@ -79,11 +78,17 @@ Lianhua Primary School has a passionate group of youngsters who commit their tim
 These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels. <br>
 
 <u>**SCIENCE@HOME PROGRAMME**</u><br>
-
 One of the things that makes learning Science really fun is the opportunity to explore and learn about scientific concepts and phenomena through experimentation.
 
 
 To this purpose, each P3-P6 pupil was provided with a Science Kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow students to explore the topic in greater detail and to be able to experiment in science lessons as well as at home. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.
+
+![](/images/Learning/Science/P4_Student_investigating_concepts_on_the_topic_Light.JPG)
+<br>
+![](/images/Learning/Science/P5_Student_investigating_on_arrangement_of_electrical_components.jpeg)
+<br>
+![](/images/Learning/Science/P6_Student_working_on_the_Energy_Conversion_Set.jpg)
+<br>
 
 
 
