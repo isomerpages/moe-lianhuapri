@@ -1,8 +1,9 @@
 ---
-title: Art &amp; Crafts Club
+title: Art & Crafts Club
 permalink: /ccas/visual-n-performing/art-n-crafts-club/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # **Art &amp; Crafts Club**
 
@@ -102,6 +103,4 @@ In 2021, our Art Club members in P4 to P6 took part in the Nagomi Art organized 
 
 MDM MAGGIE FONG PUI YI<br>
 MS CHEN YIMENG<br>
-MDM CHUA YI LING<br>
-MS ALENA CHIONG LILING<br>
-MRS SAMANTHA LIEW
+MDM AZIZAH BTE MOHD ALI
