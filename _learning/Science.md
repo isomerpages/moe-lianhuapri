@@ -90,6 +90,25 @@ To this purpose, each P3-P6 pupil was provided with a Science Kit that was relev
 ![](/images/Learning/Science/P6_Student_working_on_the_Energy_Conversion_Set.jpg)
 <br>
 
+<u>**FUN WITH SCIENCE**</u><br>
+Fun with Science is a programme for selected students who have done exceptionally well in Science. It is meant to stretch students who already have a firm foundation in basic Science and who have a passion for Science and Science phenomena. 
+
+| |  |
+| -------- |  -------- |
+| ![](/images/Learning/Science/funwithsci1.jpg) | ![](/images/Learning/Science/funwithsci2_jpg.png) |
+| |  |
+
+Fun with Science lessons foster an environment that stimulates intellectual curiosity and encourages hands-on exploration. Through engaging and challenging science investigations, these students are provided with opportunities to apply their analytical skills and creativity to scientific problems. The goal is to inspire a deep passion for inquiry, critical thinking, and problem-solving, allowing them to delve into scientific concepts with enthusiasm. By designing and conducting their own investigations, the students not only deepen their understanding of scientific principles but also develop essential skills in experimental design, data analysis, and effective communication. Fun with Science lessons go beyond curriculum, providing an enriching and dynamic experience that cultivates a lifelong love for scientific discovery.
+
+<u>**Eco-Stewardship@LHPS**</u><br>
+To promote sustainable living under the Singapore Green Plan 2030, LHPS aims to nurture students who care and respect the environment. We want our students to make reducing carbon emissions, keeping the environment clean, saving resources and energy as a way of life.
+
+<u>**Aims of Eco-Stewardship Programmes**</u>
+1. To strengthen and deepen the current strands of environmental education.
+2. To take good care of the environment.
+3. To inculcate informed and responsible sustainability habits.
+4. To empower students to make a positive difference at home, in school and the community.
+<br>
 
 
 
