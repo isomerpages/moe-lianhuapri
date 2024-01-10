@@ -3,6 +3,7 @@ title: Percussion Ensemble
 permalink: /ccas/visual-n-performing/percussion-ensemble/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # **Percussion Ensemble**
 
@@ -89,4 +90,5 @@ Percussion Ensemble 2022 SYF - Arts Presentation
 
 MRS TAY PECK SAN<br>
 MDM KOH WAN TING<br>
-MS SOH FANG YING
+MS SOH FANG YING<br>
+MDM TOH LI YUH
