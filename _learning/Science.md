@@ -131,9 +131,12 @@ We had a total of four Superhero Challenges for our participants: Clean Plate Ch
 ![](/images/Learning/Science/aglanceofsomeprog5.jpg)
 <br>
 Ambassadors spreading the message on how we can ensure that no food is wasted.<br>
+
 ![](/images/Learning/Science/aglanceofsomeprog6.jpg)
 <br>
-Students learnt about the recycling of cooking oil at the booth set-up. <br>
+Students learnt about the recycling of cooking oil at the booth set-up. 
+<br>
+
 ![](/images/Learning/Science/aglanceofsomeprog7.jpg)
 <br>
 Students swapping their clothes with others to reduce waste.
