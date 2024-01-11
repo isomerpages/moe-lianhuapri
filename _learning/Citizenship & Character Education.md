@@ -118,11 +118,7 @@ Our students were called to exercise daily VIAs in the classroom and other schoo
 
 It was therefore not surprising to see students volunteering in various ways, ranging from helping to take care of the school gardens, to using their spare time to make encouraging notes and cards for the medical frontline staff.
 
-In June this year, one of our Primary One students, started a ‘Care and Share’ corner with her own savings in order to help the needy residents in her estate. Shakthi from Primary One Resilience was so inspired by the Project SMILE that she decided to pay it forward to the society in her own way. Now, Shakthi is an inspiration to all of us. She captured the spirit of Volunteerism so well that we hope more of her generation will be like her one day.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp;
-|---|  
-| ![](/images/lhps_cce11.jpg) <center>Our Primary One Shakthi’s very own community outreach</center> |
 
 
 #### **LHPS CCE Roadmap**
