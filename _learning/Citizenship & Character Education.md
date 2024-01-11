@@ -1,7 +1,8 @@
 ---
-title: Citizenship &amp; Character Education
+title: Citizenship & Character Education
 permalink: /learning/citizenship-n-character-education/
 description: ""
+variant: markdown
 ---
 # **Citizenship &amp; Character Education**
 
@@ -104,7 +105,7 @@ Making use of the new-found passions, passion-seekers are then challenged to go 
 
 Volunteerism is the word used by the school to encourage our students to create in life a mission to make a difference to others in a self-directed manner.
 
-In the previous years, students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Runninghour, the Marine Life Conservation, the Green Schools Projects, and the Community Outreach.
+Students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Project SMILE, community outreach and environmental projects.
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
@@ -112,17 +113,12 @@ In the previous years, students were given plenty of Values-in-Action (VIA) proj
 
 
 
-2021, however, was a year in which the Covid situation disrupted most the schools’ plan for VIA projects. Many projects were shelved due to the restrictions in interactions among students and external agencies.
 
-For Lianhua Primary School, we took a different approach for VIA. Students were called to exercise daily VIAs in the classroom and other school experiences, whenever possible, in the form of an initiative named ‘Lianhua Superhero Mission – Making a Difference’. Students were encouraged to contribute positively to the class and the school in order to create a culture of care among the students. Conversations between the Form Teachers and the students further enhanced their understanding and conviction to be a contributing citizen in Lianhua.
+Our students were called to exercise daily VIAs in the classroom and other school experiences, whenever possible, in the form of an initiative named ‘Lianhua Superhero Mission – Making a Difference’. Students were encouraged to contribute positively to the class and the school in order to create a culture of care among the students. Conversations between the Form Teachers and the students further enhanced their understanding and conviction to be a contributing citizen in Lianhua.
 
 It was therefore not surprising to see students volunteering in various ways, ranging from helping to take care of the school gardens, to using their spare time to make encouraging notes and cards for the medical frontline staff.
 
-In June this year, one of our Primary One students, started a ‘Care and Share’ corner with her own savings in order to help the needy residents in her estate. Shakthi from Primary One Resilience was so inspired by the Project SMILE that she decided to pay it forward to the society in her own way. Now, Shakthi is an inspiration to all of us. She captured the spirit of Volunteerism so well that we hope more of her generation will be like her one day.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp;
-|---|  
-| ![](/images/lhps_cce11.jpg) <center>Our Primary One Shakthi’s very own community outreach</center> |
 
 
 #### **LHPS CCE Roadmap**
