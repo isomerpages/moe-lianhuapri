@@ -3,6 +3,7 @@ title: Gamelan Ensemble
 permalink: /ccas/visual-n-performing/gamelan-ensemble/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # Gamelan Ensemble
 
@@ -79,4 +80,4 @@ I have learnt to be resilient because nothing is easy. I must always persevere n
 
 MDM KHILFINA BTE KAMARUDDIN SHAH<br>
 MDM SITI NURAINI MUSTAQIIM M YUSOF<br>
-MDM NORLAILAWATI BTE OSMAN
+MR RAMADHAN OMAR

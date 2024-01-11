@@ -1,7 +1,8 @@
 ---
-title: Information &amp; Communications Technology
+title: Information & Communications Technology
 permalink: /learning/information-n-communications-technology/
 description: ""
+variant: markdown
 ---
 # **Information &amp; Communications Technology**
 
@@ -41,6 +42,6 @@ For the installation guide, FAQs and the support team contact email address, you
 <a href="/files/Learning/Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf" target="_blank">Microsoft_Office_365_ProPlus_Apps_Student_Guide_LHPS.pdf</a>
 
 
-**Other platforms (eg Nearpod, Flipgrid, Edmodo etc)**
+**Other platforms (eg Nearpod, Blooket, Padlet)**
 
-In addition to the portals by MOE, our school uses appropriate online platforms to cater to the needs of our pupils. With the use of Nearpod, the interactions between the teacher and pupils are enhanced and timely quality feedback can be given. Our school uses Flipgrid extensively to build their confidence in speaking, presenting and showmanship. This portal prepares our pupils for the future digital world.
+In addition to the portals by MOE, our school uses appropriate online platforms to cater to the needs of our pupils. With the use of Nearpod, the interactions between the teacher and pupils are enhanced and timely quality feedback can be given. Our school also uses Blooket and Padlet to increase students' engagement during lessons.

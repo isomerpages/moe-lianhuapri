@@ -3,6 +3,7 @@ title: Handbells Ensemble
 permalink: /ccas/visual-n-performing/handbells-ensemble/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # Handbells Ensemble
 
@@ -85,7 +86,6 @@ An Introduction to Handbell Ringing
 ## The Team
 
 MS EDELYN LEE<br>
-MDM HO SHEU YUN<br>
 MR SIM WEE CHOON<br>
 MS TOH BEE HONG<br>
-MDM YANG FAN
+MDM LIU CHANG

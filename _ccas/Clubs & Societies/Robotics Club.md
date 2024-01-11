@@ -3,6 +3,7 @@ title: Robotics Club
 permalink: /ccas/clubs-n-societies/robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 # Robotics Club
 
@@ -177,6 +178,6 @@ I have experienced a wonderful 2 years in the robotics CCA. It has helped me imp
 MR LEE SOON WEI<br>
 MS CHOO YEN LENG JOSEPHINE<br>
 MRS ALEXIS PUA<br>
-MDM KONG KAM FOONG<br>
 MS GRACIA EE EN<br>
-MDM TAN XIAOHUI
+MDM HAZWANY<br>
+MS ZHANG NING

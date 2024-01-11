@@ -3,6 +3,7 @@ title: Digital Media Club
 permalink: /ccas/visual-n-performing/digital-media-club/
 description: ""
 third_nav_title: Visual & Performing
+variant: markdown
 ---
 # **Digital Media Club**
 
@@ -41,5 +42,5 @@ Members are provided with opportunities through various organized activities to 
 
 MS VIVIAN CHEN YIMENG<br>
 MDM LEE GIM FANG<br>
-MR RAMADHAN BIN OMAR<br>
-MDM SUBATHRA
+MDM SUBATHRA<br>
+MDM AZIZAH BTE MOHD ALI
