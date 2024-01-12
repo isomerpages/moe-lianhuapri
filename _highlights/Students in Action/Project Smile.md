@@ -9,17 +9,19 @@ variant: markdown
 
 <p style="text-align: right"> Tan Li Xuan, Primary 6 <br>Volunteer for the Project SMILE</p>
 
+![](/images/Highlights/Project%20Smile/Project_SMILE_with_Ms_Low_Yen_Ling.jpg)
+<p style="text-align: center">Project SMILE with Ms Low Yen Ling</p>
+<br>
 
+![](/images/Highlights/Project%20Smile/Picture1.png)
+<p style="text-align: center">A School Community of Volunteers</p>
+<br>
+	
 <p style="text-align: justify;">Indeed, this is the positive attitude that our students have whenever they volunteer for this meaningful project.</p>  
 
 <p style="text-align: justify;">Project SMILE is a project where Lianhua partners many agencies with the aim of bringing smiles to people who are facing difficult situations. Working in partnership with Hao Ren Hao Shi* and the Bukit Gombak Hillgrove Residents’ Committee, the school staff and students pack and distribute grocery packs to vulnerable families of the school and the community.</p>
 
-|   |   |
-|:-:|:-:|
-| ![](/images/Highlights/Project%20Smile/Project%20Smile%201.jpg) Students’ Planning In Action |  <img src="/images/Highlights/Project%20Smile/Project%20Smile%202.jpg" style="width:77%"> Arrival of Sponsored Grocery Items  |
-| ![](/images/Highlights/Project%20Smile/Project%20Smile%203.jpg) Working as A Team to Unload Sponsored Grocery Items | <img src="/images/Highlights/Project%20Smile/Project%20Smile%204.jpg" style="width:77%"> Student In Action: Giving Out Instructions  |
-|  ![](/images/Highlights/Project%20Smile/Project%20Smile%205.jpg) Final Checks| <img src="/images/Highlights/Project%20Smile/Project%20Smile%206.jpg" style="width:77%"> Stations Ready for Packing |
-|  ![](/images/Highlights/Project%20Smile/Project%20Smile%207.jpg)Parent-Child In Action | <img src="/images/Highlights/Project%20Smile/Project%20Smile%208.jpg" style="width:77%"> Leadership In Action |
+
 
 <p style="text-align: justify;">Our school organizes the Project SMILE on a monthly basis, benefitting a hundred vulnerable families each time. During these events, our school’s prefects led a group of volunteers consisting of students and parents to pack and distribute the grocery packs on a Saturday morning.</p>
 
