@@ -3,12 +3,13 @@ title: LHPS Passion Project
 permalink: /highlights/students-in-action/lhps-passion-project/
 description: ""
 third_nav_title: Students in Action
+variant: markdown
 ---
 # LHPS Passion Project
 
 ## <center>Creating a Generation of Passionately Curious Learners</center>
 
-<p style="text-align: justify;">Lianhua Primary School’s Passion Project was designed in 2019 with the aim of igniting our students’ curiosity and motivation to learn. Through the project, students are able to participate in not just joyful, but meaningful, learning experiences. They are challenged to pursue their passions and to be confident to lead their life purposefully. At the same time, they are taught to think about social and environmental issues around them and to be the young activists to address these issues. They learn that they, as young as they may be, can also make a difference to the world around them. The school believes that it is important to teach the kids to learn for life so that they can become healthy, happy and successful kids in life. In 2020, the school’s motto was changed to ‘Play, Passion, Purpose’ to reflect this thinking and ideal.</p>
+<p style="text-align: justify;">Lianhua Primary School’s Passion Project was designed in 2019 with the aim of igniting our students’ curiosity and motivation to learn. Through the project, students are able to participate in not just joyful, but meaningful, learning experiences. They are challenged to pursue their passions and to be confident to lead their life purposefully. At the same time, they are taught to think about social and environmental issues around them and to be the young activists to address these issues. They learn that they, as young as they may be, can also make a difference to the world around them. The school believes that it is important to teach the kids to learn for life so that they can become healthy, happy and successful kids in life. In 2020, the school’s motto was changed to ‘Play, Passion, Purpose’ to reflect this thinking and ideal. From 2022, we have included the Inspiration Award to recognise students who have inspired others with their passions. In 2023, Passion Project Showcase took place during the Children's Day celebrations.</p>
 
 **Passion at the Heart of Learning**
 
@@ -49,4 +50,4 @@ The passion project is a powerful way for our students to embark on a purposeful
 
 <center><i>“I have no special talents. I am only passionately curious.”<br><br>-Albert Einstein</i></center>
 
-<iframe width="764" height="537" src="https://www.youtube.com/embed/voD5UolLjYk" title="Passion @ Home Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="764" height="537" src="https://www.youtube.com/embed/voD5UolLjYk" title="Passion @ Home Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
