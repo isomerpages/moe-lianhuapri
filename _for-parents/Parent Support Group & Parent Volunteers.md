@@ -1,7 +1,8 @@
 ---
-title: Parent Support Group &amp; Parent Volunteers
+title: Parent Support Group & Parent Volunteers
 permalink: /for-parents/parent-support-group-n-parent-volunteers/
 description: ""
+variant: markdown
 ---
 # Parent Support Group &amp; Parent Volunteers
 
@@ -17,7 +18,7 @@ Our PSG has been true to their belief in making positive changes and building a 
 
 ![](/images/Parent%20Support%20Group/image8.jpg) 
 
-| <br>![](/images/Parent%20Support%20Group/image1.jpg)  |  ![](/images/Parent%20Support%20Group/image4.jpg) | 
+| <br>![](/images/Parent%20Support%20Group/Teacher_s_Day_celebration_2023.jpg) |  ![](/images/Parent%20Support%20Group/Project_Smile.jpg) | 
 | -------- | -------- | 
 |||
 
@@ -38,6 +39,8 @@ It has been a challenging year for Lianhua PSG as we face difficulties in planni
 Our Fathers group has been active in planning and organizing father-child activities. The various activities give opportunities for Daddies to bond with their children and leaves wonderful memories.
 
 ![](/images/Parent%20Support%20Group/image6.jpg)
+<br>
+![](/images/Parent%20Support%20Group/Dadsforlife.jpg)
 
 #### <center>Parents' Voices</center>
 
