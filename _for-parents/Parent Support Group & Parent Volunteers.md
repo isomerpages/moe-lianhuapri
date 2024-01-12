@@ -17,12 +17,11 @@ Our PSG has been true to their belief in making positive changes and building a 
 #### <center>Programs</center>
 
 ![](/images/Parent%20Support%20Group/image8.jpg) 
-
-| <br>![](/images/Parent%20Support%20Group/Teacher_s_Day_celebration_2023.jpg) |  ![](/images/Parent%20Support%20Group/Project_Smile.jpg) | 
-| -------- | -------- | 
-|||
-
-
+<br>
+ ![](/images/Parent%20Support%20Group/Teacher_s_Day_celebration_2023.jpg) 
+ <br>
+ ![](/images/Parent%20Support%20Group/Project_Smile.jpg) 
+<br>
 
 PSG bonding sessions are organized on a termly basis to engage parents and promote bonding. Parent volunteers initiated and helped in the planning of the activities. Through the fun-filled activities, new friendships were formed, creating positive communication between parents and their children. Even if face-to-face interactions are suspended, we continued to have fun learning though a virtual cooking class conducted by our PSG leader Mdm Kamilah, creating wonderful memories with brownies and yoga sessions for a healthy lifestyle.
 
