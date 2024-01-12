@@ -3,6 +3,7 @@ title: Student Development
 permalink: /learning/student-development/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 # **Student Development**
 
@@ -33,18 +34,20 @@ At Lianhua Primary School, we believe that every child has the potential to beco
 
 The one-day camp is carried out by our teachers to provide student leaders with a day of targeted and focused learning on different leadership skills i.e. conflict management, public speaking, project planning. The needs of the student leaders are assessed at the start of the year and the training content caters to their learning needs.
 
-<img src="/images/Learning/Student%20Management/image5.jpg" style="width:65%">
+<img src="/images/Learning/Student%20Management/Replace_Pic_2.jpeg" style="width:65%">
 
 <center>Learning skills beyond the classroom</center>
 
 <br>
-<img src="/images/Learning/Student%20Management/image4.jpg" style="width:65%">
+<img src="/images/Learning/Student%20Management/Replace_Pic_3.jpeg" style="width:65%">
 
 <center>Being able to work in teams is very important</center>
 
 <br>
-<img src="/images/Learning/Student%20Management/image7.jpg" style="width:65%">
+<img src="/images/Learning/Student%20Management/Replace_Pic_4.jpeg" style="width:65%">
 
+<br>
+<img src="/images/Learning/Student%20Management/Replace_Pic_4__1_.jpeg" style="width:65%">
 
 <center>Building confidence in our student leaders to speak in front of others</center>
 
