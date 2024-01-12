@@ -3,12 +3,12 @@ title: Project Smile
 permalink: /highlights/students-in-action/project-smile/
 description: ""
 third_nav_title: Students in Action
+variant: markdown
 ---
 <p style="text-align: justify;">“There are many reasons why we join Project SMILE but the most obvious reason is that we can help the needy families in the school as well as in the community. In this way, we can brighten up the world.”</p>
 
-<p style = "text-align: right"> Tan Li Xuan, 6 Loyalty<br>Volunteer for the Project SMILE</p>
+<p style="text-align: right"> Tan Li Xuan, Primary 6 <br>Volunteer for the Project SMILE</p>
 
-<iframe width="736" height="647" src="https://www.youtube.com/embed/ZbY-MlzeaOk" title="Project SMILE at LHPS 2021 updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="text-align: justify;">Indeed, this is the positive attitude that our students have whenever they volunteer for this meaningful project.</p>  
 
@@ -21,9 +21,7 @@ third_nav_title: Students in Action
 |  ![](/images/Highlights/Project%20Smile/Project%20Smile%205.jpg) Final Checks| <img src="/images/Highlights/Project%20Smile/Project%20Smile%206.jpg" style="width:77%"> Stations Ready for Packing |
 |  ![](/images/Highlights/Project%20Smile/Project%20Smile%207.jpg)Parent-Child In Action | <img src="/images/Highlights/Project%20Smile/Project%20Smile%208.jpg" style="width:77%"> Leadership In Action |
 
-<p style="text-align: justify;">From February to May 2021, our school organized four such events, benefitting a hundred vulnerable families each time. During these events, our school’s prefects led a group of volunteers consisting of students and parents to pack and distribute the grocery packs on a Saturday morning.</p>
-
-<p style="text-align: justify;">The project came to a halt in June due to the worsening Covid situation and only resumed in August in time for the National Day celebration. In order to reach out to more vulnerable families without putting the volunteers at risk, staff volunteers delivered the grocery packs to the families with minimal contact instead.</p>
+<p style="text-align: justify;">Our school organizes the Project SMILE on a monthly basis, benefitting a hundred vulnerable families each time. During these events, our school’s prefects led a group of volunteers consisting of students and parents to pack and distribute the grocery packs on a Saturday morning.</p>
 
 <p style="text-align: justify;">While it may seem that the recipients are the only beneficiaries of this project, the volunteers, including the parents and the students, all agreed that the project has allowed them to experience the joy of giving and the hearts of serving. Without a doubt, this is truly one of the most authentic experiences for our students to see the values that they have been taught in action.</p>
 

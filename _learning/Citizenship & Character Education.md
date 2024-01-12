@@ -105,7 +105,7 @@ Making use of the new-found passions, passion-seekers are then challenged to go 
 
 Volunteerism is the word used by the school to encourage our students to create in life a mission to make a difference to others in a self-directed manner.
 
-Students were given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Project SMILE, community outreach and environmental projects.
+Students are given plenty of Values-in-Action (VIA) projects to lead and to participate in, such as the Project SMILE, community outreach and environmental projects.
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
@@ -114,9 +114,9 @@ Students were given plenty of Values-in-Action (VIA) projects to lead and to par
 
 
 
-Our students were called to exercise daily VIAs in the classroom and other school experiences, whenever possible, in the form of an initiative named ‘Lianhua Superhero Mission – Making a Difference’. Students were encouraged to contribute positively to the class and the school in order to create a culture of care among the students. Conversations between the Form Teachers and the students further enhanced their understanding and conviction to be a contributing citizen in Lianhua.
+Our students are called to exercise daily VIAs in the classroom and other school experiences, whenever possible, in the form of an initiative named ‘Lianhua Superhero Mission – Making a Difference’. Students are encouraged to contribute positively to the class and the school in order to create a culture of care among the students. Conversations between the Form Teachers and the students further enhanced their understanding and conviction to be a contributing citizen in Lianhua.
 
-It was therefore not surprising to see students volunteering in various ways, ranging from helping to take care of the school gardens, to using their spare time to make encouraging notes and cards for the medical frontline staff.
+It is therefore not surprising to see students volunteering in various ways, ranging from helping to take care of the school gardens, to using their spare time to make encouraging notes and cards for the medical frontline staff.
 
 
 
