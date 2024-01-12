@@ -3,12 +3,13 @@ title: School Advisory Commitee
 permalink: /about-us/our-family/school-advisory-commitee/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 # School Advisory Commitee
 
 
 |   |   |   |
 |:-:|:-:|:-:|
-|  ![](/images/About%20us/Our%20Family/sac.jpg)Ms Rose Siow Wen Szu<br> Chairperson| <img src="/images/About%20us/Our%20Family/sac4.png" style="width:60%"> Mr Steven Lim Kee Thuan<br>Member  | ![](/images/About%20us/Our%20Family/sac5.jpg)Mr Tan Boon Wee Daniel<br>Member  |
-| ![](/images/About%20us/Our%20Family/DR%20LIM%20SOON%20THYE.jpg) Prof Lim Soon Thye<br>Member |<img src="/images/About%20us/Our%20Family/sac3.jpg" style="width:60%"> Mr Ng Ching Kok Anson<br>Member   |  ![](/images/About%20us/Our%20Family/sac2.jpg)Mr Low Teo Wah Vincent<br>Member   |
-|   |  <img src="/images/About%20us/Our%20Family/sac1.jpg" style="width:60%">  Ms Pamela Kiew<br>Member |   |
+|  ![](/images/About%20us/Our%20Family/alanngshirong.jpg)Mr Alan Ng Shi Rong<br> Member| <img src="/images/About%20us/Our%20Family/amosleonghongkiat.jpg" style="width:70%"> Mr Amos Leong Hong Kiat<br>Member  | ![](/images/About%20us/Our%20Family/estherfoongtan.jpg) Mrs Esther Foong-Tan<br>Member  |
+| ![](/images/About%20us/Our%20Family/DrLimSoonThye.jpeg) Prof Lim Soon Thye<br>Member |<img src="/images/About%20us/Our%20Family/sac3.jpg" style="width:70%"> Mr Ng Ching Kok Anson<br>Member   |  ![](/images/About%20us/Our%20Family/sac2.jpg) Mr Low Teo Wah Vincent<br>Member   |
+|   |  <img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg" style="width:70%">  Ms Pamela Kiew<br>Member |   |
