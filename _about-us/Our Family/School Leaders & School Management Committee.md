@@ -47,7 +47,7 @@ variant: markdown
 	</tr>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Lang </td>
-		<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science </td>
+		<td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science (Internal) </td>
    <td width="250px" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MrRamadhanBinOmar.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
 		<td></td>
 		</tr>
