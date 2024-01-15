@@ -95,7 +95,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-8q31">1 Discipline 3</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Norhani Bte Sahar <br>(Senior Teacher/ Educational Support) </span><br><span style="color:inherit;background-color:transparent">Mdm Lee Qian Ren</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support] </span><br><span style="color:inherit;background-color:transparent">Mdm Lee Qian Ren</span><br></td>
     <td class="tg-ztfi"><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br>
 			<a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>	
@@ -189,7 +189,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 2</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Samantha Lee Miew Fung</span><br><span style="color:inherit;background-color:transparent">Mdm Norhayati Bte Ruhani <br>(Senior Teacher/ Malay Language)</span><br></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Samantha Lee Miew Fung</span><br><span style="color:inherit;background-color:transparent">Mdm Norhayati Bte Ruhani <br>[Senior Teacher/ Malay Language]</span><br></td>
     <td class="tg-ztfi"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -299,12 +299,12 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-8q31">3 Compassion 1</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro <br>(Senior Teacher/ Special Educational Needs Officers)</span><br><span style="color:inherit;background-color:transparent">Ms Abigail Ang Jia Min</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro <br>[Senior Teacher/ Special Educational Needs ]</span><br><span style="color:inherit;background-color:transparent">Ms Abigail Ang Jia Min</span><br></td>
     <td class="tg-ztfi"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br><br>abigail_ang_jia_min@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 2</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel (Senior Teacher/ Physical Education)</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel [Senior Teacher/ Physical Education]</span><br></td>
     <td class="tg-ztfi"><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
@@ -411,7 +411,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 3</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Wok Li Jun, Elizabeth</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah Binte Johari</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Wok Li Jun, Elizabeth <br> [Senior Teacher/ Science (Internal)]</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah Binte Johari</span><br></td>
     <td class="tg-ztfi"><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
@@ -603,7 +603,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-8q31">6 Resilience 1</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Gracia Ee En</span><br><span style="color:inherit;background-color:transparent">Ms Toh Bee Hong <br>(Senior Teacher/ Mathematics)</span></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Gracia Ee En</span><br><span style="color:inherit;background-color:transparent">Ms Toh Bee Hong <br>[Senior Teacher/ Mathematics]</span></td>
     <td class="tg-ztfi"><a href="mailto:gracia_ee_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">gracia_ee_en@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"></a></td>
   </tr>
   <tr>
