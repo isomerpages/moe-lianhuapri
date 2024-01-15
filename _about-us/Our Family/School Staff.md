@@ -189,7 +189,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 2</span></td>
-    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Samantha Lee Miew Fung</span><br><span style="color:inherit;background-color:transparent">Mdm Norhayati Bte Ruhani (ST/ ML)</span><br></td>
+    <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Samantha Lee Miew Fung</span><br><span style="color:inherit;background-color:transparent">Mdm Norhayati Bte Ruhani <br>(ST/ ML)</span><br></td>
     <td class="tg-ztfi"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a></td>
   </tr>
   <tr>
