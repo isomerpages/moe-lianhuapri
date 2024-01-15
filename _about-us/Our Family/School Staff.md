@@ -567,7 +567,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head <br>(P1, P2 &amp; P6 </td>
+    <td class="tg-30r1">Year Head <br>(P1, P2 &amp; P6) </td>
     <td class="tg-lsa6">Mrs Samantha Soh-Lee</td>
     <td class="tg-frjl"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
