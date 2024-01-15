@@ -40,14 +40,14 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xir6">Year Head (P1, P2 &amp; P6) </th>
+    <th class="tg-xir6">Year Head <br>(P1, P2 &amp; P6) </th>
     <th class="tg-mtj8">Mrs Samantha Soh-Lee</th>
     <th class="tg-ztfi"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8q31">Assistant Year Head (P1 &amp; P2)</td>
+    <td class="tg-8q31">Assistant Year Head <br> (P1 &amp; P2)</td>
     <td class="tg-mtj8">Mdm Pek Peet Juan</td>
     <td class="tg-ztfi"><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
   </tr>
@@ -161,7 +161,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-xir6">Year Head (P1, P2 &amp; P6)</td>
+    <td class="tg-xir6">Year Head <br>(P1, P2 &amp; P6)</td>
     <td class="tg-8q31">Mrs Samantha Soh-Lee</td>
     <td class="tg-frjl"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
@@ -263,7 +263,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P3, P4 &amp; P5 ) </td>
+    <td class="tg-30r1">Year Head <br>(P3, P4 &amp; P5) </td>
     <td class="tg-lsa6">Ms Wang Xiaoxuan</td>
     <td class="tg-frjl"><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -365,7 +365,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P3, P4 &amp; P5 ) </td>
+    <td class="tg-30r1">Year Head <br>(P3, P4 &amp; P5) </td>
     <td class="tg-lsa6">Ms Wang Xiaoxuan</td>
     <td class="tg-frjl"><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -412,7 +412,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31">4 Integrity 3</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Wok Li Jun, Elizabeth <br> [Senior Teacher/ Science (Internal)]</span><br><span style="color:inherit;background-color:transparent">Ms Farah Syafiqah Binte Johari</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br><br>farah_syafiqah_johari@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">4 Integrity 4</td>
@@ -471,7 +471,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P3, P4 &amp; P5 ) </td>
+    <td class="tg-30r1">Year Head <br> (P3, P4 &amp; P5) </td>
     <td class="tg-lsa6">Ms Wang Xiaoxuan</td>
     <td class="tg-frjl"><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -567,7 +567,7 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <td class="tg-30r1">Year Head (P1, P2 &amp; P6 </td>
+    <td class="tg-30r1">Year Head <br>(P1, P2 &amp; P6 </td>
     <td class="tg-lsa6">Mrs Samantha Soh-Lee</td>
     <td class="tg-frjl"><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
