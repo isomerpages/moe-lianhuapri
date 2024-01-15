@@ -23,7 +23,7 @@ variant: markdown
   <tr>
     <td width="250px" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
 		<td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P1, P2 &amp; P6 </td>
-	<td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSiahSiewLing.png">Mdm Siah Siew Ling<br>Year P5 &amp; P6 </td>
+	<td width="20px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSiahSiewLing.png"><br>Mdm Siah Siew Ling<br>Year P5 &amp; P6 </td>
   </tr>
   <tr>
     <td width="250px" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
