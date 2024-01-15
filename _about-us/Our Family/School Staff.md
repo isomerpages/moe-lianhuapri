@@ -669,22 +669,21 @@ variant: markdown
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-30r1">Student Well-being Education Officer</th>
-    <th class="tg-mb3n"><span style="color:inherit;background-color:transparent">Mdm Khilfina Bte Kamaruddin Shah</span></th>
-    <th class="tg-79l8"><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br></th>
+    <th class="tg-30r1">School Counsellor</th>
+    <th class="tg-mb3n"><span style="color:inherit;background-color:transparent">Ms Tahiradulnisha Binte Kader Ibrahim</span></th>
+    <th class="tg-79l8"><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tahiradulnisha_kader_ibrahim@moe.edu.sg</span></a><br></th>
+  
   </tr>
-</thead>
-<tbody>
-  <tr>
+	  <tr>
     <td class="tg-xir6">Teacher Counsellor</td>
     <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Mdm Siti Aishah Bte Mohd Rasid</span></td>
     <td class="tg-d16l"><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
+	
   <tr>
     <td class="tg-xir6" rowspan="2">Special Educational Needs Officers</td>
-    <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro </span></td>
-    <td class="tg-d16l"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-mbpb"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro </span><br>Ms Sheril Aida binte Ishak</td>
+    <td class="tg-d16l"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span> <br></a><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span><span style="color:inherit;background-color:transparent"> </span></a></td>
   </tr>
- 
-</tbody>
-</table></p></div></li>
+
+</thead></table></p></div></li>
