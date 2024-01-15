@@ -107,22 +107,22 @@ variant: markdown
 <tr>
     <td class="tg-8q31">1 Discipline 5</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Hussum Fatimah Bte Syed Mohd</span><br><span style="color:inherit;background-color:transparent">Mdm Rosnah Binte Rosman</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-ztfi"><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>rosnah_rosman@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
 	<tr>
     <td class="tg-8q31">1 Discipline 6</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Noor Dayana Bte Mohd Saleh</span><br><span style="color:inherit;background-color:transparent">Mr Tan Chin Chuan</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-ztfi"><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>tan_chin_chuan@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   <tr>
     <td class="tg-8q31">1 Discipline 7</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mrs Samantha Liew-Kong Yue Ping</span><br><span style="color:inherit;background-color:transparent">Mdm B Reqha Trixie</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>b_reqha_trixie@moe.edu.sg</span></a><br></td>
   </tr>
 	<tr>
     <td class="tg-8q31">1 Discipline 8</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Hana Diyana Binte Abd Kahar</span><br><span style="color:inherit;background-color:transparent">Mr Foo Zhi Bao Jonathan</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-ztfi"><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>foo_zhi_bao_jonathan@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>
   
 </tbody>
@@ -185,7 +185,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold ;background-color:#F5F7F6">2 Respect 1</span></td>
     <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Ms Fatimah Sajidah Binte Abdul Razak</span><br><span style="color:inherit;background-color:transparent">Mdm Lai Lian Siang Ruth</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg."><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg."><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>lai_lian_siang@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 2</span></td>
@@ -195,7 +195,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 3</span><br></td>
     <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm Shanthini D/O Radha Krishnan</span><br><span style="color:inherit;background-color:transparent">Mdm Liu Chang</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>liu_chang@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 4</span></td>
@@ -210,7 +210,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 6</span></td>
     <td class="tg-mtj8"><span style="color:inherit;background-color:transparent">Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf</span><br><span style="color:inherit;background-color:transparent">Mrs Tay-Wong Peck San</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>wong_peck_san@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31"><span style="font-weight:bold;background-color:#F5F7F6">2 Respect 7</span></td>
@@ -300,7 +300,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31">3 Compassion 1</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro <br>(Senior Teacher/ Special Educational Needs Officers)</span><br><span style="color:inherit;background-color:transparent">Ms Abigail Ang Jia Min</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>abigail_ang_jia_min@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br><br>abigail_ang_jia_min@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 2</td>
@@ -320,7 +320,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31">3 Compassion 5</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Siti Aishah Bte Mohd Rasid</span><br><span style="color:inherit;background-color:transparent">Ms Chen Yimeng Vivian</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>chen_yimeng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 6</td>
@@ -513,12 +513,12 @@ variant: markdown
   <tr>
     <td class="tg-8q31">5 Unity 2</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Khilfina Bte Kamaruddin Shah</span><br><span style="color:inherit;background-color:transparent">Mr Tan Thong Howe</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_thong_howe@moe.edu.sg</span></a></td>
+    <td class="tg-ztfi"><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>tan_thong_howe@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31">5 Unity 3</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mr Chong Chee Weng Matthew</span><br><span style="color:inherit;background-color:transparent">Mdm Tan Xiaohui</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>tan_xiaohui@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">5 Unity 4</td>
@@ -609,7 +609,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31">6 Resilience 2</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Selva Rani D/O Adekalo Japalla</span> Foo<br><span style="color:inherit;background-color:transparent">Mr Willie Wong Weng Seng</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
+    <td class="tg-ztfi"><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>willie_wong_weng_seng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-8q31">6 Resilience 3</td>
