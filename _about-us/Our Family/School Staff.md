@@ -304,7 +304,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 2</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Yong Hua Moy</span><br><span style="color:inherit;background-color:transparent">Mr Wong Ee Meng Samuel (ST/ PE)</span><br></td>
     <td class="tg-ztfi"><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
