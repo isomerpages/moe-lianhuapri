@@ -95,7 +95,7 @@ variant: markdown
   </tr>
 	<tr>
     <td class="tg-8q31">1 Discipline 3</td>
-    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Norhani Bte Sahar</span><br><span style="color:inherit;background-color:transparent">Mdm Lee Qian Ren</span><br></td>
+    <td class="tg-t924"><span style="color:inherit;background-color:transparent">Mdm Norhani Bte Sahar <br>(Senior Teacher/Educational Support) </span><br><span style="color:inherit;background-color:transparent">Mdm Lee Qian Ren</span><br></td>
     <td class="tg-ztfi"><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br>
 			<a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a><span style="color:inherit;background-color:transparent"> </span></td>
   </tr>	
