@@ -300,7 +300,7 @@ variant: markdown
   <tr>
     <td class="tg-8q31">3 Compassion 1</td>
     <td class="tg-t924"><span style="color:inherit;background-color:transparent">Ms Hedzlyn Hazwany Mohamed Mahro <br>(Senior Teacher/ Special Educational Needs Officers)</span><br><span style="color:inherit;background-color:transparent">Ms Abigail Ang Jia Min</span><br></td>
-    <td class="tg-ztfi"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a><br></td>
+    <td class="tg-ztfi"><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"><br>abigail_ang_jia_min@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-8q31">3 Compassion 2</td>
