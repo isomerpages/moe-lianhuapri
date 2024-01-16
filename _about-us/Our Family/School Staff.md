@@ -106,14 +106,16 @@ td span{
 			
   <tr>
     <td>1 Discipline 5	</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>Ms Hussum Fatimah Bte Syed Mohd<br><br> Mdm Rosnah Binte Rosman</td>
+    <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><br>
+		<a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>1 Discipline 6	</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Ms Noor Dayana Bte Mohd Saleh<br><br> Mr Tan Chin Chuan</td>
+    <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><br>
+		<a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
