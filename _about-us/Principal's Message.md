@@ -10,7 +10,10 @@ variant: markdown
 p {
   font-size: 14px;
 }
-	
+
+li { 
+	font-size: 14px;
+	}	
 </style>
 	
 Dear Students, Parents, and Friends,
