@@ -119,8 +119,9 @@ td span{
 		
  <tr>
     <td>1 Discipline 7	</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Mrs Samantha Liew-Kong Yue Ping<br><br> Mdm B Reqha Trixie</td>
+    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><br>
+		<a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
   </tr>	
 			
 <tr>
