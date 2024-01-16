@@ -101,9 +101,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 5	</td>
-    <td>Ms Hussum Fatimah Bte Syed Mohd<br><br> Mdm Rosnah Binte Rosman</td>
-    <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><br>
-		<a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
+    <td>Ms Hussum Fatimah Bte Syed Mohd<br>Mdm Rosnah Binte Rosman</td>
+    <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
