@@ -48,28 +48,21 @@ Dear Students, Parents, and Friends,
 	<li><p>In our commitment to providing a holistic education, we are excited to introduce our <strong>Superhero Sidekicks</strong>. These sidekicks symbolize the <strong>critical Executive Functioning Skills that are vital for effective learning and success</strong> in the 21st century. From time management to problem-solving, these sidekicks guide our students on their academic journey, helping them develop the skills necessary for lifelong success.</p></li>
 </ol> 
 
-<img height="333" width="500" alt="Trulli" src="/images/About%20us/Principal%20Message/Superhero_Superpets_Simple.png">
+<img height="333" width="500" src="/images/About%20us/superhero_superpets_simple.png">
 
+<p><strong>Confident Communication as a Cornerstone</strong></p>	
+<ol start="7" style="PADDING-LEFT: 30px">
+	<li><p>At Lianhua, we understand the importance of confident communication in leadership. Through various programs and activities, we emphasize the development of strong communication skills. We believe that effective leaders are not only articulate but also adept at active listening, collaboration, and expressing their ideas with clarity and conviction. These skills not only enhance academic performance but are crucial for success in future careers and life endeavors.</p></li>
+</ol>
+	
+<p>As we embark on this exciting journey of self-discovery and leadership development, we invite our students to embrace their inner superheroes, recognize the significance of executive functioning skills, and understand the power of confident communication. Together, we are shaping leaders who will lead themselves well and make a positive impact in the lives of others.</p>
+	
+<p>Thank you for your support.</p>
+<br>
 
-===
-<br>old
+<p>Sincerely, <br>
+Ms Pamela Kiew<br>
+Principal<br>
+Lianhua Primary School
+</p>
 
-*   Passionate Learners: We believe that learning should be a joyful experience, and we encourage our students to discover their passions and pursue them with enthusiasm. We provide a variety of learning opportunities and experiences that challenge and engage our students, helping them to develop a love for learning that lasts a lifetime.
-
-*   Critical Thinkers: We believe that learning is not just about memorizing information but also about developing critical thinking skills. We encourage our students to think deeply, analyze information, and evaluate evidence to make informed decisions. This approach helps our students become independent and creative thinkers who are able to solve complex problems and make informed decisions.
-
-*   Confident Communicators: We believe that effective communication is a key to success in every aspect of life. We help our students develop their communication skills, including speaking, listening, reading, and writing. Through various activities, such as debates, public speaking, and creative writing, our students learn to express their ideas with clarity and confidence.
-
-*   Exemplary Leaders: We believe that our students have the potential to become exemplary leaders who make a positive impact on their communities. We encourage our students to develop leadership skills, such as responsibility, integrity, and teamwork. We provide them with opportunities to lead, collaborate, and take initiative, helping them to become confident and compassionate leaders.
-
-We are committed to providing our students with a supportive and inclusive learning environment that values diversity and respects individual differences. Our teachers are dedicated and passionate educators who work tirelessly to help our students reach their full potential.
-
-Thank you for visiting our website, and we invite you to explore more about our school community and what we offer. We look forward to welcoming you and your child to our school.
-
-Sincerely,
-
-Ms Pamela Kiew
-
-Principal
-
-![](/images/About%20us/Lian%20Hua%20Pri%20Principal%20image.png)
