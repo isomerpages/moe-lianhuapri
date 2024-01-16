@@ -261,9 +261,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>2 Respect 3</td>
-    <td>Mdm Shanthini D/O Radha Krishnan<br>Mdm Liu Chang</td>
-    <td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a></td>
+    <td>3 Compassion 3</td>
+    <td>Mrs Emily Chia<br>Ms Arshvini Paulose Manohar</td>
+    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:arshvini_paulose_manohar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">arshvini_paulose_manohar@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
