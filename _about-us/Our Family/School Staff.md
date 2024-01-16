@@ -38,7 +38,6 @@ td span{
 	
 </style>
 
-
 <h4><strong>Primary One Teachers</strong></h4>
 
 
@@ -64,8 +63,6 @@ td span{
 </tr>
 </tbody></table>	
 
-<br>
-	
 <!-- Primary One Form Teachers Table-->
 <table>
     <thead>
@@ -126,8 +123,6 @@ td span{
     <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
   </tr>	
 </tbody></table>
-	
-<br>
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
@@ -148,7 +143,6 @@ td span{
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>	
-<br>
 	
  <!-- Primary Two Form Teachers Table-->
 <table>
@@ -284,7 +278,7 @@ td span{
     <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
-<br>
+
 
 <h4><strong>Primary Four Teachers</strong></h4>
 	
@@ -305,7 +299,6 @@ td span{
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>	
-<br>
 	
  <!-- Primary Four Form Teachers Table-->
 <table>
@@ -360,8 +353,7 @@ td span{
     <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">low_teck_chye_vincent@moe.edu.sg</span></a></td>
   </tr>	
 </tbody></table>
-<br>
-	
+
 <h4><strong>Primary Five Teachers</strong></h4>
 	
 
@@ -381,7 +373,7 @@ td span{
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>	
-<br>
+
 	
  <!-- Primary Five Form Teachers Table-->
 <table>
@@ -424,7 +416,7 @@ td span{
     <td><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
-<br>
+
 
 <h4><strong>Primary Six Teachers</strong></h4>
 	
@@ -445,7 +437,6 @@ td span{
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>	
-<br>
 	
  <!-- Primary Six Form Teachers Table-->
 <table>
@@ -488,7 +479,6 @@ td span{
     <td><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
-<br>
 
 <h4><strong>Specialised Support Staff</strong></h4>
 	
