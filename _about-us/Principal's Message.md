@@ -48,7 +48,8 @@ Dear Students, Parents, and Friends,
 	<li><p>In our commitment to providing a holistic education, we are excited to introduce our <strong>Superhero Sidekicks</strong>. These sidekicks symbolize the <strong>critical Executive Functioning Skills that are vital for effective learning and success</strong> in the 21st century. From time management to problem-solving, these sidekicks guide our students on their academic journey, helping them develop the skills necessary for lifelong success.</p></li>
 </ol> 
 
-![](/images/About%20us/Principal’s%20Message/Superhero_Superpets_Simple.png)
+<img height="333" width="500" alt="Trulli" src="/images/About%20us/Principal%20Message/Superhero_Superpets_Simple.png">
+
 
 ===
 <br>old
