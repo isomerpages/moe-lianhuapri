@@ -274,9 +274,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>2 Respect 5</td>
-    <td>Mdm Pek Peet Juan Shanice<br>Mdm Kuan Suan Shi</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a></td>
+    <td>3 Compassion 5</td>
+    <td>Mdm Siti Aishah Bte Mohd Rasid<br>Ms Chen Yimeng Vivian</td>
+    <td><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
