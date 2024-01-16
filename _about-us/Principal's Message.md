@@ -10,6 +10,7 @@ variant: markdown
 p {
   font-size: 18px;
 }
+	
 </style>
 	
 Dear Students, Parents, and Friends,
@@ -18,20 +19,25 @@ Dear Students, Parents, and Friends,
 
 <br>
 
-<ol type="1">
-  <li><p>As part of our ongoing commitment to enhancing the educational experience at Lianhua, we wanted to share an exciting development that aligns with our mission to cultivate not just academic excellence but also the holistic development of our students.</p></li>
-	
-  <li><p>Starting this academic year, we have decided to <strong>name our classes after our core values</strong>. This decision is rooted in our belief that education goes beyond textbooks and exams; it is about shaping individuals who not only excel academically but also embody the values that are integral to our school community. We believe that this shift towards a values-based class naming approach will contribute significantly to the overall development of our students. It emphasizes our dedication to providing not just an excellent education but an education that shapes individuals with strong character and values.</p></li>
+<ol start="1" style="PADDING-LEFT: 30px">
+		<li><p>As part of our ongoing commitment to enhancing the educational experience at Lianhua, we wanted to share an exciting development that aligns with our mission to cultivate not just academic excellence but also the holistic development of our students.</p></li>
+</ol>
 
+<ol start="2" style="PADDING-LEFT: 30px">
+  <li><p>Starting this academic year, we have decided to <strong>name our classes after our core values</strong>. This decision is rooted in our belief that education goes beyond textbooks and exams; it is about shaping individuals who not only excel academically but also embody the values that are integral to our school community. We believe that this shift towards a values-based class naming approach will contribute significantly to the overall development of our students. It emphasizes our dedication to providing not just an excellent education but an education that shapes individuals with strong character and values.</p></li>
+</ol>
 <br>
 
-<strong><p>Passionate Learners, Critical and Creative Thinkers</p></strong>
+<p><strong>Passionate Learners, Critical and Creative Thinkers</strong></p>
+<ol start="3" style="PADDING-LEFT: 30px">
 	<li><p>We are committed to cultivating a dynamic learning environment that nurtures critical and creative thinking skills among our students. Our lessons are designed to engage learners in thought-provoking discussions, authentic explorations, and collaborative projects that encourage them to analyze information critically and generate innovative solutions. Through platforms like our <strong>Applied Learning Programme (ALP) in STEM, Robotics and Coding,</strong> we provide students with opportunities to apply their knowledge in practical, real-world contexts. </p></li>
 	
 <p>Additionally, we are excited to introduce our newly minted <strong>Innovation Week</strong>, a dedicated week where students can explore and unleash their creativity through multidisciplinary projects, interact with guest speakers, and showcase their innovative and creative endeavors. This initiative reflects our commitment to fostering a culture of curiosity, problem-solving, and continuous learning, pushing the boundaries of their imagination and problem-solving capabilities.</p>	
-	
+</ol>
+<br>
 
 <p><strong>Empowering Exemplary Leadership</strong></p>	
+<ol start="4" style="PADDING-LEFT: 30px">
 	<li><p>Our educational philosophy centers around nurturing students to first become leaders in their own lives. Through a unique focus on self-leadership, students develop the essential skills required for success in both academic and real-world settings. We believe that by instilling a sense of responsibility and self-motivation, our students will experience a transformative process that begins with self-leadership and extends to leading others and positively influencing their peers and communities. </p></li>
  
 
@@ -40,11 +46,9 @@ Dear Students, Parents, and Friends,
 	
 <p><strong>*Introducing Superhero Sidekicks - Executive Functioning Skills</strong></p>
 	<li><p>In our commitment to providing a holistic education, we are excited to introduce our <strong>Superhero Sidekicks</strong>. These sidekicks symbolize the <strong>critical Executive Functioning Skills that are vital for effective learning and success</strong> in the 21st century. From time management to problem-solving, these sidekicks guide our students on their academic journey, helping them develop the skills necessary for lifelong success.</p></li>
-
-
-	
 </ol> 
 
+![](/images/About%20us/Principal’s%20Message/Superhero_Superpets_Simple.png)
 
 ===
 <br>old
