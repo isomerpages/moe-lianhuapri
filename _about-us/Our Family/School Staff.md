@@ -92,15 +92,16 @@ td span{
 			
   <tr>
     <td>1 Discipline 3	</td>
-    <td>Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support]<br><br> Mdm Koh Wan Ting</td>
-    <td><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_nuraini_mustaqiim_yusof@moe.edu.sg</span></a><br><br>
-		<a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a></td>
+    <td>Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support]<br><br> Mdm Lee Qian Ren</td>
+    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br>
+		<a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>1 Discipline 4	</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Ms Chua Wan Jun<br><br> Ms Lee Gim Fang</td>
+    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><br>
+		<a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
