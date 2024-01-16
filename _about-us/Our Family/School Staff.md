@@ -125,7 +125,6 @@ td span{
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-
   <!-- Year Head Table -->
   <table>
     <thead>
@@ -509,4 +508,3 @@ td span{
     <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a><br><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
-	
