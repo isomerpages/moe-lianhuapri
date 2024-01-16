@@ -472,9 +472,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>5 Unity 3</td>
-    <td>Mr Chong Chee Weng Matthew<br>Mdm Tan Xiaohui</td>
-    <td><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a></td>
+    <td>6 Resilience 3</td>
+    <td>Mdm Po Mun Ying<br>Mr Ramadhan Bin Omar</td>
+    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
