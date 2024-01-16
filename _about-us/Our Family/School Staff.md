@@ -204,11 +204,15 @@ td span{
   </tr>	
 			
 <tr>
-    <td>1 Discipline 8	</td>
-    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mr Foo Zhi Bao Jonathan
-</td>
-    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
+    <td>2 Respect 8</td>
+    <td>Mdm Norlailawati Bte Osman<br>Ms Soh Fang Ying</td>
+    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:soh_fang_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">soh_fang_ying@moe.edu.sg</span></a></td>
   </tr>	
+<tr>
+    <td>2 Respect 9</td>
+    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail</td>
+    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
+  </tr>
 </tbody></table>
 
 
