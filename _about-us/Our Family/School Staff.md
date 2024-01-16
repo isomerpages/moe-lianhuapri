@@ -7,6 +7,8 @@ variant: markdown
 ---
 # School Staff
 
+![](/images/About%20us/Our%20Family/SchoolStaffPhoto.jpg)
+
 <style>
 table {
   font-family: arial, sans-serif;
