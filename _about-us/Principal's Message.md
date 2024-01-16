@@ -6,7 +6,7 @@ variant: markdown
 ---
 <style>
 body p {
-  font-size: 14px;
+  font-size: 15px;
 	line-height: 1.5 !important;
 }
 
