@@ -268,9 +268,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>2 Respect 4</td>
-    <td>Ms Clara Tan Yi Jun<br>Ms Shafira Binte Zailani</td>
-    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a></td>
+    <td>3 Compassion 4</td>
+    <td>Ms Lee Sok Ngee Pauline<br>Mdm Ramzaniah Binti Lateh</td>
+    <td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
