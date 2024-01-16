@@ -126,18 +126,13 @@ td span{
 			
 <tr>
     <td>1 Discipline 8	</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Mdm Hana Diyana Binte Abd Kahar<br><br> Mr Foo Zhi Bao Jonathan
+</td>
+    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><br>
+		<a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
   </tr>	
-		
-<tr>
-    <td>1 Discipline 9	</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>		
 </tbody></table>
 	
-<br>
 <br>
 	
  <!-- Primary  2 Table -->
