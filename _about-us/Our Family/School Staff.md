@@ -168,9 +168,9 @@ td span{
 				
   </tr>
   <tr>
-    <td>1 Discipline 2</td>
-    <td>Mdm Siti Nuraini<br>Mdm Koh Wan Ting</td>
-    <td><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_nuraini_mustaqiim_yusof@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a></td>
+    <td>2 Respect 2	</td>
+    <td>Mdm Samantha Lee Miew Fung<br>Mdm Norhayati Bte Ruhani<br>[Senior Teacher/ Malay Language]</td>
+    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
