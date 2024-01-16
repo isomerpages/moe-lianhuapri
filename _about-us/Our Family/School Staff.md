@@ -174,9 +174,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>1 Discipline 3	</td>
-    <td>Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support]<br>Mdm Lee Qian Ren</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a></td>
+    <td>2 Respect 3</td>
+    <td>Mdm Shanthini D/O Radha Krishnan<br>Mdm Liu Chang</td>
+    <td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
