@@ -50,7 +50,7 @@ td span{
         <th>Email</th>
       </tr>
     </thead>
-    <tbody>
+<tbody>
   <tr>
     <td>Year Head (P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
@@ -60,7 +60,8 @@ td span{
     <td>Assistant Year Head (P1 &amp; P2)</td>
     <td>Mdm Pek Peet Juan</td>
     <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
-</tr></tbody></table>	
+</tr>
+</tbody></table>	
 
 <br>
 	
@@ -129,7 +130,24 @@ td span{
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-	
+
+  <!-- Year head and Assistant Year Head Table -->
+  <table>
+    <thead>
+      <tr>
+        <th> <br> </th>
+        <th>Teachers</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+<tbody>
+  <tr>
+    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Mrs Samantha Soh-Lee</td>
+    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
+  </tr>
+</tbody></table>	
+<br>
 	
  <!-- Primary Two Form Teachers Table-->
 <table>
