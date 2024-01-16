@@ -64,7 +64,6 @@ td span{
 
 <br>
 <br>
-<br>
 	
 <!-- Primary One Form Teachers Table-->
 <table>
@@ -92,32 +91,48 @@ td span{
   </tr>
 			
   <tr>
-    <td>Ernst Handel</td>
+    <td>1 Discipline 3	</td>
     <td>Roland Mendel</td>
     <td>Austria</td>
   </tr>
 			
   <tr>
-    <td>Island Trading</td>
+    <td>1 Discipline 4	</td>
     <td>Helen Bennett</td>
     <td>UK</td>
   </tr>
 			
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
+    <td>1 Discipline 5	</td>
     <td>Yoshi Tannamuri</td>
     <td>Canada</td>
   </tr>
 			
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
+    <td>1 Discipline 6	</td>
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
   </tr>
-	</tbody></table>
+		
+ <tr>
+    <td>1 Discipline 7	</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>	
+			
+<tr>
+    <td>1 Discipline 8	</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>	
+		
+<tr>
+    <td>1 Discipline 9	</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>		
+</tbody></table>
 	
-	
-<br>
 <br>
 <br>
 	
