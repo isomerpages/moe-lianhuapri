@@ -38,7 +38,7 @@ td span{
 </style>
 
 
-<h4>Primary One Teachers</h4>
+<h4><strong>Primary One Teachers</strong></h4>
 
 
   <!-- Year head and Assistant Year Head Table -->
@@ -126,48 +126,71 @@ td span{
 </tbody></table>
 	
 <br>
+
+<h4><strong>Primary Two Teachers</strong></h4>
 	
- <!-- Primary  2 Table -->
+	
+	
+ <!-- Primary Two Form Teachers Table-->
 <table>
     <thead>
       <tr>
-        <th>Header 1</th>
+        <th>Class</th>
         <th>Teachers</th>
         <th>Email</th>
       </tr>
-    </thead>
+  </thead>
     <tbody>
-  <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+			<tr>
+				<td>2 Respect 1</td>
+				<td>Ms Poh Jing Wen Alyssa <br>Mdm Azizah Bte Mohd Ali</td>
+				<td><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">Poh_Jing_Wen_Alyssa@moe.edu.sg</span></a><br><a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a>
+	</td>
+				
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>1 Discipline 2</td>
+    <td>Mdm Siti Nuraini<br>Mdm Koh Wan Ting</td>
+    <td><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_nuraini_mustaqiim_yusof@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a></td>
   </tr>
+			
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>1 Discipline 3	</td>
+    <td>Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support]<br>Mdm Lee Qian Ren</td>
+    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a></td>
   </tr>
+			
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>1 Discipline 4	</td>
+    <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
+    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
   </tr>
+			
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>1 Discipline 5	</td>
+    <td>Ms Hussum Fatimah Bte Syed Mohd<br>Mdm Rosnah Binte Rosman</td>
+    <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
+			
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>1 Discipline 6	</td>
+    <td>Ms Noor Dayana Bte Mohd Saleh<br>Mr Tan Chin Chuan</td>
+    <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
   </tr>
-	</tbody></table>
+		
+ <tr>
+    <td>1 Discipline 7	</td>
+    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm B Reqha Trixie</td>
+    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
+  </tr>	
+			
+<tr>
+    <td>1 Discipline 8	</td>
+    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mr Foo Zhi Bao Jonathan
+</td>
+    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
+  </tr>	
+</tbody></table>
 
 
 
