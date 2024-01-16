@@ -48,7 +48,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -72,7 +72,7 @@ td span{
       <tr>
         <th>Class</th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -138,7 +138,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -156,7 +156,7 @@ td span{
       <tr>
         <th>Class</th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -215,8 +215,7 @@ td span{
     <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
-<br>
-	
+
 <h4><strong>Primary Three Teachers</strong></h4>
 	
 
@@ -226,7 +225,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -236,7 +235,7 @@ td span{
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>	
-<br>
+
 	
  <!-- Primary Three Form Teachers Table-->
 <table>
@@ -244,7 +243,7 @@ td span{
       <tr>
         <th>Class</th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -296,7 +295,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -314,7 +313,7 @@ td span{
       <tr>
         <th>Class</th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -372,7 +371,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -436,7 +435,7 @@ td span{
       <tr>
         <th> <br> </th>
         <th>Teachers</th>
-        <th>Email</th>
+        <th>Email Address</th>
       </tr>
     </thead>
 <tbody>
