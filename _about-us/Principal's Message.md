@@ -4,8 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-# Principal's Message
-
 <style>
 p {
   font-size: 14px;
@@ -14,7 +12,24 @@ p {
 li { 
 	font-size: 14px;
 	}	
+
+	header {
+      display: flex;
+      align-items: right;
+  }
+	
+ #header-photo {
+      width: 240px; 
+      height: 300px;
+      margin-right: 10px; 
+    }	
 </style>
+	
+
+<header>
+    <h1>Principal's Message</h1>
+		<img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg" id="header-photo">
+  </header>
 	
 Dear Students, Parents, and Friends,
 
