@@ -63,7 +63,6 @@ td span{
 </tr></tbody></table>	
 
 <br>
-<br>
 	
 <!-- Primary One Form Teachers Table-->
 <table>
