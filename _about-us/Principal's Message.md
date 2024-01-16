@@ -20,8 +20,8 @@ li {
   }
 	
  #header-photo {
-      width: 230px; 
-      height: 300px;
+      width: 130px; 
+      height: 200px;
       margin-right: 10px; 
     }	
 </style>
