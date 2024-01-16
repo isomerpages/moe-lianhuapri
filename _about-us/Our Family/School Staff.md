@@ -255,9 +255,9 @@ td span{
 				
   </tr>
   <tr>
-    <td>2 Respect 2	</td>
-    <td>Mdm Samantha Lee Miew Fung<br>Mdm Norhayati Bte Ruhani<br>[Senior Teacher/ Malay Language]</td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a></td>
+    <td>3 Compassion 2</td>
+    <td>Ms Yong Hua Moy<br>Mr Wong Ee Meng Samuel<br> [Senior Teacher/ Physical Education]</td>
+    <td><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
