@@ -20,7 +20,7 @@ li {
   }
 	
  #header-photo {
-      width: 130px; 
+      width: 140px; 
       height: 200px;
       margin-right: 10px; 
     }	
