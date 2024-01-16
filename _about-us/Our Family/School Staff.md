@@ -350,29 +350,20 @@ td span{
   </tr>
 			
   <tr>
-    <td>2 Respect 6</td>
-    <td>Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf<br>Mrs Tay-Wong Peck San</td>
-    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
+    <td>4 Integrity 6</td>
+    <td>Mdm Jalifah Bte Ismail<br>Mr Sim Wee Choon</td>
+    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
-    <td>2 Respect 7</td>
-    <td>Mdm Ma Su Lin Jacqueline<br>Mdm Norlieza Bte Ahmad</td>
-    <td><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a></td>
+    <td>4 Integrity 7</td>
+    <td>Mdm Irnny Irianny Chumaing<br>Mr Low Teck Chye Vincent</td>
+    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">low_teck_chye_vincent@moe.edu.sg</span></a></td>
   </tr>	
-			
-<tr>
-    <td>2 Respect 8</td>
-    <td>Mdm Norlailawati Bte Osman<br>Ms Soh Fang Ying</td>
-    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:soh_fang_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">soh_fang_ying@moe.edu.sg</span></a></td>
-  </tr>	
-<tr>
-    <td>2 Respect 9</td>
-    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail</td>
-    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
-  </tr>
 </tbody></table>
-
+<br>
+	
+	
 ===
 <br>old
 <br>
