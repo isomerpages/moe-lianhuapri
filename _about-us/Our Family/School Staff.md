@@ -180,9 +180,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>1 Discipline 4	</td>
-    <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
-    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
+    <td>2 Respect 4</td>
+    <td>Ms Clara Tan Yi Jun<br>Ms Shafira Binte Zailani</td>
+    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
