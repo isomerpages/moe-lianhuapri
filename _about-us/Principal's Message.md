@@ -5,8 +5,9 @@ description: ""
 variant: markdown
 ---
 <style>
-p {
+body p {
   font-size: 14px;
+	line-height: 1.5 !important;
 }
 
 li { 
