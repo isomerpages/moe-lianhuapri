@@ -466,9 +466,9 @@ td span{
 				
   </tr>
   <tr>
-    <td>5 Unity 2</td>
-    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Mr Tan Thong Howe</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_thong_howe@moe.edu.sg</span></a></td>
+    <td>6 Resilience 2</td>
+    <td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mr Willie Wong Weng Seng</td>
+    <td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
