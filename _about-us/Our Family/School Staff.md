@@ -489,7 +489,38 @@ td span{
     <td><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
+<br>
+
+<h4><strong>Specialised Support Staff</strong></h4>
 	
+<!-- Specialised Support Staff-->
+<table>
+    <thead>
+      <tr>
+        <th><br></th>
+        <th>Support Staff</th>
+        <th>Email Address</th>
+      </tr>
+  </thead>
+    <tbody>
+			<tr>
+				<td>School Counsellor</td>
+				<td>Ms Tahiradulnisha Binte Kader Ibrahim</td>
+				<td><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tahiradulnisha_kader_ibrahim@moe.edu.sg</span></a>
+	</td>		
+  </tr>
+  <tr>
+    <td>Teacher Counsellor</td>
+    <td>Mdm Siti Aishah Bte Mohd Rasid</td>
+    <td><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a>
+  </td></tr>
+			
+  <tr>
+    <td>Special Educational Needs Officers</td>
+    <td>Ms Sheril Aida binte Ishak<br>Ms Ismira Yanti binti Abu Bakar	</td>
+    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a><br><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a></td>
+  </tr>
+</tbody></table>
 	
 ===
 <br>old
