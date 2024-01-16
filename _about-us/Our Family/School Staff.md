@@ -249,9 +249,8 @@ td span{
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Lai Lian Siang Ruth
-</td>
-				<td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg."><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a>
+				<td>Ms Hedzlyn Hazwany Mohamed Mahro<br>[Senior Teacher/ Special Educational Needs ]<br>Ms Abigail Ang Jia Min</td>
+				<td><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
