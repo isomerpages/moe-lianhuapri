@@ -83,4 +83,3 @@ Ms Pamela Kiew<br>
 Principal<br>
 Lianhua Primary School
 </p>
-
