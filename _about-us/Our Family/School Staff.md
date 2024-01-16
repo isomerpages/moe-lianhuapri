@@ -107,24 +107,21 @@ td span{
 			
   <tr>
     <td>1 Discipline 6	</td>
-    <td>Ms Noor Dayana Bte Mohd Saleh<br><br> Mr Tan Chin Chuan</td>
-    <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><br>
-		<a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
+    <td>Ms Noor Dayana Bte Mohd Saleh<br>Mr Tan Chin Chuan</td>
+    <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
     <td>1 Discipline 7	</td>
-    <td>Mrs Samantha Liew-Kong Yue Ping<br><br> Mdm B Reqha Trixie</td>
-    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><br>
-		<a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
+    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm B Reqha Trixie</td>
+    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
   </tr>	
 			
 <tr>
     <td>1 Discipline 8	</td>
-    <td>Mdm Hana Diyana Binte Abd Kahar<br><br> Mr Foo Zhi Bao Jonathan
+    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mr Foo Zhi Bao Jonathan
 </td>
-    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><br>
-		<a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
+    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
   </tr>	
 </tbody></table>
 	
