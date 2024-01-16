@@ -54,7 +54,9 @@ Dear Students, Parents, and Friends,
 </ol>
 	
 <p>As we embark on this exciting journey of self-discovery and leadership development, we invite our students to embrace their inner superheroes, recognize the significance of executive functioning skills, and understand the power of confident communication. Together, we are shaping leaders who will lead themselves well and make a positive impact in the lives of others.</p>
-	
+
+<p>We look forward to partnering with parents and our community so that together, we bring out the best in every child in Lianhua.</p>
+
 <p>Thank you for your support.</p>
 
 <p>Sincerely, <br>
