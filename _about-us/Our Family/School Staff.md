@@ -131,7 +131,7 @@ td span{
 <h4><strong>Primary Two Teachers</strong></h4>
 	
 
-  <!-- Year head and Assistant Year Head Table -->
+  <!-- Year Head Table -->
   <table>
     <thead>
       <tr>
@@ -161,8 +161,9 @@ td span{
     <tbody>
 			<tr>
 				<td>2 Respect 1</td>
-				<td>Ms Poh Jing Wen Alyssa <br>Mdm Azizah Bte Mohd Ali</td>
-				<td><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">Poh_Jing_Wen_Alyssa@moe.edu.sg</span></a><br><a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a>
+				<td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Lai Lian Siang Ruth
+</td>
+				<td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg."><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
