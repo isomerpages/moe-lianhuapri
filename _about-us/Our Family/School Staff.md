@@ -344,9 +344,9 @@ td span{
   </tr>
 			
   <tr>
-    <td>2 Respect 5</td>
-    <td>Mdm Pek Peet Juan Shanice<br>Mdm Kuan Suan Shi</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a></td>
+    <td>4 Integrity 5</td>
+    <td>Ms Choo Yen Leng Josephine<br>Mdm Juliswati Bte Samad</td>
+    <td><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a><br><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
