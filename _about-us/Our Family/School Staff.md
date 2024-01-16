@@ -21,7 +21,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #ECEAE9;
 }
 
 td:first-child {
@@ -57,8 +57,31 @@ td span{
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td>Assistant Year Head  
-(P1 &amp; P2)</td>
+    <td>Assistant Year Head (P1 &amp; P2)</td>
+    <td>Mdm Pek Peet Juan</td>
+    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
+</tr></tbody></table>	
+
+<br>
+<br>
+<br>
+	
+<table>
+    <thead>
+      <tr>
+        <th>Header 1</th>
+        <th>Teachers</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
@@ -82,8 +105,9 @@ td span{
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
   </tr>
-	</tbody></table>	
-
+	</tbody></table>
+	
+	
 <br>
 <br>
 <br>
