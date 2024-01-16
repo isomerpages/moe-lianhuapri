@@ -27,20 +27,79 @@ tr:nth-child(even) {
 td:first-child {
       font-weight: bold;
     }
+	
+td span{
+	font-weight:400;
+	text-decoration:underline;
+	color:#FD9047
+	}
+	
+	
 </style>
-
 
 
 <h4>Primary One Teachers</h4>
 
-<table>
-  <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+
+  <!-- Primary  1 Table -->
+  <table>
+    <thead>
+      <tr>
+        <th> <br> </th>
+        <th>Teachers</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Mrs Samantha Soh-Lee</td>
+    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Assistant Year Head  
+(P1 &amp; P2)</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+	</tbody></table>	
+
+<br>
+<br>
+<br>
+	
+ <!-- Primary  2 Table -->
+<table>
+    <thead>
+      <tr>
+        <th>Header 1</th>
+        <th>Teachers</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+  <tr>
+    <td>Year Head (P1, P2 &amp; P6)</td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
@@ -69,7 +128,7 @@ td:first-child {
     <td>Giovanni Rovelli</td>
     <td>Italy</td>
   </tr>
-</tbody></table>
+	</tbody></table>
 
 
 
@@ -759,4 +818,3 @@ td:first-child {
   </tr>
 
 </thead></table></p></div></li>
-
