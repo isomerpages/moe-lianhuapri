@@ -41,7 +41,6 @@ td span{
 
 <h4><strong>Primary One Teachers</strong></h4>
 
-
   <!-- Year head and Assistant Year Head Table -->
   <table>
     <thead>
