@@ -41,7 +41,7 @@ td span{
 <h4>Primary One Teachers</h4>
 
 
-  <!-- Primary  1 Table -->
+  <!-- Year head and Assistant Year Head Table -->
   <table>
     <thead>
       <tr>
@@ -66,40 +66,49 @@ td span{
 <br>
 <br>
 	
+<!-- Primary One Form Teachers Table-->
 <table>
     <thead>
       <tr>
-        <th>Header 1</th>
+        <th>Class</th>
         <th>Teachers</th>
         <th>Email</th>
       </tr>
-    </thead>
+  </thead>
     <tbody>
-  <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+			<tr>
+				<td>1 Discipline 1</td>
+				<td>Ms Poh Jing Wen Alyssa <br><br> Mdm Azizah Bte Mohd Ali</td>
+				<td><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">Poh_Jing_Wen_Alyssa@moe.edu.sg</span></a><br><br>
+		<a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a>
+	</td>
+				
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>1 Discipline 2</td>
+    <td>Mdm Siti Nuraini<br><br> Mdm Koh Wan Ting</td>
+    <td><a href="mailto:siti_nuraini_mustaqiim_yusof@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_nuraini_mustaqiim_yusof@moe.edu.sg</span></a><br><br>
+		<a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a></td>
   </tr>
+			
   <tr>
     <td>Ernst Handel</td>
     <td>Roland Mendel</td>
     <td>Austria</td>
   </tr>
+			
   <tr>
     <td>Island Trading</td>
     <td>Helen Bennett</td>
     <td>UK</td>
   </tr>
+			
   <tr>
     <td>Laughing Bacchus Winecellars</td>
     <td>Yoshi Tannamuri</td>
     <td>Canada</td>
   </tr>
+			
   <tr>
     <td>Magazzini Alimentari Riuniti</td>
     <td>Giovanni Rovelli</td>
