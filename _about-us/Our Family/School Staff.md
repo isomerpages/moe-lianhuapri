@@ -87,31 +87,31 @@ td span{
   </tr>
 			
   <tr>
-    <td>1 Discipline 3	</td>
+    <td>1 Discipline 3</td>
     <td>Mdm Norhani Bte Sahar <br>[Senior Teacher/ Educational Support]<br>Mdm Lee Qian Ren</td>
     <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
-    <td>1 Discipline 4	</td>
+    <td>1 Discipline 4</td>
     <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
     <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
-    <td>1 Discipline 5	</td>
+    <td>1 Discipline 5</td>
     <td>Ms Hussum Fatimah Bte Syed Mohd<br>Mdm Rosnah Binte Rosman</td>
     <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
-    <td>1 Discipline 6	</td>
+    <td>1 Discipline 6</td>
     <td>Ms Noor Dayana Bte Mohd Saleh<br>Mr Tan Chin Chuan</td>
     <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
-    <td>1 Discipline 7	</td>
+    <td>1 Discipline 7</td>
     <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm B Reqha Trixie</td>
     <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
   </tr>	
@@ -137,12 +137,12 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
-    <td>Assistant Year Head (P1 &amp; P2)</td>
+    <td>Assistant Year Head<br>(P1 &amp; P2)</td>
     <td>Mdm Pek Peet Juan</td>
     <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
 </tr>
@@ -228,7 +228,7 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan	</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -298,7 +298,7 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -372,7 +372,7 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -436,7 +436,7 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
@@ -504,7 +504,7 @@ td span{
   </tr>
 			
   <tr>
-    <td>Special Educational Needs Officers</td>
+    <td>Special Educational<br>Needs Officers</td>
     <td>Ms Sheril Aida binte Ishak<br>Ms Ismira Yanti binti Abu Bakar	</td>
     <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a><br><a href="mailto:ismira_yanti_abu_bakar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ismira_yanti_abu_bakar@moe.edu.sg</span></a></td>
   </tr>
