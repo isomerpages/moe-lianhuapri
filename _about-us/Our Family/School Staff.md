@@ -272,8 +272,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 5</td>
-    <td>Mdm Siti Aishah Bte Mohd Rasid<br>Ms Chen Yimeng Vivian</td>
-    <td><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
+    <td>Mdm Siti Aishah Bte Mohd Rasid<br>[Teacher Counsellor]<br>Ms Chen Yimeng Vivian</td>
+    <td><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
