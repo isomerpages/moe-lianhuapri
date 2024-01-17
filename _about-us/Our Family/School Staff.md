@@ -45,7 +45,7 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
+        <th>  </th>
         <th>Teachers</th>
         <th>Email Address</th>
       </tr>
