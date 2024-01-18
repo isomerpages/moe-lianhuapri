@@ -13,7 +13,7 @@ table {
 	width: 75%;
 	border-collapse: collapse;
 	margin-top: 20px;
-	max-width: 550px;
+	max-width: 650px;
 }
 
 th, td {
