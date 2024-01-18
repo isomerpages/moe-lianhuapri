@@ -10,7 +10,8 @@ variant: markdown
 <style>
 table {
   border-collapse: collapse;
-  width: 750px;
+  width: 75%;
+	max-width: 400px;
 }
 
 td, th {
@@ -19,10 +20,10 @@ td, th {
   padding: 8px;
 }
 	
-th {
+	th {
       width: 25%;
       background-color: #f2f2f2;
-	text-align: center !important;
+			text-align: center !important;
 }
 
 td { 
