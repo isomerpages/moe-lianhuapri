@@ -7,7 +7,7 @@ variant: markdown
 ---
 # School Leaders &amp; School Management Committee
 
-<table width="90%">
+<table width="70%">
 <thead>
   <tr>
     <th width="30%"></th>
