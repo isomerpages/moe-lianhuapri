@@ -61,5 +61,5 @@ variant: markdown
    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image17.png"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmKhilfinaBteKamaruddinShah.jpg"> Mdm Khilfina<br>SH Student Well-Being</td>
   </tr>
-</tbody>
-</table>
+	</tbody>
+	</table>
