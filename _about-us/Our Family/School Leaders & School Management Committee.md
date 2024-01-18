@@ -8,14 +8,14 @@ variant: markdown
 # School Leaders &amp; School Management Committee
 
 <table width="75%">
-<thead>
+	<thead>
   <tr>
     <th width="25%"></th>
     <th width="25%"></th>
     <th width="25%"></th>
   </tr>
-</thead>
-<tbody>
+	</thead>
+	<tbody>
   <tr>
     <td width="20%" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
     <td width="20%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
