@@ -10,13 +10,13 @@ variant: markdown
 <h5><strong>Executive &amp; Administrative Staff</strong></h5>
  
 <table width="70%">
-<thead>
-  <tr>
-    <th width="25%"></th>
-    <th width="25%"></th>
-    <th width="25%"></th>
-  </tr>
-</thead>
+	<thead>
+		<tr>
+			<th width="25%"></th>
+			<th width="25%"></th>
+			<th width="25%"></th>
+		</tr>
+	</thead>
 <tbody>
   <tr>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmChanSiewHoon.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
