@@ -7,6 +7,26 @@ variant: markdown
 ---
 # School Leaders &amp; School Management Committee
 
+<style>
+    /* Apply some basic styling to the table */
+    table {
+      width: 80%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 12px;
+    }
+
+    th {
+      background-color: #FFFFFF;
+    }
+  </style>
+
+
 <table width="75%">
 	<thead>
   <tr>
