@@ -24,6 +24,7 @@ th, td {
 
 th {
 	background-color: #FFFFFF;
+	width: 25%;
 }
 	
 td { 
@@ -32,12 +33,12 @@ td {
 }
 </style>
 
-<table width="50%">
+<table>
 	<thead>
   <tr>
-    <th width="25%"></th>
-    <th width="25%"></th>
-    <th width="25%"></th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
 	</thead>
 	<tbody>
