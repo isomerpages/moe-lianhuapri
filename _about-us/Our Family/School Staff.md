@@ -450,8 +450,8 @@ td span{
     <thead>
       <tr>
         <th width="20%">Class</th>
-        <th width="30%">Teachers</th>
-        <th width="50%">Email Address</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -465,7 +465,7 @@ td span{
   <tr>
     <td>6 Resilience 2</td>
     <td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mr Willie Wong Weng Seng</td>
-    <td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
+    <td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -494,8 +494,8 @@ td span{
     <thead>
       <tr>
         <th width="20%"><br></th>
-        <th width="30%">Support Staff</th>
-        <th width="50%">Email Address</th>
+        <th width="35%">Support Staff</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
