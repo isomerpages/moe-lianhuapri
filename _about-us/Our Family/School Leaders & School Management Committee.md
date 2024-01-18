@@ -26,10 +26,14 @@ variant: markdown
       width: 25%;
       background-color: #f2f2f2;
     }
+	
+		td { 
+			text-align: center !important;  
+		}
   </style>
 
 
-  <!-- Table with 5 Rows, 3 Columns, and Custom Widths -->
+  <!-- SL & SMC table -->
   <table>
     <thead>
       <tr>
@@ -40,9 +44,9 @@ variant: markdown
     </thead>
     <tbody>
       <tr>
-        <td>Row 1, Cell 1</td>
-        <td>Row 1, Cell 2</td>
-        <td>Row 1, Cell 3</td>
+        <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
+        <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
+        <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal</td>
       </tr>
       <tr>
         <td>Row 2, Cell 1</td>
