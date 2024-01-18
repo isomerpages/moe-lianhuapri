@@ -39,15 +39,18 @@ td span{
 	
 </style>
 
+
+
 <h4><strong>Primary One Teachers</strong></h4>
 
   <!-- Year head and Assistant Year Head Table -->
   <table>
+	</table><table width="100%">
     <thead>
       <tr>
-        <th> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="25%"> </th>
+        <th width="25%">Teachers</th>
+        <th width="25%">Email Address</th>
       </tr>
     </thead>
 <tbody>
