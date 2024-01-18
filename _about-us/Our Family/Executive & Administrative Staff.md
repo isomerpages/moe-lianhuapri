@@ -8,9 +8,8 @@ variant: markdown
 # Executive &amp; Administrative Staff
 
 <h5><strong>Executive &amp; Administrative Staff</strong></h5>
-    <div>
-      <p>
-      <table width="70%">
+ 
+<table width="70%">
 <thead>
   <tr>
     <th width="25%"></th>
@@ -42,12 +41,10 @@ variant: markdown
 </tbody>
 </table>
 
-  </p></div>
+  
 
 <h5><strong>Support Staff</strong></h5>
-    <div>
-      <p>
-      <table width="75%">
+<table width="75%">
 <thead>
   <tr>
     <th width="25%"></th>
@@ -68,7 +65,5 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-</p>	
-  </div>
 	
-    
+  
