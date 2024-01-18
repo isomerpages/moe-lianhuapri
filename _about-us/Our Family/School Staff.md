@@ -224,9 +224,9 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
     </thead>
 <tbody>
