@@ -57,7 +57,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td width="25%" style="text-align: center;"><img src="/images/librarianchua.jpeg"> Mrs Eugenia Chua<br>Librarian</td>
+    <td width="25%" style="text-align: center;"><img src="/images/librarianchua.jpeg">Mrs Eugenia Chua<br>Librarian</td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMohamadAidilBinMohamadSaleh.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td>
 		<td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
   </tr>
