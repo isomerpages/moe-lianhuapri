@@ -17,7 +17,7 @@ variant: markdown
 			<th width="25%"></th>
 		</tr>
 	</thead>
-<tbody>
+	<tbody>
   <tr>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmChanSiewHoon.jpg"> Mdm Chan Siew Hoon<br>Admin Manager </td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrThengYinChye.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
@@ -37,9 +37,9 @@ variant: markdown
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS10.jpg"> Mdm Muthu Selvi<br>OSO </td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS11.jpg">Mdm Nianamal D/O O K Naina Mohamed<br>OSO </td>
      <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
-  </tr>
-</tbody>
-</table>
+		</tr>
+	</tbody>
+	</table>
 
   
 
@@ -52,7 +52,7 @@ variant: markdown
 			<th width="25%"></th>
 		</tr>
 	</thead>
-<tbody>
+	<tbody>
   <tr>
     <td width="25%" style="text-align: center;"><img src="/images/librarianchua.jpeg">Mrs Eugenia Chua<br>Librarian</td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMohamadAidilBinMohamadSaleh.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td>
@@ -62,8 +62,8 @@ variant: markdown
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMazlanBinAmat.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrNgTeckKweeGeorge.jpg">Mr Ng Teck Kwee George<br>Security Officer</td>
     <td width="25%" style="text-align: center;"></td>
-  </tr>
-</tbody>
-</table>
+		</tr>
+	</tbody>
+	</table>
 	
   
