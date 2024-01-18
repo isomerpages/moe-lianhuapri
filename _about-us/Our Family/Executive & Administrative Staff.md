@@ -11,12 +11,12 @@ variant: markdown
 <label for="accordion1">Executive &amp; Administrative Staff</label>
     <div>
       <p>
-      <table width="750px">
+      <table width="70%">
 <thead>
   <tr>
-    <th width="250px"></th>
-    <th width="250px"></th>
-    <th width="250px"></th>
+    <th width="25%"></th>
+    <th width="25%"></th>
+    <th width="25%"></th>
   </tr>
 </thead>
 <tbody>
