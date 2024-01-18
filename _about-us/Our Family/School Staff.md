@@ -294,9 +294,9 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -311,9 +311,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -368,9 +368,9 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -386,9 +386,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -432,9 +432,9 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -449,9 +449,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -493,9 +493,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th><br></th>
-        <th>Support Staff</th>
-        <th>Email Address</th>
+        <th width="20%"><br></th>
+        <th width="30%">Support Staff</th>
+        <th width="50%">Email Address</th>
       </tr>
   </thead>
     <tbody>
