@@ -26,7 +26,6 @@ th {
 }
 </style>
 
-
 <table width="75%">
 	<thead>
   <tr>
@@ -82,4 +81,4 @@ th {
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/School%20Staff/MdmKhilfinaBteKamaruddinShah.jpg"> Mdm Khilfina<br>SH Student Well-Being</td>
   </tr>
 	</tbody>
-	</table>
+</table>
