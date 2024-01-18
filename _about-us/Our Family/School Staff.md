@@ -49,8 +49,8 @@ td span{
     <thead>
       <tr>
         <th width="20%"> </th>
-        <th width="30%">Teachers</th>
-        <th width="50%">Email Address</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
