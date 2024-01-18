@@ -29,6 +29,7 @@ variant: markdown
 	
 		td { 
 			text-align: center !important;  
+			width: 25%;
 		}
   </style>
 
