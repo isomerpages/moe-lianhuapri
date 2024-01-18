@@ -10,7 +10,7 @@ variant: markdown
 <style>
 table {
   border-collapse: collapse;
-  width: 70%;
+  width: 750px;
 }
 
 td, th {
@@ -33,18 +33,17 @@ td {
 
 
 
-<h2>HTML Table</h2>
-
 <table>
   <tbody><tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
+        <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
+        <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal</td>
+
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
