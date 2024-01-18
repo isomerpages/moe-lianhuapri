@@ -44,33 +44,33 @@ td {
 	<tbody>
   <tr>
     <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
-    <td width="20%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
-    <td width="20%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal </td>
   </tr>
   <tr>
-    <td width="25%" style="text-align: center;"> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
-		<td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P1, P2 &amp; P6 </td>
-	<td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSiahSiewLing.png"><br><br>Mdm Siah Siew Ling<br>Year P5 &amp; P6 </td>
+    <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P1, P2 &amp; P6 </td>
+	<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSiahSiewLing.png"><br><br>Mdm Siah Siew Ling<br>Year P5 &amp; P6 </td>
   </tr>
   <tr>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
   </tr>
   <tr>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
   </tr>
   <tr>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
-		<td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>SSD</td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>SSD</td>
 	</tr>
 	<tr>
-	    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
-		 <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>LH Science </td>
-    <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Lang </td>
+	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
+		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>LH Science </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Lang </td>
 	</tr>
   <tr>
     <td width="25%" style="text-align: center;"><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Lang </td>
