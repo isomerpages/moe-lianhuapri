@@ -55,12 +55,12 @@ td span{
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td>Assistant Year Head (P1 &amp; P2)</td>
+    <td>Assistant Year Head<br>(P1 &amp; P2)</td>
     <td>Mdm Pek Peet Juan</td>
     <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
 </tr>
