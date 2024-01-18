@@ -7,8 +7,7 @@ variant: markdown
 ---
 # Executive &amp; Administrative Staff
 
-<ul class="jekyllcodex_accordion">
-<label for="accordion1">Executive &amp; Administrative Staff</label>
+<h5><strong>Executive &amp; Administrative Staff</strong></h5>
     <div>
       <p>
       <table width="70%">
@@ -45,7 +44,7 @@ variant: markdown
 </p>	
   </div>
 
-<label for="accordion1">Support Staff</label>
+<h5><strong>Support Staff</strong></h5>
     <div>
       <p>
       <table width="750px">
@@ -73,4 +72,3 @@ variant: markdown
   </div>
 	
     
-</ul>
