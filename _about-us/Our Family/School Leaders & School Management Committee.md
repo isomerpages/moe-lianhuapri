@@ -25,6 +25,11 @@ th, td {
 th {
 	background-color: #FFFFFF;
 }
+	
+td { 
+			text-align: center !important;  
+			width: 25%;
+}
 </style>
 
 <table width="50%">
