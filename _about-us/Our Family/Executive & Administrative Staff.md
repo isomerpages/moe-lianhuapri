@@ -45,13 +45,13 @@ variant: markdown
 
 <h5><strong>Support Staff</strong></h5>
 <table width="75%">
-<thead>
-  <tr>
-    <th width="25%"></th>
-    <th width="25%"></th>
-    <th width="25%"></th>
-  </tr>
-</thead>
+	<thead>
+		<tr>
+			<th width="25%"></th>
+			<th width="25%"></th>
+			<th width="25%"></th>
+		</tr>
+	</thead>
 <tbody>
   <tr>
     <td width="25%" style="text-align: center;"><img src="/images/librarianchua.jpeg">Mrs Eugenia Chua<br>Librarian</td>
