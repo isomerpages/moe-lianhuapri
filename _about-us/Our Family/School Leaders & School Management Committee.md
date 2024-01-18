@@ -11,7 +11,7 @@ variant: markdown
   <style>
     /* Apply some basic styling to the table */
     table {
-      width: 75%;
+      width: 50%;
       border-collapse: collapse;
       margin-top: 20px;
     }
@@ -94,7 +94,7 @@ th {
 }
 </style>
 
-<table width="75%">
+<table width="50%">
 	<thead>
   <tr>
     <th width="25%"></th>
