@@ -41,8 +41,8 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-</p>	
-  </div>
+
+  </p></div>
 
 <h5><strong>Support Staff</strong></h5>
     <div>
