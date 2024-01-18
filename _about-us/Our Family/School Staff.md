@@ -48,9 +48,9 @@ td span{
 	</table><table width="100%">
     <thead>
       <tr>
-        <th width="25%"> </th>
-        <th width="25%">Teachers</th>
-        <th width="25%">Email Address</th>
+        <th width="20%"> </th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
     </thead>
 <tbody>
@@ -70,9 +70,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th width="25%">Class</th>
-        <th width="25%">Teachers</th>
-        <th width="25%">Email Address</th>
+        <th width="20%">Class</th>
+        <th width="30%">Teachers</th>
+        <th width="50%">Email Address</th>
       </tr>
   </thead>
     <tbody>
