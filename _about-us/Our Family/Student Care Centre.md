@@ -46,7 +46,7 @@ tr:nth-child(even) {
       </tr>
       <tr>
         <td>Ms Rozianna Binte Mahod</td>
-        <td>Covering Centre Supervisor / Programme Staff</td>
+        <td>Programme Staff</td>
       </tr>
       <tr>
         <td>Ms Qhurraisha Binte Nor Rihsam</td>
