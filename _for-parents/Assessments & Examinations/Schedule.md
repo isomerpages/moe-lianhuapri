@@ -9,7 +9,7 @@ variant: markdown
 
 
   <!-- Link to Open PDF in a New Tab -->
-  <a target="_blank" href="[2024 P1 Assessment Plan](/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P1_Assessment_Plan.pdf)">2024 P1 Assessment Plan</a>
+  <a target="_blank" href="/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P1_Assessment_Plan.pdf">2024 P1 Assessment Plan</a>
 
 
 Primary 1
