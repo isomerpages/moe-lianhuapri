@@ -76,6 +76,10 @@ tr:nth-child(even) {
         <td>Ms Khairatuz Zhafirah Binte Abdullah</td>
         <td>Programme Staff</td>
       </tr>
+			<tr>
+        <td>Ms Zainab Binte Mohamed Jalil</td>
+        <td>Programme Staff</td>
+      </tr>
     </tbody>
   </table>
 
