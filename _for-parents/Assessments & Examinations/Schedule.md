@@ -3,8 +3,15 @@ title: Schedule
 permalink: /for-parents/assessments-n-examinations/schedule/
 description: ""
 third_nav_title: Assessments & Examinations
+variant: markdown
 ---
 # Schedule
+
+
+  <!-- Link to Open PDF in a New Tab -->
+  <a target="_blank" href="[2024 P1 Assessment Plan](/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P1_Assessment_Plan.pdf)">2024 P1 Assessment Plan</a>
+
+
 Primary 1
 ![](/images/P1.jpeg)
 
