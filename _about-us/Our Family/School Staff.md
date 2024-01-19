@@ -39,25 +39,28 @@ td span{
 	
 </style>
 
+
+
 <h4><strong>Primary One Teachers</strong></h4>
 
   <!-- Year head and Assistant Year Head Table -->
   <table>
+	</table><table width="100%">
     <thead>
       <tr>
-        <th> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td>Assistant Year Head (P1 &amp; P2)</td>
+    <td>Assistant Year Head<br>(P1 &amp; P2)</td>
     <td>Mdm Pek Peet Juan</td>
     <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
 </tr>
@@ -67,9 +70,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -130,14 +133,14 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
@@ -152,9 +155,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -192,8 +195,8 @@ td span{
 			
   <tr>
     <td>2 Respect 6</td>
-    <td>Mdm &nbsp;Rabiatuladawiyah Bte Gulam Ashraf<br>Mrs Tay-Wong Peck San</td>
-    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
+    <td>Mdm Rabiatuladawiyah<br>Bte Gulam Ashraf<br>Mrs Tay-Wong Peck San</td>
+    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
@@ -221,14 +224,14 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan	</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -239,15 +242,15 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Ms Hedzlyn Hazwany<br>Mohamed Mahro<br>[Senior Teacher/ Special Educational Needs ]<br>Ms Abigail Ang Jia Min</td>
+				<td>Ms Hedzlyn Hazwany Mohamed Mahro<br>[Senior Teacher/<br>Special Educational Needs ]<br>Ms Abigail Ang Jia Min</td>
 				<td><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><br><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
 	</td>
 				
@@ -291,14 +294,14 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -308,9 +311,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -365,14 +368,14 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P3, P4 &amp; P5)</td>
+    <td>Year Head<br>(P3, P4 &amp; P5)</td>
     <td>Ms Wang Xiaoxuan</td>
     <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
   </tr>
@@ -383,9 +386,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -429,14 +432,14 @@ td span{
   <table>
     <thead>
       <tr>
-        <th> <br> </th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%"> <br> </th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
     </thead>
 <tbody>
   <tr>
-    <td>Year Head (P1, P2 &amp; P6)</td>
+    <td>Year Head<br>(P1, P2 &amp; P6)</td>
     <td>Mrs Samantha Soh-Lee</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
@@ -446,9 +449,9 @@ td span{
 <table>
     <thead>
       <tr>
-        <th>Class</th>
-        <th>Teachers</th>
-        <th>Email Address</th>
+        <th width="20%">Class</th>
+        <th width="35%">Teachers</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
@@ -490,15 +493,15 @@ td span{
 <table>
     <thead>
       <tr>
-        <th><br></th>
-        <th>Support Staff</th>
-        <th>Email Address</th>
+        <th width="20%"><br></th>
+        <th width="35%">Support Staff</th>
+        <th width="45%">Email Address</th>
       </tr>
   </thead>
     <tbody>
 			<tr>
 				<td>School Counsellor</td>
-				<td>Ms Tahiradulnisha Binte Kader Ibrahim</td>
+				<td>Ms Tahiradulnisha Binte<br>Kader Ibrahim</td>
 				<td><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tahiradulnisha_kader_ibrahim@moe.edu.sg</span></a>
 	</td>		
   </tr>

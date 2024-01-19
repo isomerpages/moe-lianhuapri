@@ -1,10 +1,11 @@
 ---
-title: Assessments Guidelines
-permalink: /for-parents/assessments-n-examinations/assessments-guidelines/
+title: Assessment Guidelines
+permalink: /for-parents/assessments-n-examinations/assessment-guidelines/
 description: ""
-third_nav_title: Assessments & Examinations
+third_nav_title: Assessment Matters
+variant: markdown
 ---
-# Assessments Guidelines
+# Assessment Guidelines
 
 The school conducts both weighted and non-weighted assessments to check for understanding and to use the information to support students in achieving the intended learning outcomes. The school draws reference from MOE’s Assessment-Feedback-Learning Cycle&nbsp;<sup>[1]</sup>.
 
