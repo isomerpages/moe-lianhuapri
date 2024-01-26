@@ -74,7 +74,6 @@ variant: markdown
 |                            |  Keeping Myself Safe<br>(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br> <br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>|    Term 2<br>Week 6<br>26 April 2024   |
  |  |     |  
 
-<br>
 <h5><center><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 </strong></center></h5>
 <h3><center><strong>Primary 6</strong></center></h3>
 
