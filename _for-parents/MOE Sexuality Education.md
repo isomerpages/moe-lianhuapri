@@ -64,7 +64,7 @@ variant: markdown
 	
 **At Lianhua Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2024</u>:**
 
-<h4><center><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></center></h4>
+<h5><center><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong></center></h5>
 <h3><center><strong>Primary 5</strong></center></h3>
 
 |            CCE(FTGP) THEME            |          LESSON TITLE / DURATION          |                                                                                                                                                   LESSON OVERVIEW                                                                                                                                                   | TIME PERIOD<br>(e.g. Term 1 Week 2) |
@@ -75,7 +75,7 @@ variant: markdown
  |  |     |  
 
 <br>
-<h4><center><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 </strong></center></h4>
+<h5><center><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 </strong></center></h5>
 <h3><center><strong>Primary 6</strong></center></h3>
 
 
