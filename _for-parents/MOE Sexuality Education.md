@@ -88,7 +88,7 @@ variant: markdown
 <h4>Information for Parents</h4>
 
  
-8.&nbsp;&nbsp;Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.<br>
+8.&nbsp;&nbsp;Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. School notification will be send out to parents and guardians by 8 February 2024.<br>
 
   
 9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<a target="_blank" href="/files/For%20Parents/2024AnnexA.pdf">here</a>. The completed opt-out form is to be submitted by 23/02/2024.<br>
