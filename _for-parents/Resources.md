@@ -14,4 +14,4 @@ variant: markdown
 
 P3 Parent Briefing Slides: <br>
 P4 Parent Briefing slides: <br>
-2024 LHPS SBB Briefing for Parents P3 P4: 
+2024 LHPS SBB Briefing for Parents P3 P4: <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2024 LHPS SBB Briefing for Parents P3 P4" src="https://www.youtube.com/embed/FLe5Wxd9c9I" height="720" width="1280"></iframe>
