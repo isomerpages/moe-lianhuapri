@@ -16,10 +16,8 @@ To&nbsp;**enable**&nbsp;students to create original music pieces.
 To&nbsp;**empower**&nbsp;students to perform music from the local and global cultures confidently.
 
   
-
 Approach (ECA): Experience, Concept, Application
 
-  
 
 **Key Feature**
 
