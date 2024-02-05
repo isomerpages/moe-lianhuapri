@@ -3,9 +3,27 @@ title: Music
 permalink: /learning/aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
+<style>
+table {
+ 
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+
+
+
 # **Music**
-![](/images/Learning/Music/0music.jpg)
+![](/images/Learning/Music/Top.JPG)
+
 
 **Our Vision &amp; Mission**   
 Vision: Every student is able to create, perform, listen and respond to music.   
@@ -85,13 +103,15 @@ The event serves as a celebration of the efforts that our students have put in d
 
 **<u>Showtime!</u>**
 
-‘SHOWTIME!’ is one of Lianhua’s platforms for our budding musicians to showcase their musical talents in front of their peers during recess. Performances range from singing to playing of musical instruments, like the piano and violin. As students perform to an audience, it provides our students with a non-threatening environment for the performers and allows them to develop greater confidence in themselves.
+‘SHOWTIME!’ is one of Lianhua’s recess activities for our students to perform to their peers at the Imaginarium, which is situated near the canteen. Performances range from singing to playing of musical instruments. The Imaginarium is a platform to provide the performers with a non-threatening environment and allow them to develop greater confidence in themselves.
 
-![](/images/Learning/Music/1showtime.JPG)
-
-| ![](/images/Learning/Music/5showtime.jpg) | ![](/images/Learning/Music/6showtime.jpg)  | 
+|  |  | 
 | -------- | -------- | 
-|   |   |
+| ![](/images/Learning/Music/1_.png) | ![](/images/Learning/Music/2_.png) | 
+| ![](/images/Learning/Music/3_.png) | ![](/images/Learning/Music/4_.png) | 
+| ![](/images/Learning/Music/5_.png) | ![](/images/Learning/Music/6_.png) |
+| ![](/images/Learning/Music/7_.png) | ![](/images/Learning/Music/8_.png) |
+| ![](/images/Learning/Music/9_.png) | ![](/images/Learning/Music/10_.png) |
 
 
 **<u>LHPS Song List</u>**
