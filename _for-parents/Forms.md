@@ -49,3 +49,8 @@ variant: markdown
 
 * School &amp; Miscellaneous Fees (including application for Interbank GIRO)  <br> 
 <a href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a>
+
+
+<h2>Absence from School</h2>
+Application for Absence during School Term (only for overseas travel) <br>
+<a href="https://form.gov.sg/65a5cfe2399a250012c27dda">https://form.gov.sg/65a5cfe2399a250012c27dda</a>
