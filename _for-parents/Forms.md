@@ -52,5 +52,5 @@ variant: markdown
 
 
 <h2>Absence from School</h2>
-Application for Absence during School Term (only for overseas travel) <br><br>
+Application for Absence during School Term (only for overseas travel) <br>
 <a href="https://form.gov.sg/65a5cfe2399a250012c27dda">https://form.gov.sg/65a5cfe2399a250012c27dda</a>
