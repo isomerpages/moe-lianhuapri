@@ -16,3 +16,9 @@ P3 Parent Briefing Slides: <a href="https://drive.google.com/file/d/15G7xNTLoG3Y
 P4 Parent Briefing slides: <a href="https://drive.google.com/file/d/1OnsGK_8oDGL6oSwQU7JlnHpO-Q-ucOML/view?usp=sharing">Click here</a><br>
 2024 LHPS SBB Briefing for Parents P3 P4: 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="2024 LHPS SBB Briefing for Parents P3 P4" src="https://www.youtube.com/embed/FLe5Wxd9c9I" height="369" width="656"></iframe>
+
+<h4><strong>Primary 5 &amp; 6</strong></h4>
+
+P5 Parent Briefing Slides: <a href="https://drive.google.com/file/d/167obezzqGMY5VG3Klwvfm4mu4L0jXjC-/view?usp=sharing">Click here</a><br> 
+P6 Parent Briefing slides: <a href="https://drive.google.com/file/d/1t4BWjPyy8QoFBOHVDvpY0vPqzJ9w9_4e/view?usp=drive_link">Click here</a><br>
+P5/6 DSA, PSLE and SBB: <a href="https://drive.google.com/file/d/1gjUs1diw6Nmjm9dH106YYsqE9JS_YfuS/view?usp=sharing">Click here</a><br>
