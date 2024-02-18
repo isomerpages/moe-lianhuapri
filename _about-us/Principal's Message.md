@@ -38,7 +38,7 @@ Dear Students, Parents, and Friends,
 
 
 <ol start="1" style="PADDING-LEFT: 30px">
-		<li><p>As part of our ongoing commitment to enhancing the educational experience at Lianhua, we want to share an exciting development that aligns with our mission to cultivate not just academic excellence but also the holistic development of our students.</p></li>
+		<li><p>As part of our ongoing commitment to enhancing the educational experience at Lianhua, we want to share an exciting development that aligns with our mission to cultivate not just academic excellence but also the holistic development of our students.  </p></li>
 </ol>
 
 <ol start="2" style="PADDING-LEFT: 30px">
