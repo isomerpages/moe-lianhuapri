@@ -54,4 +54,8 @@ Deadline for submission is 25 March 2024.
 
 <h4>Arif Budiman Malay Language Teacher Award</h4>
 
-The Arif Budiman Malay Language Teacher Award recognises the contributions of Malay Language teachers in the teaching and learning of the Malay language.
+The Arif Budiman Malay Language Teacher Award recognises the contributions of Malay Language teachers in the teaching and learning of the Malay language. <br>
+https://go.gov.sg/agab2024  <br>
+Deadline for submission is 1 April 2024.
+
+<h4>Most Inspiring Tamil Teacher Award (MITT)</h4>
