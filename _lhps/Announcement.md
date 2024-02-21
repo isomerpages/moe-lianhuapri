@@ -2,6 +2,7 @@
 title: Announcement
 permalink: /lhps/announcement/
 description: ""
+variant: markdown
 ---
 # Announcement
 
@@ -34,7 +35,11 @@ You are strongly encouraged to submit your nominations online by clicking on the
  
 Dear Students, Parents and Educators,
 
-Nomination for the Caring Teacher Award 2024 is now open. You can nominate deserving teachers for the award via online submission at [https://www.cta.nie.edu.sg/home.](https://www.cta.nie.edu.sg/home) 
+Nomination for the Caring Teacher Award 2024 is now open. You can nominate deserving teachers for the award via online submission at [https://www.cta.nie.edu.sg/home.](https://www.cta.nie.edu.sg/home)&nbsp;
 Deadline for submission is 12 January 2024.
 
 ![](/images/caringteacheraward2024new.jpg)
+
+<h4>Inspiring Teacher of English Award (ITEA)</h4>
+
+The Inspiring Teacher of English Award (ITEA) acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.
