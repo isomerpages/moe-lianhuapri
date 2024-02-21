@@ -58,4 +58,10 @@ The Arif Budiman Malay Language Teacher Award recognises the contributions of Ma
 https://go.gov.sg/agab2024  <br>
 Deadline for submission is 1 April 2024.
 
+
 <h4>Most Inspiring Tamil Teacher Award (MITT)</h4>
+
+The Most Inspiring Tamil Teacher Award (MITT) serves to recognise the stellar performance of Tamil teachers in their role in educating and promoting Tamil Language among their students.
+
+https://go.gov.sg/mitt-2024-form-el   OR https://go.gov.sg/mitt-2024-form-tl <br>
+Deadline for submission is 1 April 2024.
