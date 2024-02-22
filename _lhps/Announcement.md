@@ -2,6 +2,7 @@
 title: Announcement
 permalink: /lhps/announcement/
 description: ""
+variant: markdown
 ---
 # Announcement
 
@@ -34,7 +35,32 @@ You are strongly encouraged to submit your nominations online by clicking on the
  
 Dear Students, Parents and Educators,
 
-Nomination for the Caring Teacher Award 2024 is now open. You can nominate deserving teachers for the award via online submission at [https://www.cta.nie.edu.sg/home.](https://www.cta.nie.edu.sg/home) 
+Nomination for the Caring Teacher Award 2024 is now open. You can nominate deserving teachers for the award via online submission at [https://www.cta.nie.edu.sg/home.](https://www.cta.nie.edu.sg/home)&nbsp;
 Deadline for submission is 12 January 2024.
 
 ![](/images/caringteacheraward2024new.jpg)
+
+<h4>Inspiring Teacher of English Award (ITEA)</h4>
+
+The Inspiring Teacher of English Award (ITEA) acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.
+
+<ul>
+  <li>Teaching Award</li>
+  <li>Leadership Award (for HODs, SHs and LHs)</li>
+</ul>
+<a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
+<br>
+Deadline for submission is 25 March 2024.
+
+<h4>Arif Budiman Malay Language Teacher Award</h4>
+
+The Arif Budiman Malay Language Teacher Award recognises the contributions of Malay Language teachers in the teaching and learning of the Malay language. <br>
+<a href="https://go.gov.sg/agab2024">https://go.gov.sg/agab2024</a> <br>
+Deadline for submission is 1 April 2024.
+
+
+<h4>Most Inspiring Tamil Teacher Award (MITT)</h4>
+
+The Most Inspiring Tamil Teacher Award (MITT) serves to recognise the stellar performance of Tamil teachers in their role in educating and promoting Tamil Language among their students.
+<a href="https://go.gov.sg/mitt-2024-form-el">https://go.gov.sg/mitt-2024-form-el</a> OR <a href="https://go.gov.sg/mitt-2024-form-tl">https://go.gov.sg/mitt-2024-form-tl</a><br>
+Deadline for submission is 1 April 2024.
