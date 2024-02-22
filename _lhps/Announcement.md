@@ -48,7 +48,6 @@ The Inspiring Teacher of English Award (ITEA) acknowledges teachers who ignite a
   <li>Teaching Award</li>
   <li>Leadership Award (for HODs, SHs and LHs)</li>
 </ul>
-
 <a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
 <br>
 Deadline for submission is 25 March 2024.
@@ -63,6 +62,5 @@ Deadline for submission is 1 April 2024.
 <h4>Most Inspiring Tamil Teacher Award (MITT)</h4>
 
 The Most Inspiring Tamil Teacher Award (MITT) serves to recognise the stellar performance of Tamil teachers in their role in educating and promoting Tamil Language among their students.
-
-https://go.gov.sg/mitt-2024-form-el   OR https://go.gov.sg/mitt-2024-form-tl <br>
+<a href="https://go.gov.sg/mitt-2024-form-el">https://go.gov.sg/mitt-2024-form-el</a> OR <a href="https://go.gov.sg/mitt-2024-form-tl">https://go.gov.sg/mitt-2024-form-tl</a><br>
 Deadline for submission is 1 April 2024.
