@@ -49,7 +49,8 @@ The Inspiring Teacher of English Award (ITEA) acknowledges teachers who ignite a
   <li>Leadership Award (for HODs, SHs and LHs)</li>
 </ul>
 
-http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information <br>
+<a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
+<br>
 Deadline for submission is 25 March 2024.
 
 <h4>Arif Budiman Malay Language Teacher Award</h4>
