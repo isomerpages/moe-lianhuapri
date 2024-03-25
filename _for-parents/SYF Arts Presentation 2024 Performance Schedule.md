@@ -10,4 +10,14 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LHPS_SYF_2024_AP_Schedule.jpg">
 </div>
 <p></p>
+<p>Singapore Youth Festival 2024 Arts Presentation is just round the corner!
+The SYF Arts Presentation (AP) is a performance and benchmarking platform
+that offers opportunities for continuous learning and improvement through
+feedback from industry professionals. Our students have trained hard and
+we look forward to their exciting performances! Please refer to our school
+SYF 2024 AP Performance Schedule below.</p>
 <p></p>
+<p>Thank you for your support!</p>
+<p>
+<br>
+</p>
