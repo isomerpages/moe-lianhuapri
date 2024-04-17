@@ -21,7 +21,7 @@ p {
 
 <p>The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.</p>
 
-Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.<p></p>
+<p>Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.</p>
 
 
 ## **Programme**
