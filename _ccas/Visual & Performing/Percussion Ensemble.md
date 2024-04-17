@@ -5,17 +5,12 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-
-
 <style>
 
 p {
   font-size: 18px;
 }
 </style>
-
-
-
 
 <strong><h2>Percussion Ensemble</h2></strong>
 
