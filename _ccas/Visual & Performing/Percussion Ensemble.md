@@ -5,18 +5,28 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-# **Percussion Ensemble**
 
 
+<style>
+
+p {
+  font-size: 18px;
+}
+</style>
+
+
+
+
+<strong><h2>Percussion Ensemble</h2></strong>
 
 | ![](/images/CCAs/Percussion%20Ensemble/1.jpg) | ![](/images/CCAs/Percussion%20Ensemble/2.jpg) | 
 | -------- | -------- | 
 | ![](/images/CCAs/Percussion%20Ensemble/3.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/4.jpg)   | 
 | ![](/images/CCAs/Percussion%20Ensemble/5.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6.jpg)     | 
 
-The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.
+<p>The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.</p>
 
-Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
+Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.<p></p>
 
 
 ## **Programme**
@@ -38,7 +48,7 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 |                      |                   |               |
 |--------------|--------------|---------------|
 | **Singing Festival**                             | **Performance venue** | **Repertoire (LHPS self-composed songs**) |
-| Stars of Hope (2018)                                  | School            | 爱我联华 (Love my Lianhua)            |
+| Stars of Hope (2018)                                  | School            | 爱我联华`` (Love my Lianhua)            |
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
