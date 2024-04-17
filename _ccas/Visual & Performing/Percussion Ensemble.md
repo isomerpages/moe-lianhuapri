@@ -5,13 +5,16 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-<style>
 
+
+<style>
 p {
   font-size: 18px;
 }
 </style>
 
+
+	
 <strong><h2>Percussion Ensemble</h2></strong>
 
 | ![](/images/CCAs/Percussion%20Ensemble/1.jpg) | ![](/images/CCAs/Percussion%20Ensemble/2.jpg) | 
@@ -111,3 +114,5 @@ MRS TAY PECK SAN<br>
 MDM KOH WAN TING<br>
 MS SOH FANG YING<br>
 MDM TOH LI YUH
+	
+
