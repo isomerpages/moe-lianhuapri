@@ -5,12 +5,14 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-
-
 <style>
 p {
   font-size: 18px;
 }
+	
+table {
+	font-size: 18px
+	}
 </style>	
 
 
@@ -26,13 +28,13 @@ p {
 <p>Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.</p>
 
 
-## **Programme**
+<h2><strong>Programme</strong></h2>
 
-**Promotion of CCA video**
+<strong>Promotion of CCA video</strong>
 
-**P1 CCA Experience**  
+<strong>P1 CCA Experience</strong>
 
-Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen.
+<p>Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen.</p>
 
 <iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -113,5 +115,3 @@ MRS TAY PECK SAN<br>
 MDM KOH WAN TING<br>
 MS SOH FANG YING<br>
 MDM TOH LI YUH
-	
-
