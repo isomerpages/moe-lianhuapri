@@ -55,8 +55,6 @@ img {
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
 
----
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Percussion Ensemble" src="https://www.youtube.com/embed/LpzZF9BRBUc" height="720" width="1280"></iframe>
 
 ## **Major Performances**
 
