@@ -5,40 +5,56 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-# **Percussion Ensemble**
+<style>
+p {
+  font-size: 18px;
+}
+	
+table {
+	font-size: 18px
+	}
+	
+img {
+  width: 100%;
+}
+</style>	
 
 
+<h2><strong>Percussion Ensemble</strong></h2>
 
-| ![](/images/CCAs/Percussion%20Ensemble/1photo.jpeg) | ![](/images/CCAs/Percussion%20Ensemble/2photo.jpeg) | 
+
+<img style="width:850px;height:400px;" src="/images/CCAs/Percussion%20Ensemble/5.jpg"> 
+
+
+| <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/1.jpg"> | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/2.jpg"> | 
 | -------- | -------- | 
-| ![](/images/CCAs/Percussion%20Ensemble/3photo.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/4photo.jpg)   | 
-| ![](/images/CCAs/Percussion%20Ensemble/5photo.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6photo.jpg)     | 
-
-The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.
-
-Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.
+| <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/4.jpg">     | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/6.jpg">     | 
 
 
-## **Programme**
+<p>The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.</p>
 
-**Promotion of CCA video**
+<p>Through the learning and performance of percussion instruments, students have been inculcated with values such as Self-discipline, Unity, Diligence, Resilience, Compassion and Excellence. They have also acquired music literacy and developed a sense of appreciation in percussion music through their learning journey.</p>
 
-**P1 CCA Experience**  
 
-Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen.
+<h2><strong>Programme</strong></h2>
+
+<strong>Promotion of CCA video</strong>
+
+<strong>P1 CCA Experience</strong>
+
+<p>Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble CCA from the Captain, Lucas Khaw Eu Wen.</p>
 
 <iframe width="711" height="511" src="https://www.youtube.com/embed/LpzZF9BRBUc" title="Percussion Ensemble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/CCAs/Percussion%20Ensemble/CCA%20Experience.jpg)
 
 
-
-## **Achievements**
+## **Major Performances**
 
 |                      |                   |               |
 |--------------|--------------|---------------|
-| Event (Singing Festival)                              | Performance venue | Repertoire (LHPS self-composed songs) |
-| Stars of Hope (2018)                                  | School            | 爱我联华 (Love my Lianhua)            |
+| **Singing Festival**                             | **Performance venue** | **Repertoire (LHPS self-composed songs**) |
+| Stars of Hope (2018)                                  | School            | 爱我联华`` (Love my Lianhua)            |
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
@@ -49,23 +65,37 @@ Here’s an invitation for the P1 boys and girls to join the Percussion Ensemble
 | ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg)   | 
 
 
+## **Achievements**
+
+
+| **Year** | **Event** | **Award** |
+| -------- | -------- | -------- |
+| 2024     | Singapore Youth Festival (SYF) – Arts Presentation for Percussion Ensemble     | Certificate of Distinction     |
+
+
+
+
 ## **Students' Voices**
 
-I have joined the Percussion Ensemble CCA for almost four years. I have learned to play instruments like Timpani, Xylophone and Bongos. I have also learned to exercise self-discipline, to perform in unity as an ensemble, to be resilient and diligent in order to achieve excellence during my training. I would like to thank my seniors for helping and guiding me.
+I started learning to play the Chimes last year. I encountered difficulties at the beginning as I had to practise many, many times to memorise the notes of a music piece. This year, I also learned to play the Marimba. I made many mistakes at first. However, after practising for many times, I felt confident and was excited to perform. Looking back, my teammates and I had put in a lot of our time and effort practising for the SYF pieces. It was a great experience for me, and I was proud of myself.   
 
- <p style="text-align: right"> KEITH TANG JUN JUO, 5 Resilience (2022)<br></p>
+ <p style="text-align: right"> JESSIE RANJITH DEVASAHAYAM, 4 Integrity 2 (2024)<br></p>
 
-In this Percussion Ensemble CCA, not only do we need to play the notes correctly, we have to keep to a steady beat and look at the conductor to ensure that the music is played well. I have learned the importance of Teamwork. I have also learned to value friendship as we have gone through the numerous practice sessions together to perform for the SYF Arts Presentation.
+Through this CCA, I have learned to play musical instruments like the Marimba and Xylophone. I am also able to practise the rhythmic exercises on the practice pad. I have a better sense of understanding music and rhythms. Through the various training sessions, I have acquired values like ‘self-discipline’, ‘unity’, ‘diligence’ and ‘resilience’. 
 
- <p style="text-align: right">GUI JUN LING YSABEL, 3 Diligence (2022)<br></p>
+ <p style="text-align: right">TAN SHI EN REIKO, 5 Unity 4 (2024)<br></p>
 
-Initially, I joined the Percussion Ensemble as I loved music and would like to learn how to play musical instruments. This CCA has helped me to understand music notes better and play as a group. I have learned to be resilient and diligent because no matter how many mistakes I make, I must try to play well. Now with the SYF Arts Presentation, I know I must practise even harder as I do not want to let my entire ensemble down and all my hard work go to waste. We will strive hard to excel in our performance.
+Through this fruitful and exciting journey, I have learned to be resilient because no matter how many mistakes I have made, I must try to play the music piece accurately and hopefully correctly. This CCA has lifted my understanding and appreciation of music to a higher level. I want to cherish all the moments together with my teammates. We will strive hard and put in our best during our performance.
 
- <p style="text-align: right">OLIVIA KHAW LI YEAN, 4 Diligence (2022)<br></p>
+ <p style="text-align: right">JENSEN CHEAH 6 Resilience 5 (2024)<br></p>
 
-I really enjoyed this SYF journey. I enjoyed the weekly training very much and also the chance that we get to play the percussion instruments like the Marimba, Vibraphone, Xylohone and Timpani. I had acquired the values of Diligence – to work hard on the instruments that we play; Unity – to work together on our music piece and Resilience – to never give up no matter how tough the training was.
+This SYF journey is a memorable experience for me. I learned to play the percussion instruments like the Tom Toms and Bongos, besides the Marimba and Vibraphone that I was usually playing. I also had a deeper understanding of reading the scores. Being resilient had played a big part in this journey. I did not give up and practised even harder. The value of ‘unity’ had taught me to work together with my teammates and play the pieces well. I had a lot of fun during my training as well as making friends. 
 
- <p style="text-align: right"> TEO RUI CHENG, 5 Honesty (2022)<br></p>
+ <p style="text-align: right">OLIVIA KHAW LI YEAN 6 Resilience 5 (2024)<br></p>
+ 
+Through this SYF journey, I have learned the importance of ‘resilience’ and ‘unity’. I have come to realise that I am not only learning to play my part, but I also need to be familiar with other teammates’ parts so that we can blend in and play well as a group.
+
+ <p style="text-align: right">BRENDON TEOW JIE LIANG 6 Resilience 5 (2024)<br></p> 
 
 ## Useful Links
 
