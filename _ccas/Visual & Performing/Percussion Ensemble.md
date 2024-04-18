@@ -13,10 +13,25 @@ p {
 table {
 	font-size: 18px
 	}
+	
+img {
+  width: 100%;
+}
 </style>	
 
 
 <h2><strong>Percussion Ensemble</strong></h2>
+
+
+<img style="width:700px;height:350px;" src="/images/CCAs/Percussion%20Ensemble/5.jpg"> 
+
+
+
+| <img src="/images/CCAs/Percussion%20Ensemble/2.jpg"> | <img src="/images/CCAs/Percussion%20Ensemble/3.jpg"> | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
 
 | ![](/images/CCAs/Percussion%20Ensemble/1.jpg) | ![](/images/CCAs/Percussion%20Ensemble/2.jpg) | 
 | -------- | -------- | 
