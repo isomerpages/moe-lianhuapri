@@ -31,7 +31,7 @@ img {
 | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/4.jpg">     | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/6.jpg">     | 
 
 <br>
---old
+--old ones (will remove)
 
 | ![](/images/CCAs/Percussion%20Ensemble/1.jpg) | ![](/images/CCAs/Percussion%20Ensemble/2.jpg) | 
 | -------- | -------- | 
