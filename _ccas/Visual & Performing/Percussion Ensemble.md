@@ -23,7 +23,7 @@ img {
 <h2><strong>Percussion Ensemble</strong></h2>
 
 
-<img style="width:700px;height:350px;" src="/images/CCAs/Percussion%20Ensemble/5.jpg"> 
+<img style="width:730px;height:350px;" src="/images/CCAs/Percussion%20Ensemble/5.jpg"> 
 
 
 | <img style="width:730px;height:180px;" src="/images/CCAs/Percussion%20Ensemble/1.jpg"> | <img style="width:730px;height:180px;" src="/images/CCAs/Percussion%20Ensemble/2.jpg"> | 
