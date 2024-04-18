@@ -26,7 +26,7 @@ img {
 <img style="width:850px;height:400px;" src="/images/CCAs/Percussion%20Ensemble/5.jpg"> 
 
 
-| <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/1.jpg"> | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/2.jpg"> | 
+| <img style="width:850px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/1.jpg"> | <img style="width:850px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/2.jpg"> | 
 | -------- | -------- | 
 | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/4.jpg">     | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/6.jpg">     | 
 
