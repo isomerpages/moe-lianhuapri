@@ -30,13 +30,6 @@ img {
 | -------- | -------- | 
 | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/4.jpg">     | <img style="width:730px;height:200px;" src="/images/CCAs/Percussion%20Ensemble/6.jpg">     | 
 
-<br>
---old ones (will remove)
-
-| ![](/images/CCAs/Percussion%20Ensemble/1.jpg) | ![](/images/CCAs/Percussion%20Ensemble/2.jpg) | 
-| -------- | -------- | 
-| ![](/images/CCAs/Percussion%20Ensemble/3.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/4.jpg)   | 
-| ![](/images/CCAs/Percussion%20Ensemble/5.jpg)     | ![](/images/CCAs/Percussion%20Ensemble/6.jpg)     | 
 
 <p>The Percussion Ensemble was set up in 2018. To lay a strong foundation for the students, the beginners will focus on the rhythmic exercises, practising the correct techniques of using a pair of drumsticks to hit on a practice pad. Members will get to play percussion instruments like the Bass Drum, Tom Toms, Drum set, Timpani, Xylophone, Marimba and Glockenspiel once they have acquired the drumming skills.</p>
 
