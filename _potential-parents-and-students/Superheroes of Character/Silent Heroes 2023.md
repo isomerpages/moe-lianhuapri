@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Superheroes of Character
 ---
+<h2><strong>OUR SINGAPORE SILENT HEROES STUDENT AWARD WINNERS</strong></h2>
+
 <style>
         table {
             width: 100%; /* Set the table to span the full width of its container */
@@ -13,8 +15,6 @@ third_nav_title: Superheroes of Character
             width: 50%; /* Each column will take up half of the table's width */
         }
     </style>
-
-<h2><strong>OUR SINGAPORE SILENT HEROES STUDENT AWARD WINNERS</strong></h2>
 
 <p>Singapore Silent Heroes (SSH) celebrates individuals in Singapore who embody the spirit of compassion, selflessness and empathy.</p>
 
