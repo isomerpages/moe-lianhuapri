@@ -24,6 +24,7 @@ third_nav_title: Superheroes of Character fold
 <br>
 ![](/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_2.png)
 <br>
+
 <table border="1">
         <tbody><tr>
             <td><img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_3.png"><div style="text-align: center;"><strong>Bernice Chung Hee Chee</strong></div><div style="text-align: center;">Primary 6 Honesty</div></td>
@@ -32,5 +33,4 @@ third_nav_title: Superheroes of Character fold
 				<tr>
             <td colspan="2"><i>“Bernice epitomises the heart of service that we aim to instil in our students. Through her compassionate leadership and gestures of kindness, she has ignited inspiration among peers and teachers alike. Her unwavering dedication to fostering a positive impact on those around her stands as a remarkable example. I take immense pride in her accomplishments and am confident that she will continue to make a difference to others.”</i><div style="text-align: right;">Pamela Kiew</div><div style="text-align: right;">Principal</div></td>
         </tr>
-
     </tbody></table>
