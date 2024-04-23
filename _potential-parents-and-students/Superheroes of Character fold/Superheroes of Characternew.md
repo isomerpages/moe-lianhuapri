@@ -11,4 +11,4 @@ third_nav_title: Superheroes of Character fold
 
 <center><i><b>"Your beliefs become your thoughts,<br>Your thoughts become your words,<br>Your words become your actions,<br>Your actions become your habits,<br>Your habits become your values,<br>Your values become your destiny."</b></i></center>
 
-At Lianhua, we believe that a person’s values will ultimately pave his/her path to success. &nbsp;Here are some of their stories.
+<p>At Lianhua, we believe that a person’s values will ultimately pave his/her path to success. &nbsp;Here are some of their stories.</p>
