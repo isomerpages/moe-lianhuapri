@@ -35,7 +35,6 @@ third_nav_title: Superheroes of Character
         </tr>
     </tbody></table>
 <br>		
-<br>		
 		
 <table border="1">
         <tbody><tr>
@@ -47,7 +46,7 @@ third_nav_title: Superheroes of Character
         </tr>
     </tbody></table>
 <br>
-<br>
+
 
 <table border="1">
         <tbody><tr>
