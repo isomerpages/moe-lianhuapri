@@ -2,9 +2,9 @@ collections:
   potential-parents-and-students:
     output: true
     order:
-      - Superheroes of Character fold/Silent Heroes 2023.md
       - Superheroes of Character fold/.keep
       - Superheroes of Character fold/Superheroes of Character.md
+      - Superheroes of Character fold/Silent Heroes 2023.md
       - Superheroes of Character fold/Past Heroes.md
       - Everyday Superheroes.md
       - Superheroes of Learning.md
