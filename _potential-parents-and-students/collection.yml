@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - Superheroes of Character fold/Superheroes of Character.md
       - Superheroes of Character fold/Superheroes of Characternew.md
       - Superheroes of Character fold/.keep
       - Everyday Superheroes.md
