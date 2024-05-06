@@ -6,6 +6,17 @@ variant: markdown
 ---
 # Announcement
 
+![](/images/Lphs/OpenHouse2024PosterFinal.png)
+
+You are invited to Lianhua Primary School's Open House 2024!<br>
+Date: 6 July 2024 (Saturday)<br>
+Time: 9.00am to 11.30am
+
+Do you want to experience and learn more about life in Lianhua? Come and immerse yourselves in the vibrant and engaging learning environment in Lianhua Primary School.
+
+Click on the link by 21 June to register! https://forms.gle/tguAMqREeZkLo5jF9
+
+We look forward to seeing you and your child!
 
 #### The President's Award for Teachers (PAT) and The Outstanding Youth in Education Award (OYEA) 2024
      
