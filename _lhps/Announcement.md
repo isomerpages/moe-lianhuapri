@@ -14,7 +14,7 @@ Time: 9.00am to 11.30am
 
 Do you want to experience and learn more about life in Lianhua? Come and immerse yourselves in the vibrant and engaging learning environment in Lianhua Primary School.
 
-Click on the link by 21 June to register! https://forms.gle/tguAMqREeZkLo5jF9
+Click on the link by 21 June to register! <a href="https://forms.gle/tguAMqREeZkLo5jF9">https://forms.gle/tguAMqREeZkLo5jF9</a> 
 
 We look forward to seeing you and your child!
 
