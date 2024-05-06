@@ -12,7 +12,7 @@ third_nav_title: Superheroes of Character
 <center><i><b>"Your beliefs become your thoughts,<br>Your thoughts become your words,<br>Your words become your actions,<br>Your actions become your habits,<br>Your habits become your values,<br>Your values become your destiny."</b></i></center>
 
 <h2><strong>Silent Heroes 2023</strong></h2>
-<h3><strong>OUR SINGAPORE SILENT HEROES STUDENT AWARD WINNERS</strong></h3>
+<h4><strong>OUR SINGAPORE SILENT HEROES STUDENT AWARD WINNERS</strong></h4>
 
 <style>
         table {
