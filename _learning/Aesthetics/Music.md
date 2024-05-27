@@ -97,23 +97,27 @@ The event serves as a celebration of the efforts that our students have put in d
 			<th class="table-cell-content"><img src="/images/Learning/Music/shining_2_2024.jpg"></th>
 		</tr>
 		<tr>
-			<td class="table-cell-content"><img src="/images/Learning/Music/showtime3.jpg"></td>
-			<td class="table-cell-content"><img src="/images/Learning/Music/showtime4.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_3_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_4_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_5_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_6_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_7_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_8_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_9_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_10_2024.jpg"></td>
 		</tr>
 		<tr>
-			<td>16</td>
-			<td>14</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_11_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_12_2024.jpg"></td>
 		</tr>
-	</tbody></table>
-
-old
-
-| ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
-|:---:|:---:|
-|  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
-| ![](/images/Learning/Music/5shining.JPG)   | ![](/images/Learning/Music/6shining.JPG)    |
-|  ![](/images/Learning/Music/7shining.JPG)   | ![](/images/Learning/Music/8shining.JPG)    |
-| ![](/images/Learning/Music/11shining.JPG)   | ![](/images/Learning/Music/12shining.JPG)    | 
+	</tbody>
+</table>
 
 
 **<u>Showtime!</u>**
