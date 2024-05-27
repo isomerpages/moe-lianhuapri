@@ -5,6 +5,19 @@ description: ""
 third_nav_title: Aesthetics
 variant: markdown
 ---
+<style>
+        .table-cell-content {
+            width: 300px; /* Set desired width */
+            height: 250px; /* Set desired height */
+        }
+        .table-cell-content img,
+        .table-cell-content iframe {
+            width: 100%;
+            height: 100%;
+        }
+ </style>
+
+
 # **Music**
 ![](/images/Learning/Music/music_top.jpg)
 
@@ -132,8 +145,8 @@ The event serves as a celebration of the efforts that our students have put in d
 			<td>show time12 photo</td>
 		</tr>
 		<tr>
-			<td><img src="/images/Learning/Music/showtime13.jpg"></td>
-			<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="La Vita E Bella" src="https://www.youtube.com/embed/qcnNNJxQR1U" height="315" width="560"></iframe></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime13.jpg"></td>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qcnNNJxQR1U"></iframe></td>
 		</tr>
 		<tr>
 			<td>Emil</td>
