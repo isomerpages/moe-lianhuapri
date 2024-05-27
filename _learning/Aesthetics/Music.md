@@ -75,6 +75,24 @@ In addition to the musical performances, our students’ visual art works are al
 The event serves as a celebration of the efforts that our students have put in during their music and art lessons.
 
 
+
+<table style="width:100%">
+		<tbody><tr>
+			<th>Company</th>
+			<th>Contact</th>
+		</tr>
+		<tr>
+			<td>Emil</td>
+			<td>Tobias</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>14</td>
+		</tr>
+	</tbody></table>
+
+
+
 | ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
 |:---:|:---:|
 |  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
@@ -87,6 +105,49 @@ The event serves as a celebration of the efforts that our students have put in d
 
 ‘SHOWTIME!’ is one of Lianhua’s recess activities for our students to perform to their peers at the Imaginarium, which is situated near the canteen. Performances range from singing to playing of musical instruments. The Imaginarium is a platform to provide the performers with a non-threatening environment and allow them to develop greater confidence in themselves.
 
+
+<table style="width:100%">
+		<tbody><tr>
+			<th>show time 1 photo</th>
+			<th>show time 2 photo</th>
+		</tr>
+		<tr>
+			<td><img src="/images/Learning/Music/showtime3.jpg"></td>
+			<td><img src="/images/Learning/Music/showtime4.jpg"></td>
+		</tr>
+		<tr>
+			<td>show time 5 photo</td>
+			<td><img src="/images/Learning/Music/showtime6.jpg"></td>
+		</tr>
+		<tr>
+			<td>show time 7 photo</td>
+			<td>show time 8 photo</td>
+		</tr>
+		<tr>
+			<td>show time 9 photo</td>
+			<td><img src="/images/Learning/Music/showtime10.jpg"></td>
+		</tr>
+		<tr>
+			<td><img src="/images/Learning/Music/showtime11.jpg"></td>
+			<td>show time12 photo</td>
+		</tr>
+		<tr>
+			<td><img src="/images/Learning/Music/showtime13.jpg"></td>
+			<td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="La Vita E Bella" src="https://www.youtube.com/embed/qcnNNJxQR1U" height="315" width="560"></iframe></td>
+		</tr>
+		<tr>
+			<td>Emil</td>
+			<td>Tobias</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>14</td>
+		</tr>
+	</tbody></table>
+
+
+
+old table
 |  |  | 
 | -------- | -------- | 
 | ![](/images/Learning/Music/1_.png) | ![](/images/Learning/Music/2_.png) | 
