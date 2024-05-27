@@ -8,7 +8,7 @@ variant: markdown
 <style>
         .table-cell-content {
             width: 300px; /* Set desired width */
-            height: 250px; /* Set desired height */
+            height: 200px; /* Set desired height */
         }
         .table-cell-content img,
         .table-cell-content iframe {
