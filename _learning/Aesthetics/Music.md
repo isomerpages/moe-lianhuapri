@@ -90,13 +90,15 @@ The event serves as a celebration of the efforts that our students have put in d
 
 
 <table style="width:100%">
-		<tbody><tr>
-			<th>Company</th>
-			<th>Contact</th>
+		<tbody>
+			<tr>
+			</tr><tr>
+			<th class="table-cell-content"><img src="/images/Learning/Music/shining_1_2024.jpg"></th>
+			<th class="table-cell-content"><img src="/images/Learning/Music/shining_2_2024.jpg"></th>
 		</tr>
 		<tr>
-			<td>Emil</td>
-			<td>Tobias</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime3.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime4.jpg"></td>
 		</tr>
 		<tr>
 			<td>16</td>
@@ -104,7 +106,7 @@ The event serves as a celebration of the efforts that our students have put in d
 		</tr>
 	</tbody></table>
 
-
+old
 
 | ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
 |:---:|:---:|
@@ -120,7 +122,8 @@ The event serves as a celebration of the efforts that our students have put in d
 
 
 <table style="width:100%">
-		<tbody><tr>
+		<tbody>
+			<tr>
 			<th class="table-cell-content"><img src="/images/Learning/Music/showtime1.jpg"></th>
 			<th class="table-cell-content"><img src="/images/Learning/Music/showtime2.jpg"></th>
 		</tr>
