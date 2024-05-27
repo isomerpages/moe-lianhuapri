@@ -6,7 +6,7 @@ third_nav_title: Aesthetics
 variant: markdown
 ---
 # **Music**
-![](/images/Learning/Music/Top.JPG)
+![](/images/Learning/Music/music_top.jpg)
 
 
 **Our Vision &amp; Mission**   
