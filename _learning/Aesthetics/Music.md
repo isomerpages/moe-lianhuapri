@@ -121,28 +121,28 @@ The event serves as a celebration of the efforts that our students have put in d
 
 <table style="width:100%">
 		<tbody><tr>
-			<th class="table-cell-content">show time 1 photo</th>
-			<th class="table-cell-content">show time 2 photo</th>
+			<th class="table-cell-content"><img src="/images/Learning/Music/showtime1.jpg"></th>
+			<th class="table-cell-content"><img src="/images/Learning/Music/showtime2.jpg"></th>
 		</tr>
 		<tr>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime3.jpg"></td>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime4.jpg"></td>
 		</tr>
 		<tr>
-			<td class="table-cell-content">show time 5 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime5.jpg"></td>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime6.jpg"></td>
 		</tr>
 		<tr>
-			<td class="table-cell-content">show time 7 photo</td>
-			<td class="table-cell-content">show time 8 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime7.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime8.jpg"></td>
 		</tr>
 		<tr>
-			<td class="table-cell-content">show time 9 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime9.jpg"></td>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime10.jpg"></td>
 		</tr>
 		<tr>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime11.jpg"></td>
-			<td class="table-cell-content">show time12 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime12.jpg"></td>
 		</tr>
 		<tr>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime13.jpg"></td>
@@ -152,22 +152,8 @@ The event serves as a celebration of the efforts that our students have put in d
 			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/BXzDaXVcNjg"></iframe></td>
 			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/4rGmVAxq2do"></iframe></td>
 		</tr>
-		<tr>
-			<td>16</td>
-			<td>14</td>
-		</tr>
-	</tbody></table>
-
-
-
-old table
-|  |  | 
-| -------- | -------- | 
-| ![](/images/Learning/Music/1_.png) | ![](/images/Learning/Music/2_.png) | 
-| ![](/images/Learning/Music/3_.png) | ![](/images/Learning/Music/4_.png) | 
-| ![](/images/Learning/Music/5_.png) | ![](/images/Learning/Music/6_.png) |
-| ![](/images/Learning/Music/7_.png) | ![](/images/Learning/Music/8_.png) |
-| ![](/images/Learning/Music/9_.png) | ![](/images/Learning/Music/10_.png) |
+	</tbody>
+</table>
 
 
 **<u>LHPS Song List</u>**
