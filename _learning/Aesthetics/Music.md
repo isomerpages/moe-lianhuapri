@@ -7,8 +7,8 @@ variant: markdown
 ---
 <style>
         .table-cell-content {
-            width: 300px; /* Set desired width */
-            height: 200px; /* Set desired height */
+            width: 400px; /* Set desired width */
+            height: 300px; /* Set desired height */
         }
         .table-cell-content img,
         .table-cell-content iframe {
@@ -121,36 +121,36 @@ The event serves as a celebration of the efforts that our students have put in d
 
 <table style="width:100%">
 		<tbody><tr>
-			<th>show time 1 photo</th>
-			<th>show time 2 photo</th>
+			<th class="table-cell-content">show time 1 photo</th>
+			<th class="table-cell-content">show time 2 photo</th>
 		</tr>
 		<tr>
-			<td><img src="/images/Learning/Music/showtime3.jpg"></td>
-			<td><img src="/images/Learning/Music/showtime4.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime3.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime4.jpg"></td>
 		</tr>
 		<tr>
-			<td>show time 5 photo</td>
-			<td><img src="/images/Learning/Music/showtime6.jpg"></td>
+			<td class="table-cell-content">show time 5 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime6.jpg"></td>
 		</tr>
 		<tr>
-			<td>show time 7 photo</td>
-			<td>show time 8 photo</td>
+			<td class="table-cell-content">show time 7 photo</td>
+			<td class="table-cell-content">show time 8 photo</td>
 		</tr>
 		<tr>
-			<td>show time 9 photo</td>
-			<td><img src="/images/Learning/Music/showtime10.jpg"></td>
+			<td class="table-cell-content">show time 9 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime10.jpg"></td>
 		</tr>
 		<tr>
-			<td><img src="/images/Learning/Music/showtime11.jpg"></td>
-			<td>show time12 photo</td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime11.jpg"></td>
+			<td class="table-cell-content">show time12 photo</td>
 		</tr>
 		<tr>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime13.jpg"></td>
 			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qcnNNJxQR1U"></iframe></td>
 		</tr>
 		<tr>
-			<td>Emil</td>
-			<td>Tobias</td>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/BXzDaXVcNjg"></iframe></td>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/4rGmVAxq2do"></iframe></td>
 		</tr>
 		<tr>
 			<td>16</td>
