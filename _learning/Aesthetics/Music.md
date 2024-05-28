@@ -5,8 +5,21 @@ description: ""
 third_nav_title: Aesthetics
 variant: markdown
 ---
+<style>
+        .table-cell-content {
+            width: 400px; /* Set desired width */
+            height: 300px; /* Set desired height */
+        }
+        .table-cell-content img,
+        .table-cell-content iframe {
+            width: 100%;
+            height: 100%;
+        }
+ </style>
+
+
 # **Music**
-![](/images/Learning/Music/Top.JPG)
+![](/images/Learning/Music/music_top.jpg)
 
 
 **Our Vision &amp; Mission**   
@@ -75,25 +88,79 @@ In addition to the musical performances, our students’ visual art works are al
 The event serves as a celebration of the efforts that our students have put in during their music and art lessons.
 
 
-| ![](/images/Learning/Music/1shining.JPG)  |  ![](/images/Learning/Music/2shining.JPG)     |
-|:---:|:---:|
-|  ![](/images/Learning/Music/3shining.JPG)   | ![](/images/Learning/Music/4shining.JPG)    |
-| ![](/images/Learning/Music/5shining.JPG)   | ![](/images/Learning/Music/6shining.JPG)    |
-|  ![](/images/Learning/Music/7shining.JPG)   | ![](/images/Learning/Music/8shining.JPG)    |
-| ![](/images/Learning/Music/11shining.JPG)   | ![](/images/Learning/Music/12shining.JPG)    | 
+
+<table style="width:100%">
+		<tbody>
+			<tr>
+			</tr><tr>
+			<th class="table-cell-content"><img src="/images/Learning/Music/shining_1_2024.jpg"></th>
+			<th class="table-cell-content"><img src="/images/Learning/Music/shining_2_2024.jpg"></th>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_3_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_4_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_5_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_6_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_7_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_8_2024.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_9_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_10_2024.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_11_2024.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/shining_12_2024.jpg"></td>
+		</tr>
+	</tbody>
+</table>
 
 
 **<u>Showtime!</u>**
 
 ‘SHOWTIME!’ is one of Lianhua’s recess activities for our students to perform to their peers at the Imaginarium, which is situated near the canteen. Performances range from singing to playing of musical instruments. The Imaginarium is a platform to provide the performers with a non-threatening environment and allow them to develop greater confidence in themselves.
 
-|  |  | 
-| -------- | -------- | 
-| ![](/images/Learning/Music/1_.png) | ![](/images/Learning/Music/2_.png) | 
-| ![](/images/Learning/Music/3_.png) | ![](/images/Learning/Music/4_.png) | 
-| ![](/images/Learning/Music/5_.png) | ![](/images/Learning/Music/6_.png) |
-| ![](/images/Learning/Music/7_.png) | ![](/images/Learning/Music/8_.png) |
-| ![](/images/Learning/Music/9_.png) | ![](/images/Learning/Music/10_.png) |
+
+<table style="width:100%">
+		<tbody>
+			<tr>
+			<th class="table-cell-content"><img src="/images/Learning/Music/showtime1.jpg"></th>
+			<th class="table-cell-content"><img src="/images/Learning/Music/showtime2.jpg"></th>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime3.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime4.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime5.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime6.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime7.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime8.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime9.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime10.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime11.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime12.jpg"></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/showtime13.jpg"></td>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qcnNNJxQR1U"></iframe></td>
+		</tr>
+		<tr>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/BXzDaXVcNjg"></iframe></td>
+			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/4rGmVAxq2do"></iframe></td>
+		</tr>
+	</tbody>
+</table>
 
 
 **<u>LHPS Song List</u>**
