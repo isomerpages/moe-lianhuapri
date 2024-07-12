@@ -43,7 +43,7 @@ td span{
 
 <h4><strong>Primary One Teachers</strong></h4>
 
-  <!-- Year head and Assistant Year Head Table -->
+  
   <table>
 	</table><table width="100%">
     <thead>
@@ -66,7 +66,7 @@ td span{
 </tr>
 </tbody></table>	
 <p></p>
-<!-- Primary One Form Teachers Table-->
+
 <table>
     <thead>
       <tr>
@@ -97,8 +97,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 4</td>
-    <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
-    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
+    <td>Ms Chua Wan Jun<br>Mdm Tan Jye En</td>
+    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -129,7 +129,7 @@ td span{
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -151,7 +151,7 @@ td span{
 </tr>
 </tbody></table>	
 	
- <!-- Primary Two Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -177,8 +177,8 @@ td span{
 			
   <tr>
     <td>2 Respect 3</td>
-    <td>Mdm Shanthini D/O Radha Krishnan<br>Mdm Liu Chang</td>
-    <td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a></td>
+    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mdm Liu Chang</td>
+    <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -195,8 +195,8 @@ td span{
 			
   <tr>
     <td>2 Respect 6</td>
-    <td>Mdm Rabiatuladawiyah<br>Bte Gulam Ashraf<br>Mrs Tay-Wong Peck San</td>
-    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
+    <td>Mdm Yang Fan<br>Mrs Tay-Wong Peck San</td>
+    <td><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
@@ -212,15 +212,15 @@ td span{
   </tr>	
 <tr>
     <td>2 Respect 9</td>
-    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail</td>
-    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
+    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail<br>Ms Chang Xiao Hui</td>
+    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a><br><a href="mailto:chang_xiao_hui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chang_xiao_hui@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
 <h4><strong>Primary Three Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -238,7 +238,7 @@ td span{
 </tbody></table>	
 
 	
- <!-- Primary Three Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -250,8 +250,8 @@ td span{
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Ms Hedzlyn Hazwany Mohamed Mahro<br>[Senior Teacher/<br>Special Educational Needs ]<br>Ms Abigail Ang Jia Min</td>
-				<td><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><br><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
+				<td>Ms Pauline Lee<br>Ms Abigail Ang Jia Min</td>
+				<td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
@@ -269,8 +269,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 4</td>
-    <td>Ms Lee Sok Ngee Pauline<br>Mdm Ramzaniah Binti Lateh</td>
-    <td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
+    <td>Ms Amelia Lee<br>Mdm Ramzaniah Binti Lateh</td>
+    <td><a href="mailto:amelia_lee_wan_qing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">amelia_lee_wan_qing@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -281,8 +281,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 6</td>
-    <td>Mr Lim Soon Wei<br>Mdm Woo Yeong Yi</td>
-    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a></td>
+    <td>Mr Lim Soon Wei<br>Mdm Woo Yeong Yi<br>Mr Kang Hong Tuck</td>
+    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a><br><a href="mailto:kang_hong_tuck@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kang_hong_tuck@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
@@ -290,7 +290,7 @@ td span{
 <h4><strong>Primary Four Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -307,7 +307,7 @@ td span{
   </tr>
 </tbody></table>	
 	
- <!-- Primary Four Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -364,7 +364,7 @@ td span{
 <h4><strong>Primary Five Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -382,7 +382,7 @@ td span{
 </tbody></table>	
 
 	
- <!-- Primary Five Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -401,8 +401,8 @@ td span{
   </tr>
   <tr>
     <td>5 Unity 2</td>
-    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Mr Tan Thong Howe</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_thong_howe@moe.edu.sg</span></a></td>
+    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Ms Hilda Goh</td>
+    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -419,8 +419,8 @@ td span{
 			
   <tr>
     <td>5 Unity 5</td>
-    <td>Ms Foo Ru Yuan Sheena<br>Mr Adib Azad Bin Jasman</td>
-    <td><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a></td>
+    <td>Mr Adib Azad Bin Jasman<br>Mrs Samantha Soh-Lee</td>
+    <td><a href="mailto:adib_azad_jasman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">adib_azad_jasman@moe.edu.sg</span></a><br><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
@@ -428,7 +428,7 @@ td span{
 <h4><strong>Primary Six Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -445,7 +445,7 @@ td span{
   </tr>
 </tbody></table>	
 	
- <!-- Primary Six Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -489,7 +489,7 @@ td span{
 
 <h4><strong>Specialised Support Staff</strong></h4>
 	
-<!-- Specialised Support Staff-->
+
 <table>
     <thead>
       <tr>
