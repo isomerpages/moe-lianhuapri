@@ -250,8 +250,8 @@ td span{
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Ms Hedzlyn Hazwany Mohamed Mahro<br>[Senior Teacher/<br>Special Educational Needs ]<br>Ms Abigail Ang Jia Min</td>
-				<td><a href="mailto:hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hedzlyn_hazwany_mohamed_mahrom@moe.edu.sg</span></a><br><br><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
+				<td>Ms Pauline Lee<br>Ms Abigail Ang Jia Min</td>
+				<td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:abigail_ang_jia_min@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">abigail_ang_jia_min@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
