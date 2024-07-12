@@ -212,8 +212,8 @@ td span{
   </tr>	
 <tr>
     <td>2 Respect 9</td>
-    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail</td>
-    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
+    <td>Mdm Lee Peir Chuang<br>Mr Mohammad Faizal Bin Ismail<br>Ms Chang Xiao Hui</td>
+    <td><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a><br><a href="mailto:chang_xiao_hui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chang_xiao_hui@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
