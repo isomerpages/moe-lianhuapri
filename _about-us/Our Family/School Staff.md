@@ -269,8 +269,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 4</td>
-    <td>Ms Lee Sok Ngee Pauline<br>Mdm Ramzaniah Binti Lateh</td>
-    <td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
+    <td>Ms Amelia Lee<br>Mdm Ramzaniah Binti Lateh</td>
+    <td><a href="mailto:amelia_lee_wan_qing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">amelia_lee_wan_qing@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
