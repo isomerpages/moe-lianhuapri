@@ -401,8 +401,8 @@ td span{
   </tr>
   <tr>
     <td>5 Unity 2</td>
-    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Mr Tan Thong Howe</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_thong_howe@moe.edu.sg</span></a></td>
+    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Ms Hilda Goh</td>
+    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
