@@ -281,8 +281,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 6</td>
-    <td>Mr Lim Soon Wei<br>Mdm Woo Yeong Yi</td>
-    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a></td>
+    <td>Mr Lim Soon Wei<br>Mdm Woo Yeong Yi<br>Mr Kang Hong Tuck</td>
+    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a><br><a href="mailto:kang_hong_tuck@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kang_hong_tuck@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
