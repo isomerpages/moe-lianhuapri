@@ -195,8 +195,8 @@ td span{
 			
   <tr>
     <td>2 Respect 6</td>
-    <td>Mdm Rabiatuladawiyah<br>Bte Gulam Ashraf<br>Mrs Tay-Wong Peck San</td>
-    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
+    <td>Mdm Yang Fan<br>Mrs Tay-Wong Peck San</td>
+    <td><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br><a href="mailto:wong_peck_san@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_peck_san@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
