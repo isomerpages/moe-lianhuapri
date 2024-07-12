@@ -43,7 +43,7 @@ td span{
 
 <h4><strong>Primary One Teachers</strong></h4>
 
-  <!-- Year head and Assistant Year Head Table -->
+  
   <table>
 	</table><table width="100%">
     <thead>
@@ -66,7 +66,7 @@ td span{
 </tr>
 </tbody></table>	
 <p></p>
-<!-- Primary One Form Teachers Table-->
+
 <table>
     <thead>
       <tr>
@@ -97,8 +97,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 4</td>
-    <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
-    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
+    <td>Ms Chua Wan Jun<br>Mdm Tan Jye En</td>
+    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -129,7 +129,7 @@ td span{
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -151,7 +151,7 @@ td span{
 </tr>
 </tbody></table>	
 	
- <!-- Primary Two Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -220,7 +220,7 @@ td span{
 <h4><strong>Primary Three Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -238,7 +238,7 @@ td span{
 </tbody></table>	
 
 	
- <!-- Primary Three Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -290,7 +290,7 @@ td span{
 <h4><strong>Primary Four Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -307,7 +307,7 @@ td span{
   </tr>
 </tbody></table>	
 	
- <!-- Primary Four Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -364,7 +364,7 @@ td span{
 <h4><strong>Primary Five Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -382,7 +382,7 @@ td span{
 </tbody></table>	
 
 	
- <!-- Primary Five Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -428,7 +428,7 @@ td span{
 <h4><strong>Primary Six Teachers</strong></h4>
 	
 
-  <!-- Year Head Table -->
+  
   <table>
     <thead>
       <tr>
@@ -445,7 +445,7 @@ td span{
   </tr>
 </tbody></table>	
 	
- <!-- Primary Six Form Teachers Table-->
+ 
 <table>
     <thead>
       <tr>
@@ -489,7 +489,7 @@ td span{
 
 <h4><strong>Specialised Support Staff</strong></h4>
 	
-<!-- Specialised Support Staff-->
+
 <table>
     <thead>
       <tr>
