@@ -153,6 +153,10 @@ The event serves as a celebration of the efforts that our students have put in d
 		</tr>
 		<tr>
 			<td class="table-cell-content"><img src="/images/Learning/Music/showtime13.jpg"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/besidepianoplaying.jpg"></td>
+		</tr>
+			<tr>
+			<td class="table-cell-content"><img src="/images/Learning/Music/"></td>
 			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qcnNNJxQR1U"></iframe></td>
 		</tr>
 		<tr>
