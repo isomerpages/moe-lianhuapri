@@ -156,7 +156,7 @@ The event serves as a celebration of the efforts that our students have put in d
 			<td class="table-cell-content"><img src="/images/Learning/Music/besidepianoplaying.jpg"></td>
 		</tr>
 			<tr>
-			<td class="table-cell-content"><img src="/images/Learning/Music/"></td>
+			<td class="table-cell-content"><img src="/images/Learning/Music/besidevideo.jpg"></td>
 			<td class="table-cell-content"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/qcnNNJxQR1U"></iframe></td>
 		</tr>
 		<tr>
