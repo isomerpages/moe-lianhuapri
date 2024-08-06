@@ -15,8 +15,8 @@ th, td{
 <table style="width:100%">
   <tbody><tr>
     <th width="25%">Head Prefect</th>
-    <th width="30%">Write-up</th>
-    <th width="45%"></th>
+    <th width="40%">Write-up</th>
+    <th width="35%"></th>
   </tr>
   <tr>
     <td>ANDREA CHANDRA PUTRI<br>(2015/2016)</td>
