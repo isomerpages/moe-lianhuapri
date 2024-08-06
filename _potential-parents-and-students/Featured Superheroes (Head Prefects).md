@@ -74,5 +74,5 @@ th, td{
     <td>As the Head Prefect in Lianhua Primary School from 2022 to 2023, I had the privilege of leading by example and fostering a positive environment for my fellow students. I organized various school events, promoted discipline, and supported my peers in their academic and personal endeavors. It was a rewarding experience that taught me valuable leadership skills and the importance of teamwork. Now, in my secondary school, I look back on those days with fondness, cherishing the memories and lessons that have shaped me into the student I am today. Not long after my graduation, I was invited to speak to my juniors in Lianhua. I am very glad to be able to further contribute to Lianhua as an alumni, to connect with them and share my experience as a secondary school student. I am inspired to continue my leadership journey and to be a role model to my juniors.</td>
     <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/Marissa.jpg"></td>
   </tr>
-</tbody>
+	</tbody>
 </table>
