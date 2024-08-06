@@ -9,7 +9,7 @@ variant: markdown
 <style>
 th, td{
   border:1px solid black;
-	font-size: 18px;
+	font-size: 16px;
 	text-align: justify;
 }
 </style>
