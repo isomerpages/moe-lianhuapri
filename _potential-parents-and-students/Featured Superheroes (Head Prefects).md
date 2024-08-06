@@ -21,10 +21,12 @@ variant: markdown
 
 
 <style>
-th, td {
+th {
   border:1px solid black;
-	text-align: justify;
 }
+	td{
+	text-align: justify;
+	}
 </style>
 <table style="width:100%">
   <tbody><tr>
