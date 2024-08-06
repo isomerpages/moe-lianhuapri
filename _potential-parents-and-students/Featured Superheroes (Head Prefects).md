@@ -37,12 +37,12 @@ table, th, td {
     <td>ANDREA CHANDRA PUTRI<br>(2015/2016)</td>
     <td>Being in Lianhua was very enriching and I have learnt so much from my 6 years here. I've had the honour of serving the school many times, be it representing the school in various events or being the head prefect. These experiences have made me who I am today and I am very thankful for them. One experience I particularly remember was the first time I was asked to help with flag-raising just minutes before assembly started and I was so unprepared that I didn't manage to keep my sling pouch and ended up carrying it while flag-raising
 !</td>
-    <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png"></td>
+    <td></td>
   </tr>
   <tr>
     <td>HENG YAO HWEE, DAVID<br>(2016/2017)</td>
     <td>As the Head Prefect of 2017, it gave me a lot of opportunities to learn and grow as a leader.To me the whole journey as a Head prefect was memorable.Many events have helped nurture me in becoming a better leader.Like Teacher’s day,we were told to be the emcees for the event but on the day of rehearsal, we prepared nothing and sitting around waiting for instructions.We were reprimanded but the teachers taught me one of the most important value as a leader,which is to be proactive.To take the initiative to do something and not just sit around doing nothing.<br><br>Although there were many ups and downs during the process,it was all worthwhile.The guidance and support they have given me was really priceless and most importantly,it made me realise what it really means to be a leader.It is not a tittle and fame, it is sense of responsibility of having the role.</td>
-    <td>HENG YAO HWEE, DAVID Photo</td>
+    <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/DavidHeng.jpg"></td>
   </tr>
 	<tr>
     <td>VO TRI TAI<br>(2017/2018)</td>
