@@ -23,6 +23,8 @@ variant: markdown
 <style>
 th, td{
   border:1px solid black;
+	font-size: 18px;
+	text-align: justify;
 }
 </style>
 <table style="width:100%">
