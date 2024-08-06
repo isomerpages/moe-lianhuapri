@@ -20,7 +20,6 @@ variant: markdown
 ![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png)
 
 
-
 <style>
 table, th, td {
   border:1px solid black;
