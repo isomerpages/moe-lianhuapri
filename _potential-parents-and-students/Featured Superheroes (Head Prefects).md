@@ -61,20 +61,19 @@ table, th, td {
     <td>JUSTIN HO GUAN XIAN photo</td>
   </tr>
 		<tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>TAN EMMA XIN PING<br>(2020/2021)</td>
+    <td>Hello! I am Emma, the ex head prefect from 2020 in Lianhua Primary School. During these past six years in Lianhua l  have learned so much from the teachers and have gained a lot of amazing experiences. The teachers in Lianhua Primary have given me so many opportunities to flourish and to sharpen my leadership skills. I am very thankful for the teachers who have been guiding me and helping me to grow over the last 6 years. One of the memorable experiences that I will never forget is working together with the core team, teachers and the staff in the school to participate in the Smile project. To bring smiles to the students in need in school. I remember the teachers used to tell us during the prefect meeting “ A true leader has the confidence to stand alone, the courage to make tough decisions and the compassion to listen to others. He does not set out to be a leader, but becomes one by the quality of his actions and the integrity of his intent’.I would always hold that in my mind and continue to  do good for the school and to encourage others in the school to do the same. Even though I faced some challenges along the way, I knew that with the teachers’ help and the core team’s support, I could overcome any obstacles that came my way. Working with the core team also reminded me what true unity really was. Lianhua primary school really has brought me a lot of memories that I can reminisce about and inspire othersI will continue to stand tall and reach greater heights!</td>
+    <td>Emma photo</td>
   </tr>
 		<tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>PHANG WEI XUAN<br>(2021-2022)</td>
+    <td>Being the head prefect from 2021 to 2022 has been incredibly rewarding. It was filled with meaningful experiences and opportunities for growth. As Head Prefect, l had the chance to lead and contribute to our school community in various ways. One of my most memorable experiences was planning for Teachers’ Day. Organizing that event allowed me to work closely with the core team to show our appreciation to our teachers who have guided and supported us. It was a joy to see our plans come to life and to witness the teachers' smiles and enjoyment during the day. Additionally, I had the privilege of leading Project Smile, a heartwarming initiative where the school arranged for essential groceries and necessities to the elderly and families in need. Coordinating this project was both challenging and deeply fulfilling. Seeing the positive impact we could make in our community was incredibly inspiring. These experiences have taught me valuable lessons in leadership, teamwork, and compassion. I am grateful for all the opportunities LHPS has provided me to grow into who I am now.</td>
+    <td>Wei Xuan photo</td>
   </tr>
 		<tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>MARISSA BINTE MUNIR<br>(2022-2023)
+</td>
+    <td>As the Head Prefect in Lianhua Primary School from 2022 to 2023, I had the privilege of leading by example and fostering a positive environment for my fellow students. I organized various school events, promoted discipline, and supported my peers in their academic and personal endeavors. It was a rewarding experience that taught me valuable leadership skills and the importance of teamwork. Now, in my secondary school, I look back on those days with fondness, cherishing the memories and lessons that have shaped me into the student I am today. Not long after my graduation, I was invited to speak to my juniors in Lianhua. I am very glad to be able to further contribute to Lianhua as an alumni, to connect with them and share my experience as a secondary school student. I am inspired to continue my leadership journey and to be a role model to my juniors.</td>
+    <td>MARISSA photo</td>
   </tr>
 </tbody></table>
-
-<p>To understand the example better, we have added borders to the table.</p>
