@@ -36,9 +36,8 @@ table, th, td {
   <tr>
     <td>ANDREA CHANDRA PUTRI<br>(2015/2016)</td>
     <td>Being in Lianhua was very enriching and I have learnt so much from my 6 years here. I've had the honour of serving the school many times, be it representing the school in various events or being the head prefect. These experiences have made me who I am today and I am very thankful for them. One experience I particularly remember was the first time I was asked to help with flag-raising just minutes before assembly started and I was so unprepared that I didn't manage to keep my sling pouch and ended up carrying it while flag-raising
-! 
-</td>
-    <td></td>
+!</td>
+    <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png"></td>
   </tr>
   <tr>
     <td>HENG YAO HWEE, DAVID<br>(2016/2017)</td>
