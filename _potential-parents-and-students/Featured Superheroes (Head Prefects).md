@@ -29,9 +29,9 @@ table, th, td {
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Head Prefect</th>
-    <th>Write-up</th>
-    <th></th>
+    <th width="20%">Head Prefect</th>
+    <th width="35%">Write-up</th>
+    <th width="45%"></th>
   </tr>
   <tr>
     <td>ANDREA CHANDRA PUTRI<br>(2015/2016)</td>
