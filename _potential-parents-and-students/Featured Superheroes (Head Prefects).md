@@ -44,7 +44,7 @@ th, td {
   </tr>
 	<tr>
     <td>VO TRI TAI<br>(2017/2018)</td>
-    <td>I had an amazing experience in LHPS. From caring friends to friendly Teachers, they all have contributed to the amazing experience that I have. They have made adapting to a new environment much easier for me. Throughout my 3 years, LHPS had provided me with plentiful opportunities to serve the school. Such opportunities include Teachers’ Day planning and volunteering activities such as festive giving and CNY celebration with Renci. All of these would not be possible without the help of my fellow peers and core team members. One memorable incident that happened was when I quarrelled with my fellow core team member Kerlin over a problem that a primary one was facing because of our different views. The quarrel got serious to the point we both ended up crying. From that experience I learnt to remain calm and consider others’ point of view. We eventually talked it out and knew what went wrong. Our friendship deepened after that incident. </td>
+    <td>I had an amazing experience in LHPS. From caring friends to friendly Teachers, they all have contributed to the amazing experience that I have. They have made adapting to a new environment much easier for me. Throughout my 3 years, LHPS had provided me with plentiful opportunities to serve the school. Such opportunities include Teachers’ Day planning and volunteering activities such as festive giving and CNY celebration with Renci. All of these would not be possible without the help of my fellow peers and core team members. One memorable incident that happened was when I quarrelled with my fellow core team member Kerlin over a problem that a primary one was facing because of our different views. The quarrel got serious to the point we both ended up crying. From that experience I learnt to remain calm and consider others’ point of view. We eventually talked it out and knew what went wrong. Our friendship deepened after that incident.</td>
     <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/VoTriTai.jpg"></td>
   </tr>
 <tr>
@@ -73,4 +73,5 @@ th, td {
     <td>As the Head Prefect in Lianhua Primary School from 2022 to 2023, I had the privilege of leading by example and fostering a positive environment for my fellow students. I organized various school events, promoted discipline, and supported my peers in their academic and personal endeavors. It was a rewarding experience that taught me valuable leadership skills and the importance of teamwork. Now, in my secondary school, I look back on those days with fondness, cherishing the memories and lessons that have shaped me into the student I am today. Not long after my graduation, I was invited to speak to my juniors in Lianhua. I am very glad to be able to further contribute to Lianhua as an alumni, to connect with them and share my experience as a secondary school student. I am inspired to continue my leadership journey and to be a role model to my juniors.</td>
     <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/Marissa.jpg"></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
