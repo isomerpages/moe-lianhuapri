@@ -6,20 +6,6 @@ variant: markdown
 ---
 # Featured Superheroes (Head Prefects)
 
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2016%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2017%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2018%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2019%20up.png)
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png)
-
-
 <style>
 th, td{
   border:1px solid black;
@@ -76,3 +62,17 @@ th, td{
   </tr>
 	</tbody>
 </table>
+
+
+![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2016%20up.png)
+
+
+![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2017%20up.png)
+
+
+![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2018%20up.png)
+
+
+![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2019%20up.png)
+
+![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png)
