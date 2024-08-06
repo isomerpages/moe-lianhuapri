@@ -21,7 +21,7 @@ variant: markdown
 
 
 <style>
-table, th, td {
+th, td {
   border:1px solid black;
 	text-align: justify;
 }
