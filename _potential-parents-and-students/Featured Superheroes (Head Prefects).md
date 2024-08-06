@@ -27,7 +27,6 @@ table, th, td {
 	text-align: justify;
 }
 </style>
-
 <table style="width:100%">
   <tbody><tr>
     <th width="20%">Head Prefect</th>
