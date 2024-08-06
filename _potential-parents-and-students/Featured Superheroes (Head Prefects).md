@@ -24,6 +24,7 @@ variant: markdown
 <style>
 table, th, td {
   border:1px solid black;
+	text-align: justify;
 }
 </style>
 
