@@ -15,8 +15,8 @@ th, td{
 </style>
 <table style="width:100%">
   <tbody><tr>
-    <th width="20%">Head Prefect</th>
-    <th width="35%">Write-up</th>
+    <th width="25%">Head Prefect</th>
+    <th width="30%">Write-up</th>
     <th width="45%"></th>
   </tr>
   <tr>
