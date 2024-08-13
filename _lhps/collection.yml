@@ -2,8 +2,8 @@ collections:
   lhps:
     output: true
     order:
-      - Social Media.md
       - Useful Links.md
+      - Social Media.md
       - Announcement.md
       - privacy.md
       - faq.md
