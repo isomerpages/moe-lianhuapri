@@ -54,7 +54,7 @@ img {
 |                      |                   |               |
 |--------------|--------------|---------------|
 | **Singing Festival**                             | **Performance venue** | **Repertoire (LHPS self-composed songs**) |
-| Stars of Hope (2018)                                  | School            | 爱我联华`` (Love my Lianhua)            |
+| Stars of Hope (2018)                                  | School            | 爱我联华 (Love my Lianhua)            |
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
@@ -63,6 +63,53 @@ img {
 | ![](/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg) |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg) | 
 | -------- | -------- | 
 | ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg)   | 
+<br>
+<style>
+table {
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+
+
+<table>
+  <tbody><tr>
+    <th>Event</th>
+    <th>Performance Venue</th>
+    <th>Repertoire</th>
+  </tr>
+  <tr>
+    <td>Bukit Gombak National Day<br>Observance Ceremony 2024 </td>
+    <td>Hardcourt in front of Blk 372<br>Bukit Batok Street 31</td>
+    <td>1. Singapore Town<br>2. Accidentally in Love<br>3. A medley of Rasa Sayang and Chan Mali Chan</td>
+  </tr> 
+</tbody></table>
+
+<style>
+table {
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+
+
+<table>
+  <tbody><tr>
+    <td>Bukit Gombak National Day<br>Observance Ceremony 2024 </td>
+    <td>Hardcourt in front of Blk 372<br>Bukit Batok Street 31</td>
+  </tr> 
+</tbody></table>
+
 
 
 ## **Achievements**
