@@ -23,7 +23,7 @@ td{
 <table>
   <tbody><tr>
     <td><a href="https://www.facebook.com/LianhuaPS/" target="_blank"><img src="/images/Lphs/facebook.png" style="width:100px"></a></td>
-    <td><a href="https://www.instagram.com/lianhua_pri/" target="_blank"><img src="/images/Lphs/instagram.jpg" style="width:100px"></a></td>
+    <td><a href="https://www.instagram.com/lianhua_pri/" target="_blank"><img src="/images/Lphs/instagram.png" style="width:100px"></a></td>
     <td><a href="https://www.youtube.com/@lianhuaprimary" target="_blank"><img src="/images/Lphs/youtube.png" style="width:100px"></a></td>
   </tr>
 </tbody></table>
