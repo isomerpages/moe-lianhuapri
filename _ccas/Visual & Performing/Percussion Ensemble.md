@@ -105,8 +105,8 @@ td, th {
 
 <table>
   <tbody><tr>
-    <td>Bukit Gombak National Day<br>Observance Ceremony 2024 </td>
-    <td>Hardcourt in front of Blk 372<br>Bukit Batok Street 31</td>
+    <td><img style="width:400px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
+    <td><img style="width:400px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
   </tr> 
 </tbody></table>
 
