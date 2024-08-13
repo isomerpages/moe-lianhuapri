@@ -56,4 +56,3 @@ th, td{
   </tr>
 	</tbody>
 </table>
-
