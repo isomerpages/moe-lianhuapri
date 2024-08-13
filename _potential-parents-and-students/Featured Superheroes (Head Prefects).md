@@ -4,7 +4,7 @@ permalink: /for-potential-parents-n-students/featured-superheroes-head-prefects/
 description: ""
 variant: markdown
 ---
-# Featured Superheroes (Head Prefects)
+# Featured Superheroes  (Head Prefects)
 
 <style>
 th, td{
@@ -57,17 +57,3 @@ th, td{
 	</tbody>
 </table>
 
-------------------------------------ignore below; will remove it-----------------------------
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2016%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2017%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2018%20up.png)
-
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2019%20up.png)
-
-![](/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/2020%20up.png)
