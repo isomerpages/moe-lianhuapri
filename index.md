@@ -14,7 +14,7 @@ sections:
           url: /lhps/useful-links
         - title: Social Media
           description: ""
-          url: https://www.facebook.com/LianhuaPS/
+          url: /lhps/social-media/
         - title: Announcements
           description: ""
           url: /lhps/announcement
