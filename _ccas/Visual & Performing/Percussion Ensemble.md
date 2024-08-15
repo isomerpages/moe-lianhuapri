@@ -11,11 +11,18 @@ p {
 }
 	
 table {
-	font-size: 18px
+	font-size: 18px;
+	width: 100%;
 	}
 	
 img {
   width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 </style>	
 
@@ -60,22 +67,18 @@ img {
 
 ![](/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg) 
 
-| ![](/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg) |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg) | 
-| -------- | -------- | 
-| ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg)   | 
+<table>
+  <tbody>
+  <tr>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg"></td>
+  </tr> 
+		<tr>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg"></td>
+  </tr> 
+</tbody></table>
 <br>
-<style>
-table {
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-</style>
-
 
 <table>
   <tbody><tr>
@@ -90,23 +93,10 @@ td, th {
   </tr> 
 </tbody></table>
 
-<style>
-table {
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-</style>
-
-
 <table>
   <tbody><tr>
-    <td><img style="width:400px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
-    <td><img style="width:400px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
+    <td><img style="width:350px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
+    <td><img style="width:350px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
   </tr> 
 </tbody></table>
 
