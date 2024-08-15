@@ -95,8 +95,8 @@ td, th {
 
 <table>
   <tbody><tr>
-    <td><img style="width:350px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
-    <td><img style="width:350px;height:250px;" src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
   </tr> 
 </tbody></table>
 
