@@ -87,8 +87,8 @@ td, th {
     <th>Repertoire</th>
   </tr>
   <tr>
-    <td>Bukit Gombak National Day<br>Observance Ceremony 2024 </td>
-    <td>Hardcourt in front of Blk 372<br>Bukit Batok Street 31</td>
+    <td>Bukit Gombak National Day Observance Ceremony 2024 </td>
+    <td>Hardcourt in front of Blk 372 Bukit Batok Street 31</td>
     <td>1. Singapore Town<br>2. Accidentally in Love<br>3. A medley of Rasa Sayang and Chan Mali Chan</td>
   </tr> 
 </tbody></table>
