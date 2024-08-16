@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Useful Links.md
+      - Social Media.md
       - Announcement.md
       - privacy.md
       - faq.md

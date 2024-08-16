@@ -11,11 +11,18 @@ p {
 }
 	
 table {
-	font-size: 18px
+	font-size: 18px;
+	width: 100%;
 	}
 	
 img {
   width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 </style>	
 
@@ -54,15 +61,45 @@ img {
 |                      |                   |               |
 |--------------|--------------|---------------|
 | **Singing Festival**                             | **Performance venue** | **Repertoire (LHPS self-composed songs**) |
-| Stars of Hope (2018)                                  | School            | 爱我联华`` (Love my Lianhua)            |
+| Stars of Hope (2018)                                  | School            | 爱我联华 (Love my Lianhua)            |
 | A Musical Treasure Hunt in the Land of Stories (2019) | Dulwich College   | Little Red Riding Hood                |
 
 
 ![](/images/CCAs/Percussion%20Ensemble/Achievement%205.jpg) 
 
-| ![](/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg) |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg) | 
-| -------- | -------- | 
-| ![](/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg)     |  ![](/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg)   | 
+<table>
+  <tbody>
+  <tr>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%202.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%201.jpg"></td>
+  </tr> 
+		<tr>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%203.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/Achievement%204.jpg"></td>
+  </tr> 
+</tbody></table>
+<br>
+
+<table>
+  <tbody><tr>
+    <th>Event</th>
+    <th>Performance Venue</th>
+    <th>Repertoire</th>
+  </tr>
+  <tr>
+    <td>Bukit Gombak National Day Observance Ceremony 2024 </td>
+    <td>Hardcourt in front of Blk 372 Bukit Batok Street 31</td>
+    <td>1. Singapore Town<br>2. Accidentally in Love<br>3. A medley of Rasa Sayang and Chan Mali Chan</td>
+  </tr> 
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/ND2024_1.jpg"></td>
+    <td><img src="/images/CCAs/Percussion%20Ensemble/ND2024_2.jpg"></td>
+  </tr> 
+</tbody></table>
+
 
 
 ## **Achievements**
