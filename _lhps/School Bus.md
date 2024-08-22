@@ -14,9 +14,14 @@ description: ""
   <li>Agreement for Appointment of School Bus Operator pdf</li>
 </ol>  
 
-<h5><strong>Application </strong></h5>
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
+<h5><strong>Application Procedure </strong></h5>
+<ol>
+  <li>Complete the Call for Proposal - Annex A pdf</li>
+  <li>Submit the completed Call for Proposal - Annex A by closing date, 30 August 2024 to the School's General Office.</li>
+</ol>  
+	<ul>
+  <li>Address: 2 Bukit Batok Street 52, Singapore 759243</li>
+  <li>Contact No: 6563 9502</li>
+  <li>Email: </li>
+	<li>Tea</li>
+</ul>
