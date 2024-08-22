@@ -10,7 +10,7 @@ description: ""
 
 <h5><strong>Service Requirements</strong></h5>
 <ol>
-  <li>Call for Proposal pdf</li>
+  <li><a href="[Call for Proposal](/files/School%20Bus/1__Call_for_Proposals__For_Single_Bus_Service__Lianhua_Pri.pdf)">Call for Proposal</a></li>
   <li>Agreement for Appointment of School Bus Operator pdf</li>
 </ol>  
 
