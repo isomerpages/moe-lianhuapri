@@ -22,7 +22,7 @@ description: ""
 </ol>  
 
 <ul>
-  <li>Address: 2 Bukit Batok Street 52, Singapore 759243</li>
+  <li>Address: 2 Bukit Batok Street 52, Singapore 659243</li>
   <li>Contact No: 6563 9502</li>
   <li>Email: lianhua_ps@moe.edu.sg</li>
 	<li>Contact Person: Mdm Chan Siew Hoon, Admin Manager</li>
@@ -30,6 +30,6 @@ description: ""
 
 <h5><strong>How to get there?</strong></h5>
 <ul>
-  <li>Nearest MRT: Bukit Gombak MRT (NS3 line) or Bukit Batok MRT (NS2 line) - 10 minutes walking distance for both station</li>
+  <li>Nearest MRT: Bukit Gombak MRT (NS3 line) or Bukit Batok MRT (NS2 line) - 10 minutes walking distance for both stations</li>
   <li>Bus number: 945 - 3 minutes walking distance</li>
 </ul>
