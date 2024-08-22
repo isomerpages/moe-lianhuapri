@@ -4,7 +4,7 @@ permalink: /school-bus/
 variant: markdown
 description: ""
 ---
-<h1>School Bus Advertisement</h1>
+<h1>School Bus</h1>
 
 <h5>To apply, please refer to the Service Requirements and the Application Procedure below.</h5>
 
