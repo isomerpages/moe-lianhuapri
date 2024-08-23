@@ -68,7 +68,7 @@ Through the years, the development of our student musicians is evident. As our s
   </tr>
 </tbody>
 </table>
-<br>		
+
 <table style="width:100%">
   <tbody>
 		<tr>
