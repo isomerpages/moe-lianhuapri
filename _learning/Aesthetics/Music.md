@@ -52,19 +52,19 @@ Through the years, the development of our student musicians is evident. As our s
     <td>2020</td>
     <td>Be the Light</td>
     <td>Featured in SYF Opening Ceremony and NDP 2020</td>
-		<td>Germany</td>
+		<td>Mr Sim Wee Choon</td>
   </tr>
 	<tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-		<td>Germany</td>
+    <td>2022</td>
+    <td>(1) Yet<br>(2) Let's Go Go Go!</td>
+    <td>Honourable mentions</td>
+		<td>Mr Sim Wee Choon &amp;<br>Ms Rachel Ong Ying Li</td>
   </tr>
 	<tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-		<td>Germany</td>
+    <td>2024</td>
+    <td>Let the Phoenix be Born and Rise</td>
+    <td>Invitation to perform at National Library</td>
+		<td>Mr Sim Wee Choon</td>
   </tr>
 		<tr>
 		    <td><img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
