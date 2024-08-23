@@ -2,9 +2,9 @@ collections:
   lhps:
     output: true
     order:
-      - School Bus.md
       - Useful Links.md
       - Social Media.md
       - Announcement.md
+      - School Bus.md
       - privacy.md
       - faq.md
