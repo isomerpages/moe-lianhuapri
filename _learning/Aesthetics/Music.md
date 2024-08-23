@@ -66,6 +66,11 @@ Through the years, the development of our student musicians is evident. As our s
     <td>Invitation to perform at National Library</td>
 		<td>Mr Sim Wee Choon</td>
   </tr>
+</tbody>
+</table>
+		
+<table style="width:100%">
+  <tbody>
 		<tr>
 		    <td><img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
     <td><img src="/images/Learning/Music/2%20(2)music.JPG"></td>
