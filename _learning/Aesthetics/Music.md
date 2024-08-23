@@ -93,9 +93,6 @@ Through the years, the development of our student musicians is evident. As our s
 </tbody>
 </table>
 
-
-
-
 **Key Signature Programme**
 
 **<u>Young Aspiring Song Composers</u>**
