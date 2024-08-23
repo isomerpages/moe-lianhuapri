@@ -40,15 +40,15 @@ The Youth Station Project is a platform dedicated to showcasing students’ orig
 
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
 
-The following songs received the following awards:     
-Be the Light – One of the top 8 songs. Also featured in SYF opening ceremony and NDP (2020)     
-Let’s Go Go Go - Honourable Mention (2022)     
-Yet - Honourable Mention (2022)
-
-Teacher Mentors:      
-Mr Sim Wee Choon (2020, 2022)     
-Ms Rachel Ong (2022)      
-<br>
+<table>
+  <tbody><tr>
+    <td><img alt="Trulli" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+    <td>Maria Anders</td>
+  </tr><tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+	</tr>
+</tbody></table>
 
 | ![](/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg) | ![](/images/Learning/Music/3%20(1)music.jpg) | 
 |:-:|:-:| 
