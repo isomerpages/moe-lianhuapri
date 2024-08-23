@@ -78,12 +78,17 @@ Through the years, the development of our student musicians is evident. As our s
     <td><img style="width:480px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
     <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
 	</tr>
+</tbody>
+</table>
+		
+<table style="width:100%">
+  <tbody>
 		<tr>
-		    <td><img style="width:480px;height:350px;" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
-    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/2%20(2)music.JPG"></td>
+		    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_1.jpg"></td>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_2.jpg"></td>
   </tr><tr>
-    <td><img style="width:480px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
-    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_3.jpg"></td>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_4.jpg"></td>
 	</tr>
 </tbody>
 </table>
