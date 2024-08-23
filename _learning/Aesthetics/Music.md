@@ -40,16 +40,19 @@ The Youth Station Project is a platform dedicated to showcasing students’ orig
 
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
 
-<table>
+<table style="width:100%">
   <tbody><tr>
-    <td><img alt="Trulli" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
-    <td>Maria Anders</td>
+    <td><img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+    <td><img src="/images/Learning/Music/2%20(2)music.JPG"></td>
   </tr><tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td><img src="/images/Learning/Music/3%20(1)music.jpg"></td>
+    <td><img src="/images/Learning/Music/4%20(1)music.JPG"></td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 
+
+=====old====
 | ![](/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg) | ![](/images/Learning/Music/3%20(1)music.jpg) | 
 |:-:|:-:| 
 | ![](/images/Learning/Music/2%20(2)music.JPG) | ![](/images/Learning/Music/4%20(1)music.JPG) |
