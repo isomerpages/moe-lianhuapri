@@ -41,8 +41,33 @@ The Youth Station Project is a platform dedicated to showcasing students’ orig
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
 
 <table style="width:100%">
-  <tbody><tr>
-    <td><img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+  <tbody>
+		<tr>
+    <th>Year</th>
+    <th>Title of Song</th>
+    <th>Achievement</th>
+		<th>Teacher Mentor</th>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Be the Light</td>
+    <td>Featured in SYF Opening Ceremony and NDP 2020</td>
+		<td>Germany</td>
+  </tr>
+	<tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+		<td>Germany</td>
+  </tr>
+	<tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+		<td>Germany</td>
+  </tr>
+		<tr>
+		    <td><img src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
     <td><img src="/images/Learning/Music/2%20(2)music.JPG"></td>
   </tr><tr>
     <td><img src="/images/Learning/Music/3%20(1)music.jpg"></td>
