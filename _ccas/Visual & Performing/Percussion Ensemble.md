@@ -157,5 +157,4 @@ Percussion Ensemble 2022 SYF - Arts Presentation
 
 MRS TAY PECK SAN<br>
 MDM KOH WAN TING<br>
-MS SOH FANG YING<br>
-MDM TOH LI YUH
+MS SOH FANG YING

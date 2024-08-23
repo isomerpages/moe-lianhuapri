@@ -40,20 +40,58 @@ The Youth Station Project is a platform dedicated to showcasing students’ orig
 
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
 
-The following songs received the following awards:     
-Be the Light – One of the top 8 songs. Also featured in SYF opening ceremony and NDP (2020)     
-Let’s Go Go Go - Honourable Mention (2022)     
-Yet - Honourable Mention (2022)
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Year</th>
+    <th>Title of Song</th>
+    <th>Achievement</th>
+		<th>Teacher Mentor</th>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Be the Light</td>
+    <td>Featured in SYF Opening Ceremony and NDP 2020</td>
+		<td>Mr Sim Wee Choon</td>
+  </tr>
+	<tr>
+    <td>2022</td>
+    <td>(1) Yet<br>(2) Let's Go Go Go!</td>
+    <td>Honourable mentions</td>
+		<td>Mr Sim Wee Choon  &amp;<br>Ms Rachel Ong Ying Li</td>
+  </tr>
+	<tr>
+    <td>2024</td>
+    <td>Let the Phoenix be <br>Born and Rise</td>
+    <td>Invitation to perform at National Library</td>
+		<td>Mr Sim Wee Choon</td>
+  </tr>
+</tbody>
+</table>
 
-Teacher Mentors:      
-Mr Sim Wee Choon (2020, 2022)     
-Ms Rachel Ong (2022)      
-<br>
-
-| ![](/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg) | ![](/images/Learning/Music/3%20(1)music.jpg) | 
-|:-:|:-:| 
-| ![](/images/Learning/Music/2%20(2)music.JPG) | ![](/images/Learning/Music/4%20(1)music.JPG) |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+		    <td><img style="width:490px;height:350px;" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/2%20(2)music.JPG"></td>
+  </tr><tr>
+    <td><img style="width:490px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
+    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
+	</tr>
+</tbody>
+</table>
+		
+<table style="width:100%">
+  <tbody>
+		<tr>
+		    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_1.jpg"></td>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_2.jpg"></td>
+  </tr><tr>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_3.jpg"></td>
+    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_4.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
 **Key Signature Programme**
 
