@@ -58,11 +58,11 @@ Through the years, the development of our student musicians is evident. As our s
     <td>2022</td>
     <td>(1) Yet<br>(2) Let's Go Go Go!</td>
     <td>Honourable mentions</td>
-		<td>Mr Sim Wee Choon &amp;<br>Ms Rachel Ong Ying Li</td>
+		<td>Mr Sim Wee Choon  &amp;<br>Ms Rachel Ong Ying Li</td>
   </tr>
 	<tr>
     <td>2024</td>
-    <td>Let the Phoenix be Born and Rise</td>
+    <td>Let the Phoenix be <br>Born and Rise</td>
     <td>Invitation to perform at National Library</td>
 		<td>Mr Sim Wee Choon</td>
   </tr>
@@ -78,14 +78,17 @@ Through the years, the development of our student musicians is evident. As our s
     <td><img style="width:480px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
     <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
 	</tr>
+		<tr>
+		    <td><img style="width:480px;height:350px;" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/2%20(2)music.JPG"></td>
+  </tr><tr>
+    <td><img style="width:480px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
+    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
+	</tr>
 </tbody>
 </table>
 
 
-=====old====
-| ![](/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg) | ![](/images/Learning/Music/3%20(1)music.jpg) | 
-|:-:|:-:| 
-| ![](/images/Learning/Music/2%20(2)music.JPG) | ![](/images/Learning/Music/4%20(1)music.JPG) |
 
 
 **Key Signature Programme**
