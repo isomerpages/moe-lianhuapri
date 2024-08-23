@@ -21,6 +21,7 @@ description: ""
   <li>Submit the completed Call for Proposal - Annex A by closing date, 4 September 2024 to the School's General Office.</li>
 </ol>  
 
+
 <ul>
   <li>Address: 2 Bukit Batok Street 52, Singapore 659243</li>
   <li>Contact No: 6563 9502</li>
