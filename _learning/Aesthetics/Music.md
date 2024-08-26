@@ -43,8 +43,7 @@ Through the years, the development of our student musicians is evident. As our s
 
 <style>
        th, td {
-       
-					width: 25%;
+ 					width: 25%;
 					}
 </style>
 
