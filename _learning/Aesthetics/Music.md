@@ -41,7 +41,14 @@ The Youth Station Project is a platform dedicated to showcasing students’ orig
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
 <p></p>
 
-<table style="width:100%">
+<style>
+       th, td {
+          padding: 10px;
+					width: 25%;
+					}
+</style>
+
+<table>
   <tbody>
 		<tr>
     <th>Year</th>
