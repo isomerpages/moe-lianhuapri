@@ -39,6 +39,7 @@ Approach (ECA): Experience, Concept, Application
 The Youth Station Project is a platform dedicated to showcasing students’ original creative work in music. Through this platform, student-musicians are provided with opportunities to further develop their interest and skills in songwriting, composing, music arrangement, production and performing. Student-musicians also benefit from the mentoring provided by professional musicians through exposure to real-life practices and experiences of their mentors.
 
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
+<p></p>
 
 <table style="width:100%">
   <tbody>
@@ -69,6 +70,8 @@ Through the years, the development of our student musicians is evident. As our s
 </tbody>
 </table>
 
+<p></p>
+
 <table style="width:100%">
   <tbody>    
 		<tr>
@@ -81,7 +84,7 @@ Through the years, the development of our student musicians is evident. As our s
 	</tbody>
 </table>
 		
-
+<p></p>
 <table style="width:100%">
   <tbody>		
 		<tr>
