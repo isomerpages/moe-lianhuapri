@@ -100,7 +100,6 @@ Through the years, the development of our student musicians is evident. As our s
 </table>
 		
 
-
 <style>
         table {
             width: 100%;
@@ -118,6 +117,7 @@ Through the years, the development of our student musicians is evident. As our s
             display: block;
         }
 </style>
+<p></p>
 <table style="width:100%">
   <tbody>
 			<tr>
