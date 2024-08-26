@@ -42,7 +42,13 @@ Through the years, the development of our student musicians is evident. As our s
 <p></p>
 
 <style>
-       th, td {
+	table {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed; /* Ensures columns have equal width */
+        }
+	
+th, td {
  					width: 25%;
 					}
 </style>
