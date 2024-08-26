@@ -77,7 +77,7 @@ Through the years, the development of our student musicians is evident. As our s
 		</tr>
 		<tr>
 		    <td><img style="width:490px;height:350px;" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
-				<td><img style="width:700px;height:350px;" src="/images/Learning/Music/SYF_2020picture2.JPG"></td>
+				<td><img style="width:700px;height:350px;" src="/images/Learning/Music/SYF_2020picture2.jpg"></td>
   </tr>
 	</tbody>
 </table>
