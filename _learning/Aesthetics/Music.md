@@ -68,7 +68,6 @@ Through the years, the development of our student musicians is evident. As our s
   </tr>
 </tbody>
 </table>
-<br>
 
 <table style="width:100%">
   <tbody>    
@@ -98,7 +97,25 @@ Through the years, the development of our student musicians is evident. As our s
 </table>
 		
 <br>	
-		
+
+
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            width: 50%;
+            padding: 10px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+</style>
 <table style="width:100%">
   <tbody>
 			<tr>
