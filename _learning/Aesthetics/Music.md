@@ -39,8 +39,21 @@ Approach (ECA): Experience, Concept, Application
 The Youth Station Project is a platform dedicated to showcasing students’ original creative work in music. Through this platform, student-musicians are provided with opportunities to further develop their interest and skills in songwriting, composing, music arrangement, production and performing. Student-musicians also benefit from the mentoring provided by professional musicians through exposure to real-life practices and experiences of their mentors.
 
 Through the years, the development of our student musicians is evident. As our students continue to be inspired by their seniors to compose and produce their own songs, their mastery of music has resulted in numerous national awards, which recognise the talent of our students and further affirm their passion and efforts in the area of music.&nbsp;
+<p></p>
 
-<table style="width:100%">
+<style>
+	table {
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: fixed; /* Ensures columns have equal width */
+        }
+	
+th, td {
+ 					width: 25%;
+					}
+</style>
+
+<table>
   <tbody>
 		<tr>
     <th>Year</th>
@@ -56,7 +69,7 @@ Through the years, the development of our student musicians is evident. As our s
   </tr>
 	<tr>
     <td>2022</td>
-    <td>(1) Yet<br>(2) Let's Go Go Go!</td>
+    <td>(1)  Let's Go Go Go!<br>(2) Yet</td>
     <td>Honourable mentions</td>
 		<td>Mr Sim Wee Choon  &amp;<br>Ms Rachel Ong Ying Li</td>
   </tr>
@@ -69,20 +82,60 @@ Through the years, the development of our student musicians is evident. As our s
 </tbody>
 </table>
 
+<p></p>
+
 <table style="width:100%">
-  <tbody>
+  <tbody>    
+		<tr>
+				<td><h5><strong>2020</strong></h5></td>
+		</tr>
 		<tr>
 		    <td><img style="width:490px;height:350px;" src="/images/Learning/Music/Be%20the%20Light%20@%20LHPS%20Recording%20Studio.jpg"></td>
+				<td><img style="width:700px;height:350px;" src="/images/Learning/Music/SYF_2020picture2.jpg"></td>
+  </tr>
+	</tbody>
+</table>
+		
+<p></p>
+<table style="width:100%">
+  <tbody>		
+		<tr>
+				<td><h5><strong>2022</strong></h5></td>
+				<td></td>
+		</tr>
+		<tr>
+    <td>
+			<img style="width:490px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
     <td><img style="width:700px;height:350px;" src="/images/Learning/Music/2%20(2)music.JPG"></td>
-  </tr><tr>
-    <td><img style="width:490px;height:350px;" src="/images/Learning/Music/3%20(1)music.jpg"></td>
-    <td><img style="width:700px;height:350px;" src="/images/Learning/Music/4%20(1)music.JPG"></td>
 	</tr>
 </tbody>
 </table>
 		
+
+<style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            width: 50%;
+            padding: 10px;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+</style>
+<p></p>
 <table style="width:100%">
   <tbody>
+			<tr>
+				<td><h5><strong>2024</strong></h5></td>
+				<td></td>
+		</tr>
 		<tr>
 		    <td><img src="/images/Learning/Music/SYF_YS_Project_2024_1.jpg"></td>
     <td><img src="/images/Learning/Music/SYF_YS_Project_2024_2.jpg"></td>
