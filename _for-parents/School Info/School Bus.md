@@ -27,8 +27,6 @@ variant: markdown
         }
  </style>
 
-
-
 <h1><strong>School Bus Information</strong></h1>
 
 <p><strong>DKJ TRANSPORT SERVICE</strong><br>
