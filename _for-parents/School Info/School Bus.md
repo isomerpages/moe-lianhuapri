@@ -5,11 +5,7 @@ description: ""
 third_nav_title: School Info
 variant: markdown
 ---
-
-
-
-    <title>School Bus Information</title>
-    <style>
+<style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -29,7 +25,7 @@ variant: markdown
         td.center-text {
             text-align: center; /* Center text for specific cells */
         }
-    </style>
+ </style>
 
 
 
@@ -77,6 +73,3 @@ Please contact Ms Christina, School Bus Co-ordinator on School Bus transport mat
 
 <br>
 <img alt="School Bus QR" src="/images/School%20Info/School%20Bus/schbusqr.jpg" style="width:40%">
-
-
-
