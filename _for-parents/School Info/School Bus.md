@@ -5,17 +5,6 @@ description: ""
 third_nav_title: School Info
 variant: markdown
 ---
-<h1><strong>School Bus Information</strong></h1>
-
-<p><strong>DKJ TRANSPORT SERVICE</strong><br>
-Please contact Ms Christina, School Bus Co-ordinator on School Bus transport matters.<br>If you are unable to contact Ms Christina via call, please send her a message via SMS. </p>
-
-<ul class="a">
-  <li>HP: 8898 0216 </li>
-  <li>Email: lianhuapri0512@gmail.com</li>
-</ul>
-
-<p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong></p>
 
     <title>Table Example</title>
     <style>
@@ -39,6 +28,19 @@ Please contact Ms Christina, School Bus Co-ordinator on School Bus transport mat
             text-align: center; /* Center text for specific cells */
         }
     </style>
+
+
+<h1><strong>School Bus Information</strong></h1>
+
+<p><strong>DKJ TRANSPORT SERVICE</strong><br>
+Please contact Ms Christina, School Bus Co-ordinator on School Bus transport matters.<br>If you are unable to contact Ms Christina via call, please send her a message via SMS. </p>
+
+<ul class="a">
+  <li>HP: 8898 0216 </li>
+  <li>Email: lianhuapri0512@gmail.com</li>
+</ul>
+
+<p><strong>Period: 1 Jan 2025 to 31 Dec 2026</strong></p>
 
 
     <table>
