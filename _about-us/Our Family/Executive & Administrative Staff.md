@@ -66,7 +66,7 @@ td {
      <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
   </tr>
 	  <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/.jpg"> Mdm Maheswari D/O Krishnan<br>OSO </td>
+    <td><br><br><br><br><br><br><br><br><br> Mdm Maheswari D/O Krishnan<br>OSO </td>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrTanJuiYong.jpg">Mr Tan Jui Yong<br>OSO </td>
      <td><br></td>
   </tr>
