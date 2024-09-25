@@ -51,9 +51,9 @@ td {
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrRamanathanAlagappan.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/FengYing.jpg"><br>Ms Phuay Feng Ying<br>ICT Associate </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmNurHanimBteHarris.jpg"> Ms Nur Hanim Bte Harris<br>Admin Executive</td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/Shaz.jpeg"> Ms Shazana Binte Shaik Centha Mathar<br>Admin Executive</td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/FengYing.jpg">Ms Phuay Feng Ying<br>ICT Associate </td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsTanJingHer.jpg">Ms Tan Jing Her<br>Admin Executive</td>
+    <td><br><br><br><br><br><br><br><br><br><br><br>Admin Executive</td>
   </tr>
   <tr>
     <td> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsLeeChuiLian.jpg">Ms Lee Chui Lian<br>CSO </td>
@@ -64,6 +64,11 @@ td {
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS10.jpg"> Mdm Muthu Selvi<br>OSO </td>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS11.jpg">Mdm Nianamal D/O O K Naina Mohamed<br>OSO </td>
      <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
+  </tr>
+	  <tr>
+    <td><br><br><br><br><br><br><br><br><br> Mdm Maheswari D/O Krishnan<br>OSO </td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrTanJuiYong.jpg">Mr Tan Jui Yong<br>OSO </td>
+     <td><br></td>
   </tr>
 	</tbody>
 </table>
@@ -79,14 +84,13 @@ td {
 	</thead>
 	<tbody>
   <tr>
-    <td><img src="/images/librarianchua.jpeg">Mrs Eugenia Chua<br>Librarian</td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMohamadAidilBinMohamadSaleh.jpg"> Mr Mohamad Aidil Bin Mohamad Saleh<br>Desktop Engineer</td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsSimBeeHongAbigail.jpg">Ms Sim Bee Hong Abigail<br>Librarian</td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrIkhmal.jpg">Mr Syahirul Ikhmal Bin Shamsuddin <br>Desktop Engineer</td>
 		<td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
   </tr>
    <tr>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMazlanBinAmat.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrNgTeckKweeGeorge.jpg">Mr Ng Teck Kwee George<br>Security Officer</td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmNirmalaDOKKrishnan.jpg">Mdm Nirmala D/O K Krishnan<br>Security Officer</td>
 		</tr>
 	</tbody>
 	</table>
-
