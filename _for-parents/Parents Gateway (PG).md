@@ -18,7 +18,7 @@ description: ""
   <tr>
     <td style="border: 1px solid black; padding: 8px;"><img src="/images/For%20Parents/PG_QR_android.png"></td>
     <td style="border: 1px solid black; padding: 8px;">
-      <img height="50" width="50" alt="Sample Image" src="/images/For%20Parents/PG_QR_ios.png">
+      <img height="50" width="50" src="/images/For%20Parents/PG_QR_ios.png">
     </td>
   </tr>
 </tbody></table>
