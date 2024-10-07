@@ -4,13 +4,6 @@ permalink: /for-parents/forms/
 description: ""
 variant: markdown
 ---
-<table style="border-collapse: collapse; width: 50%;">
-  <tbody><tr>
-    <td style="border: 1px solid black; padding: 8px;">Column 1</td>
-    <td style="border: 1px solid black; padding: 8px;">Column 2</td>
-  </tr>
-</tbody></table>
-
 <h1><strong>Forms</strong></h1>
 
 <h2><strong>Student Admin</strong></h2>
@@ -52,12 +45,19 @@ variant: markdown
 </dl>
 	Eligible students may apply via the following modes:
 	<br>
-	<table border="1">
-  <tbody>
-		<tr>
-			<td>Column 1</td>
-			<td>Column 2</td>
-		</tr>
+	<table style="border-collapse: collapse; width: 100%;">
+  <tbody><tr>
+    <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
+  <li>Link &gt; <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
+  <li>QR Code</li>
+  insert qr code here
+</ul></td>
+    <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
+<ul>
+  <li>To approach General Office.</li>
+  <li>All supporting documents must be submitted together with the application form.</li>
+  </ul></td>
+  </tr>
 </tbody></table>
 	
   <li><strong>Edusave Account: Usage of Funds</strong></li>
