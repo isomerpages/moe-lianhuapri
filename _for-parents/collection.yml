@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Parents Gateway (PG).md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
