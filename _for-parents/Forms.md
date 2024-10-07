@@ -41,7 +41,7 @@ variant: markdown
 	<dl>
   <dt>The eligibility criteria for MOE FAS:</dt>
   <dd>- Gross household Income (GHI) at the time of application does not exceed $3,000 per month; <strong><font color="red"><u>OR</u></font></strong></dd>
-  <dd>- white cold drink</dd>
+  <dd>- Household Per Capita Income (PCI) at the time of application does not exceed $750 per month.</dd>
 </dl>		
   <li><strong>Edusave Account: Usage of Funds</strong></li>
 		<a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds">https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds</a>
