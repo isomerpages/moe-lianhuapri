@@ -45,7 +45,7 @@ variant: markdown
 </dl>
 	Eligible students may apply via the following modes:
 	<br>
-	<table style="border-collapse: collapse; width: 100%;">
+	<table style="border-collapse: collapse; width: 120%;">
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
   <li>Link &gt; <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
