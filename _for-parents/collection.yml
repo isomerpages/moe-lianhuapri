@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Parents Gateway (PG).md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
@@ -19,4 +18,5 @@ collections:
       - Assessment Matters/Assessment Plan 2024.md
       - Assessment Matters/Assessment Guidelines.md
       - Forms.md
+      - Parents Gateway (PG).md
       - Appreciate our Staff.md
