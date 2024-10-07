@@ -43,7 +43,7 @@ variant: markdown
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
   <li>Link &gt; <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
-  <li>QR Code<br><img height="300" width="300" src="/images/Form/E_FAS_Application_Form__QR_Code_.jpg">
+  <li>QR Code<br><img height="300" width="300" src="/images/Forms/E_FAS_Application_Form__QR_Code_.jpg">
 </li>
 </ul></td>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
