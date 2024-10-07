@@ -7,7 +7,7 @@ variant: markdown
 <h1><strong>Forms</strong></h1>
 
 <h2><strong>Student Admin</strong></h2>
-<p><a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang.pdf</a><br><a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL.pdf</a><br><a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway.pdf</a><br><a href="/files/Forms/leave-of-absence-form.pdf" target="_blank">leave-of-absence-form.pdf</a><br><a href="/files/Forms/Request%20for%20Transfer%20In-Admission.pdf" target="_blank">Request for Transfer In-Admission.pdf</a></p>
+<p><a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang</a><br><a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL</a><br><a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway</a><br><a href="/files/Forms/leave-of-absence-form.pdf" target="_blank">leave-of-absence-form</a><br><a href="/files/Forms/Request%20for%20Transfer%20In-Admission.pdf" target="_blank">Request for Transfer In-Admission</a></p>
 
 <h2><strong>2024 Booklists</strong></h2>
 <a href="/files/Forms/2024_P1_Booklist.pdf" target="_blank">2024 P1 Booklist</a><br>
@@ -25,8 +25,7 @@ variant: markdown
 
 
 <h2><strong>Service Providers</strong></h2>
-<a href="/files/Forms/Online%20Consent%20for%20Dental%20Services.pdf" target="_blank">Online Consent for Dental Services.pdf</a><br>   
-<a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School) .pdf</a>      
+<a href="/files/Forms/Online%20Consent%20for%20Dental%20Services.pdf" target="_blank">Online Consent for Dental Services</a><br><a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School)</a>      
 
 
 <h2><strong>Finance</strong></h2>
@@ -41,11 +40,11 @@ variant: markdown
 </dl>
 	Eligible students may apply via the following modes:
 	<br>
-	<table style="border-collapse: collapse; width: 120%;">
+	<table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
   <li>Link &gt; <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
-  <li>QR Code<br><img height="300" width="500" alt="description of image" src="/images/Form/E_FAS_Application_Form__QR_Code_.jpg">
+  <li>QR Code<br><img height="400" width="400" alt="description of image" src="/images/Form/E_FAS_Application_Form__QR_Code_.jpg">
 </li>
 </ul></td>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
