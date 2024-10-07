@@ -37,8 +37,12 @@ variant: markdown
 
 <strong>For Students who are Singapore Citizen</strong>
 <ul>
-  <li><strong>Application for MOE Financial Assistance Scheme (MOE FAS)</strong><br>Eligible SCs may receive financial help on fees and other school expenses. Information on MOE FAS can be found at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>. You may also contact us at 6563 9502 or lianhua_ps@moe.edu.sg if you require additional information or clarifications.</li>
-			
+  <li><strong>Application for MOE Financial Assistance Scheme (MOE FAS)</strong><br>Eligible SCs may receive financial help on fees and other school expenses. Information on MOE FAS can be found at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>. You may also contact us at 6563 9502 or lianhua_ps@moe.edu.sg if you require additional information or clarifications.</li><br>
+	<dl>
+  <dt>The eligibility criteria for MOE FAS:</dt>
+  <dd>- Gross household Income (GHI) at the time of application does not exceed $3,000 per month; <strong><font color="red"><u>OR</u></font></strong></dd>
+  <dd>- white cold drink</dd>
+</dl>		
   <li><strong>Edusave Account: Usage of Funds</strong></li>
 		<a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds">https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds</a>
 </ul>  
