@@ -53,10 +53,11 @@ variant: markdown
 	Eligible students may apply via the following modes:
 	<br>
 	<table border="1">
-  <tbody><tr>
-    <td>Column 1</td>
-    <td>Column 2</td>
-  </tr>
+  <tbody>
+		<tr>
+			<td>Column 1</td>
+			<td>Column 2</td>
+		</tr>
 </tbody></table>
 	
   <li><strong>Edusave Account: Usage of Funds</strong></li>
