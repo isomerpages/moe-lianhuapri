@@ -7,10 +7,9 @@ variant: markdown
 <h1><strong>Forms</strong></h1>
 
 <h2><strong>Student Admin</strong></h2>
-
-<a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang.pdf</a>   
-<a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL.pdf</a>    
-<a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway.pdf</a>    
+<a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang.pdf</a><br>   
+<a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL.pdf</a><br>    
+<a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway.pdf</a><br>    
 <a href="/files/Forms/leave-of-absence-form.pdf" target="_blank">leave-of-absence-form.pdf</a>     
 <a href="/files/Forms/Request%20for%20Transfer%20In-Admission.pdf" target="_blank">Request for Transfer In-Admission.pdf</a>
 
@@ -34,22 +33,22 @@ variant: markdown
 <a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School) .pdf</a>      
 
 
-## Finance
+<h2><strong>Finance</strong></h2>
 
-**For Students who are Singapore Citizens**
+<strong>For Students who are Singapore Citizen</strong>
+<ul>
+  <li> MOE Financial Assistance Scheme</li>
+		<a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+  <li> Edusave Account: Usage of Funds</li>
+		<a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds">https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds</a>
+</ul>  
 
-* MOE Financial Assistance Scheme  <br> 
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+<strong>For All Students</strong>
+<ul>
+  <li>School &amp; Miscellaneous Fees (including application for Interbank GIRO)</li>
+		<a href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a>
+</ul>  
 
-* Edusave Account: Usage of Funds <br> 
-<a href="https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds">https://www.moe.gov.sg/financial-matters/edusave-account/usage-of-edusave-funds</a>
-
-**For All Students**
-
-* School &amp; Miscellaneous Fees (including application for Interbank GIRO)  <br> 
-<a href="https://www.moe.gov.sg/financial-matters/fees">https://www.moe.gov.sg/financial-matters/fees</a>
-
-
-<h2>Absence from School</h2>
+<h2><strong>Absence from School</strong></h2>
 Application for Absence during School Term (only for overseas travel) <br>
 <a href="https://form.gov.sg/65a5cfe2399a250012c27dda">https://form.gov.sg/65a5cfe2399a250012c27dda</a>
