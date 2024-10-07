@@ -31,19 +31,19 @@ variant: markdown
 <h2><strong>Finance</strong></h2>
 <p><strong>For Students who are Singapore Citizen</strong>
 </p><ul>
-  <li><strong>Application for MOE Financial Assistance Scheme (MOE FAS)</strong><br>Eligible SCs may receive financial help on fees and other school expenses. Information on MOE FAS can be found at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>. You may also contact us at 6563 9502 or lianhua_ps@moe.edu.sg if you require additional information or clarifications.</li><br>
+  <li><strong>Application for MOE Financial Assistance Scheme (MOE FAS)</strong><br>Eligible SCs may receive financial help on fees and other school expenses. Information on MOE FAS can be found at <a href="https://www.moe.gov.sg/financial-matters/financial-assistance">https://www.moe.gov.sg/financial-matters/financial-assistance</a>. You may also contact us at 6563 9502 or lianhua_ps@moe.edu.sg if you require additional information or clarifications.</li><p></p>
 	<dl>
   <dt>The eligibility criteria for MOE FAS:</dt>
   <dd>- Gross household Income (GHI) at the time of application does not exceed $3,000 per month; <strong><font color="red"><u>OR</u></font></strong></dd>
   <dd>- Household Per Capita Income (PCI) at the time of application does not exceed $750 per month.</dd>
-</dl><p></p>
+</dl>
 	Eligible students may apply via the following modes:
 	<br>
 	<table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
   <li>Link &gt; <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
-  <li>QR Code<br><img height="400" width="400" alt="description of image" src="/images/Form/E_FAS_Application_Form__QR_Code_.jpg">
+  <li>QR Code<br><img height="300" width="300" src="/images/Form/E_FAS_Application_Form__QR_Code_.jpg">
 </li>
 </ul></td>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
