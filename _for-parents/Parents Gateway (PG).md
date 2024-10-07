@@ -16,9 +16,9 @@ description: ""
     <td style="border: 1px solid black; padding: 8px;"><i><strong>For iOS</strong></i></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;"><img src="/images/For%20Parents/PG_QR_android.png"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width: 180px; height: 180px;" src="/images/For%20Parents/PG_QR_android.png"></td>
     <td style="border: 1px solid black; padding: 8px;">
-      <img height="50" width="50" src="/images/For%20Parents/PG_QR_ios.png">
+      <img style="width: 180px; height: 180px;" src="/images/For%20Parents/PG_QR_ios.png">
     </td>
   </tr>
 </tbody></table>
