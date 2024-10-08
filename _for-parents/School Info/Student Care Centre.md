@@ -12,4 +12,4 @@ Self Help Groups Student Care Limited
 [lianhua@shgstudentcare.com.sg](mailto:sales@pacificbookstores.com)&nbsp;(Email)
 
 <br>
-<img src="/images/School%20Info/Student%20Care%20Centre/studentcareqr.jpg" style="width:60%">
+<img src="/images/School%20Info/Student%20Care%20Centre/2025registrationformforscc.jpg" style="width:30%">

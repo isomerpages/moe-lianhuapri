@@ -67,7 +67,7 @@ Please contact Ms Christina, School Bus Co-ordinator on School Bus transport mat
     </tr>
 </tbody></table>
 
-<p><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc6rq1qWz5-C4Uy9p9UQLvpc9tet699NXFFLM86Hte675x3Zg/viewform?usp=send_form">Application for DKJ School Bus Services (Lianhua Primary School)</a></p>
+<p><a target="_blank" href="https://forms.gle/QrMoTQY5DznvqfCv5">Application for DKJ School Bus Services (Lianhua Primary School) 2025</a></p>
 
 <br>
-<img alt="School Bus QR" src="/images/School%20Info/School%20Bus/schbusqr.jpg" style="width:40%">
+<img alt="School Bus QR" src="/images/School%20Info/School%20Bus/schoolbus2025.jpg" style="width:30%">
