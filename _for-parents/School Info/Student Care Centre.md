@@ -11,5 +11,7 @@ Self Help Groups Student Care Limited
 9023 1486 (Hp)  
 [lianhua@shgstudentcare.com.sg](mailto:sales@pacificbookstores.com)&nbsp;(Email)
 
+<p><a target="_blank" href="https://bigheartstudentcare.com/interest/">Registration for Big Heart Student Care 2025</a></p>
+
 <br>
 <img src="/images/School%20Info/Student%20Care%20Centre/2025registrationformforscc.jpg" style="width:30%">
