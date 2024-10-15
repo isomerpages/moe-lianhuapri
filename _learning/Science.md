@@ -98,3 +98,35 @@ The world is constantly evolving. How do we at Lianhua Primary prepare our stude
 <p style="text-align: justify;"><strong>Science Toys and STEM Challenges</strong><br>
 The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
 
+
+ <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 10px;
+    }
+    img {
+      width: 100%; /* Adjusts the image to fit the table width */
+      max-width: 400px; /* Limits the maximum width of the image */
+      height: auto; /* Maintains the image's aspect ratio */
+    }
+  </style>
+	
+
+<table>
+  <tbody><tr>
+    <td colspan="2">
+      <img alt="Sample Image" src="https://via.placeholder.com/400">
+    </td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td>Row 2, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 3, Cell 1</td>
+    <td>Row 3, Cell 2</td>
+  </tr>
+</tbody></table>
