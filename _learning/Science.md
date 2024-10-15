@@ -29,3 +29,49 @@ To nurture the student as an inquirer
 <br>
 The lessons often take place in our science garden where students, as exemplary leaders,  learn about flora and fauna and nature manners. In the course of the learning, our students’ passion in science is ignited and they are given opportunities to be critical and creative thinkers with the questions they ask and share confidently the discoveries they have made. They also develop their practices of science such as observing, classifying, comparing and communicating when they learn about different animal groups and plants.
 </p>
+
+<p style="text-align: center;"><u>Photographs of students exploring the garden and sharing their learning</u></p>
+<br>
+
+<style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+  </style>
+
+
+
+<table>
+  <tbody><tr>
+    <th>Column 1</th>
+    <th>Column 2</th>
+  </tr>
+  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td>Row 2, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 3, Cell 1</td>
+    <td>Row 3, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 4, Cell 1</td>
+    <td>Row 4, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 5, Cell 1</td>
+    <td>Row 5, Cell 2</td>
+  </tr>
+</tbody></table>
+
+
