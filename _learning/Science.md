@@ -33,45 +33,35 @@ The lessons often take place in our science garden where students, as exemplary 
 <p style="text-align: center;"><u>Photographs of students exploring the garden and sharing their learning</u></p>
 <br>
 
-<style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid black;
-      padding: 8px;
-      text-align: left;
-    }
-  </style>
 
 
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
-    <th>Column 1</th>
-    <th>Column 2</th>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:500px;height:300px;" src="/images/Learning/Science/POTS2024_1.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
   </tr>
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;">
+Students observing a plant with lobed edge</td>
+    <td style="border: 1px solid black; padding: 8px;">
+Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;"><img height="300px" width="500px" src="/images/Learning/Science/POTS2024_3.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img height="300px" width="500px" src="/images/Learning/Science/POTS2024_4.jpg"></td>
   </tr>
   <tr>
-    <td>Row 3, Cell 1</td>
-    <td>Row 3, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;">
+Pocket Gardens by the students</td>
+    <td style="border: 1px solid black; padding: 8px;">Row 3, Cell 2</td>
   </tr>
   <tr>
-    <td>Row 4, Cell 1</td>
-    <td>Row 4, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;">Row 4, Cell 1</td>
+    <td style="border: 1px solid black; padding: 8px;">Row 4, Cell 2</td>
   </tr>
   <tr>
-    <td>Row 5, Cell 1</td>
-    <td>Row 5, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;">Row 5, Cell 1</td>
+    <td style="border: 1px solid black; padding: 8px;">Row 5, Cell 2</td>
   </tr>
 </tbody></table>
-
-
