@@ -54,14 +54,18 @@ Students doing a Show N Tell on Reptiles</td>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
 Pocket Gardens by the students</td>
-    <td style="border: 1px solid black; padding: 8px;">Row 3, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px;">
+Student with her pocket garden</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Row 4, Cell 1</td>
-    <td style="border: 1px solid black; padding: 8px;">Row 4, Cell 2</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">Row 5, Cell 1</td>
-    <td style="border: 1px solid black; padding: 8px;">Row 5, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
+Where do seeds come from?<br>
+Why does a cactus have spikes?<br>
+How do plants come from seeds?<br>
+Do plants die?</i>
+		</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><strong>One of the students asked: <br><img style="width:350px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
+This is also exactly how we support our students’ growth in learning, with love.</strong></i>
+			</td>
   </tr>
 </tbody></table>
