@@ -4,25 +4,25 @@ permalink: /learning/science/
 description: ""
 variant: markdown
 ---
-# **Science**
+<h1><strong>Science</strong></h1>
 
-
-##### **OUR VISION:**  
+<h5><strong>OUR VISION:</strong></h5>
 
 To nurture the student as an inquirer
 
-##### **OUR PEOPLE:**
+<h5><strong>OUR PEOPLE:</strong></h5>
 
 <p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. </p>
 
-<p>Our science teachers act as leaders of inquirers in the science classroom by creating a learning environment that fosters curiosity, creativity, and critical thinking. This approach enables our students to develop important skills and a deeper understanding of scientific concepts. We also incorporate STEM (Science, Technology, Engineering, and Math) mindsets and attributes in science lessons for our students to foster their interest in Science and develop critical thinking and problem-solving skills.</p>
+<p style="text-align: justify;">Our science teachers act as leaders of inquirers in the science classroom by creating a learning environment that fosters curiosity, creativity, and critical thinking. This approach enables our students to develop important skills and a deeper understanding of scientific concepts. We also incorporate STEM (Science, Technology, Engineering, and Math) mindsets and attributes in science lessons for our students to foster their interest in Science and develop critical thinking and problem-solving skills.</p>
 
 
-**SOME OF OUR PROGRAMMES AT A GLANCE:**
-* **POTS (Primary One and Two Science)**
-* **Yes! Programme (Young Exploring Scientists! Programme)**
-* **Science@Home Programme**
-* **Fun With Science**
+<strong>SOME OF OUR PROGRAMMES AT A GLANCE:</strong>
+* <strong>POTS (Primary One and Two Science)</strong>
+* <strong>Yes! Programme (Young Exploring Scientists! Programme)</strong>
+* <strong>Science@Home Programme</strong>
+* <strong>Fun With Science</strong>
+* <strong>Eco-Stewardship@LHPS</strong>
 
 <u><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong></u><br>
 Our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  Children are naturally curious and to provide an environment for our young “seedlings” to grow (our young students), we are the “pots” with the nourishment.
