@@ -68,4 +68,8 @@ Do plants die?</i>
 This is also exactly how we support our students’ growth in learning, with love.</strong></i>
 			</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
+
+<p style="text-align: justify;">In term 4, after a culmination of what they have experienced in P1 and P2 POTS, they take on the role of a field scientist to hone their skills and deepen their understanding.  They continue their exploration and discovery-making beyond the classroom.<br>
+Field Scientists@Work!</p>
