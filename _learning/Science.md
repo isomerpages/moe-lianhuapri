@@ -31,7 +31,6 @@ The lessons often take place in our science garden where students, as exemplary 
 </p>
 
 <p style="text-align: center;"><u>Photographs of students exploring the garden and sharing their learning</u></p>
-<br>
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
