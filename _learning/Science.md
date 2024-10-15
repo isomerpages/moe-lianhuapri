@@ -116,7 +116,8 @@ The use of science toys actively creates learning opportunities for students to 
 	
 
 <table>
-  <tbody><tr>
+  <tbody>
+	<tr>
     <td colspan="2">
       <img alt="Sample Image" src="https://via.placeholder.com/400">
     </td>
@@ -129,4 +130,5 @@ The use of science toys actively creates learning opportunities for students to 
     <td>Row 3, Cell 1</td>
     <td>Row 3, Cell 2</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
