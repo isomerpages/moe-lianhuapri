@@ -88,3 +88,8 @@ Field Scientists@Work!</p>
   </tr>
 	</tbody>
 </table>
+
+<p style="text-align: justify;"><strong><u>YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS</u></strong><br>
+The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?</p>
+
+
