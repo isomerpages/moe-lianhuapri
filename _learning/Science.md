@@ -48,8 +48,8 @@ Students observing a plant with lobed edge</td>
 Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;"><img height="300px" width="500px" src="/images/Learning/Science/POTS2024_3.jpg"></td>
-    <td style="border: 1px solid black; padding: 8px;"><img height="300px" width="500px" src="/images/Learning/Science/POTS2024_4.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg"></td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
