@@ -107,7 +107,7 @@ The use of science toys actively creates learning opportunities for students to 
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
-      max-width: 400px; /* Limits the maximum width of the image */
+      max-width: 800px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
   </style>
