@@ -73,7 +73,7 @@ Field Scientists@Work!</p>
 		<tr>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:450px;height:300px;" src="/images/Learning/Science/Photo_1.jpg"></td>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_2.jpg"></td>
-			<td style="border: 1px solid black; padding: 8px;"><img style="width:550px;height:300px;" src="/images/Learning/Science/Photo_3.jpg"></td>
+			<td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_3.jpg"></td>
   </tr>
 	<tr>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:900px;height:300px;" src="/images/Learning/Science/Photo_4.jpg"></td>
