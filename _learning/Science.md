@@ -147,7 +147,7 @@ In this densely populated country, where land and resources are scarce, hydropon
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
-      max-width: 800px; /* Limits the maximum width of the image */
+      max-width: 400px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
   </style>
@@ -155,17 +155,13 @@ In this densely populated country, where land and resources are scarce, hydropon
 
 <table>
   <tbody>
+  <tr>
+    <td><img src="/images/Learning/Science/P4_indoorhydroponics1.jpg"></td>
+    <td><img src="/images/Learning/Science/P4_indoorhydroponics2.jpg"></td>
+  </tr>
 	<tr>
-    <td colspan="2"><img src="/images/Learning/Science/STEM1.jpg">
+    <td colspan="2"><img src="/images/Learning/Science/P4_indoorhydroponics3.jpg">
     </td>
-  </tr>
-  <tr>
-    <td><img src="/images/Learning/Science/STEM2.jpg"></td>
-    <td><img src="/images/Learning/Science/STEM3.jpg"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/Learning/Science/STEM4.jpg"></td>
-    <td><img src="/images/Learning/Science/STEM5.jpg"></td>
   </tr>
 </tbody>
 </table>
