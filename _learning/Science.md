@@ -35,19 +35,21 @@ The lessons often take place in our science garden where students, as exemplary 
 <table style="border-collapse: collapse; width: 80%;">
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg"></td>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Students observing a plant with lobed edge</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg"></td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">Pocket Gardens by the students</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Student with her pocket garden</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Student with her pocket 	One of the students asked:
+
+This student wondered and felt that love was needed by the plants garden</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
@@ -56,7 +58,7 @@ Why does a cactus have spikes?<br>
 How do plants come from seeds?<br>
 Do plants die?</i>
 		</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><strong>One of the students asked: <br><img style="width:350px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><strong>One of the students asked: <br><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
 This is also exactly how we support our students’ growth in learning, with love.</strong></i>
 			</td>
   </tr>
