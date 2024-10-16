@@ -176,7 +176,7 @@ Equipped with the experience from Indoor Hydroponics, our Primary 5 Science Stew
   </tr>
   <tr>
     <td><img src="/images/Learning/Science/P5_Gardening2.jpg"></td>
-    <td><img src="/images/Learning/Science/P5_Gardening3.jpg"></td>
+    <td><img style="width:300px;height:400px;" src="/images/Learning/Science/P5_Gardening3.jpg"></td>
   </tr>
 </tbody>
 </table>
