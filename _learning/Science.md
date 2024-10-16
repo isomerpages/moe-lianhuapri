@@ -38,20 +38,16 @@ The lessons often take place in our science garden where students, as exemplary 
     <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-Students observing a plant with lobed edge</td>
-    <td style="border: 1px solid black; padding: 8px;">
-Students doing a Show N Tell on Reptiles</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Students observing a plant with lobed edge</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg"></td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">
-Pocket Gardens by the students</td>
-    <td style="border: 1px solid black; padding: 8px;">
-Student with her pocket garden</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Pocket Gardens by the students</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Student with her pocket garden</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px; text-align: center;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
