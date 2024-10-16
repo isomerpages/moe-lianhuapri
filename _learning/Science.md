@@ -107,7 +107,7 @@ The use of science toys actively creates learning opportunities for students to 
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
-      max-width: 800px; /* Limits the maximum width of the image */
+      max-width: 1000px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
   </style>
@@ -116,11 +116,11 @@ The use of science toys actively creates learning opportunities for students to 
 <table>
   <tbody>
 	<tr>
-    <td colspan="2"><img src="/images/Learning/Science/STEM1.jpg">
+    <td colspan="2"><img style="width:600px;height:200px;" src="/images/Learning/Science/STEM1.jpg">
     </td>
   </tr>
   <tr>
-    <td><img src="/images/Learning/Science/STEM2.jpg"></td>
+    <td><img style="width:350px;height:500px;" src="/images/Learning/Science/STEM2.jpg"></td>
     <td><img src="/images/Learning/Science/STEM3.jpg"></td>
   </tr>
   <tr>
