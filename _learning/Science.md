@@ -129,3 +129,10 @@ The use of science toys actively creates learning opportunities for students to 
   </tr>
 </tbody>
 </table>
+
+
+<p><strong>Level-based Programmes</strong><br>
+For learning to take place effectively, there must be hands-on, active participation. The level-based programmes in YES! empower students to take greater responsibility in their learning as they participate in activities that are aligned with the curriculum.</p>
+
+<p><u>P4 – Indoor Hydroponics</u><br>
+In this densely populated country, where land and resources are scarce, hydroponics could just be a solution to Singapore’s food supply vulnerabilities. Our P4 students had the opportunity to experience the future of farming in their classrooms! They germinated seeds, transplanted them and cared for them. After weeks of dedication and care, they harvested and were rewarded with fruits of their labour.</p>
