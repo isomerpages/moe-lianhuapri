@@ -32,7 +32,7 @@ The lessons often take place in our science garden where students, as exemplary 
 
 <p style="text-align: center;"><u>Photographs of students exploring the garden and sharing their learning</u></p>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg"></td>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
