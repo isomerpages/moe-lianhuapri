@@ -71,18 +71,18 @@ Field Scientists@Work!</p>
 <table style="border-collapse: collapse; width: 80%;">
   <tbody>
 		<tr>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:450px;height:300px;" src="/images/Learning/Science/Photo_1.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:400px;height:300px;" src="/images/Learning/Science/Photo_1.jpg"></td>
     <td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_2.jpg"></td>
 			<td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_3.jpg"></td>
   </tr>
 	<tr>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:900px;height:300px;" src="/images/Learning/Science/Photo_4.jpg"></td>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:550px;height:300px;" src="/images/Learning/Science/Photo_5.jpg"></td>
-			<td style="border: 1px solid black; padding: 8px;"><img style="width:550px;height:300px;" src="/images/Learning/Science/Photo_6.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:400px;height:300px;" src="/images/Learning/Science/Photo_4.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_5.jpg"></td>
+			<td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_6.jpg"></td>
   </tr>	
 		<tr>
-    <td colspan="2" style="border: 1px solid black; padding: 8px;"><img style="width:200px;height:300px;" src="/images/Learning/Science/Photo_7.jpg"></td>
-    <td style="border: 1px solid black; padding: 8px;"><img style="width:550px;height:300px;" src="/images/Learning/Science/Photo_8.jpg"></td>
+    <td colspan="2" style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_7.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px;"><img style="width:250px;height:300px;" src="/images/Learning/Science/Photo_8.jpg"></td>
   </tr>
 	</tbody>
 </table>
