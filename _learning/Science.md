@@ -186,8 +186,8 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 <table>
   <tbody>
   <tr>
-    <td><img style="width:280px;height:350px;" src="/images/Learning/Science/P6_Compost1.jpg"></td>
-    <td><img style="width:280px;height:350px;" src="/images/Learning/Science/P6_Compost2.jpg"></td>
+    <td><img style="width:250px;height:300px" src="/images/Learning/Science/P6_Compost1.jpg"></td>
+    <td><img style="width:250px;height:300px" src="/images/Learning/Science/P6_Compost2.jpg"></td>
   </tr>
 </tbody>
 </table>
