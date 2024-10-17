@@ -182,3 +182,14 @@ Equipped with the experience from Indoor Hydroponics, our Primary 5 Science Stew
 
 <p style="text-align: justify;"><u>P6 – Composting</u><br>
 Our Primary 6 students showed how sustainability could be achieved even within the small compound of our very own school. Science Stewards from various P6 classes had their first-hand experience in amassing compost. The compost was later used to fertilise the soil for plants to thrive in the school. Food waste such as banana skins were broken down by the African Night Crawlers in the soil to produce compost.</p>
+
+<table>
+  <tbody>
+  
+  <tr>
+    <td><img src="/images/Learning/Science/P6_Compost1.jpg"></td>
+    <td><img src="/images/Learning/Science/P6_Compost2.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
