@@ -185,10 +185,9 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 
 <table>
   <tbody>
-  
   <tr>
-    <td><img src="/images/Learning/Science/P6_Compost1.jpg"></td>
-    <td><img src="/images/Learning/Science/P6_Compost2.jpg"></td>
+    <td><img style="width:280px;height:350px;" src="/images/Learning/Science/P6_Compost1.jpg"></td>
+    <td><img style="width:280px;height:350px;" src="/images/Learning/Science/P6_Compost2.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -200,3 +199,5 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 <p>Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.</p>
 
 <p>These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels.</p>
+
+<p></p>
