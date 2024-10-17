@@ -207,3 +207,5 @@ One of the things that makes learning Science really fun is the opportunity to e
 <p>To this purpose, each P3-P6 pupil was provided with a Science Kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow students to explore the topic in greater detail and to be able to experiment in science lessons as well as at home. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.</p>
 
 <img style="width:250px;height:300px;" src="/images/Learning/Science/SCIENCE_HOME_PROGRAMME.jpg">
+
+
