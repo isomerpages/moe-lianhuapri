@@ -234,17 +234,24 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
 </ul>
+
 <p>The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
+
 <ul>
   <li><strong>Primary 4: Water Conservation</strong></li>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_2.jpg">
-	<p>The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
+</ul>
+
+<p>The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
+
+<ul>
   <li><strong>Primary 5: Energy Efficiency</strong></li>
 	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_1.jpg"><br>
 	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_2.jpg">
-	<p>The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
 </ul>
 
+<p>The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
+	
 <p><strong>Green School Activities: Leading by Example</strong><br>
 Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
