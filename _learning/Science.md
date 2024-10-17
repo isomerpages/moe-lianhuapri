@@ -233,7 +233,9 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
   <li><strong>Primary 3: Zero Food Waste</strong></li>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
-	<p>The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
+</ul>
+<p>The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
+<ul>
   <li><strong>Primary 4: Water Conservation</strong></li>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_2.jpg">
