@@ -97,7 +97,7 @@ The world is constantly evolving. How do we at Lianhua Primary prepare our stude
 The use of science toys actively creates learning opportunities for students to experiment and extend their learning beyond the classroom. More often than not, students do not successfully complete the creation of the science toys within the first try. This is the same for STEM challenges where students design their own prototypes and test out the suitability of the designs in fulfilling the challenge requirements. The process of creating and testing, then refining, is a long and tedious one, but students are encouraged by their teachers and spurred on by the successes of their peers to persevere until they do succeed. This is part of the STEM mindset. In STEM, mistakes and failed attempts are viewed as positive experiences, offering opportunities for deeper learning and questioning that will lead to eventual success. It also encourages resilience, which is a core value of our school.</p>
 
 
- <style>
+<style>
     table {
       width: 100%;
       border-collapse: collapse;
@@ -110,22 +110,21 @@ The use of science toys actively creates learning opportunities for students to 
       max-width: 1000px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
-  </style>
+ </style>
 	
-
 <table>
   <tbody>
 	<tr>
-    <td colspan="2"><img style="width:600px;height:200px;" src="/images/Learning/Science/STEM1.jpg">
+    <td colspan="2"><img style="width:650px;height:200px;" src="/images/Learning/Science/STEM1.jpg">
     </td>
   </tr>
   <tr>
-    <td><img style="width:350px;height:500px;" src="/images/Learning/Science/STEM2.jpg"></td>
-    <td><img src="/images/Learning/Science/STEM3.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM2.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM3.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/Learning/Science/STEM4.jpg"></td>
-    <td><img src="/images/Learning/Science/STEM5.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM4.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM5.jpg"></td>
   </tr>
 </tbody>
 </table>
