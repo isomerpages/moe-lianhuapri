@@ -222,3 +222,9 @@ The Fun With Science programme is specially designed to spark a passion for lear
   </tr>
 </tbody>
 </table>
+
+
+<p><strong><u>ECO-STEWARDSHIP@LHPS</u></strong></p>
+
+<p>Building Eco-Leaders: Our School’s Sustainability Journey<br>
+At LHPS, we believe in fostering environmental stewardship from a young age. Through a dynamic and hands-on approach, students from Primary 3 to Primary 6 are deeply involved in programs that emphasize sustainability, innovation, and community awareness.</p>
