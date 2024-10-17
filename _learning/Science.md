@@ -242,5 +242,6 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_1.jpg"><br>
 	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_2.jpg">
 	<p>The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
-	
+<p><strong>Green School Activities: Leading by Example</strong><br>
+Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
 </ul>
