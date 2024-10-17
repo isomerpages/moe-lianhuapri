@@ -35,8 +35,8 @@ The lessons often take place in our science garden where students, as exemplary 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
 		<tr>
-    <td style="text-align: center; padding: 8px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg"><br><br>Students observing a plant with lobed edge</td>
-    <td style="text-align: center; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_2.jpg">Students doing a Show N Tell on Reptiles</td>
+    <td style="text-align: center; padding: 8px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg">Students observing a plant with lobed edge</td>
+    <td style="text-align: center; padding: 8px;"><img style="width:200px;height:250px;" src="/images/Learning/Science/POTS2024_2.jpg">Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
     <td style="text-align: center; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg">Pocket Gardens by the students</td>
