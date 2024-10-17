@@ -208,4 +208,17 @@ One of the things that makes learning Science really fun is the opportunity to e
 
 <img style="width:250px;height:300px;" src="/images/Learning/Science/SCIENCE_HOME_PROGRAMME.jpg">
 
+<p><strong><u>FUN WITH SCIENCE (Primary Four and Five High-Ability Learners)</u></strong><br>
+The Fun With Science programme is specially designed to spark a passion for learning and develop critical and creative thinking skills in high-ability students. Through exciting, hands-on science activities, students are encouraged to explore and solve challenging problems, applying both their analytical abilities and creativity.</p>
 
+
+<p>This programme aims to nurture curiosity, inspiring students to dive deeper into scientific concepts. By conducting their own experiments, they not only strengthen their understanding of science but also learn valuable skills like designing investigations, analysing data, and presenting their findings. Fun With Science offers an enriching experience that goes beyond the classroom, fostering a lifelong love for scientific discovery.</p>
+
+<table>
+  <tbody>
+  <tr>
+    <td><img style="width:250px;height:300px" src="/images/Learning/Science/P6_Compost1.jpg">this one need to replace</td>
+    <td><img style="width:250px;height:300px" src="/images/Learning/Science/P6_Compost2.jpg">this one also need to replace</td>
+  </tr>
+</tbody>
+</table>
