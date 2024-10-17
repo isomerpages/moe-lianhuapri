@@ -208,11 +208,11 @@ One of the things that makes learning Science really fun is the opportunity to e
 
 <img style="width:250px;height:300px;" src="/images/Learning/Science/SCIENCE_HOME_PROGRAMME.jpg">
 
-<p><strong><u>FUN WITH SCIENCE (Primary Four and Five High-Ability Learners)</u></strong><br>
+<p style="text-align: justify;"><strong><u>FUN WITH SCIENCE (Primary Four and Five High-Ability Learners)</u></strong><br>
 The Fun With Science programme is specially designed to spark a passion for learning and develop critical and creative thinking skills in high-ability students. Through exciting, hands-on science activities, students are encouraged to explore and solve challenging problems, applying both their analytical abilities and creativity.</p>
 
 
-<p>This programme aims to nurture curiosity, inspiring students to dive deeper into scientific concepts. By conducting their own experiments, they not only strengthen their understanding of science but also learn valuable skills like designing investigations, analysing data, and presenting their findings. Fun With Science offers an enriching experience that goes beyond the classroom, fostering a lifelong love for scientific discovery.</p>
+<p style="text-align: justify;">This programme aims to nurture curiosity, inspiring students to dive deeper into scientific concepts. By conducting their own experiments, they not only strengthen their understanding of science but also learn valuable skills like designing investigations, analysing data, and presenting their findings. Fun With Science offers an enriching experience that goes beyond the classroom, fostering a lifelong love for scientific discovery.</p>
 
 <table>
   <tbody>
@@ -226,7 +226,7 @@ The Fun With Science programme is specially designed to spark a passion for lear
 
 <p><strong><u>ECO-STEWARDSHIP@LHPS</u></strong></p>
 
-<p>Building Eco-Leaders: Our School’s Sustainability Journey<br>
+<p style="text-align: justify;"><strong>Building Eco-Leaders: Our School’s Sustainability Journey</strong><br>
 At LHPS, we believe in fostering environmental stewardship from a young age. Through a dynamic and hands-on approach, students from Primary 3 to Primary 6 are deeply involved in programs that emphasize sustainability, innovation, and community awareness.</p>
 
 <p><strong>Innovation Week: Empowering Young Innovators</strong><br>
@@ -240,6 +240,7 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
   <li><strong>Primary 3: Zero Food Waste</strong></li>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
+	<p>The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
