@@ -193,3 +193,10 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 </tbody>
 </table>
 
+
+<p><strong>Science Stewards</strong><br>
+‘One is never too small to make a difference’.</p>
+
+<p>Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.</p>
+
+<p>These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels.</p>
