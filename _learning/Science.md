@@ -228,3 +228,18 @@ The Fun With Science programme is specially designed to spark a passion for lear
 
 <p>Building Eco-Leaders: Our School’s Sustainability Journey<br>
 At LHPS, we believe in fostering environmental stewardship from a young age. Through a dynamic and hands-on approach, students from Primary 3 to Primary 6 are deeply involved in programs that emphasize sustainability, innovation, and community awareness.</p>
+
+<p><strong>Innovation Week: Empowering Young Innovators</strong><br>
+Our Primary 3 to Primary 5 students take part in Innovation Week, where the theme centers on sustainability. Each level tackles a unique environmental challenge.</p>
+
+<p>Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
+
+<p>Through these activities, students not only grow as Exemplary Leaders but also as Critical &amp; Creative Thinkers.</p>
+
+<ul>
+  <li><strong>Primary 3: Zero Food Waste</strong></li>
+	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_1.jpg"><br>
+	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
