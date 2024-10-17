@@ -237,5 +237,8 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
   <li><strong>Primary 4: Water Conservation</strong></li>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_1.jpg"><br>
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_2.jpg">
-  <li>Milk</li>
+	<p>The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
+  <li><strong>Primary 5: Energy Efficiency</strong></li>
+	<img style="width:350px;height:450px" src="/images/Learning/Science/P5_1.jpg"><br>
+	<img style="width:350px;height:450px" src="/images/Learning/Science/P5_2.jpg">
 </ul>
