@@ -243,7 +243,7 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_2.jpg">
 </ul>
 
-<p>The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
+<p style="text-align: justify;">The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
 
 <ul>
   <li><strong>Primary 5: Energy Efficiency</strong></li>
@@ -267,3 +267,4 @@ Our Primary 6 students actively participate in Green School Activities aimed at 
 
 <p style="text-align: justify;"><strong>Promoting a Cleaner School Environment</strong><br>
 We are also introducing initiatives such as the Classroom Cleanliness Audits and Canteen Cleanliness Campaigns, encouraging every student to take ownership of their learning spaces. </p>
+
