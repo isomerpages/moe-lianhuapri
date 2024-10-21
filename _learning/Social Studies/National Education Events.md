@@ -9,23 +9,24 @@ variant: markdown
 
 <h4><strong>National Education</strong></h4>
 
-<p>National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.<br>
+<p style="text-align: justify;">National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.<br>
 
 NE in CCE aims to be empowering and aspirational, allowing for individual sense-making so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional and global issues.
 National Education comprises four core annual events which are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. </p>
 
 
-#### **National Education (NE) Commemorative Days**
 
-<u>Total Defence Day</u><br>
-Total Defence Day holds a special place in the hearts of students and teachers at Lianhua Primary School as they come together annually to commemorate this significant event. At Lianhua Primary School, the annual Total Defence Day commemoration is a time for reflection and education, instilling in students a sense of national pride and resilience. Recognising the importance of building resilience and preparedness, the school engages in a variety of activities that instill a sense of unity, responsibility, and preparedness among students. The school ensures that the lessons of Total Defence resonate with students, preparing them to be active and responsible citizens of Singapore. By fostering an understanding of Total Defence, the school contributes to shaping responsible and informed citizens who are ready to face the challenges of an ever-changing world.
+<h4><strong>National Education (NE) Commemorative Days</strong></h4>
+
+<p style="text-align: justify;"><u>Total Defence Day</u><br>
+Total Defence Day holds a special place in the hearts of students and teachers at Lianhua Primary School as they come together annually to commemorate this significant event. At Lianhua Primary School, the annual Total Defence Day commemoration is a time for reflection and education, instilling in students a sense of national pride and resilience. Recognising the importance of building resilience and preparedness, the school engages in a variety of activities that instill a sense of unity, responsibility, and preparedness among students. The school ensures that the lessons of Total Defence resonate with students, preparing them to be active and responsible citizens of Singapore. By fostering an understanding of Total Defence, the school contributes to shaping responsible and informed citizens who are ready to face the challenges of an ever-changing world.</p>
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6rxQ6pRk4WnrYzc-QNrwANa4O4dkvtZwJDaPJ99iNsa-4E4IJ4RrkyYsk-lWr-gD0mxW8YJlCmchQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
-<br><u>International Friendship Day</u><br>
-International Friendship Day is a joyous occasion at Lianhua Primary School, where students and teachers come together to celebrate the spirit of camaraderie, unity, and global understanding. This annual event goes beyond the confines of the classroom, encouraging students to embrace the values of friendship and appreciation for diverse cultures from around the world. Through cultural exchange, shared experiences, and collaborative activities, the event reinforces the importance of friendship in breaking down barriers and fostering a sense of unity that transcends borders. The celebration leaves a lasting impression on students, instilling in them the values of empathy, cooperation, and a lifelong appreciation for the beauty of cultural diversity.
+<p style="text-align: justify;"><br><u>International Friendship Day</u><br>
+International Friendship Day is a joyous occasion at Lianhua Primary School, where students and teachers come together to celebrate the spirit of camaraderie, unity, and global understanding. This annual event goes beyond the confines of the classroom, encouraging students to embrace the values of friendship and appreciation for diverse cultures from around the world. Through cultural exchange, shared experiences, and collaborative activities, the event reinforces the importance of friendship in breaking down barriers and fostering a sense of unity that transcends borders. The celebration leaves a lasting impression on students, instilling in them the values of empathy, cooperation, and a lifelong appreciation for the beauty of cultural diversity.</p>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS51HkDj3GH3rSnxJa8WkzqMXBeiJ39hvxO2apbhuJ_QemUkmROft8F-xWy2iIttttKFR1gDA5BKQt1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
