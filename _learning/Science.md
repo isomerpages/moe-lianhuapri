@@ -210,8 +210,8 @@ The Fun With Science programme is specially designed to spark a passion for lear
 <table>
   <tbody>
   <tr>
-    <td><img style="width:250px;height:450px" src="/images/Learning/Science/funwithsci1.jpg"></td>
-    <td><img style="width:650px;height:300px" src="/images/Learning/Science/funwithsci2.png"></td>
+    <td><img style="width:230px;height:300px" src="/images/Learning/Science/funwithsci1.jpg"></td>
+    <td><img style="width:700px;height:300px" src="/images/Learning/Science/funwithsci2.png"></td>
   </tr>
 </tbody>
 </table>
