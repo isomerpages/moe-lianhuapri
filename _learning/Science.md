@@ -96,7 +96,7 @@ The use of science toys actively creates learning opportunities for students to 
       border-collapse: collapse;
     }
     td {
-      padding: 10px;
+      padding: 4px;
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
@@ -135,7 +135,7 @@ In this densely populated country, where land and resources are scarce, hydropon
       border-collapse: collapse;
     }
     td {
-      padding: 10px;
+      padding: 4px;
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
