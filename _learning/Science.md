@@ -35,28 +35,29 @@ The lessons often take place in our science garden where students, as exemplary 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody>
 		<tr>
-    <td style="text-align: center; padding: 8px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg">Students observing a plant with lobed edge</td>
-    <td style="text-align: center; padding: 8px;"><img style="width:200px;height:250px;" src="/images/Learning/Science/POTS2024_2.jpg">Students doing a Show N Tell on Reptiles</td>
+    <td style="text-align: center; padding: 4px;"><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_1.jpg">Students observing a plant with lobed edge</td>
+    <td style="text-align: center; padding: 4px;"><img style="width:200px;height:250px;" src="/images/Learning/Science/POTS2024_2.jpg">Students doing a Show N Tell on Reptiles</td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg">Pocket Gardens by the students</td>
-    <td style="text-align: center; padding: 8px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
+    <td style="text-align: center; padding: 4px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg">Pocket Gardens by the students</td>
+    <td style="text-align: center; padding: 4px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
 Student with her pocket garden</td>
   </tr>
 
   <tr>
-    <td style="text-align: center; padding: 8px;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
+    <td style="text-align: center; padding: 4px;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
 Where do seeds come from?<br>
 Why does a cactus have spikes?<br>
 How do plants come from seeds?<br>
 Do plants die?</i>
 		</td>
-    <td style="text-align: center; padding: 8px;"><i><strong>One of the students asked: <br><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
+    <td style="text-align: center; padding: 4px;"><i><strong>One of the students asked: <br><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
 This is also exactly how we support our students’ growth in learning, with love.</strong></i>
 			</td>
   </tr>
 </tbody>
 </table>
+<br>
 
 <p style="text-align: justify;">In term 4, after a culmination of what they have experienced in P1 and P2 POTS, they take on the role of a field scientist to hone their skills and deepen their understanding.  They continue their exploration and discovery-making beyond the classroom.<br>
 Field Scientists@Work!</p>
