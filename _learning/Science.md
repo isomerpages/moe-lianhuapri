@@ -271,7 +271,7 @@ We are also introducing initiatives such as the Classroom Cleanliness Audits and
 <table>
   <tbody>
   <tr>
-    <td><img style="width:200px;height:300px" src="/images/Learning/Science/canteencleaning1.jpg"></td>
+    <td><img style="width:230px;height:300px" src="/images/Learning/Science/canteencleaning1.jpg"></td>
     <td><img style="width:650px;height:300px" src="/images/Learning/Science/canteencleaning2.jpg"></td>
   </tr>
 </tbody>
