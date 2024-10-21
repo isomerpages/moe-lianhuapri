@@ -255,3 +255,13 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	
 <p><strong>Green School Activities: Leading by Example</strong><br>
 Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
+
+<ul>
+  <li>Litter-free Environment initiatives</li>
+	<li>Dengue Prevention awareness</li>
+	<li>3Rs (Reduce, Reuse, Recycle) programs</li>
+	<li>Energy Efficiency &amp; Conservation</li>
+</ul>
+
+<p>By carrying out awareness campaigns within the school, these students serve as Confident Communicators, educating their schoolmates on eco-friendly practices. Their leadership helps drive a culture of responsibility and environmental consciousness throughout the school.</p>
+
