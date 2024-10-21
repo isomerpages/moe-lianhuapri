@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Social Studies
 variant: markdown
 ---
-# **National Education Events**
+<h1><strong>National Education Events</strong></h1>
 
-#### **National Education**
-National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.
+<h4><strong>National Education</strong></h4>
+
+<p>National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.<br>
 
 NE in CCE aims to be empowering and aspirational, allowing for individual sense-making so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional and global issues.
-National Education comprises four core annual events which are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. 
+National Education comprises four core annual events which are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. </p>
 
 
 #### **National Education (NE) Commemorative Days**
