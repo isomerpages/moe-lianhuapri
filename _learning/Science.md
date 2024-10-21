@@ -276,3 +276,5 @@ We are also introducing initiatives such as the Classroom Cleanliness Audits and
   </tr>
 </tbody>
 </table>
+
+<p style="text-align: justify;">These programmes not only teach responsibility but also help instill a lifelong habit of cleanliness and care for the environment.</p>
