@@ -20,7 +20,7 @@ National Education comprises four core annual events which are Total Defence Day
 Total Defence Day holds a special place in the hearts of students and teachers at Lianhua Primary School as they come together annually to commemorate this significant event. At Lianhua Primary School, the annual Total Defence Day commemoration is a time for reflection and education, instilling in students a sense of national pride and resilience. Recognising the importance of building resilience and preparedness, the school engages in a variety of activities that instill a sense of unity, responsibility, and preparedness among students. The school ensures that the lessons of Total Defence resonate with students, preparing them to be active and responsible citizens of Singapore. By fostering an understanding of Total Defence, the school contributes to shaping responsible and informed citizens who are ready to face the challenges of an ever-changing world.
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_AqaHLp9EamGkiMmF1mbRKZWIIuUJ2LxIjRzBq2t_mVJN7yB1MxvOLgrKx9krveg7lr9uxI_KCtb8/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6rxQ6pRk4WnrYzc-QNrwANa4O4dkvtZwJDaPJ99iNsa-4E4IJ4RrkyYsk-lWr-gD0mxW8YJlCmchQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
 <br><u>International Friendship Day</u><br>
