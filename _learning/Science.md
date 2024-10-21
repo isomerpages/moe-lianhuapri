@@ -222,12 +222,12 @@ The Fun With Science programme is specially designed to spark a passion for lear
 <p style="text-align: justify;"><strong>Building Eco-Leaders: Our School’s Sustainability Journey</strong><br>
 At LHPS, we believe in fostering environmental stewardship from a young age. Through a dynamic and hands-on approach, students from Primary 3 to Primary 6 are deeply involved in programs that emphasize sustainability, innovation, and community awareness.</p>
 
-<p><strong>Innovation Week: Empowering Young Innovators</strong><br>
+<p style="text-align: justify;"><strong>Innovation Week: Empowering Young Innovators</strong><br>
 Our Primary 3 to Primary 5 students take part in Innovation Week, where the theme centers on sustainability. Each level tackles a unique environmental challenge.</p>
 
-<p>Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
+<p style="text-align: justify;">Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
 
-<p>Through these activities, students not only grow as Exemplary Leaders but also as Critical &amp; Creative Thinkers.</p>
+<p style="text-align: justify;">Through these activities, students not only grow as Exemplary Leaders but also as Critical &amp; Creative Thinkers.</p>
 
 <ul>
   <li><strong>Primary 3: Zero Food Waste</strong></li>
@@ -235,7 +235,7 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
 </ul>
 
-<p>The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
+<p style="text-align: justify;">The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
 
 <ul>
   <li><strong>Primary 4: Water Conservation</strong></li>
@@ -251,9 +251,9 @@ Our Primary 3 to Primary 5 students take part in Innovation Week, where the them
 	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_2.jpg">
 </ul>
 
-<p>The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
+<p style="text-align: justify;">The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
 	
-<p><strong>Green School Activities: Leading by Example</strong><br>
+<p style="text-align: justify;"><strong>Green School Activities: Leading by Example</strong><br>
 Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
 
 <ul>
@@ -263,5 +263,7 @@ Our Primary 6 students actively participate in Green School Activities aimed at 
 	<li>Energy Efficiency &amp; Conservation</li>
 </ul>
 
-<p>By carrying out awareness campaigns within the school, these students serve as Confident Communicators, educating their schoolmates on eco-friendly practices. Their leadership helps drive a culture of responsibility and environmental consciousness throughout the school.</p>
+<p style="text-align: justify;">By carrying out awareness campaigns within the school, these students serve as Confident Communicators, educating their schoolmates on eco-friendly practices. Their leadership helps drive a culture of responsibility and environmental consciousness throughout the school.</p>
 
+<p style="text-align: justify;"><strong>Promoting a Cleaner School Environment</strong><br>
+We are also introducing initiatives such as the Classroom Cleanliness Audits and Canteen Cleanliness Campaigns, encouraging every student to take ownership of their learning spaces. </p>
