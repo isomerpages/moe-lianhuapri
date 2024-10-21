@@ -22,13 +22,13 @@ National Education comprises four core annual events which are Total Defence Day
 Total Defence Day holds a special place in the hearts of students and teachers at Lianhua Primary School as they come together annually to commemorate this significant event. At Lianhua Primary School, the annual Total Defence Day commemoration is a time for reflection and education, instilling in students a sense of national pride and resilience. Recognising the importance of building resilience and preparedness, the school engages in a variety of activities that instill a sense of unity, responsibility, and preparedness among students. The school ensures that the lessons of Total Defence resonate with students, preparing them to be active and responsible citizens of Singapore. By fostering an understanding of Total Defence, the school contributes to shaping responsible and informed citizens who are ready to face the challenges of an ever-changing world.</p>
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6rxQ6pRk4WnrYzc-QNrwANa4O4dkvtZwJDaPJ99iNsa-4E4IJ4RrkyYsk-lWr-gD0mxW8YJlCmchQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6rxQ6pRk4WnrYzc-QNrwANa4O4dkvtZwJDaPJ99iNsa-4E4IJ4RrkyYsk-lWr-gD0mxW8YJlCmchQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
 <p style="text-align: justify;"><br><u>International Friendship Day</u><br>
 International Friendship Day is a joyous occasion at Lianhua Primary School, where students and teachers come together to celebrate the spirit of camaraderie, unity, and global understanding. This annual event goes beyond the confines of the classroom, encouraging students to embrace the values of friendship and appreciation for diverse cultures from around the world. Through cultural exchange, shared experiences, and collaborative activities, the event reinforces the importance of friendship in breaking down barriers and fostering a sense of unity that transcends borders. The celebration leaves a lasting impression on students, instilling in them the values of empathy, cooperation, and a lifelong appreciation for the beauty of cultural diversity.</p>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS51HkDj3GH3rSnxJa8WkzqMXBeiJ39hvxO2apbhuJ_QemUkmROft8F-xWy2iIttttKFR1gDA5BKQt1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSh6N8lp0ShUKtiMwmz9Dv15kUIN-p8-YZV7Cp-UZdRMSOBJ7ygTB2IcjFbEmYq2aO7vUzLUBtWf2B9/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
 <br><u>Racial Harmony Day</u><br>
