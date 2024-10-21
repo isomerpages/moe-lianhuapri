@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Social Studies
 variant: markdown
 ---
-# **Social Studies**
+<h1><strong>Social Studies</strong></h1>
+<h2><strong>Social Studies in Lianhua Primary School</strong></h2>
 
-## **Social Studies in Lianhua Primary School**
 
 The 2020 Social Studies curriculum seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions Social Studies students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
 
@@ -23,12 +23,40 @@ In Lianhua, the Social Studies curriculum envisions students to have joy in lear
 | -------- | -------- | 
 | | |
 
-#### **Learning Journeys**
+<h4><strong>Learning Journeys</strong></h4>
 
-<p>The Learning Journeys initiative, which is an annual programme in Lianhua Primary School aims to support and complement the Social Studies curriculum. It allows the students to contextualise their learning experience in an authentic real-world setting, thus enabling the learning of concepts and content. Through this platform, it aims to motivate and sustain the students’ interest in the subject matter as they would learn to explore, construct new knowledge and make connections to the topic being studied.</p> 
+<p style="text-align: justify;"><strong>Museum Based Cohort Learning Journeys</strong><br>The Museum-Based Cohort Learning Journeys at Lianhua Primary School are an integral part of the annual Social Studies curriculum. This program is designed to enhance and support students' learning by providing them with authentic, real-world experiences that complement their classroom education. By immersing students in real-world settings, it allows them to contextualize their classroom learning, making concepts and content more tangible and relevant. This experiential learning approach not only deepens understanding but also motivates students to explore, construct new knowledge, and make meaningful connections to the topics they study.</p>
 
-<p>The school has collaborated with participating organisations to make learning more authentic and experiential. Much thought was put in to ensure that the venues of the learning journeys tie in well with the syllabus that they are learning.</p>
+<p style="text-align: justify;">The school collaborates with carefully chosen organizations, fostering partnerships that are meticulously crafted to provide students with immersive, hands-on learning experiences. These collaborations ensure that the learning journeys are both authentic and enriching, allowing students to actively engage with the content in a meaningful and impactful way.</p>
 
+<p>Each level participates in a unique museum-based Learning Journey:</p>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+		<tr>
+			<th style="border: 1px solid black;">Level</th>
+			<th style="border: 1px solid black;">Venue</th>
+		</tr>
+		<tr>
+    <td style="border: 1px solid black;">Primary 3<br><i>(will commence in 2025)</i></td>
+    <td style="border: 1px solid black;">Geylang Serai Heritage Gallery</td>
+		</tr>
+  <tr>
+    <td style="border: 1px solid black;">Primary 4</td>
+    <td style="border: 1px solid black;">Kreta Ayer Heritage Gallery</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">Primary 5</td>
+    <td style="border: 1px solid black;">Indian Heritage Centre</td>
+  </tr>
+	<tr>
+    <td style="border: 1px solid black;">Primary 6</td>
+    <td style="border: 1px solid black;">Asian Civilisations Museum</td>
+  </tr>
+</tbody>
+</table>
+
+<p style="text-align: justify;">These venues have been carefully selected to tie in with the Social Studies syllabus at each level, ensuring that students' learning is both relevant and meaningful. Through this program, students not only enhance their knowledge but also develop a deeper appreciation for Singapore's multicultural society.</p>
 
 #### **Performance Tasks**
 
