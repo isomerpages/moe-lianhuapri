@@ -268,3 +268,11 @@ Our Primary 6 students actively participate in Green School Activities aimed at 
 <p style="text-align: justify;"><strong>Promoting a Cleaner School Environment</strong><br>
 We are also introducing initiatives such as the Classroom Cleanliness Audits and Canteen Cleanliness Campaigns, encouraging every student to take ownership of their learning spaces. </p>
 
+<table>
+  <tbody>
+  <tr>
+    <td><img style="width:200px;height:300px" src="/images/Learning/Science/canteencleaning1.jpg"></td>
+    <td><img style="width:650px;height:300px" src="/images/Learning/Science/canteencleaning2.jpg"></td>
+  </tr>
+</tbody>
+</table>
