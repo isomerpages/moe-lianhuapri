@@ -23,7 +23,7 @@ variant: markdown
 <img style="width:1000px;height:300px;" src="/images/Learning/Ict/ICTpic2.png">
 
 
-replace with image 3<img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
+<img style="width:1000px;height:300px;" src="/images/Learning/Science/Ict/ICTpic3.jpg">
 
 
 replace with image 4<img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
