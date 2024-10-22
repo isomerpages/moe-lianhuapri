@@ -21,12 +21,12 @@ variant: markdown
 <p style="text-align: justify;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School.</p>
 
 <img style="width:1000px;height:300px;" src="/images/Learning/Ict/ICTpic2.png">
+<br>
 
+<img style="width:800px;height:450px;" src="/images/Learning/Ict/ICTpic3.jpg">
 
-<img style="width:1000px;height:300px;" src="/images/Learning/Science/Ict/ICTpic3.jpg">
+<br>
+<img style="width:800px;height:450px;" src="/images/Learning/Ict/ICTpic4.jpg">
 
-
-replace with image 4<img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
-
-
-replace with image 5<img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_4.jpg">
+<br>
+<img style="width:800px;height:450px;" src="/images/Learning/Ict/ICTpic5.jpg">
