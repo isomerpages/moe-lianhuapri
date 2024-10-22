@@ -36,6 +36,7 @@ Racial Harmony Day is a significant event at Lianhua Primary School, where stude
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9wgafqanS3iM9L8zDyUqwk3J8VGQA0stMQ6nTe47bTgnprcC3l1QLqz1aoDzrIJ6hJ4oZYcl8fz1v/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
+<br>
 <p><u>National Day</u><br>
 National Day is a momentous occasion at Lianhua Primary School, where students and teachers come together to commemorate and celebrate the rich heritage, culture, and unity of the nation. The highlight of the National Day celebrations is the march past parade followed by a solemn flag-raising ceremony, where students gather in the school hall to witness the national flag being hoisted. Students then sing the national anthem and recite the pledge, reinforcing a sense of loyalty and commitment among the students.This symbolic act serves as a powerful reminder of the nation's sovereignty and unity. This is followed by a range of classroom activities and performances to represent different elements of the nation's history or culture. This annual event fosters a sense of patriotism and pride in being a part of a diverse and vibrant community within the school. The school creates an immersive experience that reinforces the importance of national identity and collective responsibility.</p>
 
