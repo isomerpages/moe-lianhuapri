@@ -24,10 +24,10 @@ variant: markdown
 <img style="width:1000px;height:300px;" src="/images/Learning/Ict/ICTpic2.png">
 <br>
 
-<img style="width:800px;height:500px;" src="/images/Learning/Ict/ICTpic3.jpg">
+<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic3.jpg">
 
 <br>
-<img style="width:800px;height:500px;" src="/images/Learning/Ict/ICTpic4.jpg">
+<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic4.jpg">
 
 <br>
-<img style="width:800px;height:500px;" src="/images/Learning/Ict/ICTpic5.jpg">
+<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic5.jpg">
