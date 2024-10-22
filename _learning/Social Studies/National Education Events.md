@@ -30,13 +30,13 @@ International Friendship Day is a joyous occasion at Lianhua Primary School, whe
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSh6N8lp0ShUKtiMwmz9Dv15kUIN-p8-YZV7Cp-UZdRMSOBJ7ygTB2IcjFbEmYq2aO7vUzLUBtWf2B9/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
-<p><u>Racial Harmony Day</u><br>
+<p style="text-align: justify;"><u>Racial Harmony Day</u><br>
 Racial Harmony Day is a significant event at Lianhua Primary School, where students and teachers come together to celebrate the rich tapestry of cultural diversity that defines the school community. This annual observance fosters a sense of unity, respect, and understanding among students from various ethnic backgrounds, emphasising the importance of embracing differences and promoting harmony. Through a combination of cultural displays, performances, and interactive activities, the school not only celebrates its diversity but also nurtures a sense of unity among students and teachers. The event leaves a lasting impact, reinforcing the idea that embracing differences is key to building a vibrant and harmonious society.</p>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT9wgafqanS3iM9L8zDyUqwk3J8VGQA0stMQ6nTe47bTgnprcC3l1QLqz1aoDzrIJ6hJ4oZYcl8fz1v/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 
-<p><u>National Day</u><br>
+<p style="text-align: justify;"><u>National Day</u><br>
 National Day is a momentous occasion at Lianhua Primary School, where students and teachers come together to commemorate and celebrate the rich heritage, culture, and unity of the nation. The highlight of the National Day celebrations is the march past parade followed by a solemn flag-raising ceremony, where students gather in the school hall to witness the national flag being hoisted. Students then sing the national anthem and recite the pledge, reinforcing a sense of loyalty and commitment among the students.This symbolic act serves as a powerful reminder of the nation's sovereignty and unity. This is followed by a range of classroom activities and performances to represent different elements of the nation's history or culture. This annual event fosters a sense of patriotism and pride in being a part of a diverse and vibrant community within the school. The school creates an immersive experience that reinforces the importance of national identity and collective responsibility.</p>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6rxQ6pRk4WnrYzc-QNrwANa4O4dkvtZwJDaPJ99iNsa-4E4IJ4RrkyYsk-lWr-gD0mxW8YJlCmchQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
