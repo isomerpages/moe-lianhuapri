@@ -9,9 +9,9 @@ variant: markdown
 
 <h4><strong>National Education</strong></h4>
 
-<p style="text-align: justify;">National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.<br>
+<p style="text-align: justify;">National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.</p>
 
-NE in CCE aims to be empowering and aspirational, allowing for individual sense-making so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional and global issues.
+<p>NE in CCE aims to be empowering and aspirational, allowing for individual sense-making so as to nurture engaged citizens, who are socially aware, adept at critical thinking, and informed about local, regional and global issues.
 National Education comprises four core annual events which are Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. </p>
 
 
