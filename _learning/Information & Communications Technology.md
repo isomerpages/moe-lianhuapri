@@ -16,12 +16,12 @@ variant: markdown
 
 <p style="text-align: justify;">We adhere to the FTAC frame to guide us in the development of our students’ digital literacy and technological skills. Digital literacy (DL) is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies for information, communication and problem-solving. Technological skills (TS) refer to the ability to understand and use specific technologies to solve problems and achieve practical goals.</p>
 
-<img style="width:1000px;height:400px;" src="/images/Learning/Ict/ICTpic1.png">
+<img style="width:1000px;height:550px;" src="/images/Learning/Ict/ICTpic1.png">
 
 <p style="text-align: justify;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School.</p>
 <br>
 
-<img style="width:900px;height:300px;" src="/images/Learning/Ict/ICTpic2.png">
+<img style="width:900px;height:400px;" src="/images/Learning/Ict/ICTpic2.png">
 <br>
 
 <img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic3.jpg">
