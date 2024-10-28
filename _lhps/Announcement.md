@@ -6,18 +6,6 @@ variant: markdown
 ---
 # Announcement
 
-![](/images/Lphs/OpenHouse2024PosterFinal.png)
-
-You are invited to Lianhua Primary School's Open House 2024!<br>
-Date: 6 July 2024 (Saturday)<br>
-Time: 9.00am to 11.30am
-
-Do you want to experience and learn more about life in Lianhua? Come and immerse yourselves in the vibrant and engaging learning environment in Lianhua Primary School.
-
-Click on the link by 21 June to register! <a href="https://forms.gle/tguAMqREeZkLo5jF9">https://forms.gle/tguAMqREeZkLo5jF9</a> 
-
-We look forward to seeing you and your child!
-
 <h4><strong>The President's Award for Teachers (PAT) and The Outstanding Youth in Education Award (OYEA) 2025</strong></h4>
      
 
@@ -36,14 +24,29 @@ Nomination for PAT 2025 is <strong>now open</strong> and will <strong>close on F
 
 <table style="border-collapse: collapse; width: 100%;">
   <tbody><tr>
-    <th style="border: 1px solid black; padding: 8px;">PAT 2025</th>
-    <th style="border: 1px solid black; padding: 8px;">OYEA 2025</th>
+    <th style="border: 1px solid black; padding: 8px; text-align: center;">PAT 2025</th>
+    <th style="border: 1px solid black; padding: 8px;  text-align: center;">OYEA 2025</th>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px;">Row 1, Cell 1</td>
-    <td style="border: 1px solid black; padding: 8px;">Row 1, Cell 2</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><a href="https://go.gov.sg/pat2025">https://go.gov.sg/pat2025</a><br><img style="width: 180px; height: 180px; text-align: center;" src="/images/Lphs/PAT2025.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><a href="https://go.gov.sg/oyea2025">https://go.gov.sg/oyea2025</a><br><img style="width: 180px; height: 180px;" src="/images/Lphs/OYEA2025.jpg"></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
+
+![](/images/Lphs/OpenHouse2024PosterFinal.png)
+
+You are invited to Lianhua Primary School's Open House 2024!<br>
+Date: 6 July 2024 (Saturday)<br>
+Time: 9.00am to 11.30am
+
+Do you want to experience and learn more about life in Lianhua? Come and immerse yourselves in the vibrant and engaging learning environment in Lianhua Primary School.
+
+Click on the link by 21 June to register! <a href="https://forms.gle/tguAMqREeZkLo5jF9">https://forms.gle/tguAMqREeZkLo5jF9</a> 
+
+We look forward to seeing you and your child!
+
+
 
 #### Caring Teacher Award 2024
 
