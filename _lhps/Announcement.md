@@ -33,6 +33,7 @@ Nomination for PAT 2025 is <strong>now open</strong> and will <strong>close on F
   </tr>
 </tbody>
 </table>
+<br>
 
 ![](/images/Lphs/OpenHouse2024PosterFinal.png)
 
