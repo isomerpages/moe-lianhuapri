@@ -29,7 +29,7 @@ variant: markdown
 <table style="border-collapse: collapse;">
   <tbody>
 		<tr>
-			<td style="text-align: justify; padding: 4px; width: 50%;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School. <br><br><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
+			<td style="text-align: justify; padding: 4px; width: 50%;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School. <br><br><img style="width:500px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
 			</td>
     <td style="text-align: justify; padding: 4px;width: 50%;"><img style="width:550px;height:400px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
