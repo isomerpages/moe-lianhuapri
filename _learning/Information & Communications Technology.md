@@ -6,9 +6,33 @@ variant: markdown
 ---
 <h1><strong>Information &amp; Communications Technology</strong></h1>
 
-<p style="text-align: justify;">In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future.</p>
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+		<tr>
+    <td style="text-align: justify; padding: 4px;">In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future. <br><br>Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources. 
+			</td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:200px;height:250px;" src="/images/Learning/Science/POTS2024_2.jpg"></td>
+  </tr>
+  <tr>
+    <td style="text-align: justify; padding: 4px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
+    <td style="text-align: justify; padding: 4px;">Students will be given opportunities to collaborate and connect with others using digital tools to co-construct and share knowledge. With the use of the multiple digital platforms in our school, students will be allowed to explore and create solutions to real-world problems. <br><br>They will also be taught to exercise cyber wellness in the application of these digital literacy and technology skills learnt in a safe and discerning manner.<br><br>We adhere to the FTAC frame to guide us in the development of our students’ digital literacy and technological skills. Digital literacy (DL) is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies for information, communication and problem-solving. Technological skills (TS) refer to the ability to understand and use specific technologies to solve problems and achieve practical goals.</td>
+  </tr>
 
-<p style="text-align: justify;">Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources.</p>
+  <tr>
+    <td style="text-align: center; padding: 4px;"><i><u><strong>Some questions our P2 curious students have:</strong></u><br>
+Where do seeds come from?<br>
+Why does a cactus have spikes?<br>
+How do plants come from seeds?<br>
+Do plants die?</i>
+		</td>
+    <td style="text-align: center; padding: 4px;"><i><strong>One of the students asked: <br><img style="width:300px;height:250px;" src="/images/Learning/Science/POTS2024_5.jpg"><br>This student wondered and felt that love was needed by the plants to grow.<br>
+This is also exactly how we support our students’ growth in learning, with love.</strong></i>
+			</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 <p style="text-align: justify;">Students will be given opportunities to collaborate and connect with others using digital tools to co-construct and share knowledge. With the use of the multiple digital platforms in our school, students will be allowed to explore and create solutions to real-world problems.</p>
 
