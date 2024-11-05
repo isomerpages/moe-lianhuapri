@@ -34,7 +34,7 @@ variant: markdown
     <td style="text-align: justify; padding: 4px;width: 50%;"><img style="width:550px;height:400px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:500px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
     <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:350px;height:400px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
   </tr>
 </tbody>
