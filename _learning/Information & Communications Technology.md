@@ -6,15 +6,15 @@ variant: markdown
 ---
 <h1><strong>Information &amp; Communications Technology</strong></h1>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse;">
   <tbody>
 		<tr>
-    <td style="text-align: justify; padding: 4px;">In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future. <br><br>Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources. 
+    <td style="text-align: justify; padding: 4px;  width: 50%;">In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future. <br><br>Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources. 
 			</td>
-    <td style="text-align: justify; padding: 4px;"><img style="width:400px;height:250px;" src="/images/Learning/Ict/ICTpic3.jpg"></td>
+    <td style="text-align: justify; padding: 4px;  width: 50%;"><img style="width:400px;height:250px;" src="/images/Learning/Ict/ICTpic3.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align: justify; padding: 4px;"><img style="width:600px;height:400px;" src="/images/Learning/Ict/ICTpic4.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:600px;height:500px;" src="/images/Learning/Ict/ICTpic4.jpg"></td>
     <td style="text-align: justify; padding: 4px;">Students will be given opportunities to collaborate and connect with others using digital tools to co-construct and share knowledge. With the use of the multiple digital platforms in our school, students will be allowed to explore and create solutions to real-world problems. <br><br>They will also be taught to exercise cyber wellness in the application of these digital literacy and technology skills learnt in a safe and discerning manner.<br><br>We adhere to the FTAC frame to guide us in the development of our students’ digital literacy and technological skills. Digital literacy (DL) is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies for information, communication and problem-solving. Technological skills (TS) refer to the ability to understand and use specific technologies to solve problems and achieve practical goals.</td>
   </tr>
 </tbody>
