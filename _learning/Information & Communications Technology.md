@@ -26,16 +26,16 @@ variant: markdown
 <img style="width:900px;height:400px;" src="/images/Learning/Ict/ICTpic2.png"></p>
 <br>
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; width: 100%;">
   <tbody>
 		<tr>
-			<td style="text-align: justify; padding: 4px; width: 50%;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School. <br><br><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
+			<td style="text-align: justify; padding: 4px;">With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School. <br><br><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
 			</td>
-    <td style="text-align: justify; padding: 4px;width: 50%;"><br><br><img style="width:450px;height:400px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><br><br><br><br><br><img style="width:650px;height:300px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
-    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:300px;height:400px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:650px;height:300px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
   </tr>
 </tbody>
 </table>
