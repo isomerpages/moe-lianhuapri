@@ -34,14 +34,9 @@ variant: markdown
     <td style="text-align: justify; padding: 4px;"><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align: justify; padding: 4px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
-    <td style="text-align: justify; padding: 4px;"><img style="width:220px;height:300px;" src="/images/Learning/Science/POTS2024_3.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
+    <td style="text-align: justify; padding: 4px;"><img style="width:400px;height:300px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
   </tr>
 </tbody>
 </table>
 
-<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic3.jpg">
-<br>
-<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic4.jpg">
-<br>
-<img style="width:800px;height:550px;" src="/images/Learning/Ict/ICTpic5.jpg">
