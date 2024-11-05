@@ -30,13 +30,13 @@ variant: markdown
 	
   <tbody>
 		<tr>
-			<td style="text-align: justify; padding: 4px;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
+			<td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic5.jpg">
 			</td>
-    <td style="text-align: justify; padding: 4px;"><img style="width:250px;height:300px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
+    <td style="text-align: justify; padding: 4px;width: 40%;"><img style="width:250px;height:300px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
   <tr>
-    <td style="text-align: justify; padding: 4px;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
-    <td style="text-align: justify; padding: 4px;"><img style="width:250px;height:300px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:250px;height:300px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
   </tr>
 </tbody>
 </table>
