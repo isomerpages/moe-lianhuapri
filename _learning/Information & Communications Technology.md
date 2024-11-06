@@ -9,7 +9,7 @@ variant: markdown
 <table style="border-collapse: collapse;">
   <tbody>
 		<tr>
-    <td style="text-align: justify; padding: 4px;  width: 40%;"><p>In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future. <br>Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources. </p>
+    <td style="text-align: justify; padding: 4px;  width: 40%;"><p>In Lianhua Primary School, we are committed to ensure that students are well-equipped with the digital competencies to thrive in an increasingly technology-saturated future. <br><br>Our programmes are designed to nurture digitally-empowered 21st century learners who are self-directed in setting goals and managing their learning using a range of digital tools and resources. </p>
 			</td>
     <td style="text-align: justify; padding: 4px;  width: 60%;"><img style="width:600px;height:300px;" src="/images/Learning/Ict/ICTpic3.jpg"></td>
   </tr>
