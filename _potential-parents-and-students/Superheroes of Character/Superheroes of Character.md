@@ -11,8 +11,8 @@ third_nav_title: Superheroes of Character
 
 <center><i><b>"Your beliefs become your thoughts,<br>Your thoughts become your words,<br>Your words become your actions,<br>Your actions become your habits,<br>Your habits become your values,<br>Your values become your destiny."</b></i></center>
 
-<h2><strong>Silent Heroes 2023</strong></h2>
-<h4><strong>OUR SINGAPORE SILENT HEROES STUDENT AWARD WINNERS</strong></h4>
+<h4><strong>Singapore Silent Heroes Student Award</strong></h4>
+
 
 <style>
         table {
@@ -23,19 +23,18 @@ third_nav_title: Superheroes of Character
         }
     </style>
 
-<p>Singapore Silent Heroes (SSH) celebrates individuals in Singapore who embody the spirit of compassion, selflessness and empathy.</p>
+<p style="text-align: justify;">The Singapore Silent Heroes Student Award celebrates students who show compassion, selflessness, and empathy in their daily lives. It recognizes young individuals who go the extra mile to make a positive difference, whether by helping others in need, supporting their peers, or contributing to their community.<br><br>
+This award goes beyond simply appreciating students' efforts – it aims to inspire a new generation of kind-hearted individuals. By highlighting these students, the Singapore Silent Heroes initiative encourages lasting change and nurtures the seeds of kindness and benevolence within the youth of today.</p>
 
-<p>On 28th September 2023, SSH celebrated its 10th Anniversary at the Shangri-La Hotel. Mr Lawrence Wong, Deputy Prime Minister of Singapore graced the occasion as the Guest-of-Honour. The inaugural Singapore Silent Heroes Student Award was also presented during the ceremony. From extending a helping hand in elder care facilities to assisting local gardeners, or coming to the aid of vulnerable animals, nineteen students have woven acts of kindness into the fabric of our lives and the society. These students were awarded the Singapore Silent Heroes Student Award. Three of the recipients are from our school! Let’s read on to find out more about our very own award winners.</p>
-
-![](/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_1.png)
-<br>
-![](/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_2.png)
-<br>
+<p><strong>Presenting to you our Silent Heroes for 2023:</strong></p>
 
 <table border="1">
         <tbody><tr>
-            <td><img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_3.png"><div style="text-align: center;"><strong>Bernice Chung Hee Chee</strong></div><div style="text-align: center;">Primary 6 Honesty</div></td>
-            <td>Bernice has demonstrated remarkable dedication in making a significant impact on others through her outstanding contributions. Leading the school’s monthly Project SMILE since August 2022, she has not only inspired her peers but also cultivated a strong core team that effectively guides volunteers. Her infectious enthusiasm and dynamic leadership have resulted in fulfilling experience for participants and tangible benefits for project recipients.<br><br>Bernice’s commitment extended beyond expectations as she went above and beyond in Project SMILE. Volunteering to stay beyond her duties, she played an instrumental role in packing and distributing grocery packs to recipients. Her additional responsibilities included contacting recipients for reminders and personally presenting the packs. Despite the time-sensitive commitment, she displayed unwavering dedication, dedicating an entire Saturday morning to ensuring the project’s success.</td>
+            <td><strong></strong><p style="text-align: justify;"><strong>Bernice Chung Hee Chee (6 Honesty)</strong><br>
+Bernice has demonstrated remarkable dedication in making a significant impact on others through her outstanding contributions. Leading the school’s monthly Project SMILE since August 2022, she has not only inspired her peers but also cultivated a strong core team that effectively guides volunteers. Her infectious enthusiasm and dynamic leadership have resulted in fulfilling experience for participants and tangible benefits for project recipients.</p>
+					<p style="text-align: justify;">Bernice’s commitment extended beyond expectations as she went above and beyond in Project SMILE. Volunteering to stay beyond her duties, she played an instrumental role in packing and distributing grocery packs to recipients. Her additional responsibilities included contacting recipients for reminders and personally presenting the packs. Despite the time-sensitive commitment, she displayed unwavering dedication, dedicating an entire Saturday morning to ensuring the project’s success.</p>
+					<p style="text-align: justify;">Bernice’s heart of service shines brightly through her selfless action, exemplifying an admirable and genuine commitment to making a difference in the lives of others. Her leadership, energy, and willingness to go the extra mile truly set a remarkable example of service and compassion.</p>
+</td><td><img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Character/SilentHeroes2023_3.png"></td>
         </tr>
 				<tr>
             <td colspan="2"><i>“Bernice epitomises the heart of service that we aim to instil in our students. Through her compassionate leadership and gestures of kindness, she has ignited inspiration among peers and teachers alike. Her unwavering dedication to fostering a positive impact on those around her stands as a remarkable example. I take immense pride in her accomplishments and am confident that she will continue to make a difference to others.”</i><div style="text-align: right;">Pamela Kiew</div><div style="text-align: right;">Principal</div></td>
