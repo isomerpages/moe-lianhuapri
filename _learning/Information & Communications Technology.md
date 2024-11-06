@@ -15,7 +15,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="text-align: justify; padding: 4px;"><img style="width:250px;height:400px;" src="/images/Learning/Ict/ICTpic4.jpg"></td>
-    <td style="text-align: justify; padding: 4px;">Students will be given opportunities to collaborate and connect with others using digital tools to co-construct and share knowledge. With the use of the multiple digital platforms in our school, students will be allowed to explore and create solutions to real-world problems. <br><br>They will also be taught to exercise cyber wellness in the application of these digital literacy and technology skills learnt in a safe and discerning manner.</td>
+    <td style="text-align: justify; padding: 4px;"><p>Students will be given opportunities to collaborate and connect with others using digital tools to co-construct and share knowledge. With the use of the multiple digital platforms in our school, students will be allowed to explore and create solutions to real-world problems. <br><br>They will also be taught to exercise cyber wellness in the application of these digital literacy and technology skills learnt in a safe and discerning manner. </p></td>
   </tr>
 </tbody>
 </table>
