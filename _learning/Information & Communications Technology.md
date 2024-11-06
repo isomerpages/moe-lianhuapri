@@ -34,11 +34,11 @@ variant: markdown
 		<tr>
 			<td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:350px;" src="/images/Learning/Ict/ICTpic5.jpg">
 			</td>
-    <td style="text-align: justify; padding: 4px;width: 40%;"><img style="width:250px;height:350px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
+    <td style="text-align: justify; padding: 4px;width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ICTpic6.jpg"></td>
   </tr>
   <tr>
     <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:350px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
-    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:250px;height:350px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
   </tr>
 </tbody>
 </table>
