@@ -13,4 +13,4 @@ Self Help Groups Student Care Limited
 
 <p><a target="_blank" href="https://bigheartstudentcare.com/interest/">Registration for your interest to Big Heart Student Care</a></p>
 
-<img src="/images/School%20Info/Student%20Care%20Centre/2025registrationformforscc.jpg" style="width:30%">
+<img src="/images/School%20Info/Student%20Care%20Centre/sscQRcode2025.jpg" style="width:60%">
