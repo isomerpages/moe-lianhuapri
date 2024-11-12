@@ -27,7 +27,7 @@ third_nav_title: Superheroes of Character
 This award goes beyond simply appreciating students' efforts – it aims to inspire a new generation of kind-hearted individuals. By highlighting these students, the Singapore Silent Heroes initiative encourages lasting change and nurtures the seeds of kindness and benevolence within the youth of today.</p>
 
 <p><strong>Presenting to you our Silent Heroes for 2024:</strong></p>
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><strong></strong><p style="text-align: justify;"><strong>Ang Yi Qin (1 Diligence 5)</strong><br>
@@ -36,7 +36,7 @@ Ang Yi Qin helped to look after a classmate daily. During PE lessons, she would 
         </tr>
     </tbody>
 </table>
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><strong></strong><p style="text-align: justify;"><strong>Suresh Jaanvi (6 Resilience 4)</strong><br>
@@ -45,7 +45,7 @@ Jaanvi is very passionate in her mission to clean up the environment. It started
         </tr>
     </tbody>
 </table>
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><strong></strong><p style="text-align: justify;"><strong>Anne Kamalini (6 Resilience 4)</strong><br>
@@ -56,7 +56,7 @@ Anne Kamalini excelled as the chairman of Indian Dance CCA and vice chairman of 
 </table>	
 
 <p><strong>Presenting to you our Silent Heroes for 2023:</strong></p>
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><br><p style="text-align: justify;"><strong>Bernice Chung Hee Chee (6 Honesty)</strong><br>
@@ -68,7 +68,7 @@ Bernice has demonstrated remarkable dedication in making a significant impact on
     </tbody>
 </table>
 
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><br><p style="text-align: justify;"><strong>Divesh Jaya Chandran (4 Compassion)</strong><br>
@@ -86,7 +86,7 @@ Divesh’s actions over the past two years, including his donation efforts to Ha
     </tbody>
 </table>
 
-<table border="1">
+<table border="0">
         <tbody>
 					<tr>
             <td><br><p style="text-align: justify;"><strong>Muhammad Kayden Toh (5 Diligence)</strong><br>
