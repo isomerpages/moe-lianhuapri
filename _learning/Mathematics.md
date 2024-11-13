@@ -6,7 +6,8 @@ variant: markdown
 ---
 # **Mathematics**
 
-![](/images/Learning/Mathematics/WhatsApp%20Image%202020-12-23.jpeg)
+<img src="/images/Learning/Mathematics/01_Mathematics.jpg">
+
 
 ### **Department Vision**
 
