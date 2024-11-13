@@ -46,7 +46,7 @@ Effective Problem Solvers
 <br>
 <img src="/images/Learning/Mathematics/02B_HiFive.jpg">
 
-<p style="text-align: justify;">Our Hi-Five! process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in the Hi-Five! process allows the students to develop capacities and skills for learning and their metacognitive ability and to build their confidence in problem- solving.&nbsp;</p>
+<p style="text-align: justify;">Our Hi-Five! process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in the Hi-Five! process helps students develop essential learning skills, enhance their metacognitive abilities, and build confidence in mathematical problem-solving.&nbsp;</p>
 
 <p style="text-align: justify;">Students also learn various heuristics to help them solve mathematical problems. Heuristics are methods and strategies that point towards possible ways in which students might be able to find a solution. With the acquisition of mathematical skills and processes, coupled with the content knowledge, students will become better problem solvers.</p>
 
@@ -60,7 +60,7 @@ Effective Problem Solvers
 
 *   Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.
 
-![](/images/Learning/Mathematics/website_funwithmaths.jpg)
+<img src="/images/Learning/Mathematics/03_Fun_With_Maths.jpg">
 
 ### _I am a Maths Multiplication Master_
 
@@ -72,13 +72,13 @@ Effective Problem Solvers
 <p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.</p>
 
 
-![](/images/Learning/Mathematics/MathsGames20_51.jpg)
+<img src="/images/Learning/Mathematics/04_IAmAMMM.jpg">
 
-<center>Fishing game</center>
+<center>Multiplication Wheel</center>
 
-![](/images/Learning/Mathematics/MathsGames20_32.jpg)
+<img src="/images/Learning/Mathematics/05_IAmAMMM.jpg">
 
-<center>Jigsaw puzzle</center>
+<center>Snake &amp; Ladder</center>
 
 
 **Mathematical Olympiad Training Programme for selected P4 to P6 students**
