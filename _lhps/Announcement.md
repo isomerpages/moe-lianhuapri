@@ -6,6 +6,35 @@ variant: markdown
 ---
 # Announcement
 
+<h4><strong>The President's Award for Teachers (PAT) and The Outstanding Youth in Education Award (OYEA) 2025</strong></h4>
+     
+
+<p>Dear Students, Parents and Educators,<br><br>
+Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?  Do consider nominating the teacher for the two national level awards.</p>
+
+<h5><strong><u>President’s Award for Teachers (PAT)</u></strong></h5>
+
+<p>The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young.  These teachers prepare students for life, as well as model commitment to continuous learning and enterprise.  They inspire both their students and peers through their words and deeds.<br><br>
+Nomination for PAT 2025 is <strong>now open</strong> and will <strong>close on Friday, 10 January 2025.</strong></p>
+
+
+<h5><strong><u>Outstanding Youth in Education Award (OYEA)</u></strong></h5>
+
+<p>The Outstanding Youth in Education Award seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. <br><br>Nomination for OYEA 2025 is <strong>now open</strong> and will <strong>close on Friday, 10 January 2025.</strong><br><br>You are strongly encouraged to submit your nominations online by clicking on the URLs or scanning the QR codes below.  Thank you.</p>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody><tr>
+    <th style="border: 1px solid black; padding: 8px; text-align: center;">PAT 2025</th>
+    <th style="border: 1px solid black; padding: 8px;  text-align: center;">OYEA 2025</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><a href="https://go.gov.sg/pat2025">https://go.gov.sg/pat2025</a><br><img style="width: 180px; height: 180px; text-align: center;" src="/images/Lphs/PAT2025.jpg"></td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;"><a href="https://go.gov.sg/oyea2025">https://go.gov.sg/oyea2025</a><br><img style="width: 180px; height: 180px;" src="/images/Lphs/OYEA2025.jpg"></td>
+  </tr>
+</tbody>
+</table>
+<br>
+
 ![](/images/Lphs/OpenHouse2024PosterFinal.png)
 
 You are invited to Lianhua Primary School's Open House 2024!<br>
@@ -18,28 +47,7 @@ Click on the link by 21 June to register! <a href="https://forms.gle/tguAMqREeZk
 
 We look forward to seeing you and your child!
 
-#### The President's Award for Teachers (PAT) and The Outstanding Youth in Education Award (OYEA) 2024
-     
 
-Dear Students, Parents and Educators,
-
-Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?  Do consider nominating the teacher for the two national level awards.
-
-#### President’s Award for Teachers (PAT)
-
-The President’s Award for Teachers gives national recognition to experienced teachers for their dedication and hard work in developing our young.  These teachers prepare students for life, as well as model commitment to continuous learning and enterprise.  They inspire both their students and peers through their words and deeds. 
-
-Nomination for PAT 2024 is **now open** and will **close on Wednesday, 10 January 2024**.
-
-#### Outstanding Youth in Education Award (OYEA)
-
-The Outstanding Youth in Education Award seeks to recognise excellent young teachers for their youthful idealism, energy, enthusiasm and active involvement in the development of youths. 
-
-Nomination for OYEA 2021 is **now open** and will **close on Wednesday, 10 January 2024**. 
-
-You are strongly encouraged to submit your nominations online by clicking on the URLs or scanning the QR codes below.  Thank you.
-
-![](/images/pat_oyea_2024.JPG)
 
 #### Caring Teacher Award 2024
 
