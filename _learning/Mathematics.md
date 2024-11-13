@@ -72,13 +72,10 @@ Effective Problem Solvers
 <p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts.</p>
 
 
-<img src="/images/Learning/Mathematics/04_IAmAMMM.jpg">
+<p style="text-align: center"><img src="/images/Learning/Mathematics/04_IAmAMMM.jpg">Multiplication Wheel</p>
+<br>
 
-<center>Multiplication Wheel</center>
-
-<img src="/images/Learning/Mathematics/05_IAmAMMM.jpg">
-
-<center>Snake &amp; Ladder</center>
+<p style="text-align: center"><img src="/images/Learning/Mathematics/05_IAmAMMM.jpg">Snake &amp; Ladder</p>
 
 
 **Mathematical Olympiad Training Programme for selected P4 to P6 students**
