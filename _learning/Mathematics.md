@@ -73,7 +73,7 @@ Effective Problem Solvers
 
 
 <p style="text-align: center"><img src="/images/Learning/Mathematics/04_IAmAMMM.jpg">Multiplication Wheel</p>
-<br>
+
 
 <p style="text-align: center"><img src="/images/Learning/Mathematics/05_IAmAMMM.jpg">Snake &amp; Ladder</p>
 
