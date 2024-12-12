@@ -67,7 +67,7 @@ td {
      <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
   </tr>
 	  <tr>
-    <td><br><br><br><br><br><br><br><br><br> Mdm Maheswari D/O Krishnan<br>OSO </td>
+    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/"> Mdm Maheswari D/O Krishnan<br>OSO </td>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrTanJuiYong.jpg">Mr Tan Jui Yong<br>OSO </td>
      <td><br></td>
   </tr>
@@ -87,7 +87,7 @@ td {
   <tr>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsSimBeeHongAbigail.jpg">Ms Sim Bee Hong Abigail<br>Librarian</td>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrIkhmal.jpg">Mr Syahirul Ikhmal Bin Shamsuddin <br>Desktop Engineer</td>
-		<td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
+		<td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/">Mr Denzel Yap Zhen Rong<br>Desktop Engineer</td>
   </tr>
    <tr>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMazlanBinAmat.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
