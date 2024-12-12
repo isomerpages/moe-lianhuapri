@@ -51,9 +51,10 @@ td {
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrRamanathanAlagappan.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/FengYing.jpg">Ms Phuay Feng Ying<br>ICT Associate </td>
+		    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/SitiNurbaiyah.jpeg">Mdm Siti Nurbaiyah<br>ICT Manager 
+    </td><td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/FengYing.jpg">Ms Phuay Feng Ying<br>ICT Associate </td>
     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsTanJingHer.jpg">Ms Tan Jing Her<br>Admin Executive</td>
-    <td><br><br><br><br><br><br><br><br><br><br><br>Admin Executive</td>
+ 
   </tr>
   <tr>
     <td> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsLeeChuiLian.jpg">Ms Lee Chui Lian<br>CSO </td>
