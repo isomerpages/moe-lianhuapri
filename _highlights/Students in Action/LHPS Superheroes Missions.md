@@ -27,3 +27,5 @@ p {
 <img src="/images/Highlights/Superheroes%20Missions/ProjectSmile1.jpg" style="width:60%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Student Leaders Giving a Safety Briefing to the Volunteers</i>
 
 <img src="/images/Highlights/Superheroes%20Missions/ProjectSmile2.jpg" style="width:60%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Packing of rescued food (Reducing Food Wastage)</i>
+
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg" style="width:60%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Packing of rescued food (Reducing Food Wastage)</i>
