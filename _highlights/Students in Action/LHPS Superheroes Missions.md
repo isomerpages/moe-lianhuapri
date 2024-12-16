@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Students in Action
 ---
-<h2><u>LHPS Superheroes Missions</u></h2>
+<h2><strong><u>LHPS Superheroes Missions</u></strong></h2>
 
 <style>
 h2{
