@@ -28,4 +28,8 @@ p {
 
 <img src="/images/Highlights/Superheroes%20Missions/ProjectSmile2.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><i>Caption: Packing of rescued food (Reducing Food Wastage)</i>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Packing of rescued food (Reducing Food Wastage)</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Pre-loved items up for grabs (Reducing Wastage)</i>
+
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg" style="width:70%; float: left; padding: 10px"><br><br><br><br><br><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i>
+
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile5.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><i>Caption: Little Hands, Big Hearts</i>
