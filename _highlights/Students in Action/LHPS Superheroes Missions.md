@@ -33,3 +33,6 @@ p {
 <img src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg" style="width:70%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i></p>
 
 <img src="/images/Highlights/Superheroes%20Missions/ProjectSmile5.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Little Hands, Big Hearts</i></p>
+
+<img src="/images/Highlights/Superheroes%20Missions/MiloProject.jpg" style="width:50%; float: right; padding: 10px"><p style="text-align: justify;"><u><strong>MILO Project</strong></u><br>In line with our National Day celebration, our school embarked on a heartwarming initiative to contribute to the Hao Ren Hao Shi Project, a cause dedicated to supporting the needy in our community. With a focus on compassion and resilience, students were encouraged to bring Milo powder packets from home as part of our collective effort to make a difference.</p>
+<p style="text-align: justify;">This project, led by our dedicated student leaders, aimed to instill the values of kindness and empathy in our students. Through this simple yet meaningful act of giving, our students learned that even small contributions can have a significant impact on those in need.</p>
