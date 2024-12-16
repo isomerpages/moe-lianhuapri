@@ -51,12 +51,15 @@ In line with our National Day celebration, our school embarked on a heartwarming
 					<p style="text-align: justify"><i>I felt that the Milo project was a good way to teach children how to help others in so many different ways! Not only that, the children get to learn more about helping and apply values such as compassion. Next time, maybe we can have the children donate other items such as daily necessities. If every single school in Singapore does that, our country will become a more compassionate country. I will definitely recommend that others to join this project as well!</i></p></td>
         </tr>
         <tr>
-            <td>Row 2</td>
+            <td><p style="text-align: right">Divyameenatchi.T, 5 Unity 3</p>
+					<p style="text-align: justify"><i>I have been joining project Smile since I was in primary four. I enjoyed the experience and learnt a lot about compassion. Being in the team, has helped me become more passionate about helping others. The planning and executing the Milo mission was fun and I hope more people will come and play a part too.</i></p></td>
         </tr>
         <tr>
-            <td>Row 3</td>
+            <td><p style="text-align: right">Chanya, 5 Unity 3</p>
+					<p style="text-align: justify"><i>During this year's Milo Collection Project, I was one of the artists who worked on making posters for the school, along with helping to collect the Milo Packets. I am glad I was chosen for such a great opportunity to help me learn and grow as a student and a person. I am happy to contribute to help the needy. </i></p></td>
         </tr>
         <tr>
-            <td>Row 4</td>
+            <td><p style="text-align: right">Than Sin, 5 Unity 3</p>
+					</td>
         </tr>
  </tbody></table>
