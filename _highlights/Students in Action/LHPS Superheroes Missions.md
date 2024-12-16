@@ -24,12 +24,12 @@ p {
 
 <p><i>I learnt about Project Smile from my scout’s teacher. My greatest joy comes from offering support and assist others especially the elderly. I also learnt that by working together, we can create a ripple effect of kindness, one small act at a time. If given an opportunity, I would like to create a corner in school where everyone can donate their groceries item which can then be given out during Project Smile. </i></p><p style="text-align: right;"><i>~Anne Kamalini, 6 Resilience 4</i></p>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile1.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Student Leaders Giving a Safety Briefing to the Volunteers</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile1.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Student Leaders Giving a Safety Briefing to the Volunteers</i></p>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile2.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Packing of rescued food (Reducing Food Wastage)</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile2.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Packing of rescued food (Reducing Food Wastage)</i></p>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><br><i>Caption: Pre-loved items up for grabs (Reducing Wastage)</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><p style="text-align: left;"><i>Caption: Pre-loved items up for grabs (Reducing Wastage)</i></p>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg" style="width:70%; float: left; padding: 10px"><br><br><br><br><br><br><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg" style="width:70%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i></p>
 
-<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile5.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><br><br><i>Caption: Little Hands, Big Hearts</i>
+<img src="/images/Highlights/Superheroes%20Missions/ProjectSmile5.jpg" style="width:50%; float: left; padding: 10px"><br><br><br><br><br><p style="text-align: left;"><i>Caption: Little Hands, Big Hearts</i></p>
