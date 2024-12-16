@@ -11,6 +11,16 @@ third_nav_title: Students in Action
 h2{
 	text-align: center; 
 	}
+	
+table {
+            border-collapse: collapse; /* Ensures borders don't double up */
+            border: 2px solid black; /* Outer border */
+            width: 50%; /* Optional: Sets table width */
+        }
+        td {
+            border: none; /* Hides the inner cell borders */
+            padding: 10px; /* Optional: Adds padding inside cells */
+        }
 </style>
 
 <p style="text-align: justify;">Our school is dedicated to nurturing compassionate and responsible citizens through its community service initiatives. The school’s Values-in-Action (VIA) programme focuses on instilling a sense of empathy, social responsibility and a strong sense of volunteerism in our students. By engaging in meaningful projects that address the needs of the local and wider community, students learn the importance of contributing to society. These initiatives aim to develop students’ character, foster teamwork, and inspire them to make a positive impact on the community they live in, ultimately bringing out their hearts of service and commitment to others. It is our hope that our students will learn to make positive impacts around them and become the superheroes of our nation.</p>	
@@ -34,3 +44,19 @@ In line with our National Day celebration, our school embarked on a heartwarming
 </p>
 
 <p style="text-align: justify">We are proud of our students for their enthusiastic participation and for embodying the spirit of giving. This initiative has reminded us all that kindness and care are powerful tools that can bring hope and comfort to those around us. Well done, Lianhua!</p>
+
+ <table>
+        <tbody><tr>
+            <td><p style="text-align: right">Organising Committee Reflection</p>
+					<p style="text-align: justify"><i>I felt that the Milo project was a good way to teach children how to help others in so many different ways! Not only that, the children get to learn more about helping and apply values such as compassion. Next time, maybe we can have the children donate other items such as daily necessities. If every single school in Singapore does that, our country will become a more compassionate country. I will definitely recommend that others to join this project as well!</i></p></td>
+        </tr>
+        <tr>
+            <td>Row 2</td>
+        </tr>
+        <tr>
+            <td>Row 3</td>
+        </tr>
+        <tr>
+            <td>Row 4</td>
+        </tr>
+ </tbody></table>
