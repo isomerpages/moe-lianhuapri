@@ -62,4 +62,5 @@ In line with our National Day celebration, our school embarked on a heartwarming
             <td><p style="text-align: right">Than Sin, 5 Unity 3</p>
 					</td>
         </tr>
- </tbody></table>
+ </tbody>
+</table>
