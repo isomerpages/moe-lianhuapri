@@ -9,7 +9,6 @@ description: ""
 <img style="margin-left: 10px; width: 600px; height: auto;" src="/images/Highlights/Superhero%20Talks/SuperheroTalk1.jpg">
 
 <br>
-	
 <img style="margin-left: 10px; width: 600px; height: auto;" src="/images/Highlights/Superhero%20Talks/SuperheroTalk2.jpg">
 
 <br>
