@@ -71,7 +71,6 @@ In line with our National Day celebration, our school embarked on a heartwarming
     </tbody>
 </table>
 		
-<br>
 
 <table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
         <tbody>
