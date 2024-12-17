@@ -68,4 +68,15 @@ In line with our National Day celebration, our school embarked on a heartwarming
             <td><img style="margin-left: 10px; width: 500px; height: auto;" src="/images/Highlights/Superheroes%20Missions/MiloProject2.jpg"><i>Milo Project Organising Team</i></td>
             <td><img style="margin-left: 10px; width: 500px; height: auto;" src="/images/Highlights/Superheroes%20Missions/MiloProject3.jpg"><i>Packing of Milo Packs</i></td>
         </tr>
-    </tbody></table>
+    </tbody>
+</table>
+		
+<br>
+
+<table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
+        <tbody><tr>
+            <td><p style="text-align: justify"><strong><u>Dover Park Hospice Project</u></strong><br>On 25 May 2024, a dedicated team of Lianhua students took part in the Dover Park Hospice Project at Suntec City. The students showcased their talents by performing a heartfelt selection of songs, which resonated deeply with the audience. Their lively and spirited performance didn't just stop there—they also led an engaging sing-along session, bringing everyone together in a moment of shared joy and connection. The students were elated to have the opportunity to contribute to such a meaningful cause, leaving a lasting impact on the participants and making the day truly memorable.</p></td>
+            <td><img style="margin-left: 10px; width: 2000px; height: auto;" src="/images/Highlights/Superheroes%20Missions/DoverParkHospiceProject.jpg"></td>
+        </tr>
+    </tbody>
+</table>
