@@ -95,3 +95,5 @@ In line with our National Day celebration, our school embarked on a heartwarming
         </tr>
     </tbody>
 </table>
+
+<p style="text-align: justify"><strong><u>PTC Care Ride Project</u></strong><br>On 18 October 2024, a group of Lianhua students participated in the Care Ride Project, in collaboration with the Public Transport Council. Led by the class form teacher, Ms Gracia Ee, the students went on a trip with a group of elderlies to Tengah Bus Interchange. During the project, the students mingled with the elderlies and learnt to take care of their needs such as ensuring they have a seat on the public bus and helping them to carry their belongings. The students learnt to be a young caring commuter. Such meaningful experiences will help Singapore to build a caring and inclusive community.</p>
