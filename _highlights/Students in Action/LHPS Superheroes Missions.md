@@ -74,9 +74,24 @@ In line with our National Day celebration, our school embarked on a heartwarming
 <br>
 
 <table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
-        <tbody><tr>
+        <tbody>
+					<tr>
             <td><p style="text-align: justify"><strong><u>Dover Park Hospice Project</u></strong><br>On 25 May 2024, a dedicated team of Lianhua students took part in the Dover Park Hospice Project at Suntec City. The students showcased their talents by performing a heartfelt selection of songs, which resonated deeply with the audience. Their lively and spirited performance didn't just stop there—they also led an engaging sing-along session, bringing everyone together in a moment of shared joy and connection. The students were elated to have the opportunity to contribute to such a meaningful cause, leaving a lasting impact on the participants and making the day truly memorable.</p></td>
             <td><img style="margin-left: 10px; width: 2000px; height: auto;" src="/images/Highlights/Superheroes%20Missions/DoverParkHospiceProject.jpg"></td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
+        <tbody>
+					<tr>
+            <td colspan="2" style="padding: 10px; text-align: center; border: none;">
+                <p style="text-align: justify"><strong><u>Bukit Gombak Cares Project</u></strong><br>On 4 August 2024, a team of Lianhua students actively participated in the Bukit Gombak Cares Project, contributing their time and energy to support the grocery distribution initiative. With enthusiasm and a strong sense of community, the students helped ensure that essential items reached those in need. Their involvement not only provided valuable assistance but also strengthened the bonds within the community. The students were thrilled to have the chance to be part of such a meaningful effort, making a positive impact on the lives of the participants and creating a day that will be fondly remembered by all.</p>
+            </td>
+        </tr>
+					<tr>
+            <td><img style="margin-left: 10px; width: 2000px; height: auto;" src="/images/Highlights/Superheroes%20Missions/BukitGombakCaresProject1.jpg"><i>Our Student Volunteers with Ms Low Yen Ling</i></td>
+            <td><img style="margin-left: 10px; width: 2000px; height: auto;" src="/images/Highlights/Superheroes%20Missions/BukitGombakCaresProject2.jpg"><i>Getting Ready for the Distribution</i></td>
         </tr>
     </tbody>
 </table>
