@@ -58,10 +58,8 @@ In line with our National Day celebration, our school embarked on a heartwarming
             <td>
 					<p style="text-align: justify"><i>During this year's Milo Collection Project, I was one of the artists who worked on making posters for the school, along with helping to collect the Milo Packets. I am glad I was chosen for such a great opportunity to help me learn and grow as a student and a person. I am happy to contribute to help the needy. </i></p><p style="text-align: right">Than Sin, 5 Unity 3</p></td>
         </tr>
-        
  </tbody>
 </table>
-<br>
 
 <table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
         <tbody><tr>
