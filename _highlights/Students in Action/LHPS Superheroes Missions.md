@@ -29,6 +29,8 @@ table {
 
 <p style="text-align: justify;"><i>I joined Project Smile because I want to help other people who are in need. When everyone works together as a team, they can combine their strengths, skills, and ideas. This effort leads to better outcomes than what each person could achieve alone. I felt happy and satisfied working together with other friends and make new friends. At the same time, I am doing good deed too.</i></p><p style="text-align: right;"><i>~Irdina, 3 Compassion 4</i></p>
 
+<p style="text-align: justify;"><i>I learnt about Project Smile from my scout’s teacher. My greatest joy comes from offering support and assist others especially the elderly. I also learnt that by working together, we can create a ripple effect of kindness, one small act at a time. If given an opportunity, I would like to create a corner in school where everyone can donate their groceries item which can then be given out during Project Smile.  </i></p><p style="text-align: right;"><i> ~Anne Kamalini, 6 Resilience 4</i></p>
+
 <p style="text-align: justify"><img style="margin-left: 10px; width: 400px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile1.jpg"><i>Caption: Student Leaders Giving a Safety Briefing to the Volunteers</i></p>
 
 <p style="text-align: justify"><img style="margin-left: 10px; width: 400px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile2.jpg"><i>Caption: Packing of rescued food (Reducing Food Wastage)</i></p>
