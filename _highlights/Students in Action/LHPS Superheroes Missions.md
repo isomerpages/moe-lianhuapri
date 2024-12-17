@@ -61,3 +61,11 @@ In line with our National Day celebration, our school embarked on a heartwarming
         
  </tbody>
 </table>
+<br>
+
+<table style="width: 100%; margin: 20px auto; border: none; border-collapse: collapse;">
+        <tbody><tr>
+            <td><img style="margin-left: 10px; width: 500px; height: auto;" src="/images/Highlights/Superheroes%20Missions/MiloProject2.jpg"><i>Milo Project Organising Team</i></td>
+            <td><img style="margin-left: 10px; width: 500px; height: auto;" src="/images/Highlights/Superheroes%20Missions/MiloProject3.jpg"><i>Packing of Milo Packs</i></td>
+        </tr>
+    </tbody></table>
