@@ -26,3 +26,51 @@ Congratulations once again!
 	We hope we have made the tickets so visually striking and highly coveted items that LHPS students will be motivated to exhibit positive behaviour throughout the school day. Our Golden Ticket system isn't just about rewards—it's about fostering a positive learning environment where students are motivated to excel and support one another! 
 Stay tuned for updates and golden ticket sightings! It's going to be an adventure-filled year as we embark on this wonderful journey together!  
 </p>
+
+<style>
+        table {
+            width: 80%; /* Table width */
+            margin: 20px auto; /* Centers the table */
+            border-collapse: collapse; /* Clean spacing */
+        }
+        td {
+            padding: 10px; /* Adds spacing around images */
+            text-align: center; /* Centers images in cells */
+        }
+        img {
+            width: 100px; /* Sets uniform width for images */
+            height: auto; /* Maintains aspect ratio */
+        }
+    </style>
+		
+
+    <table>
+        
+        <tbody><tr>
+            <td><img alt="Image 1" src="image1.jpg"></td>
+            <td><img alt="Image 2" src="image2.jpg"></td>
+            <td><img alt="Image 3" src="image3.jpg"></td>
+            <td><img alt="Image 4" src="image4.jpg"></td>
+        </tr>
+        
+        <tr>
+            <td><img alt="Image 5" src="image5.jpg"></td>
+            <td><img alt="Image 6" src="image6.jpg"></td>
+            <td><img alt="Image 7" src="image7.jpg"></td>
+            <td><img alt="Image 8" src="image8.jpg"></td>
+        </tr>
+        
+        <tr>
+            <td><img alt="Image 9" src="image9.jpg"></td>
+            <td><img alt="Image 10" src="image10.jpg"></td>
+            <td><img alt="Image 11" src="image11.jpg"></td>
+            <td><img alt="Image 12" src="image12.jpg"></td>
+        </tr>
+        
+        <tr>
+            <td><img alt="Image 13" src="image13.jpg"></td>
+            <td><img alt="Image 14" src="image14.jpg"></td>
+            <td><img alt="Image 15" src="image15.jpg"></td>
+            <td><img alt="Image 16" src="image16.jpg"></td>
+        </tr>
+    </tbody></table>
