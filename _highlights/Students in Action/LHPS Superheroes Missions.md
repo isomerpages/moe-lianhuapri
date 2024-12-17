@@ -35,7 +35,7 @@ table {
 
 <p style="text-align: justify"><img style="margin-left: 10px; width: 400px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile3.jpg"><i>Caption: Pre-loved items up for grabs (Reducing Wastage)</i></p>
 
-<p style="text-align: justify"><img style="margin-left: 10px; width: 550px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg"><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i></p>
+<p style="text-align: justify"><img style="margin-left: 10px; width: 600px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile4.jpg"><i>Caption: Volunteers from alumni, students, parents, Hillgrove RC and Hao Ren Hao Shi</i></p>
 
 <p style="text-align: justify"><img style="margin-left: 10px; width: 400px; height: auto;" src="/images/Highlights/Superheroes%20Missions/ProjectSmile5.jpg"><i>Caption: Little Hands, Big Hearts</i></p>
 
