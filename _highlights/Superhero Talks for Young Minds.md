@@ -4,7 +4,7 @@ permalink: /superhero-talks-for-young-minds/
 variant: markdown
 description: ""
 ---
-<h4><u><strong>Discovering Dream Industries and Careers: Talks for Young Minds</strong></u></h4>
+<h2><u><strong>Discovering Dream Industries and Careers: Talks for Young Minds</strong></u></h2>
 
 <img style="margin-left: 10px; width: 600px; height: auto;" src="/images/Highlights/Superhero%20Talks/SuperheroTalk1.jpg">
 
