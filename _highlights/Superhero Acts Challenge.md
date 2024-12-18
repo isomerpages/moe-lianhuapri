@@ -4,10 +4,9 @@ permalink: /superhero-acts-challenge/
 variant: markdown
 description: ""
 ---
-
 <style>
         table {
-            width: 60%; /* Adjust table width */
+            width: 50%; /* Adjust table width */
             margin: 20px auto; /* Center the table */
             border-collapse: collapse; /* Clean spacing */
         }
