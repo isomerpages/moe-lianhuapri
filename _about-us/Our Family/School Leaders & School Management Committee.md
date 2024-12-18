@@ -39,13 +39,15 @@ td {
     <th></th>
     <th></th>
     <th></th>
+		<th></th>
   </tr>
 	</thead>
 	<tbody>
   <tr>
     <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal (EO)</td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
   </tr>
   <tr>
     <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
