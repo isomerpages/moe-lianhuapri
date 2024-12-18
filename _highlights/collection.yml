@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Superhero Passion Project.md
       - Superheroes Vision.md
       - Superheroes Pets.md
       - Superhero Talks for Young Minds.md
