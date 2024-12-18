@@ -4,6 +4,23 @@ permalink: /superhero-acts-challenge/
 variant: markdown
 description: ""
 ---
+
+<style>
+        table {
+            width: 60%; /* Adjust table width */
+            margin: 20px auto; /* Center the table */
+            border-collapse: collapse; /* Clean spacing */
+        }
+        td {
+            padding: 10px; /* Adds space around images */
+            text-align: center; /* Centers images in the cell */
+        }
+        img {
+            width: 150px; /* Sets image width */
+            height: auto; /* Maintains aspect ratio */
+        }
+</style>
+
 <h2><strong>Superhero Acts Challenge</strong></h2>
 
 <p style="text-align: justify"><i><u>Objective</u></i><br>
@@ -27,61 +44,37 @@ Congratulations once again!
 Stay tuned for updates and golden ticket sightings! It's going to be an adventure-filled year as we embark on this wonderful journey together!  
 </p>
 
-<style>
-        table {
-            width: 60%; /* Adjust table width */
-            margin: 20px auto; /* Center the table */
-            border-collapse: collapse; /* Clean spacing */
-        }
-        td {
-            padding: 10px; /* Adds space around images */
-            text-align: center; /* Centers images in the cell */
-        }
-        img {
-            width: 150px; /* Sets image width */
-            height: auto; /* Maintains aspect ratio */
-        }
-    </style>
-
-    <table>
-        
+<table>
         <tbody><tr>
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture1.jpg"></td>
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture2.jpg"></td>
         </tr>
-        
         <tr>
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture3.jpg"></td>
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture4.jpg"></td>
         </tr>
-        
         <tr>
-            <td><img alt="Image 5" src="image5.jpg"></td>
-            <td><img alt="Image 6" src="image6.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture5.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture6.jpg"></td>
         </tr>
-        
         <tr>
-            <td><img alt="Image 7" src="image7.jpg"></td>
-            <td><img alt="Image 8" src="image8.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture7.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture8.jpg"></td>
         </tr>
-        
         <tr>
-            <td><img alt="Image 9" src="image9.jpg"></td>
-            <td><img alt="Image 10" src="image10.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture9.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture10.jpg"></td>
         </tr>
-        
-        <tr>
-            <td><img alt="Image 11" src="image11.jpg"></td>
-            <td><img alt="Image 12" src="image12.jpg"></td>
+            <tr>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture11.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture12.jpg"></td>
         </tr>
-        
         <tr>
-            <td><img alt="Image 13" src="image13.jpg"></td>
-            <td><img alt="Image 14" src="image14.jpg"></td>
-        </tr>
-        
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture13.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture14.jpg"></td>
+        </tr>  
         <tr>
-            <td><img alt="Image 15" src="image15.jpg"></td>
-            <td><img alt="Image 16" src="image16.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture15.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture16.jpg"></td>
         </tr>
     </tbody></table>
