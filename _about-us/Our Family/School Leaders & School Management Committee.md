@@ -51,15 +51,15 @@ td {
   </tr>
   <tr> 
 		<td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg"> Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P1, P2 &amp; P6 </td>
-    <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P3, P4 &amp; P5 </td>
-		
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P3 &amp; P4 </td>
+    <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P5 &amp; P6 </td>
 	<td><br><br><br></td>
   </tr>
   <tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language (Covering) </td>
   </tr>
   <tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
