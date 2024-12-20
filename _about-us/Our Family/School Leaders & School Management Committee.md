@@ -14,6 +14,7 @@ table {
 	border-collapse: collapse;
 	margin-top: 20px;
 	max-width: 600px;
+	font-size: 14px;
 }
 
 th, td {
@@ -59,12 +60,13 @@ td {
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
   </tr>
 		<tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>SSD</td>
-			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
+			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mdm Ong Ee Lee<br>HOD Science</td>
+						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
 	</tr>
   <tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
