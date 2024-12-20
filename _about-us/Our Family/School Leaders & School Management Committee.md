@@ -58,19 +58,19 @@ td {
   <tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Lang </td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language (Covering) </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language</td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
   </tr>
-  <tr>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
-  </tr>
-  <tr>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
+		<tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>SSD</td>
+			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
 	</tr>
+  <tr>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
+  </tr>
 	<tr>
 	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
 		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>LH Science </td>
