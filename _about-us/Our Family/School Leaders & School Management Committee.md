@@ -84,7 +84,7 @@ td {
   		<td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science (Internal) </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image17.png"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
 		</tr>
 		 <tr>
 			 <td><img src="/images/About%20us/School%20Staff/.jpg"> Ms Angeline Ow<br>Assistant Year Head P1/P2 </td>
