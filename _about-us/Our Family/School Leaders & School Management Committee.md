@@ -89,7 +89,7 @@ td {
 		 <tr>
 			 <td><img src="/images/About%20us/School%20Staff/.jpg"> Ms Angeline Ow<br>Assistant Year Head P1/P2 </td>
 	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
-			 <td><img src="/images/About%20us/School%20Staff/.jpg"> Ms K Pavitra<br>Assistant Year Head P5/P6</td>
+			 <td><img src="/images/About%20us/School%20Staff/.jpg"> Ms K Pavitra<br>Assistant Year Head P5/P6 (internal)</td>
 			 <td></td>
       </tr>
 	  <tr>
