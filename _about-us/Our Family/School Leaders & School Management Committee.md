@@ -10,7 +10,7 @@ variant: markdown
 <style>
  
 table {
-	width: 75%;
+	width: 100%;
 	border-collapse: collapse;
 	margin-top: 20px;
 	max-width: 600px;
