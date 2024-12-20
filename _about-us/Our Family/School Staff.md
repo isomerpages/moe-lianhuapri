@@ -479,18 +479,17 @@ td span{
     <tbody>
 			<tr>
 				<td>6 Resilience 1</td>
-				<td>Ms Gracia Ee En<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]</td>
+				<td>Ms <br>Ms </td>
 				<td><a href="mailto:gracia_ee_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">gracia_ee_en@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
   <tr>
     <td>6 Resilience 2</td>
-    <td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mr Willie Wong Weng Seng</td>
-    <td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a></td>
-  </tr>
+    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Mdm Maggie Fong Pui Yi</td>
+    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg
 			
-  <tr>
+  </span></a></td></tr><tr>
     <td>6 Resilience 3</td>
     <td>Mdm Po Mun Ying<br>Mr Ramadhan Bin Omar</td>
     <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a></td>
