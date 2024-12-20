@@ -66,12 +66,13 @@ td {
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
 			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mdm Ong Ee Lee<br>HOD Science</td>
-						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/image11.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
+						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
 	</tr>
   <tr>
+		   <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg"> Ms Lim Siew Chin<br>HOD PE-CCA  </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrAdibAzadBinJasman.jpg"> Mr Adib Azad<br>HOD PE-CCA  </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/.jpg"> Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
   </tr>
 	<tr>
 	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
