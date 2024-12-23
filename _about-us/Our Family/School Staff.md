@@ -500,8 +500,9 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
   </span></a></td></tr><tr>
     <td>6 Resilience 5</td>
-    <td>Mdm <br>Mr Willie Wong Weng Seng<br>Mr Fadial B Jamaludin</td>
-    <td><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a><br><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a></td>
+    <td>Ms Foo Ru Yuan Sheena<br>Mr Willie Wong Weng Seng<br>Mr Fadial B Jamaludin</td>
+    <td><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a><br><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
