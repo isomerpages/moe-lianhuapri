@@ -274,8 +274,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
   <tr>
     <td>3 Compassion 5</td>
-    <td>Mdm <br>Mdm Yang Fan<br>Mr Mohammad Faizal Bin Ismail</td>
-    <td><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a><br><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
+    <td>Mdm Chua Yi Ling<br>Mdm Yang Fan<br>Mr Mohammad Faizal Bin Ismail</td>
+    <td><a href="mailto:chua_yi_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_yi_ling@moe.edu.sg</span></a><br><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -286,8 +286,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
  <tr>
     <td>3 Compassion 7</td>
-    <td>Mdm Jalifah Bte Ismail<br>Mr</td>
-    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">low_teck_chye_vincent@moe.edu.sg</span></a></td>
+    <td>Mdm Jalifah Bte Ismail<br>Ms Chua Ee Wen Eileen</td>
+    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
   </tr>
 			
 </tbody></table>
