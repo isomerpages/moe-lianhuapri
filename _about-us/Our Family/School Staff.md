@@ -111,8 +111,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
   <tr>
     <td>1 Discipline 6</td>
-    <td>Mdm Norlailawati Bte Osman<br>Mr </td>
-    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a></td>
+    <td>Mdm Norlailawati Bte Osman<br>Ms Tan Li Yan</td>
+    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
