@@ -444,8 +444,6 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 
 <h4><strong>Primary Six Teachers</strong></h4>
 	
-
-  
   <table>
     <thead>
       <tr>
@@ -462,8 +460,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
   </tr>
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
-    <td>Mdm  </td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a></td>
+    <td>Ms Pavitra Kanaiah</td>
+    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
 </tr>
 </tbody></table>	
 	
@@ -479,8 +477,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
     <tbody>
 			<tr>
 				<td>6 Resilience 1</td>
-				<td>Ms <br>Ms </td>
-				<td><a href="mailto:gracia_ee_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">gracia_ee_en@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a>
+				<td>Mdm Shanthini Radha Krishnan<br>Ms Lu Ching Ching</td>
+				<td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:lu_ching_ching@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lu_ching_ching@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
