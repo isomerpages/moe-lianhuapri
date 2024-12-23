@@ -256,7 +256,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
   </tr>
   <tr>
     <td>3 Compassion 2</td>
-    <td>Ms Amelia Lee<br>Ms Lee Jieying Edelyn<br> [Senior Teacher/ Physical Education]</td>
+    <td>Ms Amelia Lee<br>Ms Lee Jieying Edelyn</td>
     <td><a href="mailto:amelia_lee_wan_qing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">amelia_lee_wan_qing@moe.edu.sg</span></a><br><a href="mailto:lee_jieying_edelyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_jieying_edelyn@moe.edu.sg</span></a></td>
   </tr>
 			
