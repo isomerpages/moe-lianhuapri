@@ -268,8 +268,8 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
   <tr>
     <td>3 Compassion 4</td>
-    <td>Mr Zainul Bin Rahim Shaffee<br>Mrs Alexis Pua - Toh Wei Zeng<br>Mdm</td>
-    <td><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a></td>
+    <td>Mr Zainul Bin Rahim Shaffee<br>Mrs Alexis Pua - Toh Wei Zeng<br>Mdm Kuan Suan Shi</td>
+    <td><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
