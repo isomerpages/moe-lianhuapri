@@ -99,7 +99,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 			
   <tr>
     <td>1 Discipline 4</td>
-    <td>Ms Rabiatuladawiyah Gulam Ashraf<br>Ms Soh Fang Ying</td>
+    <td>Mdm Rabiatuladawiyah Gulam Ashraf<br>Ms Soh Fang Ying</td>
     <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:soh_fang_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">soh_fang_ying@moe.edu.sg</span></a></td>
   </tr>
 			
@@ -138,7 +138,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 <tbody>
   <tr>
     <td>Year Head<br>(P1 &amp; P2)</td>
-    <td>Mrs </td>
+    <td>Ms Christina Hoon</td>
     <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
