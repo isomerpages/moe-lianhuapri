@@ -64,17 +64,5 @@ Stay tuned for updates and golden ticket sightings! It's going to be an adventur
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture9.jpg"></td>
             <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture10.jpg"></td>
         </tr>
-            <tr>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture11.jpg"></td>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture12.jpg"></td>
-        </tr>
-        <tr>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture13.jpg"></td>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture14.jpg"></td>
-        </tr>  
-        <tr>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture15.jpg"></td>
-            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture16.jpg"></td>
-        </tr>
     </tbody>
 </table>
