@@ -12,3 +12,21 @@ The project kicks off during the June holidays, allowing students to explore the
 <br><br>
 The Passion Project at LHPS is not solely focused on the final product, but rather on the journey of exploration, creativity, and personal growth. As they engage with their chosen topic, students not only deepen their knowledge but also develop critical skills such as perseverance, problem-solving, and creative thinking. The program encourages students to reflect on who they are, what they care about, and how they can make a meaningful impact on the world around them.
 </p>
+
+
+<table>
+        <tbody>
+            <tr>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture11.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture12.jpg"></td>
+        </tr>
+        <tr>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture13.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture14.jpg"></td>
+        </tr>  
+        <tr>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture15.jpg"></td>
+            <td><img src="/images/Highlights/Superhero%20Acts%20Challenge/Picture16.jpg"></td>
+        </tr>
+    </tbody>
+</table>
