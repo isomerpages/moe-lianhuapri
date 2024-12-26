@@ -11,7 +11,6 @@ variant: markdown
 
 <h2><strong>2025 Booklists</strong></h2>
 
-[](/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf)
 
 <p><a href="/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf" target="_blank">2025 P1 Booklist</a><br>
 <a href="/files/For%20Parents/2025%20booklists/2025_P2Booklist.pdf" target="_blank">2025 P2 Booklist</a>
