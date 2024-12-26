@@ -11,18 +11,20 @@ variant: markdown
 
 <h2><strong>2025 Booklists</strong></h2>
 
-<p><a href="/files/Forms/2024_P1_Booklist.pdf" target="_blank">2025 P1 Booklist</a><br>
+[](/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf)
+
+<p><a href="/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf" target="_blank">2025 P1 Booklist</a><br>
 <a href="/files/Forms/2024_P2_Booklist.pdf" target="_blank">2025 P2 Booklist</a>
 <br>
-<a href="/files/Forms/2024_P3_Booklist.pdf" target="_blank">2024 P3 Booklist</a>
+<a href="/files/Forms/2024_P3_Booklist.pdf" target="_blank">2025 P3 Booklist</a>
 <br>
-<a href="/files/Forms/2024_p4_Booklist.pdf" target="_blank">2024 P4 Booklist</a><br>
-<a href="/files/Forms/2024_p5_booklist_standard.pdf" target="_blank">2024 P5 Booklist (Standard)</a>
+<a href="/files/Forms/2024_p4_Booklist.pdf" target="_blank">2025 P4 Booklist</a><br>
+<a href="/files/Forms/2024_p5_booklist_standard.pdf" target="_blank">2025 P5 Booklist (Standard)</a>
 <br>
-<a href="/files/Forms/2024_p5_booklist_foundation.pdf" target="_blank">2024 P5 Booklist (Foundation)</a>
+<a href="/files/Forms/2024_p5_booklist_foundation.pdf" target="_blank">2025 P5 Booklist (Foundation)</a>
 <br>
-<a href="/files/Forms/2024_p6_booklist_standard.pdf" target="_blank">2024 P6 Booklist (Standard)</a><br>
-<a href="/files/Forms/2024_p6_booklist_foundation.pdf" target="_blank">2024 P6 Booklist (Foundation)</a></p>
+<a href="/files/Forms/2024_p6_booklist_standard.pdf" target="_blank">2025 P6 Booklist (Standard)</a><br>
+<a href="/files/Forms/2024_p6_booklist_foundation.pdf" target="_blank">2025 P6 Booklist (Foundation)</a></p>
 
 
 <h2><strong>Service Providers</strong></h2>
