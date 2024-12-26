@@ -5,92 +5,112 @@ description: ""
 third_nav_title: Our Family
 variant: markdown
 ---
-# Executive &amp; Administrative Staff
-
+<h1><strong>Executive &amp; Administrative Staff</strong></h1>
 
 <style>
- 
 table {
-	width: 75%;
-	border-collapse: collapse;
-	margin-top: 20px;
-	max-width: 600px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
 }
 
-th, td {
-      border: 1px solid #dddddd;
-      text-align: left;
-      padding: 12px;
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
-th {
-	background-color: #FFFFFF;
-	width: 25%;
-}
-	
-td { 
-			text-align: center !important;  
-			width: 25%;
+tr:nth-child(even) {
+  background-color: #dddddd;
 }
 </style>
 
-<h5><strong>Executive &amp; Administrative Staff</strong></h5>
+
+
+<h4>Executive &amp; Administrative Staff</h4>
 
 <table>
-	<thead>
-  <tr>
+  <tbody><tr>
     <th></th>
     <th></th>
-    <th></th>
-  </tr>
-	</thead>
-	<tbody>
-  <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmChanSiewHoon.jpg"> Mdm Chan Siew Hoon<br>Admin Manager</td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrThengYinChye.jpg"> Mr Theng Yin Chye<br>Operations Manager</td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrRamanathanAlagappan.jpg"> Mr Ramanathan Alagappan<br>Operations Manager</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/FengYing.jpg">Ms Phuay Feng Ying<br>ICT Associate </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsTanJingHer.jpg">Ms Tan Jing Her<br>Admin Executive</td>
-    <td><br><br><br><br><br><br><br><br><br><br><br>Admin Executive</td>
+    <td>Mdm Chan Siew Hoon</td>
+    <td>Admin Manager</td>
   </tr>
   <tr>
-    <td> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsLeeChuiLian.jpg">Ms Lee Chui Lian<br>CSO </td>
-			<td> <img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsNurashikinBinteMohdRashid.jpg">Ms Nurashikin Binte Mohd Rashid<br>CSO </td>
-			<td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmLaiChooiLan.jpg"> Mdm Lai Choon Lan<br>Receptionist</td>
+    <td>Mr Ramanathan Alagappan</td>
+    <td>Operations Manager</td>
   </tr>
   <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS10.jpg"> Mdm Muthu Selvi<br>OSO </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS11.jpg">Mdm Nianamal D/O O K Naina Mohamed<br>OSO </td>
-     <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/EAS9.jpg">Mdm Tan Ah Kim<br>OSO </td>
+    <td>Ms Siti Nurbaiyah Jaffar</td>
+    <td>ICT Manager</td>
   </tr>
-	  <tr>
-    <td><br><br><br><br><br><br><br><br><br> Mdm Maheswari D/O Krishnan<br>OSO </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrTanJuiYong.jpg">Mr Tan Jui Yong<br>OSO </td>
-     <td><br></td>
+  <tr>
+    <td>Ms Phuay Feng Ying</td>
+    <td>ICT Associate</td>
   </tr>
-	</tbody>
-</table>
+  <tr>
+    <td>Ms Tan Jing Her</td>
+    <td>Admin Executive</td>
+  </tr>
+  <tr>
+    <td>Ms Nurashikin Binte Mohd Rashid</td>
+    <td>Corporate Support Officer</td>
+  </tr>
+	<tr>
+    <td>Mdm Lai Choon Lan</td>
+    <td>Receptionist</td>
+  </tr>
+	<tr>
+    <td>Mdm Muthu Selvi</td>
+    <td>Operations Support Officer</td>
+  </tr>
+	<tr>
+    <td>Mdm Nianamal D/O O K Naina Mohamed</td>
+    <td>Operations Support Officer</td>
+  </tr>
+	<tr>
+    <td>Mdm Tan Ah Kim</td>
+    <td>Operations Support Officer</td>
+  </tr>
+	<tr>
+    <td>Mdm Maheswari D/O Krishnan</td>
+    <td>Operations Support Officer</td>
+  </tr>
+	<tr>
+    <td>Mr Tan Jui Yong</td>
+    <td>Operations Support Officer</td>
+  </tr>
+	</tbody></table>
 
-<h5><strong>Support Staff</strong></h5>
+<h4>Support Staff</h4>
+	
 <table>
-	<thead>
-		<tr>
-			<th></th>
-			<th></th>
-			<th></th>
-		</tr>
-	</thead>
-	<tbody>
-  <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MsSimBeeHongAbigail.jpg">Ms Sim Bee Hong Abigail<br>Librarian</td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrIkhmal.jpg">Mr Syahirul Ikhmal Bin Shamsuddin <br>Desktop Engineer</td>
-		<td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrLohYaoZuJoe.jpg">Mr Joe<br>Desktop Engineer</td>
+  <tbody><tr>
+    <th></th>
+    <th></th>
   </tr>
-   <tr>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MrMazlanBinAmat.jpg"> Mr Mazlan Bin Amat<br>Security Officer </td>
-    <td><img src="/images/About%20us/Executive%20&amp;%20Admin%20Staff/MdmNirmalaDOKKrishnan.jpg">Mdm Nirmala D/O K Krishnan<br>Security Officer</td>
-		</tr>
-	</tbody>
-	</table>
+  <tr>
+    <td>Ms Sim Bee Hong Abigail</td>
+    <td>Librarian</td>
+  </tr>
+  <tr>
+    <td>Mr Syahirul Ikhmal Bin Shamsuddin</td>
+    <td>Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td>Mr Denzel Yap Zhen Rong </td>
+    <td>Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td>Mr Mazlan Bin Amat</td>
+    <td>Security Officer</td>
+  </tr>
+  <tr>
+    <td>Mdm Nirmala D/O K Krishnan</td>
+    <td>Security Officer</td>
+  </tr>
+ 	</tbody></table>
+	
+

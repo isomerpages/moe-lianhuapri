@@ -9,19 +9,21 @@ variant: markdown
 <h2><strong>Student Admin</strong></h2>
 <p><a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang</a><br><a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL</a><br><a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway</a><br><a href="/files/Forms/leave-of-absence-form.pdf" target="_blank">leave-of-absence-form</a><br><a href="/files/Forms/Request%20for%20Transfer%20In-Admission.pdf" target="_blank">Request for Transfer In-Admission</a></p>
 
-<h2><strong>2024 Booklists</strong></h2>
-<p><a href="/files/Forms/2024_P1_Booklist.pdf" target="_blank">2024 P1 Booklist</a><br>
-<a href="/files/Forms/2024_P2_Booklist.pdf" target="_blank">2024 P2 Booklist</a>
+<h2><strong>2025 Booklists</strong></h2>
+
+
+<p><a href="/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf" target="_blank">2025 P1 Booklist</a><br>
+<a href="/files/For%20Parents/2025%20booklists/2025_P2Booklist.pdf" target="_blank">2025 P2 Booklist</a>
 <br>
-<a href="/files/Forms/2024_P3_Booklist.pdf" target="_blank">2024 P3 Booklist</a>
+<a href="/files/For%20Parents/2025%20booklists/2025_P3Booklist.pdf" target="_blank">2025 P3 Booklist</a>
 <br>
-<a href="/files/Forms/2024_p4_Booklist.pdf" target="_blank">2024 P4 Booklist</a><br>
-<a href="/files/Forms/2024_p5_booklist_standard.pdf" target="_blank">2024 P5 Booklist (Standard)</a>
+<a href="/files/For%20Parents/2025%20booklists/2025_P4Booklist.pdf" target="_blank">2025 P4 Booklist</a><br>
+<a href="/files/For%20Parents/2025%20booklists/2025_P5Booklist.pdf" target="_blank">2025 P5 Booklist (Standard)</a>
 <br>
-<a href="/files/Forms/2024_p5_booklist_foundation.pdf" target="_blank">2024 P5 Booklist (Foundation)</a>
+<a href="/files/For%20Parents/2025%20booklists/2025_P5F_Booklist.pdf" target="_blank">2025 P5 Booklist (Foundation)</a>
 <br>
-<a href="/files/Forms/2024_p6_booklist_standard.pdf" target="_blank">2024 P6 Booklist (Standard)</a><br>
-<a href="/files/Forms/2024_p6_booklist_foundation.pdf" target="_blank">2024 P6 Booklist (Foundation)</a></p>
+<a href="/files/For%20Parents/2025%20booklists/2025_P6Booklist.pdf" target="_blank">2025 P6 Booklist (Standard)</a><br>
+<a href="/files/For%20Parents/2025%20booklists/2025_P6F_Booklist.pdf" target="_blank">2025 P6 Booklist (Foundation)</a></p>
 
 
 <h2><strong>Service Providers</strong></h2>

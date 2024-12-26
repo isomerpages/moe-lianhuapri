@@ -52,9 +52,9 @@ td {
     <td><img src="/images/About%20us/Our%20Family/amosleonghongkiat.jpg"> Mr Amos Leong Hong Kiat<br>Member</td>
     <td><img src="/images/About%20us/Our%20Family/estherfoongtan.jpg">Mrs Esther Foong-Tan<br>Member</td>
   </tr>
-  <tr>
-    <td></td>
-			<td><img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg">Ms Pamela Kiew<br>Member </td>
-			<td>   </td>
+		  <tr>
+			<td><img src="/images/About%20us/Our%20Family/Mr_Ang_Ying_Thye.jpg">Mr Ang Ying Thye<br>Member </td>
+				<td><img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg">Ms Pamela Kiew<br>Member </td>
   </tr>
+
   </tbody></table>
