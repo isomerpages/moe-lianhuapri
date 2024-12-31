@@ -48,7 +48,7 @@ td {
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal (EO) </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal (EO)</td>
-		<td><br><br><br><br><br><br><br><br>Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
+		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrJefferyLee.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
   </tr>
   <tr> 
 		<td><br><br><br><br><br><br><br><br>Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
