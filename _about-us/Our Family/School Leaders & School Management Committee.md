@@ -51,7 +51,7 @@ td {
 		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrJefferyLee.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
   </tr>
   <tr> 
-		<td><br><br><br><br><br><br><br><br>Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
+		<td><img style="width: 80%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P3 &amp; P4 </td>
     <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P5 &amp; P6 </td>
 	<td><br><br><br></td>
