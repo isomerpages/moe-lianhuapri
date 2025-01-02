@@ -87,7 +87,7 @@ td {
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
 		</tr>
 		 <tr>
-			 <td><br><br><br><br><br><br><br><br>Ms Angeline Ow<br>Assistant Year Head P1/P2 </td>
+			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAngelineHoh.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
 	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
 			 <td><br><br><br><br><br><br><br><br>Ms K Pavitra<br>Assistant Year Head P5/P6 (internal)</td>
 			 <td></td>
