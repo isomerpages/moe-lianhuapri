@@ -62,7 +62,7 @@ td span{
   <tr>
     <td>Assistant Year Head<br>(P1 &amp; P2)</td>
     <td>Ms Angeline Ow May Ling</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a></td>
+    <td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 <p></p>
