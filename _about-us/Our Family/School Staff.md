@@ -287,7 +287,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
  <tr>
     <td>3 Compassion 7</td>
     <td>Mdm Jalifah Bte Ismail<br>Ms Chua Ee Wen Eileen</td>
-    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
   </tr>
 			
 </tbody></table>
