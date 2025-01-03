@@ -10,7 +10,7 @@ variant: markdown
 th, td{
   border: 1px solid black;
 	font-size: 16px;
-	text-align: justify;
+	text-align: justify; 
 }
 </style>
 <table style="width:100%">
