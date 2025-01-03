@@ -57,12 +57,12 @@ td span{
   <tr>
     <td>Year Head<br>(P1 &amp; P2)</td>
     <td>Ms Christina Hoon </td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a></td>
+    <td><a href="mailto:hoon_christina@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hoon_christina@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td>Assistant Year Head<br>(P1 &amp; P2)</td>
     <td>Ms Angeline Ow May Ling</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a></td>
+    <td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 <p></p>
@@ -80,21 +80,21 @@ td span{
 				<td>1 Discipline 1</td>
 				<td>Ms Angeline Ow May Ling<br>Mdm Norhayati Bte Ruhani  
 [Senior Teacher/ Malay Language]</td>
-				<td><a href="mailto:Poh_Jing_Wen_Alyssa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a>
+				<td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
   <tr>
     <td>1 Discipline 2</td>
     <td>Mdm Ma Su Lin Jacqueline<br>Ms Lim Chiau Ling<br>Mdm Norlaili Mustaffa</td>
-    <td><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a><br><a href="mailto:
+    <td><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:lim_chiau_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chiau_ling@moe.edu.sg</span></a><br><a href="mailto:
 norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlaili_mustaffa@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>1 Discipline 3</td>
     <td>Mdm Jagjit Kaur<br>Ms Choo Yen Leng Josephine</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">@moe.edu.sg</span></a><br><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a></td>
+    <td><a href="mailto:jagjit_kaur_parmjit_singh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jagjit_kaur_parmjit_singh@moe.edu.sg</span></a><br><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -118,7 +118,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
  <tr>
     <td>1 Discipline 7</td>
     <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>Mdm Lee Peir Chuang</td>
-    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
+    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
   </tr>	
 			
 
@@ -139,12 +139,12 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
   <tr>
     <td>Year Head<br>(P1 &amp; P2)</td>
     <td>Ms Christina Hoon</td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:hoon_christina@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hoon_christina@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td>Assistant Year Head (P1 &amp; P2)</td>
     <td>Ms Angeline Ow May Ling</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a></td>
+    <td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 	
@@ -175,7 +175,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
     <td>2 Respect 3</td>
     <td>Mdm Norhani Bte Sahar<br>
 [Senior Teacher/ Educational Support]<br>Mdm Tan Jye En <br>Ms Hilda Goh</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
+    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -287,7 +287,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
  <tr>
     <td>3 Compassion 7</td>
     <td>Mdm Jalifah Bte Ismail<br>Ms Chua Ee Wen Eileen</td>
-    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
   </tr>
 			
 </tbody></table>
@@ -368,8 +368,6 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 </tbody></table>
 
 <h4><strong>Primary Five Teachers</strong></h4>
-	
-
   
   <table>
     <thead>
@@ -388,12 +386,12 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
     <td>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+pavitra_kanaiah@moe.edu.sg</span></a></td>
 </tr>
 	
 </tbody></table>	
 
-	
  
 <table>
     <thead>
@@ -409,18 +407,18 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari</td>
 				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a>
 	</td>
-				
   </tr>
   <tr>
     <td>5 Unity 2</td>
-    <td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+				<td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
+				<td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a><br><a href="mailto:wong_jing_mei_joyce@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jing_mei_joyce@moe.edu.sg</span></a>
+	</td>
   </tr>
 			
   <tr>
     <td>5 Unity 3</td>
     <td>Mdm Po Mun Ying<br>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -461,7 +459,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
     <td>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 	
