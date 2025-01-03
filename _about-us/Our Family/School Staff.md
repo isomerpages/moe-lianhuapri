@@ -368,8 +368,6 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 </tbody></table>
 
 <h4><strong>Primary Five Teachers</strong></h4>
-	
-
   
   <table>
     <thead>
@@ -388,12 +386,12 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
     <td>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+pavitra_kanaiah@moe.edu.sg</span></a></td>
 </tr>
 	
 </tbody></table>	
 
-	
  
 <table>
     <thead>
@@ -409,12 +407,12 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
 				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari</td>
 				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a>
 	</td>
-				
   </tr>
   <tr>
     <td>5 Unity 2</td>
-    <td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+				<td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
+				<td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a><br><a href="mailto:wong_jing_mei_joyce@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jing_mei_joyce@moe.edu.sg</span></a>
+	</td>
   </tr>
 			
   <tr>
