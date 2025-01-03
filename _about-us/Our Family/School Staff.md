@@ -94,7 +94,7 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
   <tr>
     <td>1 Discipline 3</td>
     <td>Mdm Jagjit Kaur<br>Ms Choo Yen Leng Josephine</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">@moe.edu.sg</span></a><br><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a></td>
+    <td><a href="mailto:jagjit_kaur_parmjit_singh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jagjit_kaur_parmjit_singh@moe.edu.sg</span></a><br><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -139,12 +139,12 @@ norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:under
   <tr>
     <td>Year Head<br>(P1 &amp; P2)</td>
     <td>Ms Christina Hoon</td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:hoon_christina@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hoon_christina@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td>Assistant Year Head (P1 &amp; P2)</td>
     <td>Ms Angeline Ow May Ling</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">  </span></a></td>
+    <td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 	
