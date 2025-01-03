@@ -418,7 +418,7 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
   <tr>
     <td>5 Unity 3</td>
     <td>Mdm Po Mun Ying<br>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -459,7 +459,7 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
     <td>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
 </tr>
 </tbody></table>	
 	
