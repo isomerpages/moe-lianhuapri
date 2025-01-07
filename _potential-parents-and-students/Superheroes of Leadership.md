@@ -26,7 +26,7 @@ variant: markdown
     <td><p style="text-align: justify;">Kartikeya is a highly disciplined student who consistently demonstrates self-control, focus, and adherence to rules and routines. As a prefect and class monitor, he led the class well and helped the teachers maintain discipline. He managed his time well, completed tasks responsibly, and maintained a strong work ethic at all times. He was able to lead as a prefect and still ensured that the quality of his work was not compromised. Kartikeya's determination was evident in his pursuit of learning Chinese, a language that is not his mother tongue. His resilience in this was admirable and a great role model to other students. If he encountered any problem, he would not give up and tried his best to look for a solution.
 Kartikeya was a dependable prefect core team member and class monitor who had proven his reliability and resourcefulness. His respectfulness, resilience, discipline, and collaborative spirit all contributed to his high level of commitment in the pursuit of excellence in many areas.</p>
 		</td>
-    <td> <img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Leadership/.png" style="width:7000px">  </td>
+    <td> <img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Leadership/KartikeyaSivaNithian.jpg" style="width:7000px">  </td>
   </tr>
 </tbody>
 </table>
@@ -46,7 +46,7 @@ Kartikeya was a dependable prefect core team member and class monitor who had pr
 Not only was Khayla consistently respectful towards teachers and peers, she was also well-respected by her peers in return. She demonstrated this during core team and classroom discussions, where she appreciated and valued opinions and perspectives of others in her team. As the chairperson of Gamelan, she led the members when the instructor was not around. One of the ways in which she helped was by tapping and counting the beats for the members to follow, allowing the practice to continue even in the absence of the instructor. She was also an encouraging leader as she motivates her members by rewarding them with little incentives of treats at the end of the CCA session. 
 She believes in helping others and when she is unable to provide support, she tries to think of alternative solutions to provide assistance. She was dependable and teachers had no qualms tasking her with different responsibilities, trusting that she would be able to complete the task well. Her open-mindedness, proactive nature, and cheerful disposition were able to bring people together effectively and work towards a common goal.</p>
 		</td>
-    <td> <img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Leadership/.png" style="width:7000px">  </td>
+    <td> <img src="/images/Potential%20Parents%20&amp;%20Students/Superheroes%20of%20Leadership/KhaylaAmilyBinteMohamadKhaidir.jpg" style="width:7000px">  </td>
   </tr>
 </tbody>
 </table>
@@ -86,5 +86,3 @@ She believes in helping others and when she is unable to provide support, she tr
   </tr>
 </tbody>
 </table>
-
-
