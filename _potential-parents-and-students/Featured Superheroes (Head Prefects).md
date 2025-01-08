@@ -10,6 +10,7 @@ variant: markdown
 th, td{
   border: 1px solid black;
 	font-size: 16px;
+	text-align: justify; 
 }
 </style>
 <table style="width:100%">
@@ -17,6 +18,11 @@ th, td{
     <th width="25%">Head Prefect</th>
     <th width="40%">Write-up</th>
     <th width="35%"></th>
+  </tr>
+		<tr>
+    <td>KUAN JING LING <br>(2023-2024)</td>
+    <td>Serving Lianhua as Head Prefect has been my greatest honour. Throughout the years I have spent in Lianhua, I have met many amazing people who contributed to the foundation of my character. I remember a key lesson on the power of resilience. Life is full of challenges, unexpected changes, failure and setbacks. Back in 2023, when I was a newly nominated Head Prefect, there were many new responsibilities I had to take such as initiating projects. Not every project was successful or even deemed a good idea. I did not know exactly where the path would lead. There were moments of uncertainty, of hard work that felt unrecognized, and times when I wondered if I was doing enough. But through the diverse experiences throughout the years serving the school, I learnt to bounce back from failure and learnt that setbacks don’t define us. What matters most is how we choose to respond, grow, and evolve from those experiences. I’ve come to understand is that success is not always about getting everything right on the first try. It’s about perseverance—about continuing to show up, even when things aren’t perfect. It's about learning from mistakes, seeking feedback, and pushing forward, even when the going gets tough. </td>
+    <td><img src="/images/Potential%20Parents%20&amp;%20Students/Featured%20Superheroes/KuanJingLing.jpg"></td>
   </tr>
   	<tr>
     <td>MARISSA BINTE MUNIR<br>(2022-2023)</td>
