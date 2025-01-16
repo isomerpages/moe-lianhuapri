@@ -42,6 +42,10 @@ tr:nth-child(even) {
     <td>Mr Ramanathan Alagappan</td>
     <td>Operations Manager</td>
   </tr>
+		  <tr>
+    <td>Mr Goh Yoon Sin</td>
+    <td>Operations Manager</td>
+  </tr>
   <tr>
     <td>Ms Siti Nurbaiyah Jaffar</td>
     <td>ICT Manager</td>
@@ -112,5 +116,3 @@ tr:nth-child(even) {
     <td>Security Officer</td>
   </tr>
  	</tbody></table>
-	
-
