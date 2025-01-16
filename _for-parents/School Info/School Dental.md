@@ -34,11 +34,11 @@ Clinic Handphone: 97835025 (WhatsApp for appointment)
 * 10 March 2025 to 14 Mar 2025
 * 24 March 2025 to 28 March 2025
 
-*In case of clinic closure and emergency treatment is needed such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache, please call/WhatsApp for appointment BEFORE going to Buddy Dental Clinic.*
+*In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.*
 
 **Buddy Dental Clinic**
 
 Dazhong Primary School Clinic Handphone: 91145479<br>
 Address: 35, Bukit Batok Street 32, Singapore 659441
 
-If both dental clinic closed, please contact School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)
+If both dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)
