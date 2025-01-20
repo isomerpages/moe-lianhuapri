@@ -404,8 +404,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>5 Unity 1</td>
-				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari</td>
-				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a>
+				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
+				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
 	</td>
   </tr>
   <tr>
@@ -417,8 +417,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 			
   <tr>
     <td>5 Unity 3</td>
-    <td>Mdm Po Mun Ying<br>Ms Pavitra Kanaiah</td>
-    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
+    <td>Mdm Po Mun Ying<br>Ms Pavitra Kanaiah<br>Mdm Yang Fan</td>
+    <td><a href="mailto:po_mun_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">po_mun_ying@moe.edu.sg</span></a><br><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a><br><a href="mailto:yang_fan_b@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yang_fan_b@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
