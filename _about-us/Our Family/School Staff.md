@@ -343,8 +343,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 			
   <tr>
     <td>4 Integrity 3</td>
-    <td>Mrs Emily Chia<br>Mdm Subathra D/O Govindasamy</td>
-    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a></td>
+    <td>Mrs Emily Chia<br>Ms Chua Ee Wen Eileen</td>
+    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
