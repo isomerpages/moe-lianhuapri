@@ -105,8 +105,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 			
   <tr>
     <td>1 Discipline 5</td>
-    <td>Ms Shafira Binte Zailani<br>Ms Chen Yimeng Vivian<br>Mdm Ramzaniah Binti Lateh</td>
-    <td><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a><br><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a></td>
+    <td>Mdm Ramzaniah Binti Lateh<br>Ms Chen Yimeng Vivian</td>
+    <td><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
