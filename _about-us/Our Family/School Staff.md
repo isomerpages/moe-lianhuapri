@@ -262,10 +262,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 			
   <tr>
     <td>3 Compassion 3</td>
-    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]<br>Ms Dhanikachalam Ammu Karthika</td>
-    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><br><a href="mailto:
-dhanikachalam_ammu_karthika@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
-dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
+    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]<br>Mdm Dhanikachalam Ammu Karthika</td>
+    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><br><a href="mailto:dhanikachalam_ammu_karthika@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -339,8 +337,8 @@ dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td>4 Integrity 2</td>
-    <td>Ms Yong Hua Moy<br>Mr Wong Ee Meng Samuel<br>[Senior Teacher/ Physical Education]<br>Mdm Dhanikachalam Ammu Karthika</td>
-    <td><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br><br><a href="mailto:dhanikachalam_ammu_karthika@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
+    <td>Ms Yong Hua Moy<br>Mr Wong Ee Meng Samuel<br>[Senior Teacher/ Physical Education]</td>
+    <td><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
