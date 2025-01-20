@@ -262,8 +262,10 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 			
   <tr>
     <td>3 Compassion 3</td>
-    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]</td>
-    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a></td>
+    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]<br>Ms Dhanikachalam Ammu Karthika</td>
+    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><br><a href="mailto:
+dhanikachalam_ammu_karthika@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
