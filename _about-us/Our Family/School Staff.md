@@ -249,8 +249,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Ms Yeo Ai Hui Carrine<br>Mdm Norlieza Bte Ahmad</td>
-				<td><a href="mailto:yeo_ai_hui_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yeo_ai_hui_a@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a>
+				<td>Mdm Norlieza Bte Ahmad<br>Ms Yeo Ai Hui Carrine</td>
+				<td><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a><br><a href="mailto:yeo_ai_hui_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yeo_ai_hui_a@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
