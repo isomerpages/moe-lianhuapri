@@ -38,7 +38,16 @@ Clinic Handphone: 97835025 (WhatsApp for appointment)
 
 **Buddy Dental Clinic**
 
-Dazhong Primary School Clinic Handphone: 91145479<br>
+Dazhong Primary School<br>
+Clinic Handphone: 91145479<br>
 Address: 35, Bukit Batok Street 32, Singapore 659441
 
-If both dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)
+Keming Primary School<br>
+Clinic Handphone: 91149841<br>
+Address: 90 Bukit Batok East Ave 6, Singapore 659762
+
+Princess Elizabeth Primary School<br>
+Clinic Handphone: 91154622<br>
+Address: 30 Bukit Batok West Ave 3, Singapore 659163
+
+If all dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)
