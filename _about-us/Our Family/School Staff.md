@@ -540,23 +540,23 @@ wee_lian_eng@moe.edu.sg</span></a>
   </tr>
 			 <tr>
     <td>Ms Wee Aye Maye</td>
-    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a></td>
+    <td><a href="mailto:wee_aye_maye@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wee_aye_maye@moe.edu.sg</span></a></td>
   </tr>
 			 <tr>
     <td>Ms Wee Soo Ting</td>
-    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a></td>
+    <td><a href="mailto:wee_soo_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wee_soo_ting@moe.edu.sg</span></a></td>
   </tr>
 			 <tr>
     <td>Mr Tan Thong Howe	</td>
-    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a></td>
+    <td><a href="mailto:tan_thong_howe@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_thong_howe@moe.edu.sg</span></a></td>
   </tr>
 			 <tr>
-    <td>Ms Selvarani</td>
-    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a></td>
+    <td>Ms Manickam Selvarani</td>
+    <td><a href="mailto:manickam_selvarani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">manickam_selvarani@moe.edu.sg</span></a></td>
   </tr>
 			 <tr>
-    <td>Mr Hassan	</td>
-    <td><a href="mailto:sheril_aida_ishak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sheril_aida_ishak@moe.edu.sg</span></a></td>
+    <td>Mr Hassan Mohideen Bin Hassan Ibrahim	</td>
+    <td><a href="mailto:hassan_mohideen_hassan_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hassan_mohideen_hassan_ibrahim@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
