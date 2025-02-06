@@ -19,6 +19,6 @@ P4 Parent Briefing slides: <a href="https://drive.google.com/file/d/1OnsGK_8oDGL
 
 <h4><strong>Primary 5 &amp; 6</strong></h4>
 
-P5 Parent Briefing Slides: <a href="https://drive.google.com/file/d/167obezzqGMY5VG3Klwvfm4mu4L0jXjC-/view?usp=sharing">Click here</a><br> 
-P6 Parent Briefing slides: <a href="https://drive.google.com/file/d/1t4BWjPyy8QoFBOHVDvpY0vPqzJ9w9_4e/view?usp=drive_link">Click here</a><br>
-P5/6 DSA, PSLE and SBB: <a href="https://drive.google.com/file/d/12tN4dBy5CxH-Uj85QdlqYoXcFCRXyHDn/view?usp=drive_link">Click here</a><br>
+P5 Parent Briefing Slides: <a href="https://drive.google.com/file/d/1-DcO0tN1DdfAde0nTUcUO5VjVJJpv6YV/view?usp=drive_link">Click here</a><br> 
+P6 Parent Briefing slides: <a href="https://drive.google.com/file/d/1247NeNSL7dfnveodHtX-VbmWC48ufRYX/view?usp=drive_link">Click here</a><br>
+P5/6 DSA, PSLE and SBB: <a href="https://drive.google.com/file/d/1bEnoRbCNB7e_sh3dlMseQz7-lqTfjr-2/view?usp=drive_link">Click here</a><br>
