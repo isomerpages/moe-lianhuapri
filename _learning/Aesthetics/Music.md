@@ -278,8 +278,3 @@ We have also created a Lianhua personalised music video playlist with Times Tabl
 
 <a href="http://qrco.de/lhps" target="_blank">http://qrco.de/lhps</a>
 <br clear="right">
-### **Our Team**
-
-MRS TAY PECK SAN <br>
-MR SIM WEE CHOON <br>
-MS SOH FANG YING <br>
