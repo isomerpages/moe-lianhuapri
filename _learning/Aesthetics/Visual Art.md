@@ -3,6 +3,7 @@ title: Visual Art
 permalink: /learning/aesthetics/visual-art/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 # **Visual Art**
 
@@ -101,11 +102,3 @@ Our school seeks to provide authentic and meaningful learning experiences to inc
 Brainpop -&nbsp;<a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
 National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
 
-### **Our Visual Art Team**
-
-
-![](/images/Learning/Visual%20Art/Visual%20Art%20Dept%20Team%20Photo.jpeg)
-
-MDM LEE GIM FANG <br>
-MS VIVIAN CHEN YIMENG<br>
-MDM AZIZAH <br>
