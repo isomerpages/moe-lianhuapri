@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /learning/physical-education/
 description: ""
+variant: markdown
 ---
 # Physical Education
 
@@ -75,15 +76,3 @@ The Sports Education Programme exposes students to a variety of sports beyond th
 <a href="https://www.myactivesg.com/" target="_blank">Active SG</a>
 
 
-### The Team
-
-![](/images/Learning/Physical%20Education/dept%20pic.jpg)
-
-MR ADIB AZAD BIN JASMAN <br>
-MR WONG EE MENG SAMUEL <br>
-MR LOW TECK CHYE VINCENT <br>
-MR TAN CHIN CHUAN <br>
-MR FOO ZHI BAO JONATHAN <br>
-MS SHAFIRA BINTE ZAILANI <br>
-MR WILLIE WONG WENG SENG <br>
-MR KATHIRAVAN S/O MURUGIAH <br>
