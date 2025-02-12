@@ -103,21 +103,3 @@ List of approved scientific calculators for P5 and P6 students
 KooBits (For P3 &amp; P4 students)    
 <a href="https://member.koobits.com/" target="_blank">https://member.koobits.com/</a>
   
-
-### **The Team**
-
-MS YONG HUA MOY<br>
-MRS ALEXIS PUA<br>
-MS TOH BEE HONG<br>
-MS EDELYN LEE<br>
-MRS EMILY CHIA<br>
-MS JOSEPHINE CHOO<br>
-MRS CHOY-CHUA WAN JUN<br>
-MRS JACQUELINE GOH-MA<br>
-MDM HANA DIYANA<br>
-MDM RUTH LAI<br>
-MS JOLENE NG<br>
-MDM NOOR DAYANA<br>
-MDM PEK PEET JUAN, SHANICE<br>
-MDM RABIATULADAWIYAH<br>
-MR DENNIS WONG<br>
