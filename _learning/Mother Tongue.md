@@ -165,4 +165,3 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 
 <center><iframe width="280" height="271" src="https://www.youtube.com/embed/uWe9KGRafZk" title="YJ CNL Frog enclosure 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 <br>
-
