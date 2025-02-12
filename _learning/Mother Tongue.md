@@ -166,8 +166,3 @@ This year, we are pleased to launch Lianhua FM, where Young Journalists get the 
 <center><iframe width="280" height="271" src="https://www.youtube.com/embed/uWe9KGRafZk" title="YJ CNL Frog enclosure 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 <br>
 
-### The Team
-
-| CHINESE LANGUAGE | MALAY LANGUAGE | TAMIL LANGUAGE |
-| -------- | -------- | -------- |
-|   MDM WOO YEONG YI<br> MS TAN LI YAN<br> MDM LIU CHANG<br> MDM KUAN SUAN SHI<br> MDM KOH WAN TING<br> MDM TAN XIAOHUI<br> MDM TAN JYE EN<br> MDM TOH LI YUH<br> MDM MAGGIE FONG <br> MDM LIN JUN<br> MS ABIGAIL ANG<br> MDM LEE QIAN REN<br> MDM YANG FAN  |  MDM NORHAYATI<br> MR FADIAL<br> MDM ROSNAH<br> MDM NORLIEZA<br> MDM RAMZANIAH<br> MDM SITI AISHAH<br> MS FARAH<br> MR FAIZAL    | MDM SUBATHRA<br> MDM REQHA<br> MS ARSHVINI<br> MDM SLEVARANI   |
