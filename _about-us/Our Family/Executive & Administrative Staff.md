@@ -58,6 +58,10 @@ tr:nth-child(even) {
     <td>Ms Tan Jing Her</td>
     <td>Admin Executive</td>
   </tr>
+		 <tr>
+    <td>Ms Hidayah binte Sidek</td>
+    <td>Admin Executive</td>
+  </tr>
   <tr>
     <td>Ms Nurashikin Binte Mohd Rashid</td>
     <td>Corporate Support Officer</td>
@@ -104,7 +108,7 @@ tr:nth-child(even) {
     <td>Desktop Engineer</td>
   </tr>
   <tr>
-    <td>Mr Denzel Yap Zhen Rong </td>
+    <td>Ms Kgheethanjaly Kathiresan</td>
     <td>Desktop Engineer</td>
   </tr>
   <tr>
