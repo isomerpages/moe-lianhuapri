@@ -21,8 +21,7 @@ variant: markdown
             text-align: left; /* Align table data text to left */
         }
 </style>
-
-    <table>
+<table>
         <tbody><tr>
             <th>Header 1</th>
             <th>Header 2</th>
@@ -48,7 +47,5 @@ variant: markdown
             <td>Row 4, Col 2</td>
             <td>Row 4, Col 3</td>
         </tr>
-    </tbody></table>
-
-
-
+    </tbody>
+ </table>
