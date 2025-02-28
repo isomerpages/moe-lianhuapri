@@ -19,4 +19,4 @@ P6 Parent Briefing slides: <a href="https://drive.google.com/file/d/1247NeNSL7df
 P5/6 DSA, PSLE and SBB: <a href="https://drive.google.com/file/d/1bEnoRbCNB7e_sh3dlMseQz7-lqTfjr-2/view?usp=drive_link">Click here</a><br>
 
 <h4><strong>Parenting for Wellness</strong></h4>
-To access this link: <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf">Click here</a>
+Toolbox for Parents: <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf">Click here</a>
