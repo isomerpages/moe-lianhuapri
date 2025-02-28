@@ -126,7 +126,6 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-  
   <table>
     <thead>
       <tr>
@@ -403,8 +402,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>5 Unity 1</td>
-				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
-				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
+				<td>Ms Wok Li Jun, Elizabeth<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
+				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
 	</td>
   </tr>
   <tr>
