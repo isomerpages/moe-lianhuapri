@@ -13,7 +13,7 @@ variant: markdown
         th {
             border: 2px solid black;
             padding: 10px;
-            text-align: center; /* Align header text to center */
+            text-align: left; /* Align header text to left */
             background-color: #f2f2f2;
         }
         td {
@@ -29,8 +29,13 @@ variant: markdown
             <th>Deadline</th>
         </tr>
         <tr>
-            <td>Row 1, Col 1</td>
-            <td>Row 1, Col 2</td>
+            <td>Inspiring Teacher of English Award (ITEA)</td>
+            <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.<br>
+•	Teaching Award<br>
+•	Leadership Award (for HODs, SHs and LHs)<br>
+http://goodenglish.org.sg/inspiring-teacher-of-english- award/nomination-information 
+
+</td>
             <td>Row 1, Col 3</td>
         </tr>
         <tr>
