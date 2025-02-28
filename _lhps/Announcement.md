@@ -4,23 +4,24 @@ permalink: /lhps/announcement/
 description: ""
 variant: markdown
 ---
-    <style>
+<style>
         table {
             width: 50%;
             border-collapse: collapse;
         }
-        th, td {
+        th {
             border: 1px solid black;
             padding: 10px;
-            text-align: center;
-        }
-        th {
+            text-align: center; /* Align header text to center */
             background-color: #f2f2f2;
         }
-    </style>
+        td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left; /* Align table data text to left */
+        }
+</style>
 
-
-    <h2>Simple Table</h2>
     <table>
         <tbody><tr>
             <th>Header 1</th>
@@ -48,4 +49,6 @@ variant: markdown
             <td>Row 4, Col 3</td>
         </tr>
     </tbody></table>
+
+
 
