@@ -117,8 +117,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 		
  <tr>
     <td>1 Discipline 7</td>
-    <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>Mdm Lee Peir Chuang</td>
-    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
+    <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>[Senior Teacher/Chinese Language]<br>Mdm Lee Peir Chuang</td>
+    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
   </tr>	
 			
 
@@ -126,7 +126,6 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 
 <h4><strong>Primary Two Teachers</strong></h4>
 	
-  
   <table>
     <thead>
       <tr>
@@ -173,9 +172,8 @@ subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:un
 			
   <tr>
     <td>2 Respect 3</td>
-    <td>Mdm Norhani Bte Sahar<br>
-[Senior Teacher/ Educational Support]<br>Mdm Tan Jye En <br>Ms Hilda Goh</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
+    <td>Mdm Norhani Bte Sahar<br>Mdm Tan Jye En <br>Ms Hilda Goh</td>
+    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
@@ -404,8 +402,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>5 Unity 1</td>
-				<td>Ms Wok Li Jun, Elizabeth<br>[Senior Teacher/ Science (Internal)]<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
-				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
+				<td>Ms Wok Li Jun, Elizabeth<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
+				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
 	</td>
   </tr>
   <tr>

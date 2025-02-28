@@ -17,3 +17,6 @@ P4 Parent Briefing slides: <a href="https://drive.google.com/file/d/1PO6RW71e3uu
 P5 Parent Briefing Slides: <a href="https://drive.google.com/file/d/1-DcO0tN1DdfAde0nTUcUO5VjVJJpv6YV/view?usp=drive_link">Click here</a><br> 
 P6 Parent Briefing slides: <a href="https://drive.google.com/file/d/1247NeNSL7dfnveodHtX-VbmWC48ufRYX/view?usp=drive_link">Click here</a><br>
 P5/6 DSA, PSLE and SBB: <a href="https://drive.google.com/file/d/1bEnoRbCNB7e_sh3dlMseQz7-lqTfjr-2/view?usp=drive_link">Click here</a><br>
+
+<h4><strong>Parenting for Wellness</strong></h4>
+Toolbox for Parents: <a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf">Click here</a>
