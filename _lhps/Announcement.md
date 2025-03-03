@@ -43,11 +43,9 @@ variant: markdown
         </tr>
         <tr>
             <td>Inspiring Teacher of English Award (ITEA)</td>
-            <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.
-<ul>
-	<li>Teaching Award</li>
-	<li>Leadership Award (for HODs, SHs and LHs)</li>
-</ul>
+            <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.<br>
+•	Teaching Award<br>
+•	Leadership Award (for HODs, SHs and LHs)<br>		
 <a target="_blank" href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
 </td>
             <td>24-Mar-25<br>(Downloaded and completed forms to be submitted to the Principal via chia_emily@moe.edu.sg by 6pm.)</td>
