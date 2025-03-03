@@ -22,6 +22,19 @@ variant: markdown
             text-align: left; /* Align table data text to left */
         }
 </style>
+
+
+<h5><strong>2025 Inspiring Teacher of English Award, Arif Budiman Malay Language Teacher Award and Most Inspiring Tamil Teacher Award</strong></h5>
+
+<p>1. Nominations for the following 2025 teacher awards are now open:</p>
+<ul>
+	<li>Inspiring Teacher of English Award</li>
+	<li>Arid Budiman Malay Language Teacher Award</li>
+	<li>Most Inspiring Tamil Teacher Award</li>
+</ul>
+
+<p>2. We would like to invite you to submit your nomination(s) for any deserving teacher(s) by accessing the URLs below.  Please submit your nominations within the respective deadlines indicated. </p>
+
 <table>
         <tbody><tr>
             <th>Award</th>
@@ -30,9 +43,12 @@ variant: markdown
         </tr>
         <tr>
             <td>Inspiring Teacher of English Award (ITEA)</td>
-            <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.<br>
-•	Teaching Award<br>
-•	Leadership Award (for HODs, SHs and LHs)<br><a target="_blank" href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
+            <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.
+<ul>
+	<li>Teaching Award</li>
+	<li>Leadership Award (for HODs, SHs and LHs)</li>
+</ul>
+<a target="_blank" href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information">http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information</a>
 </td>
             <td>24-Mar-25<br>(Downloaded and completed forms to be submitted to the Principal via chia_emily@moe.edu.sg by 6pm.)</td>
         </tr>
