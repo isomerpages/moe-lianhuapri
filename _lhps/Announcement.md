@@ -33,7 +33,7 @@ variant: markdown
 	<li>Most Inspiring Tamil Teacher Award</li>
 </ul>
 
-<p>2. We would like to invite you to submit your nomination(s) for any deserving teacher(s) by accessing the URLs below.  Please submit your nominations within the respective deadlines indicated. </p>
+<p>2. We would like to invite you to submit your nomination(s) for any deserving teacher(s) by accessing the URLs below.  Please submit your nominations within the respective deadlines indicated.</p>
 
 <table>
         <tbody><tr>
