@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Assessment Matters
 variant: markdown
 ---
-# Assessment Plan 2024
+# Assessment Plan 2025
 
 
 	
-  <!-- Link to Open PDF in a New Tab/ download depending on user's browser setting -->
+  
   <a target="_blank" href="/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P1_Assessment_Plan.pdf">2024 P1 Assessment Plan</a><br>
 <a target="_blank" href="/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P2_Assessment_Plan.pdf">2024 P2 Assessment Plan</a><br>
 	<a target="_blank" href="/files/For%20Parents/Assessments%20&amp;%20Exams%20Schedule/2024_P3_Assessment_Plan.pdf">2024 P3 Assessment Plan</a><br>
