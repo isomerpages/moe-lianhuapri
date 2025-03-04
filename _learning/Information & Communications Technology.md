@@ -37,7 +37,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:350px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
-    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ictpic9.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ictpic10.jpeg"></td>
   </tr>
 </tbody>
 </table>
