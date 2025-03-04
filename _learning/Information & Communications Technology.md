@@ -24,7 +24,7 @@ variant: markdown
 <p><img style="width:1000px;height:500px;" src="/images/Learning/Ict/ICTpic1.png">
 </p><p>We adhere to the FTAC frame to guide us in the development of our students’ digital literacy and technological skills. Digital literacy (DL) is defined as a set of knowledge, skills and dispositions that would help our learners to be confident, critical and responsible users of digital technologies for information, communication and problem-solving. Technological skills (TS) refer to the ability to understand and use specific technologies to solve problems and achieve practical goals.</p>
 <br>
-<img style="width:900px;height:400px;" src="/images/Learning/Ict/ICTpic2.png">
+<img style="width:900px;height:400px;" src="/images/Learning/Ict/ICTpic3.png">
 
 <p>With our Baseline ICT Standards and New Media Literacies (NML) Focus as our guide, our students will learn specific computer skills as well as computation skills in various digital platforms over their 6 years in Lianhua Primary School. </p>
 
@@ -37,7 +37,7 @@ variant: markdown
   </tr>
   <tr>
     <td style="text-align: justify; padding: 4px; width: 60%;"><img style="width:600px;height:350px;" src="/images/Learning/Ict/ICTpic7.jpg"></td>
-    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ICTpic8.jpg"></td>
+    <td style="text-align: justify; padding: 4px; width: 40%;"><img style="width:220px;height:350px;" src="/images/Learning/Ict/ictpic10.jpg"></td>
   </tr>
 </tbody>
 </table>
