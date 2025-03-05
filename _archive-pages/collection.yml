@@ -2,5 +2,6 @@ collections:
   archive-pages:
     output: true
     order:
+      - Lianhua Primary School eOpen House 2022.md
       - Open House 2023.md
       - Everyday Superheroes.md
