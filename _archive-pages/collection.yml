@@ -2,6 +2,7 @@ collections:
   archive-pages:
     output: true
     order:
+      - SYF 2024 Arts Presentation Performance Schedule.md
       - E Open House 2022/Conclusion.md
       - E Open House 2022/Chapter 4.md
       - E Open House 2022/Chapter 3.md
