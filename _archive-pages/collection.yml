@@ -2,6 +2,7 @@ collections:
   archive-pages:
     output: true
     order:
+      - E Open House 2022/Conclusion.md
       - E Open House 2022/Chapter 4.md
       - E Open House 2022/Chapter 3.md
       - E Open House 2022/Chapter 2.md
