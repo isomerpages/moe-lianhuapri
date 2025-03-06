@@ -2,7 +2,6 @@ collections:
   potential-parents-and-students:
     output: true
     order:
-      - Everyday Superheroes.md
       - Superheroes of Learning.md
       - Superheroes of Character/.keep
       - Superheroes of Character/Superheroes of Character.md
@@ -10,11 +9,3 @@ collections:
       - Superheroes of Leadership.md
       - Featured Superheroes (Head Prefects).md
       - Open House 2024.md
-      - Open House 2023.md
-      - EOpen House 2022/.keep
-      - EOpen House 2022/Lianhua Primary School eOpen House 2022.md
-      - EOpen House 2022/Chapter 1.md
-      - EOpen House 2022/Chapter 2.md
-      - EOpen House 2022/Chapter 3.md
-      - EOpen House 2022/Chapter 4.md
-      - EOpen House 2022/Conclusion.md

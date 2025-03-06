@@ -2,7 +2,7 @@
 title: Chapter 3
 permalink: /for-potential-parents-n-students/lianhua-primary-school-eopen-house-2022/chapter-3/
 description: ""
-third_nav_title: EOpen House 2022
+third_nav_title: E Open House 2022
 ---
 # Chapter 3
 
@@ -10,7 +10,7 @@ third_nav_title: EOpen House 2022
 
 <center><b>Every Lianhuarean, A Superhero<br>Chapter 3: Hearts of Service</b></center>
 
-<center><img style="width:40%" src="/images/Potential%20Parents%20&%20Students/EOpen%20house%202022/su%20mei.gif"></center>
+<center><img style="width:40%" src="/images/Potential%20Parents%20&amp;%20Students/EOpen%20house%202022/su%20mei.gif"></center>
 
 <center><i>"My greatest power is the ability to serve"  - Sensible Su Mei</i></center>
 
@@ -41,15 +41,14 @@ Watch this video for the interview with Shakthi:
 [https://www.youtube.com/watch?v=Z8XB3MlXpw0](https://www.youtube.com/watch?v=Z8XB3MlXpw0)
 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z8XB3MlXpw0" title="Chapter 3: Hearts of Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Z8XB3MlXpw0" title="Chapter 3: Hearts of Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 **P1 Class Leaders Exemplify Hearts of Service**
 
 <p style="text-align: justify;">At Lianhua Primary School, we believe that every child has the potential to become a leader and help others. No role is too small and insignificant to bring about a change. One of the ways to nurture Lianhuareans to be a leader and serve others begin with being a class leader.</p>
 
-In this interview, find out how three of our P1 Class Leaders, Deion Ong, Nurin Irdina and Shri Krishna,  have helped others in their own ways:
+In this interview, find out how three of our P1 Class Leaders, Deion Ong, Nurin Irdina and Shri Krishna,&nbsp; have helped others in their own ways:
 
 [https://www.youtube.com/watch?v=5ZNC2P8dCf0](https://www.youtube.com/watch?v=5ZNC2P8dCf0)
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZNC2P8dCf0" title="A chat with P1 class leaders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5ZNC2P8dCf0" title="A chat with P1 class leaders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>

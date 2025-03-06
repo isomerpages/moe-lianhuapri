@@ -60,18 +60,7 @@ In Lianhua, the Social Studies curriculum envisions students to have joy in lear
 
 #### **Performance Tasks**
 
-As part of the Primary School Social Studies Syllabus, performance tasks are used as part of the grading system for the assessment of SSP at the end of Semester 1 and 2 for all levels. Performance tasks are effective ways to check for students’ understanding of the concepts taught. These tasks introduced are relevant and meaningful to the students. Students would develop a tangible product or performance for an identified audience and in doing so, they would communicate key understanding(s) or message(s) pertaining to the topic of study. Examples of the performance tasks that are required for the students to produce are as follows:
-
-
-
-| Level | Semester 1 | Semester 2 |
-| -------- | -------- | -------- |
-| P1     | Create a video or share with the class about their roles in school and at home.     | Design their future neighbourhood.  |
-| P2     | Design a school stamp.     | Draw their favourite sporting activity individual work.|
-| P3     | Design a poster to show how everyone can play a part in protecting the environment.     | Design a 2D/3D model on the future housing of Singapore.  |
-| P4     | Create an informational poster on one of the early settlers they have learnt.     | Design a digital story featuring one of the war heroes of Singapore. |
-| P5     | Design a poster to honour the different people who had contributed to the building of Singapore’s defence. | Design a board game that relates to the geographical features, economics and social-cultural connections among countries in Southeast Asia.     |
-| P6     | Design an infographic featuring two innovations of the civilisations of the Indian subcontinent or the Chinese civilisation. | Create a digital story based on one of the UNESCO Heritage sites in Southeast Asia. |
+As part of the Primary School Social Studies Syllabus, performance tasks are used as part of the grading system for the assessment of SSP at the end of Semester 1 and 2 for all levels. Performance tasks are effective ways to check for students’ understanding of the concepts taught. These tasks introduced are relevant and meaningful to the students. Students would develop a tangible product or performance for an identified audience and in doing so, they would communicate key understanding(s) or message(s) pertaining to the topic of study. 
 
 
 #### **P4 Social Studies Heritage Tower Experience**
