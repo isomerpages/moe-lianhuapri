@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Student Development
 ---
-<h2><strong>Student Development</strong></h2>
+
 <p>In Lianhua Primary School, we aim to develop our students into ‘Exemplary
 Leaders’ by focusing on four key focus areas: Good character, Social Emotional Well-Being,
 Mental and Physical Well-Being, and Leadership.</p>
