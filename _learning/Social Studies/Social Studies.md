@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Social Studies
 variant: markdown
 ---
-<h1><strong>Social Studies</strong></h1>
-<h2><strong>Social Studies in Lianhua Primary School</strong></h2>
+### Social Studies in Lianhua Primary School
 
 
 The 2020 Social Studies curriculum seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live, and demonstrate empathy in their relationships with others. The Curriculum therefore envisions Social Studies students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
