@@ -4,8 +4,6 @@ permalink: /learning/information-n-communications-technology/
 description: ""
 variant: markdown
 ---
-<h1><strong>Information &amp; Communications Technology</strong></h1>
-
 <table style="border-collapse: collapse;">
   <tbody>
 		<tr>
