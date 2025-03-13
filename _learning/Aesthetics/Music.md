@@ -18,7 +18,6 @@ variant: markdown
  </style>
 
 
-# **Music**
 ![](/images/Learning/Music/music_top.jpg)
 
 
