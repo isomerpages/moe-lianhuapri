@@ -4,64 +4,97 @@ permalink: /learning/english/
 description: ""
 variant: markdown
 ---
-# **English**
-
 ![](/images/Learning/English/el1.jpg)
 
-**Our English Department Vision**
+### Our English Department Vision
 
-<p style="text-align: justify;">We strive to nurture the love for learning English language to enable our students to be effective and competent readers, writers and speakers of the language.</p>
+We strive to nurture **Confident Communicators, Passionate Learners, and Creative Thinkers** through a well-rounded English curriculum and engaging programmes that spark the **joy of learning**.
 
 
-**Key Features**
+### Key Features
 
 ![](/images/Learning/English/el2.jpg)
 
 ![](/images/Learning/English/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png)
 
-<u>STELLAR</u>
+##### STELLAR Instructional Programme
 
-*   <p style="text-align: justify;">The STELLAR (Strategies for English Language Learning and Reading) Programme was developed by the Ministry of Education (MOE) to cater to the diverse range of English language learners in Singapore. This programme has been implemented in our English Language curriculum from Primary One to Primary Six.</p>
+* The STELLAR (Strategies for English Language Learning and Reading) Programme was  developed by the Ministry of Education (MOE) to cater to the diverse range of English language learners in Singapore. This programme has been implemented in our English Language curriculum from Primary One to Primary Six.
+* The vision of STELLAR is to develop in children a love for reading and a strong foundation in the English Language and it aims to strengthen children’s learning of the English Language by using engaging and age-appropriate strategies and instructional materials.
 
-*   <p style="text-align: justify;">The vision of STELLAR is to develop in children a love for reading and a strong foundation in the English Language and it aims to strengthen children’s learning of the English Language by using engaging and age-appropriate strategies and instructional materials.</p>
+### English Programmes
+#### Reading @ Lianhua
+At **Lianhua Primary School**, we believe that reading is the gateway to an exciting, enriching life. Through our carefully designed library and reading programmes, we aim to foster a deep love for books and empower our students to become lifelong learners.
 
- 
-**Major Programmes**
+##### Our Library: A Hub of Imagination
+Our school library is a dynamic space designed to inspire creativity, exploration and discovery. With a wide selection of books and hands-on creative activities, our library is a place where students can truly immerse themselves in the world of literature.
 
-**Reading @ Lianhua**
+Our students can look forward to:
+* Curated book collections for all interests and reading levels
+* Engaging reading activities that spark imagination and creative and critical thinking
 
-<p style="text-align: justify;">At Lianhua, we believe in cultivating the love of reading in our students so that they can experience an exciting life through the world of books. Our reading programme strives to bring these experiences to our students.
+##### Mission and Function of the School Library
+The key roles of a future-ready school library in the 21st Century are to support reading, research, collaboration, studying and various activities that enable learning. The above five key roles of a school library (Reading, Research, Collaboration, Studying and Doing) as outlined in the 21st Century Framework for School Libraries prepares students for learning today and in the future.
 
-</p><p style="text-align: justify;">We are thrilled to welcome you to the grand reopening of our newly renovated school library—an exciting hub of knowledge, imagination, and endless possibilities. The rejuvenated space is more than just shelves of books; it's a vibrant centre for exploration and creativity. Get ready to embark on literary adventures with our curated collection, immerse yourselves in the world of storytelling during our exciting reading sessions, and unleash your creativity through a myriad of engaging library programmes. Join us in celebrating the joy of reading and discovery as we open the doors to a world of imagination within our revitalized school library. 
+In line with this mission, the Super Reader programme aims to equip students with 21st century competencies and dispositions to thrive and succeed in a VUCA world. **They aim to foster critical and creative thinking, ignite passion for reading, and nurture confident communicators and leaders.**
 
-</p><p style="text-align: justify;">Our daily pre-assembly programme, USSR (Uninterrupted Sustained Silent Reading) is a designated time for all students to do free voluntary reading. Silent reading helps them concentrate, with the focus on understanding the content of the book and in turn, derive pleasure from it.
+####  The Objectives of Super Reader Programme 
+* The Super Reader Programme fosters a holistic approach to literacy by aligning with school values through engaging activities. 
+* It inspires a love for reading, enhances creative and critical thinking, builds confident communicators, and develops exemplary leadership. 
+* It aims to integrate the school’s core values and desired outcomes to cultivate passionate, creative, confident, and exemplary individuals.
 
-</p><p style="text-align: justify;">In Lianhua, we incorporated the use of e-books /videos during USSR so that the repertoire of stories which students have access to can be widened. Engagement activities such as active questioning and choral reading were also carried out during the session to check for students’ understanding and involvement level.
+### Supporting the Programme with SLS Learning Packages
+To enhance the Super Reader Booklet experience, students benefit from **SLS Learning Packages**, which include:
 
-</p><p style="text-align: justify;">It has been observed that these e-books / videos are well-received by our students. Students are always captivated by the videos shown. In this age of information and technology, we recognise the value of exposing our students to these electronic forms as they contain audio, video and animations which can enhance the message that the author is trying to convey. At the same time, they also provide strong visual cues to augment reading comprehension for the struggling readers and to encourage the unmotivated readers to read.
+* **Accompanying videos** for students to support independent learning.
+* **Collaborative activities** where students share their reading experiences with peers.
+* **Holiday reading activities** that encourage continued learning during breaks, with suggested resources from the National Library Board (NLB).
+![](/images/Learning/English/1.png)
+### Library Visits and Integration with Curriculum
+Students visit the library every week to explore various books and genres and participate in activities from the Super Reader Booklets. 
 
-</p><p style="text-align: justify;">Keeping our students’ interest in mind, our school will continue to orchestrate more wonderful reading programmes in the coming years. So, look forward to more fun activities! <br>
-</p>
-	
-**Oracy @ Lianhua**
-	
-<p></p><p style="text-align: justify;">News in Brief is a platform that provides opportunities for our students to gain a brief insight into the life of a newscaster. They deliver news headlines as well as a short description of the day’s top stories on live telecast to the whole school on Fridays. Our English teachers guide them with the delivery of the news. For the majority of the students, it is likely to be their first public appearance and the experience is both nerve-wrecking, yet enriching for them. 
+These visits align with the Library Curriculum:
 
-</p><p style="text-align: justify;">In collaboration with News in Brief, Our Stories is another segment which allows our students to deepen their historical knowledge of Singapore. The segment allows students to know more about the stories behind famous historical buildings, events, people and street names of Singapore. Our Stories hopes to develop a sense of belonging and rootedness to our country and appreciate the rich history and contributions of our forefathers.
-	
-</p><p style="text-align: justify;">Through these platforms, we hope to develop our newscasters into confident speakers and passionate learners. <br>
+* **English Teachers** take students to the library on even weeks.
+* **Mother Tongue Teachers** guide them during odd weeks.
 
+These visits provide students with the opportunity to engage with books in both English and Mother Tongue Languages, promoting a well-rounded literacy experience.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHxLZgKg5_LOAD0rNQhLehJ0qAbgyza5RQVpDEqiX329p2_7ykwqw_d_51880HeyAXNcr1TcQCcYMQ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>	
-</p>
+### Monthly Thematic Displays and Celebrations
 
-**Storytelling**
+We celebrate the world of books through monthly thematic displays that focus on different genres, authors, or reading themes. These displays highlight interesting books, authors’ birthdays, and more to encourage students to explore new titles and genres.
 
-<p></p><p style="text-align: justify;">Students unleash their creativity and storytelling skills during recess at the Imaginarium. This unique space is designed to cultivate imagination, and what better way to celebrate that than through storytelling! Our students can now gather in the Imaginarium during recess, where they have the freedom to share their tales, spin imaginative narratives, and transport both themselves and their peers to fantastical worlds.</p>
+* **Author Birthdays:** We celebrate the birthdays of beloved authors, fostering students' appreciation for both established and emerging writers.
+* **Book Talks by Student Librarians:** Our **student librarians** lead **Book Talks** to share their favorite reads, building public speaking skills and inspiring peers to read.
+![](/images/Learning/English/2.png)
+
+### Weekly Monday Recess Activities
+
+Every Monday, we host exciting **recess activities** that engage students in fun, book-related challenges. We have interesting activities held in the library such as ‘Storytelling Videos’ which portrayed the school values of the month, ‘Guess the Genre’ where students read abstracts from books and guessed the genre and ‘Tongue Twisters’ which challenged the students in reciting the famous rhymes and poems. We also showcased our students’ talents in storytelling and book sharing at the Imaginarium. It has been very well received by our students and they enjoy supporting their school mates during recess. 
+![](/images/Learning/English/3.png)
+
+### Collaboration with NLB for Talks and Resources
+
+Our collaboration with the **National Library Board (NLB)** brings enriching experiences to our students. We host **NLB talks** and gain access to  **NLB resources** that enhance our library programmes. These collaborations provide students with unique opportunities to learn from experts and expand their knowledge.
+![](/images/Learning/English/4.png)
+
+### Oracy @ Lianhua
+#### News in Brief Programme
+
+Every Wednesday, our school hall transforms into a newsroom for the News in Brief program, a vital part of our EL curriculum. This initiative keeps students informed about the latest news and events, aiming to nurture confident communicators and informed citizens.
+
+Students become newscasters, presenting recent news from Singapore with clarity and confidence. By making connections between global events and their own lives, News in Brief broadens students' perspectives and deepens their understanding of global affairs.
+
+Our Stories: Unveiling Singapore's Rich Tapestry
+
+Our Stories, complementing News in Brief, explores Singapore's rich history and heritage. This fortnightly programme showcases diverse narratives shaping Singapore's identity. Students uncover tales of early pioneers and modern-day innovators, gaining insights into Singapore's evolution. The programme instills pride in Singapore's multicultural heritage, celebrating contributions from various communities. Our Stories fosters unity and inclusivity among students, helping them connect meaningfully with each other and their shared history.
+![](/images/Learning/English/5.png)
+
+Video on Oracy @ Lianhua:
+
 
 ![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
 
-<center>Students listening intently to the storyteller at the Imaginarium</center>
 
 
 **English Week**
@@ -69,38 +102,22 @@ variant: markdown
 
 ![](/images/Learning/English/img_001.jpeg)
 
-<br>
+
 
 ![](/images/Learning/English/img_002.jpeg)
 
-<br>
+
 
 ![](/images/Learning/English/img_003.jpeg)
 
-<br>
+
 
 ![](/images/Learning/English/img_004.jpeg)
 
-<p>English Week, an annual celebration, unfolds as a captivating week of literary enchantment, eagerly awaited by all. It is a celebration of language, literature, and creativity that promises an immersive experience for students, teachers, and parents alike. Throughout the week, our school will transform into a vibrant hub of English-related activities, ranging from engaging workshops and interactive reading sessions to spirited debates and captivating storytelling sessions. English Week aims not only to foster a deep appreciation for language and literature but also to encourage students to express themselves with confidence and flair. It's a week dedicated to nurturing the linguistic and creative talents of our students, and we invite parents to witness the blossoming of their children's literary skills. Get ready to be immersed in the magic of English Week!</p>
 
-<p>English Week in 2023 was a testament to the collective enthusiasm and talent of our students and teachers. Read, write, speak and play were the central themes for English Week 2023. The ‘LHPS Reading Adventure’ song played during pre-assembly on Thursday, 24 August 2023, kick-started our week. During recess, students looked forward to a delightful break, immersing themselves in English Language activities.</p>
-
-<p>Students escaped into the world of books at the Open Library at the Playlab where they read to their heart's content. What about having fun? Well, they were challenged to ‘Tongue Twisters’ at the Imaginarium and at the Art Corner Games booth, students were captivated by online quizzes. Friday brought a creative twist as students became authors, tasked with crafting their own endings for famous fairy tales at the Fractured Fairy Tales booth. </p>
-
-<p>English Week activities continued the following Monday where students let their imaginations run wild at the ‘Yes, and …’ booth. They began each story with the words “Yes, and …” and gradually crafted sentences that grew more exhilarating, transforming their narratives into potential blockbuster movie scenes. Students even had the opportunity to both donate and acquire books at the “Read, Swap, Share” booth, not only indulging in reading but also sharing their thoughts on the books they read.</p>
-
-<p>The grand finale to the English Week was on Tuesday, 29 August 2023, with the much-anticipated “Book Character Dress-Up Day!” Have you ever wished you could be Cinderella, Harry Potter or even Spiderman? What a feast for the eyes it was when our students and staff transformed into beloved book characters, displaying their creativity through their imaginative attire. The students were also treated to a concert featuring storytelling talents of our young Lianhuareans from Primary 1 to 4. </p>
-
-<p>During recess, we had a lovely author and illustrator, Nurulhuda Izyan who, with her artistic talents and storytelling power, mesmerised the students with her live-drawing demonstrations, igniting their own artistic aspirations.</p>
-
-<p>Finally, a photobooth stationed outside the General Office allowed students to capture cherished memories in their book character get-up. What an amazing English Week it was!</p>
 
 **Stretch Your Mind - A Fun and Effective way to learn English**
 
-At Lianhua, we strive to develop our students into critical and creative thinkers. The English Department hence introduced a new pre-assembly segment, “Stretch Your Mind” where rebus puzzles are presented to students for them to solve.
-Rebuses are a great tool for developing critical thinking skills. A rebus is a puzzle that uses pictures, symbols, or letters to represent words or phrases, and the solver must use logic and reasoning to figure out the meaning of the puzzle. Solving rebuses requires several critical thinking skills, including pattern recognition, inference, and deduction. For example, a rebus that includes an image of a heart, the letter "U", and the word "4" could be interpreted as "I love you forever." Solving this puzzle requires the solver to recognize the patterns and associations between the symbols and words.
-Rebuses can also be used to enhance vocabulary and language skills, as they often require the solver to make connections between words and their meanings.
-Stretch Your Mind will be a weekly Tuesday feature with levelled rebus puzzles for students to solve and learn English in a fun and meaningful manner.
 
 
 ![](/images/Learning/English/whatsapp2.jpeg) 
@@ -110,22 +127,13 @@ Stretch Your Mind will be a weekly Tuesday feature with levelled rebus puzzles f
 
 **<u>Learning Support Programme (LSP)</u>**
 
-<p style="text-align: justify;">The LSP is a specialised early intervention programme aimed at providing learning support to students who enter Primary 1 with weak literacy skills. Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they could access learning in the regular classroom.</p>
 
-<p style="text-align: justify;">The LSP is implemented by qualified teachers appointed by our school to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Students are supported daily for half an hour a day in groups of 8 to 10 students. Support continues in Primary 2 for students who need it.</p>
 
 **<u>School-based Dyslexia Remediation Programme (SDR)</u>**
 
-<p style="text-align: justify;">The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also worked with the subject teachers and parents to closely monitor the students’ attendance and learning progress.</p>
 
 **<u>Reading Remediation Programme (RRP)</u>**
 
-<p style="text-align: justify;">The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.</p>
 
 ### **Useful links** 
 
-<a target="_blank" href="https://www.nlb.gov.sg/">https://www.nlb.gov.sg/</a>   
-<a target="_blank" href="https://www.languagecouncils.sg/goodenglish/">https://www.languagecouncils.sg/goodenglish/</a>
-
-
-  
