@@ -4,8 +4,6 @@ permalink: /learning/mother-tongue/
 description: ""
 variant: markdown
 ---
-# Mother Tongue
-
 **Vision**
 
 Lianhua Mother Tongue Department aims to cultivate confident and effective communicators in using MTL so that the students can connect with wider communities across Asia and the world. We also aim to cultivate appreciation of our different cultures to strengthen our multicultural identity and prepare them to be a lifelong learner.
@@ -14,7 +12,7 @@ Lianhua Mother Tongue Department aims to cultivate confident and effective commu
 
 To ignite the passion in learning Mother Tongue Language and appreciation of the culture, we engage students through interesting stories from the syllabus, picture books and various programs. We develop their language skills and 21st century skills by providing different platforms for them to showcase.
 
-## Conversational Chinese and Malay (CCM) Programme
+### Conversational Chinese and Malay (CCM) Programme
 
 The aims of Conversational CL/ML programme are two-fold: to strengthen Singapore’s multiracial compact and to enable Singaporeans to have some grounding of functional CL/ML so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
 
@@ -25,7 +23,7 @@ For instance during Racial Harmony Day, we have different learning packages for 
 
 <iframe width="796" height="503" src="https://www.youtube.com/embed/wCbmQBKLivo" title="CCM Challenge 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-## Celebrations
+### Celebrations
 
 In Singapore, a festive celebration means more than just a public holiday, it also means that people from different races are able to witness the celebrating community’s rites and rituals, and join in the celebration.
 
@@ -61,7 +59,7 @@ On the actual day, students get to view the concert that brings out the traditio
 </table>
 
 
-## MTL Fortnight
+### MTL Fortnight
 
 
 The start of Term 2 is an exciting one, with Mother Tongue Fortnight activities engaging our students in their respective Mother Tongue Languages, and kindling their love for it.
@@ -95,7 +93,7 @@ All Levels: Creative Writing Competition / Penmanship Competition / Reading with
 
 <center><iframe width="280" height="271" src="https://www.youtube.com/embed/joB_8kDvSWM" title="Mother Tongue Fiesta 2019 Closing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-## Publication
+### Publication
 
 In order to arouse students’ interest in creating stories and also to enhance their writing skills, we provide platforms like showcasing their work through termly exhibition or publication.
 
@@ -107,7 +105,7 @@ Students feel proud when their stories that are selected in the publications. It
 |:---:|:----:|:----:|
 | ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image5.jpeg)  | ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image4.jpeg)    |   ![](/images/Learning/Mother%20Tongue/WhatsApp%20Image3.jpeg)  |
 
-## Reading Programme
+### Reading Programme
 
 Reading can positively affect our lives. For instance, reading can strengthen our brains, build our vocabularies, help prevent age-related cognitive decline and many others. Hence, in Lianhua, we customized our reading programme to cater to our students’ needs.
 
@@ -119,7 +117,7 @@ We also involved parents in our reading programme. They are a good support to us
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfvYfEKboOjAgUOTQ8ttur6TScICu-awPORqquA4jtH5mtnX9mLEB1TNNAR5RmvGazjO1f1pZ30Tbw/embed?start=true&amp;loop=true&amp;delayms=10000" frameborder="0" width="700" height="700" allowfullscreen="true"></iframe>
 
-## The MTL Young Journalist Programme
+### The MTL Young Journalist Programme
 
 The MTL Young Journalist Programme was introduced in 2014, with the focus of providing authentic experiences for students to learn and to use Chinese Language. Since then, Young Journalists have embarked on an exciting journey of interviewing, news reporting and in-house publishing. These skills are aligned to our school’s Vision: Minds of Inquiry, Joy in Learning and Confidence in Life.
 
