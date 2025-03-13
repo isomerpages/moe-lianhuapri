@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Student Development
 ---
-# **Character &amp; Citizenship Education**
+
 
 Character and Citizenship Education (CCE) in Lianhua Primary School (LHPS) is integral to the holistic development of our students, leading to positive life outcomes. LHPS CCE provides an integrated approach to addressing our students’ development of values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.
 
