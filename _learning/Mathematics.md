@@ -4,8 +4,6 @@ permalink: /learning/mathematics/
 description: ""
 variant: markdown
 ---
-# **Mathematics**
-
 <img src="/images/Learning/Mathematics/01_Mathematics.jpg">
 
 
@@ -102,4 +100,3 @@ List of approved scientific calculators for P5 and P6 students
   
 KooBits (For P3 &amp; P4 students)    
 <a href="https://member.koobits.com/" target="_blank">https://member.koobits.com/</a>
-  
