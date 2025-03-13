@@ -4,8 +4,6 @@ permalink: /learning/physical-education/
 description: ""
 variant: markdown
 ---
-# Physical Education
-
 ![](/images/Learning/Physical%20Education/Picture%201.jpg)
 
 
@@ -74,5 +72,3 @@ The Sports Education Programme exposes students to a variety of sports beyond th
 <a href="/files/Learning/physical_education_syllabus_2014.pdf" target="_blank">Physical Education Syllabus</a>   
 <a href="https://www.healthhub.sg/programmes/183/parent-hub" target="_blank">Health Hub</a>   
 <a href="https://www.myactivesg.com/" target="_blank">Active SG</a>
-
-
