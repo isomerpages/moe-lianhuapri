@@ -4,8 +4,6 @@ permalink: /learning/science/
 description: ""
 variant: markdown
 ---
-<h1><strong>Science</strong></h1>
-
 <h5><strong>OUR VISION:</strong></h5>
 
 To nurture the student as an inquirer
