@@ -92,48 +92,34 @@ Our Stories, complementing News in Brief, explores Singapore's rich history and 
 
 Video on Oracy @ Lianhua:
 
+### Stretch Your Mind
+Stretch Your Mind is a weekly Tuesday feature at Lianhua, designed to spark creativity and enhance our students' mastery of the English Language. We believe that creativity is a crucial part of a child’s development. By engaging with similes, metaphors, and other figurative techniques, students learn to express themselves more meaningfully and craft rich descriptions for their stories.
 
-![](/images/Learning/English/storytelling@%20Imaginarium%201.jpeg)
+Each week, we introduce new themes and language devices, challenging students to think outside the box. Whether they are transforming everyday objects into imaginative metaphors or describing settings with sensory-rich details, they are constantly expanding their ability to communicate with depth and confidence.
 
+Beyond improving writing skills, Stretch Your Mind nurtures critical thinking and self-expression skills that are essential not just in academics but in life. As students become more skilled in using language creatively, they gain the confidence to articulate their ideas, tell engaging stories, and appreciate the beauty of words.
+![](/images/Learning/English/6.png)
 
+### EL Week
+English Week, an annual celebration, unfolds as a captivating week of literary enchantment, eagerly awaited by all. It is a celebration of language, literature, and creativity that promises an immersive experience for students, teachers, and parents alike. Throughout the week, our school will transform into a vibrant hub of English-related activities such as interactive games booths and captivating storytelling sessions. English Week aims not only to foster a deep appreciation for language and literature but also to encourage students to express themselves with confidence and flair. It's a week dedicated to nurturing the linguistic and creative talents of our students, and we invite parents to witness the blossoming of their children's literary skills. 
+![](/images/Learning/English/7.png)
 
-**English Week**
+### Learning Support Programme (LSP)
 
+The LSP is a specialised early intervention programme aimed at providing learning support to students who enter Primary 1 with weak literacy skills. Students are identified for LSP through a systematic screening process carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they could access learning in the regular classroom.
 
-![](/images/Learning/English/img_001.jpeg)
+The LSP is implemented by qualified teachers appointed by our school to be Learning Support Coordinators (LSCs). LSCs are given additional training by MOE HQ that equips them with specialised knowledge and skills to implement the programme. Students are supported daily for half an hour a day in groups of 8 to 10 students. Support continues in Primary 2 for students who need it.
 
+### School-based Dyslexia Remediation Programme (SDR)
 
+The SDR programme is a two-year intervention for Primary Three and Four students who are identified through a systematic screening process for dyslexia conducted at the end of Primary Two. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE. The curriculum has been designed taking into consideration the students’ learning profile and the contents of the mainstream English language curriculum. The school personnel conducting the programme also worked with the subject teachers and parents to closely monitor the students’ attendance and learning progress.
 
-![](/images/Learning/English/img_002.jpeg)
+### Reading Remediation Programme (RRP)
 
+The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students with reading difficulties. Specially trained EL teachers conduct targeted and focussed lessons to equip students with decoding and reading comprehension skills.
 
+### Useful links
 
-![](/images/Learning/English/img_003.jpeg)
+[National Library Board (NLB)](https://www.nlb.gov.sg/)
 
-
-
-![](/images/Learning/English/img_004.jpeg)
-
-
-
-**Stretch Your Mind - A Fun and Effective way to learn English**
-
-
-
-![](/images/Learning/English/whatsapp2.jpeg) 
-
-![](/images/Learning/English/whatsapp1.jpeg) 
-
-
-**<u>Learning Support Programme (LSP)</u>**
-
-
-
-**<u>School-based Dyslexia Remediation Programme (SDR)</u>**
-
-
-**<u>Reading Remediation Programme (RRP)</u>**
-
-
-### **Useful links** 
-
+[Language Councils - Good English](https://www.languagecouncils.sg/goodenglish/)
