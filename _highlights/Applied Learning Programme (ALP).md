@@ -2,46 +2,51 @@
 title: Applied Learning Programme (ALP)
 permalink: /highlights/applied-learning-programme-alp/
 description: ""
+variant: markdown
 ---
-# Applied Learning Programme (ALP)
-
 ### **RITE @ LIANHUA**
 
 #### _**Robotics, Information and Technology in Education**_
 
-![](/images/Highlights/Applied%20Learning%20Programme/main%20photo%20new.JPG)
+![](/images/Highlights/Applied%20Learning%20Programme/1.jpg)
 
-### Objective  
+#### Objective  
 
 The Applied Learning Programme (ALP) aims to help students connect academic knowledge and skills with the real world. ALP is intended to help students appreciate the relevance and value of what they are learning in the academic arena and to develop stronger motivation and purpose to acquire knowledge and skills.
 
-### Key Feature
+#### Key Feature
 
-![](/images/Highlights/Applied%20Learning%20Programme/image5.png)
+![](/images/Highlights/Applied%20Learning%20Programme/3.png)
 
-ALP is non-examinable and its emphasis is on the application of knowledge and thinking skills, stretching the imagination and applying these to authentic settings in society and industries. It fosters joy in learning, promotes 21st century skills and inculcates values.
+##### Kubo: Building Early Computational Thinking for P1 And P2 Students
 
-  
+Kubo is an intuitive, hands-on coding tool designed to introduce young learners to the fundamentals of computational thinking. Using a unique **TagTile® system**, Kubo allows students to program without the need for screens, making coding accessible and engaging for beginners.
 
-At Lianhua Primary School, our focus is on Science, Technology, Engineering &amp; Mathematics (STEM), particularly in the area of sustainability. Every Lianhuaren will go through ALP from P1 to P5. They will engage in meaningful activities that integrate computational thinking and design thinking using various ICT and non-ICT platforms.
+Through simple, puzzle-like tiles, students learn sequencing, loops, and functions in a fun and interactive way. This tangible approach helps them develop problem-solving skills, logical thinking, and creativity. Kubo’s collaborative nature also encourages teamwork, allowing students to work together to solve challenges.
 
-### ALP Activities
+With its easy-to-use interface and engaging design, Kubo provides a strong foundation for early learners, fostering confidence in coding and preparing them for more advanced computational concepts.
 
-![](/images/Highlights/Applied%20Learning%20Programme/activities.jpg)
+![](/images/Highlights/Applied%20Learning%20Programme/4.png)
 
-### Students in Action
+##### Minecraft Education: Explore, Experiment, Excel for P3 And P4 Students
 
+Minecraft Education equips students with essential 21st-century skills such as collaboration, creative problem-solving, communication, and systems thinking—preparing them for the future workplace. In a classroom setting, students can easily collaborate in pairs or groups by joining their classmates' virtual worlds. Special educator-designed blocks provide teachers with control over the learning environment, ensuring lessons remain structured and purposeful.
 
+Unlike other editions of Minecraft, Minecraft Education includes exclusive features tailored for teaching and learning, offering educators a dynamic and interactive way to engage students of all ages. By immersing in gameplay, students develop critical thinking and problem-solving skills while having fun, making learning more meaningful and engaging.
 
+![](/images/Highlights/Applied%20Learning%20Programme/5.png)
 
-| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_1_resize.JPG) | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_2_resize.JPG) | 
-|:-:|:-:|
-| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_3_resize.JPG)     | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_4_resize.JPG)    | 
-| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_5_resize.JPG)    | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_6.JPG)     | 
-| ![](/images/Highlights/Applied%20Learning%20Programme/alp23_7.jpeg)   | ![](/images/Highlights/Applied%20Learning%20Programme/alp23_8.JPG)     | 
+##### Micro:bit: Inspiring Digital Creativity and Innovation For P5 Students
 
+Micro:bit is a compact, programmable microcontroller that empowers students to explore coding, electronics, and digital creativity. Designed to be beginner-friendly yet powerful, Micro:bit allows students to code and create interactive projects using block-based or text-based programming languages.
 
-### Useful Links
+With built-in features such as LED displays, sensors, buttons, and wireless communication, students can experiment with real-world applications, from simple games to smart devices. This hands-on experience fosters computational thinking, problem-solving, and innovation while making learning engaging and interactive.
 
-<a href="https://scratch.mit.edu/" target="_blank">Scratch</a>   
-<a href="https://makecode.microbit.org/" target="_blank">micro:bit</a>
+Micro:bit encourages creativity and collaboration, enabling students to work together to build projects that bring their ideas to life. By integrating coding with STEM learning, Micro:bit equips students with the skills and confidence needed for the digital future.
+
+#### Students in Action
+
+![](/images/Highlights/Applied%20Learning%20Programme/6.png)
+![](/images/Highlights/Applied%20Learning%20Programme/7.png)
+![](/images/Highlights/Applied%20Learning%20Programme/8.png)
+![](/images/Highlights/Applied%20Learning%20Programme/9.png)
