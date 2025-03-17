@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-# **Student Leadership Development**
-
-<br>
 <img src="/images/Learning/Student%20Management/image1.jpg" style="width:65%">
 
 

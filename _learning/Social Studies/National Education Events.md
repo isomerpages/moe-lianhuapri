@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Social Studies
 variant: markdown
 ---
-<h1><strong>National Education Events</strong></h1>
-
 <h4><strong>National Education</strong></h4>
 
 <p style="text-align: justify;">National Education (NE) is a significant aspect of Character and Citizenship Education (CCE) which comprises a wide range of school efforts that help students experience and explore their national identity as Singaporeans, understand the realities and challenges unique to our nation and foster a sense of hope and belonging to Singapore.</p>
