@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-
 #### Purposes of CCA
 
 Lianhua Gamelan Ensemble has been around in the school for more than two decades. The Gamelan members’ journey starts with the commitment to enjoy and develop the skills needed to play the instruments. The students do not need to have any prior or basic musical knowledge or experience in playing the instruments, but must have perseverance, resilience and also the willingness to learn to play different instruments. Our instruments such as Gong Agong, Saron, Peking, Bonang, Demung, Gender, Kethuk, Kendhang, Kenong, Ceng ceng, Slenthem, are played in synergy to produce a captivating performance that represented the joy and confidence of our Lianhua spirit. 
@@ -55,36 +54,19 @@ Our Gamelan Ensemble also gave an invigorating showcase of three pieces that the
 |   | Prize Giving Day     | 
 
 
-### Achievements
+#### Achievements
 
-| Year | Competition                                                                            | Award                         |
-|------|----------------------------------------------------------------------------------------|-------------------------------|
-| 2012 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Silver                        |
-| 2014 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Gold                          |
-| 2016 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Distinction    |
-| 2018 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Accomplishment |
+| Year | Competition    | Award    |
+|------|------|------|
+| 2024 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Distinction |
 | 2022 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Participation |
-
-
-### Students' Voices
-  
-"My elder sister, who is in Gamelan since she is in P2, came home and told me that Gamelan is fun. When I came in Primary 1, I decided to discover it myself, so I joined Gamelan. Gamelan is indeed fun! I really enjoy it on the first training session.&nbsp;
-
-In Gamelan, I learnt to be resilient - never to give up easily. All members are encouraged to learn to play different instruments. It is not easy. I have learnt to play two instrument and this year, I am learning to play the Bonang, a Javanese gong chime consisting of ten to fourteen small tuned gongs set in a horizontal wooden frame. When playing Gamelan, teamwork is very important. To play in unison and listening to each other when playing is very important."&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <p style="text-align: right">NURA'ALIYAH QALISHA BINTE ROSLAN, 3 COMPASSION  <br></p>
-
-
-"Each time my elder brother comes home after a Gamelan training session, his face beamed with delight. I decided to join Gamelan seeing how he has enjoyed each session. I also always have this passion for music. Playing musical instruments not only brings joy to me, it also brings joy to those who listen to it. Since I like music, I look forward to every Gamelan training sessions. I treasure every second during training sessions to learn as much as I can.
-
-I have learnt to be resilient because nothing is easy. I must always persevere no matter the difficulty. As a senior member of the Gamelan Ensemble, I try my best to bring unity to the team to overcome challenges adn work together. I respect my teachers and&nbsp; instructors by listening to them when they are sharing their wealth of knowledge."&nbsp;
-
-<p style="text-align: right">KHAYLA AMILY BINTE MOHAMAD KHAIDIR, 5 RESILIENCE<br></p>
-
-
+| 2018 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Accomplishment |
+| 2016 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Certificate of Distinction    |
+| 2014 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Gold   |
+| 2012 | Singapore Youth Festival (SYF) – Arts Presentation For Instrumental Ensemble (Gamelan) | Silver  |
 
 #### The Team
 
-MDM KHILFINA BTE KAMARUDDIN SHAH<br>
-MDM SITI NURAINI MUSTAQIIM M YUSOF<br>
-MR RAMADHAN OMAR
+* MDM KHILFINA BTE KAMARUDDIN SHAH
+* MDM SITI NURAINI MUSTAQIIM M YUSOF
+* MR RAMADHAN BIN OMAR
