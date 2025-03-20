@@ -83,33 +83,23 @@ Aligned with our school’s student outcomes, the Visual Art Jam aims to achieve
 
 ![](/images/Learning/Visual%20Art/2025visualart9.jpg)
 
-Visual Art Jam! is a platform for all students to explore different art forms within and beyond the Art curriculum to extend their knowledge and skills in art-making. To complement other school experiences, the activities are planned based on themes and events taking place in school. For one of the Visual Art Jam activities, in conjunction with our 75th anniversary celebrations, we have organised a special Visual Art Jam! Edition called the Garden of Hope to align with the anniversary theme - Making a Difference. For this, we invited our students, staff and parent volunteers to aesthetically express how they could make a difference to society and beyond. Through this hands-on activity, everyone had the opportunity to relate and connect with the world around them and share how they could make a difference through Art.
 
-  
-
-Through this platform, we hope to provide students with an alternative mode of self-expression of what they have learnt. To encourage and motivate students, our students’ masterpieces are displayed @ Art Star Interactive Corner. By displaying our students’ work, we want to recognise all students for their efforts, regardless of ability or talent.
-
-![](/images/Learning/Visual%20Art/photo11a.jpeg)
-
-| ![](/images/Learning/Visual%20Art/photo1a.JPG) | ![](/images/Learning/Visual%20Art/photo3a.JPG)  | 
-| -------- | -------- | 
-|   |   |
-
-**Major Programmes**
-
+**Major Programmes**<br>
 **<u>Museum-Based Learning Programme</u>**
 
-In the Museum-based learning module, our P4 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. Students are introduced to various types of artworks and learned about Singapore’s artforms – both past and contemporary.&nbsp;
-
-
-Students are exposed to visual-thinking routine questions in the group activities. This helps to develop critical thinking skills and allows them to better appreciate the art elements and techniques used by the artists in their artworks. In the process, students develop visual observation skills, appreciation of local art, culture and heritage. They also take pride in being part of the Singapore art scene.&nbsp;&nbsp;
-
-
+<p style="text-align: justify;">
+In the Museum-based learning module, our P4 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. Students are introduced to various types of artworks and learned about Singapore’s artforms – both past and contemporary. 
+<br><br>	
+During the museum visit, students were introduced to visual-thinking routine questions that fostered critical thinking. By engaging in group activities, they sharpened their observation skills, analyzing the art elements and techniques used by the artists. This approach not only helped them appreciate the creative process but also developed their ability to think critically about the artwork’s meaning and context.
+<br><br>	
+Through discussions and collaborative learning, students were exposed to a variety of artworks reflecting Singapore’s artistic heritage – both historical and contemporary. This encouraged them to engage deeply with the stories behind the art, better understanding the evolution of Singapore’s art scene. By working together, students were able to share different perspectives and insights, enhancing their appreciation of the artworks and strengthening their connection to Singapore’s culture. 
+<br><br>	
 At the end of their learning journey, the students will reflect upon their experiences at the museum and apply this in the pieces they will create in response.
+</p>
 
-|![](/images/Learning/Visual%20Art/photo4a.JPG) | ![](/images/Learning/Visual%20Art/photo5a.JPG) | 
-| -------- | -------- | 
-|   |   |
+![](/images/Learning/Visual%20Art/2025visualart10.jpg)
+
+
 
 **Digital Media Programme**
 
