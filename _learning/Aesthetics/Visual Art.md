@@ -67,6 +67,21 @@ In the art curriculum, digital tools and technology are harnessed to enhance art
 
 **<u>Visual Art Jam!</u>**
 
+<p style="text-align: justify;">
+Our Visual Art Jam is designed to provide a vibrant platform for our Primary 1 – 6 students to explore various art forms, express their creativity, and appreciate the diverse artworks of others. This endeavor not only encourages artistic expression but also fosters collaboration and self-discovery among all Lianhuareans, igniting a sense of joy in the process of artmaking. Facilitated by our art teachers, supported by student volunteers from the Art Club and Art Leaders serving as Student Art Guides, and our enthusiastic Parent Volunteers, the Visual Art Jam embodies our school's commitment to cultivating Critical &amp; Creative Thinkers and Confident Communicators. <br><br>
+Aligned with our school’s student outcomes, the Visual Art Jam aims to achieve the following objectives:<br>
+-Provide a platform for students to unleash their creativity and explore diverse art forms.<br>
+-Foster collaboration and self-expression in artmaking <br>
+-Encourage appreciation and understanding of various art styles and techniques.<br>
+-Develop critical thinking skills through the process of art creation and interpretation.<br>
+-Cultivate confidence in communication and expression through artistic endeavors.
+</p>
+
+![](/images/Learning/Visual%20Art/2025visualart7.jpg)
+
+![](/images/Learning/Visual%20Art/2025visualart8.jpg)
+
+![](/images/Learning/Visual%20Art/2025visualart9.jpg)
 
 Visual Art Jam! is a platform for all students to explore different art forms within and beyond the Art curriculum to extend their knowledge and skills in art-making. To complement other school experiences, the activities are planned based on themes and events taking place in school. For one of the Visual Art Jam activities, in conjunction with our 75th anniversary celebrations, we have organised a special Visual Art Jam! Edition called the Garden of Hope to align with the anniversary theme - Making a Difference. For this, we invited our students, staff and parent volunteers to aesthetically express how they could make a difference to society and beyond. Through this hands-on activity, everyone had the opportunity to relate and connect with the world around them and share how they could make a difference through Art.
 
