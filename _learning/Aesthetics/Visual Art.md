@@ -5,20 +5,17 @@ description: ""
 third_nav_title: Aesthetics
 variant: markdown
 ---
-| ![](/images/Learning/Visual%20Art/Digital%20Media-%20P1%20student%20at%20Edible%20Garden.jpg) | <br> ![](/images/Learning/Visual%20Art/Main%20Photo%202-%20drawing%20activity%20infused%20with%20ICT%20.jpg) | 
-| -------- | -------- | 
-|   |   |
-
+![](/images/Learning/Visual%20Art/2025visualart1.jpg)
 
 
 **Our Vision &amp; Mission**
 
-**Vision: Inspiring Minds, Moving HeArts**   
+**Vision: Inspiring Creativity, Igniting Passion**   
 **Mission: Cultivate passion and working towards excellence in Visual Art.**
 
-*   See, express and appreciate artworks to make meaning through connecting with society and culture.
-*   Cultivate creativity and critical-thinking in artmaking.
-*   Develop self-confidence, resilience and excellence to fulfil to the best of one’s ability in artmaking.
+*   Observe, interpret, and value artworks to derive meaning through connections with society and culture.
+*   Foster creativity, critical thinking, and adaptive thinking in the artmaking process.
+*   Build self-confidence, resilience, and a commitment to excellence to reach one’s full potential in artmaking.
 
 **Key Feature**
 
