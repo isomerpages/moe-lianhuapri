@@ -42,6 +42,26 @@ In art discussions, students deepen their understanding by sharing ideas and cre
 
 ![](/images/Learning/Visual%20Art/2025visualart3.jpg)
 
+<p style="text-align: justify;">
+<strong>(3) Emphasis on Process and Inquiry-Based Learning</strong><br>
+There is an emphasis on process-based learning, inquiry, and experimentation enables students to explore and develop their artistic skills through hands-on, experiential learning in real-world contexts.
+</p>
+
+<p style="text-align: justify;">
+<strong>(4) Focus on Creativity and Innovation </strong><br>
+We seek to nurture creativity, critical thinking, and innovation in our art curriculum and programmes. This approach encourages students to explore unconventional ideas and approaches in their artistic endeavours. 
+</p>
+
+![](/images/Learning/Visual%20Art/2025visualart4.jpg)
+
+<p style="text-align: justify;">
+<strong>(5) Integration of Technology</strong><br>
+In the art curriculum, digital tools and technology are harnessed to enhance artistic expression and creativity, as well as to explore new forms of art and media. This integration helps students gain confidence and proficiency in art creation, allowing them to leverage a wider range of tools and media in their artistic practice.
+</p>
+
+![](/images/Learning/Visual%20Art/2025visualart5.jpg)
+
+
 **Key Signature Programme**
 
 **<u>Visual Art Jam!</u>**
