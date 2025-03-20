@@ -19,10 +19,28 @@ variant: markdown
 
 **Key Feature**
 
-![](/images/Learning/Visual%20Art/Art%20framework.jpg)
+![](/images/Learning/Visual%20Art/2025visualart2.jpg)
 <br>
 
-We incorporate the 4Es in our school’s art framework to provide authentic learning experiences for students aligned with the school values through the art curriculum, interdepartmental collaborations and external collaborations. The 4Es are Exposure, Experience, Enjoy and Excel. In the 6 years at Lianhua Primary School, our students will learn about 32 artists’ artworks and explore artmaking in different art forms and media through the inquiry-based learning approach and CCE infused lessons. As they learn to see, express and appreciate the artworks, students will learn to generate responses, conceptualise ideas, investigate and express. In the process, students would acquire 21CC skills, SEL values and critical thinking skills. To enrich our students’ learning experience, students are given the opportunity to create art pieces to contribute back to the community through art collaborations with external partners. Platforms are provided for students to excel and showcase their artwork at external platforms i.e SYF Art Lab, SYF Art Exhibitions and other art competitions.
+<p style="text-align: justify;">
+We integrate the 4Es into our school's art framework to offer authentic learning experiences that align with school values, through the art curriculum, interdepartmental collaborations, and external partnerships.
+</p>
+
+<p style="text-align: justify;">
+The <strong>4Es—Exposure, Experience, Enjoy, and Excel</strong>—guide our students' journey at Lianhua Primary School. Over six years, they will explore 28 artists' works and engage in diverse art forms and media through inquiry-based learning and CCE-infused lessons. In our art curriculum, we emphasize on process and inquiry- based learning. This approach encourages students to explore, experiment, and question throughout their artistic journey. Rather than focusing solely on the final product, students engage in open ended investigations, problem-solving, and critical thinking. They are encouraged to take risks, embrace mistakes as learning opportunities, and develop their own unique artistic voice. This fosters a deeper understanding of artistic processes, enhances creativity, and promotes self-directed learning. In their artmaking process and discussions, students will cultivate SEL (Social-Emotional Learning) values and 21st Century Competencies (21CC), which include:
+</p>
+
+<p style="text-align: justify;">
+<strong>(1) Critical, Adaptive and Inventive Thinking </strong><br>
+Students are provided opportunities to explore and experiment with various ways of expressing ideas. They learn to take risks in artistic decisions, solve problems, reason effectively, and engage in critical reflection and evaluation during art discussions. 
+</p>
+
+<p style="text-align: justify;">
+<strong>(2) Communication, Collaboration and Information Skills: </strong><br>
+In art discussions, students deepen their understanding by sharing ideas and creations. They become open to diverse perspectives, collaborate respectfully with peers, make compromises, and share and accept responsibility.
+</p>
+
+![](/images/Learning/Visual%20Art/2025visualart3.jpg)
 
 **Key Signature Programme**
 
