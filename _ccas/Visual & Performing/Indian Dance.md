@@ -13,26 +13,6 @@ The Lianhua Indian Dance has been a part of the Performing Arts for about 20 yea
 
 It also aims to develop dance skills among students from diverse racial groups and at the same time, allow students to express themselves gracefully through classical, folk and contemporary dance movements. It fosters values such as self discipline, unity, resilience, diligence and compassion as students are challenged with various dance techniques and forms.
 
-
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LHPS - Indian Dance 2023" src="https://www.youtube.com/embed/ihLWpLyD2pc" width="351" height="308"></iframe></td>
-    <td><iframe width="351" height="308" src="https://www.youtube.com/embed/b_8cZ7gDVa0" title="Indian Dance Practice 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-  </tr>
- <tr>
-   <td><iframe width="351" height="308" src="https://www.youtube.com/embed/BrOSPGlAHso" title="Indian Dance Practice 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-   <td><iframe width="351" height="308" src="https://www.youtube.com/embed/pxB8kBnPKUI" title="Indian Dance Practice 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
-  </tr>
-</tbody>
-</table>
-
 #### Collaboration with Community
 
 Performances and competitions are great platforms for our dancers to showcase their capabilities and strengths in the performing arts. Students are exposed to National Competitions such as the Singapore Youth Festival (SYF) every two years. They are also given the opportunity to perform in school events (e.g. Deepavali and Prize Giving Ceremony) and public events organized by external organizations (e.g. Grassroots Organization).
@@ -58,7 +38,7 @@ The dance, titled "Sakthi, The Energy Within," beautifully embodies the theme of
 This journey proved to be both challenging and immensely rewarding for our students as they committed themselves to mastering new steps and finishing the choreography.
 
 
-## Achievements
+#### Achievements
 
 | Year |   Competition    |   Award  |
 |:----:|:----------:|:---------:|
@@ -67,7 +47,7 @@ This journey proved to be both challenging and immensely rewarding for our stude
 | 2018 | Singapore Youth Festival (SYF) – Arts Presentation For Dance (Indian) | Certificate of Accomplishment |
 | 2016 | Singapore Youth Festival (SYF) – Arts Presentation For Dance (Indian) | Certificate of Accomplishment |
 
-## Students' Voices
+#### Students' Voices
 
 I have leart a lot of values like Unity,Recelince and Dillgence.It was a wonderful experince because it was my first&nbsp;Indian dance&nbsp;performence on stage.I feel very proud and happy.
 
@@ -76,9 +56,13 @@ I have leart a lot of values like Unity,Recelince and Dillgence.It was a wonderf
 Participating in SYF brings me lots of joy because I love to dance, and the song we performed is my personal favorite. This connection to the music makes the dance even more special for me. While I feel a sense of sadness about leaving my CCA this year, I treasure the bond I share with my CCA members and will miss them dearly. I look forward to reuniting with them for dance after my PSLE. SYF provides me the opportunity to follow my passion and dancing brings me so much happiness, and I believe it resonates with the audience. 
 
   <p style="text-align: right">ANNE KAMALINI<br></p>
+	
+#### Useful Links
 
-## The Team
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LHPS - Indian Dance 2023" src="https://www.youtube.com/embed/ihLWpLyD2pc"></iframe>
+
+#### The Team
 
 * MDM B REQHA TRIXIE
 * MS HUSSUM FATIMAH BTE SYED MOHD
-* MS CLARA TAN YI JUN 
+* MS CLARA TAN YI JUN
