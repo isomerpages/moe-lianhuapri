@@ -105,6 +105,8 @@ At the end of their learning journey, the students will reflect upon their exper
 
 ![](/images/Learning/Visual%20Art/2025visualart12.jpg)
 
+![](/images/Learning/Visual%20Art/2025visualart12_2.jpg)
+
 ![](/images/Learning/Visual%20Art/2025visualart13.jpg)
 
 
