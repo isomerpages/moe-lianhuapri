@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
+
+![](/images/CCAs/Malay%20Dance/head.png)
+
 #### Purpose of CCA
 
 Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Students’ interest in performing arts can be developed and stretched, underpinned by the school values of Discipline, Resilience and Excellence.  At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
@@ -21,26 +24,17 @@ The Singapore Youth Festival competition is a much awaited event for our dancers
 
 #### Achievements
 
-| Year |                Competition                |             Award            |
-|:----:|:-------------:|:------------------:|
-| 2024 | Singapore Youth Festival  |                  Certificate of Distinction            |
-| 2022 | Singapore Youth Festival  |                  Certificate of Participation            |
-| 2018 | Singapore Youth Festival  |            Certificate of Accomplishment            |
-| 2016 |          Singapore Youth Festival         | Certificate of Accomplishment |
+| Year |     Competition    |     Award   |
+|:----:|:---------:|:---------:|
+| 2024 | Singapore Youth Festival  |  Certificate of Distinction |
+| 2022 | Singapore Youth Festival  |  Certificate of Participation  |
+| 2018 | Singapore Youth Festival  |  Certificate of Accomplishment  |
+| 2016 |   Singapore Youth Festival   | Certificate of Accomplishment |
 
 In 2024, our Malay dancers participated in the Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
 
-
-
-![](/images/CCAs/Malay%20Dance/mld39-23.jpg) 
-
-![](/images/CCAs/Malay%20Dance/mld39-27%20(1).jpg)  
-
-
-
-![](/images/CCAs/Malay%20Dance/photo1.jpeg) | <br><br>![](/images/CCAs/Malay%20Dance/photo3.jpeg)
-|:-:|:-:|
-|   |   |
+![](/images/CCAs/Malay%20Dance/2.png)
+![](/images/CCAs/Malay%20Dance/3.png)
 
 #### Students’ Voices
 
@@ -54,11 +48,12 @@ I feel really happy and proud that I was given the chance to join in this journe
 
 #### Useful Links
 
-<a href="https://www.youtube.com/watch?v=osXv2AAk1w4" target="_blank">TARI LENGGOK MAK INANG PULAU KAMPAI</a>   
+<a href="https://www.youtube.com/watch?v=osXv2AAk1w4" target="_blank">Tari Lenggok Mak Inang Pulsu Kampai</a>   
 <a href="https://www.youtube.com/watch?v=Rg1PUM0M0NI" target="_blank">Tari serampang 12 (Serampang 12 Dance)</a>
 
 #### The Team
 
-* MDM ROSNAH BTE ROSMAN
 * MDM NORLIEZA BTE AHMAD
+* MDM ROSNAH BTE ROSMAN
 * MDM NORHAYATI BTE RUHANI
+* MS ARSHIVINI PAULOSE MANOHAR 
