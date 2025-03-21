@@ -59,13 +59,13 @@ Participating in SYF brings me lots of joy because I love to dance, and the song
 	
 #### Useful Links
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LHPS - Indian Dance 2023" src="https://www.youtube.com/embed/ihLWpLyD2pc"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LHPS - Indian Dance 2023" src="https://www.youtube.com/embed/ihLWpLyD2pc" height="300" width="550"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 2" src="https://www.youtube.com/embed/b_8cZ7gDVa0"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 2" src="https://www.youtube.com/embed/b_8cZ7gDVa0" height="300" width="550"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 3" src="https://www.youtube.com/embed/BrOSPGlAHso"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 3" src="https://www.youtube.com/embed/BrOSPGlAHso" height="300" width="550"></iframe>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 4" src="https://www.youtube.com/embed/pxB8kBnPKUI"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 4" src="https://www.youtube.com/embed/pxB8kBnPKUI" height="300" width="550"></iframe>
 
 #### The Team
 
