@@ -5,102 +5,63 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-# **Art &amp; Crafts Club**
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/head.png)
 
-| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo1.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo2.jpg) | 
-| -------- | -------- | 
-|   |   |
+#### Purposes of CCA
 
-### Purpose of Art Club
+The Lianhua Art Club provides budding artists with a platform to explore and nurture their creativity through a variety of 2D and 3D art forms. With a wide range of visual art media and techniques, students hone their artistic skills while fostering collaboration and building self-confidence.
 
-The Lianhua Art Club aims to provide opportunities for budding artists to explore their creativity through 2D and 3D art in an array of visual art media and forms. Students develop their artistic skills, learn to work collaboratively with others, and build self-confidence.&nbsp;
-  
-Members have participated in and clinched awards at various competitions. They share their passion with the school and the community at large to promote the beauty of Art. Exploration also extends beyond the classroom setting, where students develop a deeper appreciation for the Arts through engagements with the surroundings as well contributing their art work to the community.
+Beyond the classroom, students deepen their appreciation for the arts by engaging with their environment and contributing their artworks to the broader community. Through these experiences, they develop both as artists and individuals.
 
+#### Collaboration with Community
 
-### Experiences
+**Chingay 2025 National Education (NE) Programme - Joyous ART-Venture!**
 
-**Singapore Youth Festival (SYF) Art Competition**
+Lianhua Primary School’s Art Club is proud to be part of a dynamic group of 2,000 students from eight schools and institutions, selected to co-create art installations featured at the Chingay Parade 2025! This initiative is part of our school’s community outreach collaboration with the People’s Association’s (PA) Community Arts &amp; Culture Club, as part of the Chingay 2025 National Education (NE) Programme - Joyous ART-Venture. Through this collaboration, our Art Club students had the unique opportunity to develop 21st Century Competencies (21CC), enhancing their teamwork, creativity, and critical thinking as they worked together to bring their artistic visions to life.
 
-The Lianhua Art Club has regularly participated in the Singapore Youth Festival (SYF) Art Competition. To date, our Category A artwork “No Tech No Life!” has been awarded the Special Mention award at the Singapore Youth Art Festival 2021.
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/1.png)
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/2.png)
 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/SYF%202021_4.jpg)
-<center>Our winning entry for Category A SYF Art Competition 2021.</center>
+On 2nd March, Lianhua Primary School supported the Chingay @ Heartlands 2025 Event (Chua Chu Kang GRC and Hong Kah North SMC) and is honoured to have been graced by the presence of Deputy Prime Minister, Mr. Gan Kim Yong, Senior Minister of State, Dr. Amy Khor, and Senior Minister of State, Ms. Low Yen Ling, to view the Chingay installation artworks created by our Art Club students.
 
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/3.png)
 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo3.jpg)
+On 4 March, Lianhua Primary School's Chingay Art Installation, “Our Joyous Savour - The Edible Art Garden,” won the Visitor’s Favourite Art Installation Award! 
 
-| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo5.jpg) |![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo4.jpg) | 
-| -------- | -------- | 
-|   |   |
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/4.png)
 
-<center>Category A - “Through The Eyes of A Child”</center>
+#### Competition
 
-Our members took part in SYF art competitions this year and submitted artwork for three categories. Students and teachers worked hand in hand to create the 3-Dimensional Artwork. Based on the theme, our students experienced using different materials to create a beautiful sculpture. Well done!
+**Singapore Youth Festival (SYF) Art Exhibition**
 
-| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo7.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo6.jpg) | 
-| -------- | -------- | 
-|   |   |
+The Lianhua Art Club has regularly participated in the Singapore Youth Festival (SYF) Art Exhibition. We are proud of our Art Club students for all their efforts and creativity guided by the Art Club teachers in this experiential and joyful artmaking journey to express their voice through their masterpieces. 
 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo8.jpg)
-
-<center>Category B - “Feed People, Not Landfills!”</center>
+![](/images/CCAs/Art%20&amp;%20Crafts%20Club/5.png)
+Category A - “Through The Eyes of A Child”
 
 
-| ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo9.jpg) | ![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo11.jpg) | 
-| -------- | -------- | 
-|   |   |
+#### Achievements
 
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo10.jpg)
-
-<center>Category C - “A Dedication to Our World”</center>
-
-
-**PAssionArts Festival 2022- Façade Art Painting**
-
-Lianhua Primary School is proud to be one of the community partners collaborating with Bukit Gombak CC to celebrate PAssionArts Festival 2022. In this national-level Façade Art collaboration, our Art Club students, teachers, and parent volunteers painted 2 canvases to express the unique artistic representations of Bukit Gombak neighbourhood at Little Guilin.
-
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/photo13.JPG)
-
-**National Day 2021 Nagomi Art**
-
-In 2021, our Art Club members in P4 to P6 took part in the Nagomi Art organized by the PAssionArts in collaboration with the Bukit Gombak Constituency and Hill View Community Club. Our students spent their Saturday afternoon creating beautiful Nagomi Art in conjunction with National Day 2021 celebrations.
-
-![](/images/CCAs/Art%20&amp;%20Crafts%20Club/NDP%202021%20Nagomi%20Art.png)
+| Year | Achievements        | Award |
+|------|-----------|-------|
+| 2025 | Favourite PAssionArts Street Installation -  “Our Joyous Savour - The Edible Art Garden | Visitor’s Favourite Art Installation Award |
+| 2023 | Singapore Youth Festival Art Exhibition  Category A - “Through The Eyes of a Child”  | Certificate of Recognition |
+| 2021 | Singapore Youth Festival Art Competition – Category A(Special Mention) "No Tech, No Life!" | Special Mention |
 
 
-## **Achievements**
+#### Students’ Voices
 
-| Year | Achievements                                                                                  | Award |
-|------|-------------------------------|-------|
-| 2021 | Singapore Youth Festival Art Competition – Category A(Special Mention)<br>"No Tech, No Life!" | Merit |
-
-
-## **Students’ Voices**
+I feel that taking part in the Chingay Art Installation was an incredibly memorable experience. I am also very proud and satisfied because our installation artwork turned out beautifully, and we dedicated a lot of time and effort to it. Throughout the process, I became more comfortable communicating with others, and by the end of the experience, my self-confidence had grown. 
+  <p style="text-align: right"> CHEN EE SUEN, 5 UNITY 2 ’2025</p>
 
 "When I did my SYF art work with my team members, I displayed the value of resilience as I overcame challenges I faced. The journey was fun and it was the first time I used posca markers to draw short repeated lines on a shrinkable plastic just like the artwork by Vincent Van Gogh, Starry Night. I am proud of myself for all the efforts put in. I think our art work is beautiful."
+  <p style="text-align: right"> AVA CHAN XIN YU, 2 DISCIPLINE ’2023</p>
 
-  <p style="text-align: right"> AVA CHAN XIN YU, 2 DISCIPLINE ’2023<br></p>
+#### The Team
 
-"It was a wonderful experience as I learned new painting techniques and art skills in my art making process. I learned that if we work together in unity, we can support and learn from one another in the journey to achieve our common goal.&nbsp; I felt that our SYF artwork is very meaningful as it can raise awareness in people not to waste food and to only buy the amount of food needed. I am very happy to be part of the SYF art team and I love our artwork."
-
-  <p style="text-align: right"> GAZA ALTHEA CASSANDRA BACLIG, 4 RESILLIENCE ’2023<br></p>
-
-"The SYF art activity was so fun as I got to work with the P5 and P6 friends and we all got along well. I put my art skills to good use and acquired new skills as we learned metal embossing. We embossed images representing our emotions and things associated with COVID on small metallic pieces which we pieced together to form our beautiful globe. I have become more resilient and have learnt never to give up in face of challenges. Together with my friends, I have learned unity as we learned and worked together as a team to complete our artwork. I felt happy and proud that we have created a masterpiece and I hope everyone will also appreciate our artwork and effort."
-
-  <p style="text-align: right"> CHOO ENXIN, 5 RESILLIENCE ’2023<br></p>
-
-"Being in the SYF Art Club team was extremely fun and exciting. I am very proud that I was chosen to be part of the team. In this journey, it was enjoyable working with my friends and teachers, and I made new friends as well. Through this experience, it has taught everyone the value of resilience and unity as we thought we could not finish the art work in time however, we persevered on and work together as a team and even created an additional mini globe. I am proud of our unique and beautiful artwork, which is a dedication to everyone who have emerged stronger and more resilient after the COVID.&nbsp;&nbsp;
-
-  <p style="text-align: right"> BOO ING SWUNG SAFFRON, 6 HONESTY ’2023<br></p>
-"As the team leader in my group, I feel happy about collaborating with my other team members, brainstorming sessions while experiencing the art-making process. I get to experience different art processes using different materials that I have not used before. It was so exciting and enriching."
-
-  <p style="text-align: right"> GOH SHU EN AMELIA, 6 HONESTY '2023<br></p>
-
-
-
-## **The Team**
-
-MDM MAGGIE FONG PUI YI<br>
-MS CHEN YIMENG<br>
-MDM AZIZAH BTE MOHD ALI
+* MDM MAGGIE FONG PUI YI
+* MS LU CHING CHING
+* MS CHEN YIMENG
+* MDM AZIZAH BTE MOHD ALI
+* MDM CHUA YI LING
+* MS RACHEL KOH BAO QIN
