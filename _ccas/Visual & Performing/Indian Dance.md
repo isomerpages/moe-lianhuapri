@@ -63,7 +63,9 @@ Participating in SYF brings me lots of joy because I love to dance, and the song
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 2" src="https://www.youtube.com/embed/b_8cZ7gDVa0"></iframe>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 3" src="https://www.youtube.com/embed/BrOSPGlAHso"></iframe>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 4" src="https://www.youtube.com/embed/pxB8kBnPKUI"></iframe>
 
 #### The Team
 
