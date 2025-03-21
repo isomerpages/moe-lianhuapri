@@ -5,35 +5,29 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# **Basketball**
 
-![](/images/CCAs/Basketball/cca23_102.JPG)
-
-#### **Purposes of CCA**
+#### Purposes of CCA
 
 At Lianhua Primary School, Basketball CCA is more than just a platform for students in their pursuit of their interest and for learning values. We want our members to experience the joy of learning at training sessions, cultivate minds of inquiry in becoming a thinking player, so as to build their confidence in life when they experience successes. We aim to make every member a good player with great skills and a fantastic attitude. Not only would this enable them to be eager to learn for life but to also give back to society by helping out in the school and community.
 
   
-**Competition**
+#### Competition
 
 Selected players will represent Lianhua to participate in the Annual National Sports Games. Players learn how to win sportingly and lose with dignity. In the meantime, they also learn to exhibit Olympian Values such as respect, excellence and friendship in the competition.
 
+![](/images/CCAs/Basketball/1.png)
 
-| ![](/images/CCAs/Basketball/basketball23_128.JPG) | ![](/images/CCAs/Basketball/basketball23_28.JPG) | 
-|:-:|:-:| 
-| ![](/images/CCAs/Basketball/basketball23_134.JPG)     | ![](/images/CCAs/Basketball/basketball23_102.JPG) 
-| ![](/images/CCAs/Basketball/basketball23_123.JPG)   | ![](/images/CCAs/Basketball/basketball23_62.JPG)     | 
-
-
-**Friendly matches**
+#### Friendly matches
 
 Friendly matches with schools are always organized on an annual basis to provide an avenue for members to build confidence and foster strong bonds with each other. It also serves as a platform for coaches and teachers to select the school team members.
 
+![](/images/CCAs/Basketball/2.png)
 
-**<center>Achievements</center>**
+#### Achievements
 
 | Year |                           Competition                          |       Award      |
-|:----:|:--------------------------------------------------------------:|:----------------:|
+| -------- | -------- | -------- |
+| 2024 | National Senior Division Girls League 3 |  2nd Runner Up |
 | 2023 |         West Zone Senior Boys Basketball Championship        |         1st Runner-Up        |
 | 2022 |         West Zone Senior Boys Basketball Championship        |         Quarter-Final        |
 |          |         National Junior Boys 3v3 Basketball Championship       |         Tier 2 1st Runner Up        |
@@ -83,10 +77,9 @@ The Lay Up | Basketball
 
 ####  **The Team**   
 
-MR TAN CHIN CHUAN <br>
-MR WILLIE WONG<br>
-MDM PEK PEET JUAN SHANICE <br>
-MS TAN LI YAN  <br>
-MS ABIGAIL ANG JIA MIN <br>
-MS ALYSSA POH<br>
-MR TAN THONG HOWE<br>
+* MR TAN CHIN CHUAN
+* MR WILLIE WONG
+* MS ABIGAIL ANG JIA MIN
+* MS ALYSSA POH
+* MDM LIM CHIAU LING
+* MDM EILEEN CHUA

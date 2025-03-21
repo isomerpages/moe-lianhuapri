@@ -5,63 +5,55 @@ description: ""
 third_nav_title: Visual & Performing
 variant: markdown
 ---
-# Malay Dance
 
-## Purpose of CCA
+![](/images/CCAs/Malay%20Dance/head.png)
 
-Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Students’ interest in performing arts can be developed and stretched, underpinned by the school values of Self-discipline, Resilience and Excellence.&nbsp; At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
+#### Purpose of CCA
 
-## Competition
+Malay Dance CCA aims to create an awareness in the cultural aspect of Malay Dance among students regardless of language and racial background. Students’ interest in performing arts can be developed and stretched, underpinned by the school values of Discipline, Resilience and Excellence.  At the end of their primary school years, our dancers would have gone through the experience of performing in and out of school and at least gone through one SYF competition. Our dancers also learn the importance of giving to the community through external performances.
 
-The Singapore Youth Festival competition is a much awaited event for our dancers. This is a bi-annual competition organized by the Ministry of Education to celebrate the achievements of youths in their co-curricular activities. It is usually held in April although preparations for the competition start as early as November in the previous year. Dancers are selected based on their readiness and the skills mastered for the choreographed dance.
+#### Collaboration with the community
 
-
-## Collaboration with the community
-
-In 2022, our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebrations.&nbsp; It was a wonderful and fruitful experience for the dancers.
+Our Malay Dancers performed for the Bukit Gombak Mid-Autumn Celebrations.  It was a wonderful and meaningful experience for the dancers.
 
 ![](/images/CCAs/Malay%20Dance/photo2.jpeg)
 
-
-## Achievements
-
-| Year |                Competition                |             Award            |
-|:----:|:-------------:|:------------------:|
-| 2022 | Singapore Youth Festival  |                  Certificate of Participation            |
-| 2018 | Singapore Youth Festival  |            Certificate of Accomplishment                  |
-| 2016 |          Singapore Youth Festival         | Certificate of Accomplishment |
-
-In 2022, our Malay dancers participated in Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
+#### Competition
+The Singapore Youth Festival competition is a much awaited event for our dancers. This is a bi-annual competition organized by the Ministry of Education to celebrate the achievements of youths in their co-curricular activities. It is usually held in April although preparations for the competition start as early as Term 4 of the previous year. Dancers are selected based on their readiness and the skills mastered for the choreographed dance.
 
 
+#### Achievements
 
-![](/images/CCAs/Malay%20Dance/mld39-23.jpg) 
+| Year |     Competition    |     Award   |
+|:----:|:---------:|:---------:|
+| 2024 | Singapore Youth Festival  |  Certificate of Distinction |
+| 2022 | Singapore Youth Festival  |  Certificate of Participation  |
+| 2018 | Singapore Youth Festival  |  Certificate of Accomplishment  |
+| 2016 |   Singapore Youth Festival   | Certificate of Accomplishment |
 
-![](/images/CCAs/Malay%20Dance/mld39-27%20(1).jpg)  
+In 2024, our Malay dancers participated in the Singapore Youth Festival Arts Presentation. It was a meaningful experience for the dancers.
 
+![](/images/CCAs/Malay%20Dance/2.png)
+![](/images/CCAs/Malay%20Dance/3.png)
 
+#### Students’ Voices
 
-![](/images/CCAs/Malay%20Dance/photo1.jpeg) | <br><br>![](/images/CCAs/Malay%20Dance/photo3.jpeg)
-|:-:|:-:|
-|   |   |
+Practicing for SYF was not easy.The many ups and downs that we experienced together all paid off. I feel very proud of all the Malay Dancers. Although some dancers fell back along the way, we managed to learn our new positions fast enough. We also had to balance the extended training sessions with our studies. On the actual day, we felt very nervous but once we set our foot on stage, we felt that the time we had to perform was not enough. We wanted to go back on stage and perform again! It was a very fun experience. This CCA has taught me to be resilient. We may forget our dance steps along the way but we know that we can always get help.
 
-## Students’ Voices
+<p style="text-align: right">Nur Raihana Binte Shari, P5 Unity 1 ‘2024<br></p>
 
-My SYF journey was a very memorable one. At the start of the year, I struggled to balance my study and my CCA. But overtime, I managed to balance both of them.&nbsp; It was my first time experiencing performing to strangers.&nbsp; I was only used to performing for my school. My experience has taught me to be resilient and disciplined.&nbsp; I hope to be able to experience this again in secondary school.
+I feel really happy and proud that I was given the chance to join in this journey. I think my parents are proud of me. It was hard at first but after many practices, we finally did it! I am so glad I have the Malay Dance teachers who comfort and help us when we are down. They are our shoulder to cry on. There were times when I felt shy but after a while, I managed to overcome it and kept on dancing. My dance team members did well too! Our teachers are very proud of us.
 
-<p style="text-align: right">Siti Khadijah Binte Mohd Shahril Aman, 6 Diligence '2022<br></p>
+<p style="text-align: right">Asyffa Balqis Binte Mohammad Nazri, 5 Unity 2, '2024<br></p>
 
-My experience in the SYF journey was unforgettable.&nbsp; I had an enjoyable time with my friends in the CCA.&nbsp; At first, before the performance, I was really nervous as it was my first time performing for SYF but when I got on the stage, I was having fun.&nbsp; After the performance, I remembered talking to my friends on how I wanted to perform again on stage. &nbsp; There were so many people clapping for us. Overall, it was a day that I would always remember and I hope to experience it again in secondary school.
+#### Useful Links
 
-<p style="text-align: right">Sophia Abigail C. Abarico, 6 Diligence '2022<br></p>
-
-## Useful Links
-
-<a href="https://www.youtube.com/watch?v=osXv2AAk1w4" target="_blank">TARI LENGGOK MAK INANG PULAU KAMPAI</a>   
+<a href="https://www.youtube.com/watch?v=osXv2AAk1w4" target="_blank">Tari Lenggok Mak Inang Pulsu Kampai</a>   
 <a href="https://www.youtube.com/watch?v=Rg1PUM0M0NI" target="_blank">Tari serampang 12 (Serampang 12 Dance)</a>
 
-## The Team
+#### The Team
 
-MDM ROSNAH BTE ROSMAN<br>
-MDM NORLIEZA BTE AHMAD<br>
-MDM NORHAYATI BTE RUHANI
+* MDM NORLIEZA BTE AHMAD
+* MDM ROSNAH BTE ROSMAN
+* MDM NORHAYATI BTE RUHANI
+* MS ARSHIVINI PAULOSE MANOHAR 
