@@ -68,10 +68,10 @@ In the art curriculum, digital tools and technology are harnessed to enhance art
 <h5><strong><u>Visual Art Jam!</u></strong></h5>
 
 <p style="text-align: justify;">
-Our Visual Art Jam is designed to provide a vibrant platform for our Primary 1 – 6 students to explore various art forms, express their creativity, and appreciate the diverse artworks of others. This endeavor not only encourages artistic expression but also fosters collaboration and self-discovery among all Lianhuareans, igniting a sense of joy in the process of artmaking. Facilitated by our art teachers, supported by student volunteers from the Art Club and Art Leaders serving as Student Art Guides, and our enthusiastic Parent Volunteers, the Visual Art Jam embodies our school's commitment to cultivating Critical &amp; Creative Thinkers and Confident Communicators. <br><br>
+Our Visual Art Jam is designed to provide a vibrant platform for our Primary 1 – 6 students to explore various art forms, express their creativity, and appreciate the diverse artworks of others. This endeavor not only encourages artistic expression but also fosters collaboration and self-discovery among all Lianhuareans, igniting a sense of joy in the process of art making. Facilitated by our art teachers, supported by student volunteers from the Art Club and Art Leaders serving as Student Art Guides, and our enthusiastic Parent Volunteers, the Visual Art Jam embodies our school's commitment to cultivating Critical &amp; Creative Thinkers and Confident Communicators. <br><br>
 Aligned with our school’s student outcomes, the Visual Art Jam aims to achieve the following objectives:<br>
 -Provide a platform for students to unleash their creativity and explore diverse art forms.<br>
--Foster collaboration and self-expression in artmaking <br>
+-Foster collaboration and self-expression in art making <br>
 -Encourage appreciation and understanding of various art styles and techniques.<br>
 -Develop critical thinking skills through the process of art creation and interpretation.<br>
 -Cultivate confidence in communication and expression through artistic endeavors.
@@ -84,11 +84,11 @@ Aligned with our school’s student outcomes, the Visual Art Jam aims to achieve
 ![](/images/Learning/Visual%20Art/2025visualart9.jpg)
 
 
-**Major Programmes**<br>
-**<u>Museum-Based Learning Programme</u>**
+<h4><strong>Major Programmes</strong></h4><h4>
+</h4><h5><strong><u>Museum-Based Learning Programme</u></strong></h5><h4>
 
 <p style="text-align: justify;">
-In the Museum-based learning module, our P4 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. Students are introduced to various types of artworks and learned about Singapore’s artforms – both past and contemporary. 
+In the Museum-based learning module, our P4 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. Students are introduced to various types of artworks and learned about Singapore’s art forms – both past and contemporary. 
 <br><br>	
 During the museum visit, students were introduced to visual-thinking routine questions that fostered critical thinking. By engaging in group activities, they sharpened their observation skills, analyzing the art elements and techniques used by the artists. This approach not only helped them appreciate the creative process but also developed their ability to think critically about the artwork’s meaning and context.
 <br><br>	
@@ -114,4 +114,4 @@ At the end of their learning journey, the students will reflect upon their exper
 ### **Useful links**
 
 Brainpop -&nbsp;<a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
-National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
+National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a></h4>
