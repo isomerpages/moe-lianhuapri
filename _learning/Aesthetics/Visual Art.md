@@ -10,12 +10,12 @@ variant: markdown
 
 <h3><strong>Our Vision &amp; Mission</strong></h3>
 
-<h5><strong>Vision: Inspiring Creativity, Igniting Passion</strong></h5> 
-<h5><strong>Mission: Cultivate passion and working towards excellence in Visual Art.</strong></h5>
+<h4><strong>Vision: Inspiring Creativity, Igniting Passion</strong></h4> 
+<h4><strong>Mission: Cultivate passion and working towards excellence in Visual Art.</strong></h4>
 
 *   Observe, interpret, and value artworks to derive meaning through connections with society and culture.
-*   Foster creativity, critical thinking, and adaptive thinking in the artmaking process.
-*   Build self-confidence, resilience, and a commitment to excellence to reach one’s full potential in artmaking.
+*   Foster creativity, critical thinking, and adaptive thinking in the art making process.
+*   Build self-confidence, resilience, and a commitment to excellence to reach one’s full potential in art making.
 
 **Key Feature**
 
@@ -63,9 +63,9 @@ In the art curriculum, digital tools and technology are harnessed to enhance art
 
 ![](/images/Learning/Visual%20Art/2025visualart6.jpg)
 
-<h3><strong>Key Signature Programme</strong></h3>
+<h4><strong>Key Signature Programme</strong></h4>
 
-**<u>Visual Art Jam!</u>**
+<h5><strong><u>Visual Art Jam!</u></strong></h5>
 
 <p style="text-align: justify;">
 Our Visual Art Jam is designed to provide a vibrant platform for our Primary 1 – 6 students to explore various art forms, express their creativity, and appreciate the diverse artworks of others. This endeavor not only encourages artistic expression but also fosters collaboration and self-discovery among all Lianhuareans, igniting a sense of joy in the process of artmaking. Facilitated by our art teachers, supported by student volunteers from the Art Club and Art Leaders serving as Student Art Guides, and our enthusiastic Parent Volunteers, the Visual Art Jam embodies our school's commitment to cultivating Critical &amp; Creative Thinkers and Confident Communicators. <br><br>
