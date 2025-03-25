@@ -84,8 +84,8 @@ Aligned with our school’s student outcomes, the Visual Art Jam aims to achieve
 ![](/images/Learning/Visual%20Art/2025visualart9.jpg)
 
 
-<h4><strong>Major Programmes</strong></h4><h4>
-</h4><h5><strong><u>Museum-Based Learning Programme</u></strong></h5><h4>
+<h4><strong>Major Programmes</strong></h4>
+<h5><strong><u>Museum-Based Learning Programme</u></strong></h5>
 
 <p style="text-align: justify;">
 In the Museum-based learning module, our P4 students learn about local contexts and contemporary issues through local art exhibits in the National Gallery Singapore as part of their core learning experience. Students are introduced to various types of artworks and learned about Singapore’s art forms – both past and contemporary. 
@@ -114,4 +114,4 @@ At the end of their learning journey, the students will reflect upon their exper
 ### **Useful links**
 
 Brainpop -&nbsp;<a href="https://www.brainpop.com/" target="_blank">https://www.brainpop.com/</a>    
-National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a></h4>
+National Gallery Singapore -&nbsp;<a href="https://www.nationalgallery.sg/" target="_blank">https://www.nationalgallery.sg/</a>
