@@ -63,7 +63,7 @@ In the art curriculum, digital tools and technology are harnessed to enhance art
 
 ![](/images/Learning/Visual%20Art/2025visualart6.jpg)
 
-**Key Signature Programme**
+<h3><strong>Key Signature Programme</strong></h3>
 
 **<u>Visual Art Jam!</u>**
 
