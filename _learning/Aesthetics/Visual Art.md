@@ -8,10 +8,10 @@ variant: markdown
 ![](/images/Learning/Visual%20Art/2025visualart1.jpg)
 
 
-**Our Vision &amp; Mission**
+<h3><strong>Our Vision &amp; Mission</strong></h3>
 
-**Vision: Inspiring Creativity, Igniting Passion**   
-**Mission: Cultivate passion and working towards excellence in Visual Art.**
+<h5><strong>Vision: Inspiring Creativity, Igniting Passion</strong></h5> 
+<h5><strong>Mission: Cultivate passion and working towards excellence in Visual Art.</strong></h5>
 
 *   Observe, interpret, and value artworks to derive meaning through connections with society and culture.
 *   Foster creativity, critical thinking, and adaptive thinking in the artmaking process.
