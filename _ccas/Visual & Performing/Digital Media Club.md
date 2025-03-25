@@ -26,7 +26,6 @@ Members are provided with opportunities through various organized activities to 
 ![](/images/CCAs/Digital%20Media%20Club/4.jpg)
 ![](/images/CCAs/Digital%20Media%20Club/5.jpg)
 ![](/images/CCAs/Digital%20Media%20Club/6.jpg)
-![](/images/CCAs/Digital%20Media%20Club/7.jpg)
  
 #### Achievements
 
@@ -34,8 +33,10 @@ Members are provided with opportunities through various organized activities to 
 
 | Year | Competition | Award |
 | -------- | -------- | -------- |
-| 2022     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Certificate of Participation     |
-| 2021     | “Our School, Our Stories”&nbsp;Photo and Video Contest     | Honorable Mention     |
+| 2024 | “Our School, Our Stories” Photo and Video Contest | Certificate of Participation |
+| 2023 | “Our School, Our Stories” Photo and Video Contest | Certificate of Participation |
+| 2022 | “Our School, Our Stories” Photo and Video Contest | Certificate of Participation |
+| 2021 | “Our School, Our Stories” Photo and Video Contest | Honorable Mention |
 
 #### The Team
 
@@ -43,3 +44,4 @@ Members are provided with opportunities through various organized activities to 
 * MDM LEE GIM FANG
 * MDM SUBATHRA
 * MDM AZIZAH BTE MOHD ALI
+* MS LU CHING CHING
