@@ -99,7 +99,7 @@ At the end of their learning journey, the students will reflect upon their exper
 
 ![](/images/Learning/Visual%20Art/2025visualart10.jpg)
 
-<p><strong>Primary One and Two Shining Artz Celebration</strong></p> 
+<h5><strong>Primary One and Two Shining Artz Celebration</strong></h5> 
 <p style="text-align: justify;">Our Primary One &amp; Primary Two Shining Artz Celebration is a platform to showcase our students' talents in the Visual Arts, featuring artworks from two-dimensional drawings to three-dimensional sculptures. The exhibition not only highlights their artistic achievements but also helps students build self-confidence and communication skills as they present their creations to their parents. To further encourage and affirm our young artists, parents wrote messages on Art Cards, offering praise and support for their children's artistic endeavors. We believe that the experiences gained through this celebration, along with the values instilled—such as resilience, critical thinking, creativity, adaptability, and collaboration—will leave a lasting impact on our students. We hope this journey has provided them with unique experiences and positive values they will carry forward for years to come.</p>
 
 ![](/images/Learning/Visual%20Art/2025visualart11.jpg)
