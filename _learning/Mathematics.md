@@ -90,7 +90,7 @@ The objectives of the training programme are as follows:
 
 Primary Mathematics Syllabus    
 For students who entered Primary 1 from 2021   
-<a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6.pdf" target="_blank">2021 Primary Mathematics Syllabus (P1 to P6)</a>
+<a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf" target="_blank">2021 Primary Mathematics Syllabus (P1 to P6)</a>
 
 For students who entered Primary 1 before 2021   
 <a href="/files/Learning/mathematics_syllabus_primary_1_to_6.pdf" target="_blank">mathematics_syllabus_primary_1_to_6.pdf</a>
