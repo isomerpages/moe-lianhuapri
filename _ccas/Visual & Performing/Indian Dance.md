@@ -66,6 +66,6 @@ Participating in SYF brings me lots of joy because I love to dance, and the song
 
 #### The Team
 
-* MDM B REQHA TRIXIE
 * MS HUSSUM FATIMAH BTE SYED MOHD
-* MS CLARA TAN YI JUN
+* MDM B REQHA TRIXIE
+* MS CLARA TAN YI JUN 
