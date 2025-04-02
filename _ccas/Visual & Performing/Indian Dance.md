@@ -9,9 +9,12 @@ variant: markdown
 
 #### Purposes of CCA
 
-The Lianhua Indian Dance has been a part of the Performing Arts for about 20 years. It aims to inculcate the love and appreciation for the Indian dance forms.
+Indian dance integrates play-based learning methods, allowing students to explore dance in a fun and interactive way. This involves improvisation, games, and group activities that encourage creative expression and help students connect with dance on a personal level. Through various dance performances, workshops, and cultural exchanges, students gain real-world experiences. These hands-on opportunities help them understand the significance of Indian dance forms in different cultural contexts. They may also engage in collaborative projects with peers, enhancing their teamwork and social skills. These experiences deepen their appreciation of the art form and offer a platform to showcase their growth. Dance is not just about technique but also about overcoming physical and mental challenges. Students may face challenges related to mastering complex choreography, coordinating with a group, or managing stage fright. The program encourages them to embrace these challenges with resilience, fostering problem-solving skills, perseverance, and self-discipline. 
 
-It also aims to develop dance skills among students from diverse racial groups and at the same time, allow students to express themselves gracefully through classical, folk and contemporary dance movements. It fosters values such as self discipline, unity, resilience, diligence and compassion as students are challenged with various dance techniques and forms.
+Over time, they learn to adapt to difficulties and grow more confident in their abilities.  Beyond physical development, Indian dance promotes emotional, mental, and social growth. Students gain confidence, self-expression, and empathy as they learn to communicate emotions and stories through movement. The discipline required in Indian dance also encourages focus and time management. As they progress, they build a strong sense of accomplishment, learn the value of hard work, and develop a deep respect for their cultural heritage.
+
+In summary, the Indian dance provides a well-rounded experience that combines play, real-life experiences, challenges, and personal growth. It helps students not only master dance but also cultivate valuable life skills, enhancing their overall development.
+
 
 #### Collaboration with Community
 
@@ -59,13 +62,7 @@ Participating in SYF brings me lots of joy because I love to dance, and the song
 	
 #### Useful Links
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="LHPS - Indian Dance 2023" src="https://www.youtube.com/embed/ihLWpLyD2pc" height="300" width="550"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 2" src="https://www.youtube.com/embed/b_8cZ7gDVa0" height="300" width="550"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 3" src="https://www.youtube.com/embed/BrOSPGlAHso" height="300" width="550"></iframe>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance Practice 4" src="https://www.youtube.com/embed/pxB8kBnPKUI" height="300" width="550"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Indian Dance CCA Training Video" src="https://www.youtube.com/embed/YWessIoQASg" height="383" width="679"></iframe>
 
 #### The Team
 
