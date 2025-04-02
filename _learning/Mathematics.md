@@ -98,5 +98,5 @@ For students who entered Primary 1 before 2021
 List of approved scientific calculators for P5 and P6 students    
 <a href="https://go.gov.sg/seab-approvedcalculators" target="_blank">https://go.gov.sg/seab-approvedcalculators</a>
   
-KooBits (For P3 &amp; P4 students)    
+KooBits     
 <a href="https://member.koobits.com/" target="_blank">https://member.koobits.com/</a>
