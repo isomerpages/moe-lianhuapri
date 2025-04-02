@@ -11,7 +11,7 @@ variant: markdown
 <h3><strong>Our Vision &amp; Mission</strong></h3>
 
 <h4><strong>Vision: Inspiring Creativity, Igniting Passion</strong></h4> 
-<h4><strong>Mission: Cultivate passion and working towards excellence in Visual Art.</strong></h4>
+<h4><strong>Mission: Cultivate passion and working towards excellence in Visual Art</strong></h4>
 
 *   Observe, interpret, and value artworks to derive meaning through connections with society and culture.
 *   Foster creativity, critical thinking, and adaptive thinking in the art making process.
