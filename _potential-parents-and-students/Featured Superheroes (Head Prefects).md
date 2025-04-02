@@ -20,7 +20,7 @@ th, td{
     <th width="35%"></th>
   </tr>
 		<tr>
-			<td>WOO JIA JIE<br>(2024-2025)</td>
+			<td>AARON NGO JIA JIE<br>(2024-2025)</td>
 			<td>It is with immense gratitude and humility that I reflect on my time as Head Prefect of Lianhua 2024-2025. Serving in this role has been one of the greatest honours of my life, and I am deeply thankful for the trust and support that have been extended to me throughout this journey. As I look back on the years I have spent in Lianhua, I am reminded of the countless lessons I have learned, the challenges I have faced, and the growth I have experienced—all of which have shaped me into the person I am today.<br>
 I vividly recall the year 2024, when I was first entrusted with the responsibility of serving as Head Prefect. It was a role that came with great privilege, but also with significant and different challenges. Not every attempt was successful, and not every idea was met with enthusiasm and agreement. There were moments of doubt, times when the effort I invested seemed to go unnoticed, and instances when I questioned whether I was truly making a difference.<br>
 Yet, it was through these challenges that I learned that setbacks do not define us. It is about finding the courage to push forward, even when the path ahead is uncertain. I also realise how important it is to have a support circle that understands and provides comfort in times of difficulty. This is a reminder to myself and my fellow schoolmates; to not be disheartened by failure, as it is a part of the journey toward success.</td>
