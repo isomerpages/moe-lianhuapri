@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-# **Scouts**
-
+#### Purpose of CCA
 
 Scouts CCA is the only uniformed group CCA in Lianhua Primary School. We are really proud of our cub scouts for donning their uniform smartly every Friday.
   
@@ -64,9 +63,9 @@ Weekly training sessions comprising of scouting skills that allows them to achie
 For more information about Scouting, you may visit [https://www.scout.sg/](https://www.scout.sg/)
 
 
-####  **The Team**   
+#### The Team  
 
-MDM SITI AISHAH<br>
-MR MOHAMMAD FAIZAL<br>
-MS LIM CHIEN LING, SHENLYNN<br>
-MS CHUA WAN JUN
+* MDM SITI AISHAH
+* MR MOHAMMAD FAIZAL
+* MS LIM CHIEN LING, SHENLYNN
+* MS CHUA WAN JUN
