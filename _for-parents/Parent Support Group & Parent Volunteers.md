@@ -16,20 +16,18 @@ Our PSG has been true to their belief in making positive changes and building a 
 
 #### <center>Programs</center>
 
-![](/images/Parent%20Support%20Group/image8.jpg) 
-<br>
  ![](/images/Parent%20Support%20Group/Teacher_s_Day_celebration_2023.jpg) 
  <br>
  ![](/images/Parent%20Support%20Group/Project_Smile.jpg) 
 <br>
 
-PSG bonding sessions are organized on a termly basis to engage parents and promote bonding. Parent volunteers initiated and helped in the planning of the activities. Through the fun-filled activities, new friendships were formed, creating positive communication between parents and their children. Even if face-to-face interactions are suspended, we continued to have fun learning though a virtual cooking class conducted by our PSG leader Mdm Kamilah, creating wonderful memories with brownies and yoga sessions for a healthy lifestyle.
+PSG bonding sessions are organized on a termly basis to engage parents and promote bonding. Parent volunteers initiated and helped in the planning of the activities. Through the fun-filled activities, new friendships were formed, creating positive communication between parents and their children. 
 
 ![](/images/Parent%20Support%20Group/image3.jpg)
 
 #### Helping out in school activities
 
-It has been a challenging year for Lianhua PSG as we face difficulties in planning meetings and events. However, this period of uncertainty not only strengthens the spirit of volunteerism spirit in our parent volunteers, but inspire creativity as well. Our committed PSG leaders and members came up with initiatives that never fails to amaze us. To celebrate 75th anniversary with LHPS family, they made paper strips out of old school magazines, breaking a Singapore record with our students and teachers. In the spirit of upcycling, Mdm Yong Karen taught the staff on handmade scrubs during SWC. Our PSG’s care and thoughtfulness for our students and other parents extends through their kind actions. It was a touching sight to see the smiles on our students and teachers’ faces when they helped in the various school activities.
+Our committed PSG leaders and members came up with initiatives that never fails to amaze us. To celebrate 75th anniversary with LHPS family, they made paper strips out of old school magazines, breaking a Singapore record with our students and teachers. In the spirit of upcycling, Mdm Yong Karen taught the staff on handmade scrubs during SWC. Our PSG’s care and thoughtfulness for our students and other parents extends through their kind actions. It was a touching sight to see the smiles on our students and teachers’ faces when they helped in the various school activities.
 
 ![](/images/Parent%20Support%20Group/mt%20fiesta%2023_93.JPG)
 
