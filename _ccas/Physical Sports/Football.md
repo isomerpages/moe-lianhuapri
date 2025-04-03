@@ -5,22 +5,22 @@ description: ""
 third_nav_title: Physical Sports
 variant: markdown
 ---
-# **Football**
+#### Purposes of CCA
 
-Football is a fantastic way to stay fit and active, as it involves a lot of running and footwork. Beyond its physical benefits, football also promotes important values such as teamwork and discipline, fostering good sportsmanship. This year, our school's football team has demonstrated these values through their exemplary actions and attitudes.
+Lianhua Football Teams, Our Pride and Joy!
 
-Every year, our football teams (Senior &amp; Junior Division) participate in the highly competitive National School Games (NSG). At the start of 2023, our senior boys faced off against numerous schools, displaying great teamwork, discipline, and sportsmanship in every match. They demonstrated their loyalty and dedication to our school by singing the school song before and after each game. Their remarkable sportsmanship after each game, cheering and wishing their opponents well, was truly exceptional and deserving of praise. Through hard work and dedication, our boys secured 4th place at the NSG West Zone Senior Division Football competition.
+Football is more than just a sport—it is a platform for students to build fitness, teamwork, and discipline. At Lianhua, our football teams embody these values both on and off the field, demonstrating outstanding sportsmanship and dedication.
 
-Up next, are our Junior Division boys, who will be competing in the NSG Junior Division Football competition. We wish them the best of luck and hope they will follow in the footsteps of their senior counterparts by demonstrating strong teamwork, discipline, and sportsmanship. Well done, Lianhua football teams!
+This year, our Senior Division boys participated in the highly competitive National School Games (NSG), showcasing their resilience and teamwork against other schools. Their unwavering commitment was evident in every match, from their disciplined gameplay to their heartfelt congratulations and wishes for their opponents after each game. Beyond their performance, they upheld the spirit of sportsmanship by never giving up and fighting till the very end for their school.
 
-| ![](/images/CCAs/Football/soccer23_14_resize.JPG) | ![](/images/CCAs/Football/soccer23_3.JPG) | 
-|:-:|:-:|
-| ![](/images/CCAs/Football/soccer23_38.JPG)     | ![](/images/CCAs/Football/soccer23_35.JPG)    | 
-| ![](/images/CCAs/Football/soccer23_13_resize.JPG)    | ![](/images/CCAs/Football/soccer23_29.JPG)     | 
-| ![](/images/CCAs/Football/soccer23_39.JPG)  | ![](/images/CCAs/Football/soccer23_45.JPG)     | 
+As we thank our senior boys for their unwavering effort, we now turn our support to our Junior Division team, who will soon take the field in the NSG Junior Division Football competition. We wish them the best of luck and are confident they will continue the legacy of teamwork, discipline, and sportsmanship set by their seniors.
+
+Well done, Lianhua football teams! Keep striving for excellence!
+
+![](/images/CCAs/Football/1.png)
 
 
-## **Students' Voices**
+#### Students' Voices
 
 Here is an update on our National School Games journey. My team has made our school proud by clinching the top four positions at the West Zone Inter-School Football Tournament this year!
 
@@ -51,7 +51,7 @@ I still remember when I made a last pass to Gahan during a game and he managed t
 
   <p style="text-align: right"> DANISH ALFIAN ADAM,  6 Compassion<br></p>
 
-## **Useful Links**
+#### Useful Links
 
 Dynamic Exercises That You Can Do At Home by Solvpro:   
 <a href="https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet" target="_blank">https://www.instagram.com/p/CTkkJX_ILSI/?utm_medium=share_sheet</a>
@@ -77,10 +77,10 @@ The Ultimate Indoor Soccer Workout/ Soccer Training for Kids at Home:
 <a href="https://youtu.be/fXvTV6DnpaE" target="_blank">https://youtu.be/fXvTV6DnpaE</a>
 
 
-## **The Team**
+#### The Team
 
-MR FADIAL B JAMALUDIN <br>
-MS SHAFIRA BINTE ZAILANI<br>
-MDM SHANTHINI D/O RADHA KRISHNAN <br>
-MR WONG JINXING DENNIS<br>
-MDM KUAN SUAN SHI
+* MR FADIAL B JAMALUDIN
+* MS SHAFIRA BINTE ZAILANI
+* MDM SHANTHINI D/O RADHA KRISHNAN
+* MR WONG JINXING DENNIS
+* MDM KUAN SUAN SHI

@@ -5,20 +5,19 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-# Science Club
-## Purposes of Cool Science Club
+#### Purposes of CCA
 
 Cool Science Club is the place to be if you are passionate about Science. At our club, we want our members to be curious about their world. As good scientists, our members learn to make observations, ask questions and do research work in the process of searching for the answers to the many questions they encounter in our daily lives. By doing research and gathering evidence, they also learn how to communicate their findings through data and results. We hope to continue to cultivate our members’ abilities to make contributions and positively impact the community around them.
 
-## Experiences
+#### Experiences
 
 
-## Life Science
+##### Life Science
 
 Members go beyond what they have learnt in the textbooks and classrooms. They get to explore and discover the nature around them. With the number of rich learning spaces in our school, our members had multiple opportunities to have close-up encounters with flora and fauna.
 
 
-## Physical Science
+##### Physical Science
 
 Physical Science is not boring – not when we can conduct a range of experiments involving paper planes and optical illusions on campus. Our members were also tasked to complete STEM challenges using their creativity and knowledge of Science. There is truly no limit to the number of things that we can learn and make by just being curious about how things around us work!
 
@@ -40,7 +39,7 @@ Physical Science is not boring – not when we can conduct a range of experiment
 
 <center>Karakuri Projects</center>
 
-#### Eco-stewardship
+##### Eco-stewardship
 
 Life on Mother Earth can only be sustained if we use her resources wisely and in a sustainable manner. Through E-STEM projects, our students learned to use our natural environment wisely and to protect it. Our E-STEM programmes sought to integrate Design Thinking principles to solve real-life environmental problems that Lianhua pupils might be familiar with.
 
@@ -53,7 +52,7 @@ Life on Mother Earth can only be sustained if we use her resources wisely and in
 
 <center>Making of prototypes to separate waste</center>
 
-## Students' Voices
+#### Students' Voices
 
 'Cool Science Club is a place where I can let my thoughts roam free. When we constructed our prototype to separate magnetic waste from non-magnetic waste, I enjoyed the Ideation process as I love inventing very much. The teachers in the CCA are also very supportive and will always give me feedback and advice.'&nbsp;
 
@@ -79,11 +78,11 @@ Life on Mother Earth can only be sustained if we use her resources wisely and in
 
   <p style="text-align: right"> Sahil, 5 Compassion, 2023<br></p>
 	
-## <center>The Team</center>
+#### The Team
 
-MRS NONIS<br>
-MS ELIZABETH WOK<br>
-MDM RUTH LAI<br>
-MDM LEE SOK NGEE PAULINE<br>
-MRS BRENDA SIN <br>
-MR ZAINUL
+* MRS NONIS
+* MS ELIZABETH WOK
+* MS AMELIA LEE
+* MDM LEE SOK NGEE PAULINE
+* MRS BRENDA SIN
+* MR ZAINUL

@@ -5,12 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-# Robotics Club
-
-photos
-
-
-## Purposes of CCA
+#### Purposes of CCA
 
 Robotics Club provides opportunities for students to pursue their interests and passion in Science, Technology, Engineering and Mathematics (STEM). It also provides them with a platform for innovation and creativity beyond the normal Primary School Science and Mathematics syllabus.
 
@@ -19,14 +14,11 @@ Robotics Club is an excellent avenue for pupils to engage in meaningful and acti
 Members undergo training to help them develop and deepen their understanding of the mechanics of robot design and movement which strengthens their analytical and creative thinking skills. Members also develop their logical thinking and refine their programming skills as they continue to gain exposure when they learn to design and program using various programming platforms.
 
 
-## Experiences
+#### Experiences
 
-#### Robot Design &amp; Mechanics
+##### Robot Design &amp; Mechanics
 
 Members creatively design and build robots and mechanisms in their teams. Members have opportunities to showcase and share about their robots and designs.
-
-
-
 
 |   |   |
 |:-:|:-:|
@@ -39,7 +31,7 @@ Members creatively design and build robots and mechanisms in their teams. Member
 <center>Working together to build a robot in their team</center>
 
 
-#### VEX Robotics Competitions
+##### VEX Robotics Competitions
 
 Members participated and competed in various competitions. They develop problem solving skills, leadership capabilities and team spirit as they work together towards common goals. Members exercise self-discipline as they set goals and keep to the timeline in the preparation for competitions, persevere and strive for excellence.
 
@@ -56,7 +48,7 @@ Members participated and competed in various competitions. They develop problem 
 <center>Singapore VEX Robotics Championship 2019 Team Alliance – Working together with other school teams</center>
 
 
-#### 2021 NRC CoderZ Coding Challenge
+##### 2021 NRC CoderZ Coding Challenge
 
 In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competition. Members code their virtual robots to accomplish tasks in a fun and engaging manner while developing their computational thinking and creative problem-solving skills.
 
@@ -73,7 +65,7 @@ In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competitio
 <center>Completed CoderZ Robo Golf mission</center>
 
 
-#### VR.VEX Programming
+##### VR.VEX Programming
 
 During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the codes and programs created by members using SCRATCH.
 
@@ -95,7 +87,7 @@ Controlling a VR Robot to clean up a coral reef
 
 <center>Controlling a VR Robot to navigate through a maze</center>
 
-#### SCRATCH Programming
+##### SCRATCH Programming
 
 During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the games and programs created by members using SCRATCH.
 
@@ -110,7 +102,7 @@ During eCCA Zoom sessions, members continue to learn programming using various s
 
 <iframe width="711" height="512" src="https://www.youtube.com/embed/YieFV2I31I4" title="Robotics CCA Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**_<u>Promotion of CCA Video</u>_**
+#### Promotion of CCA Video
 
 **P1 CCAs Experiences**
 
@@ -120,10 +112,10 @@ Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCA
 <center><span style="color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
 
 
-**<center>Achievements</center>**
+#### Achievements
 
 | Year |    Competition         |            Award         |
-|:----:|:--------------:|:----------:|
+|----|--------------|----------|
 | 2021 | National Robotics Competition<br>(CoderZ Coding Challenge) |                          -                          |
 | 2020 |       Singapore VRC National Championship<br>(VEX IQ)      |                   Excellence Award                  |
 |      |                                                            |                     Design Award                    |
@@ -145,25 +137,21 @@ Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCA
 |      |                National Robotics Competition               |                          -                          |
 
 
-**<center>Students’ Voices</center>**
-
-**DAYAN SOH Primary 5 2021**
+#### Students’ Voices
 
 It was a fruitful experience working with my peers and racking our brains to solve a problem. This experience is not only beneficial to our future, but is also a good experience of being in a competition. It allows me to have an idea of what I might expect to face in other similar competitions, further boosting the chances of me learning more about robotics programming. Finally, it allows me to strengthen the bonds between my friends and me.
 
-  
-
-**MEGHNA RAJESH PRABHU Primary 4 2021**
+  <p align="right">DAYAN SOH Primary 5 2021</p>
 
 I love coding. When I code, I often feel as if I am on cloud nine. Robotics has always fascinated me. Robotics involves mathematics, science and computer science, which I love. I encourage people who love these three subjects to join Robotics. You will love it.
 
-  
-
-**ANIKA NAIR RAMESH Primary 4 2021**
+  <p align="right">MEGHNA RAJESH PRABHU Primary 4 2021</p>
 
 I have experienced a wonderful 2 years in the robotics CCA. It has helped me improve my problem solving skills. It has also given me a chance to explore deeply about robots. The teachers are helpful and supportive. They have helped me a lot through my process of learning. After attending the NRC competition on 7 September 2021 l became richer in knowledge. All I would like to say is that for me personally l have thoroughly enjoyed my 2 years in the Robotics CCA.
 
-## Useful Links
+<p align="right">ANIKA NAIR RAMESH Primary 4 2021</p>
+
+#### Useful Links
 
 *   VR.VEX.com (Vex VR Portal)    
 <a href="https://vr.vex.com/" target="_blank">https://vr.vex.com/</a>
@@ -173,11 +161,11 @@ I have experienced a wonderful 2 years in the robotics CCA. It has helped me imp
 <a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted" target="_blank">https://scratch.mit.edu/projects/editor/?tutorial=getStarted</a>
 
 
-## The Team
+#### The Team
 
-MR LEE SOON WEI<br>
-MS CHOO YEN LENG JOSEPHINE<br>
-MRS ALEXIS PUA<br>
-MS GRACIA EE EN<br>
-MDM HAZWANY<br>
-MS ZHANG NING
+* MR LEE SOON WEI
+* MS CHOO YEN LENG JOSEPHINE
+* MRS ALEXIS PUA
+* MS GRACIA EE EN
+* MDM HAZWANY
+* MS ZHANG NING
