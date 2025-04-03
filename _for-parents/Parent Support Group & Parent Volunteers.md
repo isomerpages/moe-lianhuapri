@@ -35,23 +35,18 @@ Our committed PSG leaders and members came up with initiatives that never fails 
 
 Our Fathers group has been active in planning and organizing father-child activities. The various activities give opportunities for Daddies to bond with their children and leaves wonderful memories.
 
-![](/images/Parent%20Support%20Group/image6.jpg)
+![](/images/Parent%20Support%20Group/dadsforlife2024.jpg)
 <br>
 ![](/images/Parent%20Support%20Group/Dadsforlife.jpg)
 
-#### <center>Parents' Voices</center>
 
-
-![](/images/Parent%20Support%20Group/image7.jpg)
-
-**Mdm Kamilah (2008-2015)(2016-today):**  
-
-I joined PSG when my first child enrolled into Lianhua Primary School. The reason I joined was because I enjoyed doing voluntary work. Two years into PSG, I was nominated to be the Event Coordinator. My role was to organise PSG Family Day and barbeque sessions. Over the years, I was fortunate to see the happy faces on the children when they see their parents involved in the school activities. We executed many activities for the students and there were many active PSG members. Then, I took a year break from PSG. When I returned and was nominated as the PSG chairman, I worked closely with Mdm Kuan, PSG Exco members and Mr Willy Tan, the ex-Principal. Together, we planned fun and interesting activities for the students and staff of Lianhua Primary School, for example our Upcycle project. It was my first time recording a video for all students, showing them how we can use old T-shirts to make a tote bag. When this video was used in the SLS lesson, I had a sense of achievement and was glad to contribute in such a meaningful way. I feel that the school is a happier and livelier place for the students as well as parents when we parents work closely with the school and teachers.
 
 #### <center>Useful Links</center>
 
 Lianhua Primary School PSG      
 <a href="https://www.facebook.com/lianhuaprimaryschoolpsg" target="_blank">https://www.facebook.com/lianhuaprimaryschoolpsg</a>
+
+
 
 
 #### <center>The Team</center>
