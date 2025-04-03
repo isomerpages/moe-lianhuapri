@@ -51,4 +51,6 @@ Parenting With You Instagram<br>
 
 #### <center>The Team</center>
 
-![](/images/Parent%20Support%20Group/image8.jpg)
+![](/images/Parent%20Support%20Group/parentsupportteam2025_1.jpg)
+
+![](/images/Parent%20Support%20Group/parentsupportteam2025_2.jpg)
