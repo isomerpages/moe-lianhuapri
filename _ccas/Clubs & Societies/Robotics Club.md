@@ -7,110 +7,47 @@ variant: markdown
 ---
 #### Purposes of CCA
 
-Robotics Club provides opportunities for students to pursue their interests and passion in Science, Technology, Engineering and Mathematics (STEM). It also provides them with a platform for innovation and creativity beyond the normal Primary School Science and Mathematics syllabus.
 
-Robotics Club is an excellent avenue for pupils to engage in meaningful and active learning, build their character and 21st Century Skills such as innovative thinking and effective communication and collaboration. Members participate actively in interactive competition platforms with designable and programmable robots. Members cooperated with each other in teams and competed in competitions like Singapore VEX Robotics Championship, Singapore VRC National Championship and National Robotics Competition.
+Robotics Club provides opportunities for students to pursue their interests and passion in Science, Technology, Engineering and Mathematics (STEM). It serves as a platform for innovation and creativity beyond the normal Primary School Science and Mathematics syllabus.
 
-Members undergo training to help them develop and deepen their understanding of the mechanics of robot design and movement which strengthens their analytical and creative thinking skills. Members also develop their logical thinking and refine their programming skills as they continue to gain exposure when they learn to design and program using various programming platforms.
+The club is an excellent avenue for pupils to engage in meaningful and active learning, building their character and 21st Century Skills such as innovative thinking, effective communication and collaboration. Members participate actively in prestigious competitions including the FIRST LEGO League and National Robotics Competition, where they showcase their skills through designable and programmable robots.
+
+Members undergo comprehensive training to develop and deepen their understanding of robot design and movement mechanics, strengthening their analytical and creative thinking skills. Through various programming platforms, they develop logical thinking and refine their programming capabilities. The competitive element of participating in FIRST LEGO League and National Robotics Competition provides valuable exposure and real-world application of their skills, challenging them to solve complex problems while working in teams.
+
+
 
 
 #### Experiences
 
-##### Robot Design &amp; Mechanics
+##### KUBO platform to engage young learners
 
-Members creatively design and build robots and mechanisms in their teams. Members have opportunities to showcase and share about their robots and designs.
+KUBO is an innovative educational robotics solution designed specifically for Primary 3 and younger learners, introducing coding concepts through a unique hands-on, screen-free approach. At its core, KUBO uses TagTile programming pieces that connect like puzzle pieces, allowing students to create physical paths for the robot to follow. This tactile method transforms abstract coding concepts into concrete, visible actions that young learners can easily understand.
+![](/images/CCAs/Robotics%20Club/1.png)
+The learning journey begins with simple movement commands, where students explore basic directional concepts like forward, backward, left, and right movements. As they grow more confident, they progress to understanding functions and loops by creating repeatable routes. This naturally evolves into problem-solving activities where students tackle challenges such as completing mazes and planning efficient routes. When routes don't work as intended, students learn valuable debugging skills by identifying and correcting errors in their sequences.
 
-|   |   |
-|:-:|:-:|
-| ![](/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design1.jpg)  |  <img src="/images/CCAs/Robotics%20Club/Showcasing%20and%20sharing%20about%20robot%20design2.jpg" style="width:75%">   |
+##### National Robotics Competition
 
-<center>Showcasing and sharing about robot design</center>
+The National Robotics Competition provides upper primary students with an immersive learning experience in advanced robotics using LEGO SPIKE Prime kits. Students begin with fundamental robot construction, mastering mechanical concepts like gear ratios and structural design, while learning to integrate various sensors including colour, ultrasonic, and touch sensors for enhanced robot functionality.
+![](/images/CCAs/Robotics%20Club/2.png)
+Students develop their coding expertise using SPIKE Prime's intuitive programming interface, advancing from basic movement sequences to complex algorithms with sensor-based decision-making. The competition format challenges them to solve specific missions, requiring them to apply mathematical concepts and develop efficient programming solutions. Through team-based preparation and competition participation, students not only enhance their technical capabilities but also develop crucial skills in problem-solving, teamwork, and strategic thinking. This hands-on experience with SPIKE Prime technology provides students with a strong foundation in robotics and computational thinking, preparing them for future technological challenges.
 
-<img src="/images/CCAs/Robotics%20Club/Working%20together%20to%20build%20a%20robot%20in%20their%20team.jpg" style="width:50%">
+##### First Lego League
 
-<center>Working together to build a robot in their team</center>
+FIRST LEGO League (FLL) uniquely combines robotics education with strong emphasis on Core Values, making it more than just a technical competition. While students learn to build and program autonomous robots using LEGO SPIKE Prime to solve complex missions, the heart of FLL lies in its Core Values: Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun.
+![](/images/CCAs/Robotics%20Club/3.png)
+Students learn that friendly competition and mutual gain are not separate goals, embracing the spirit of 'Gracious Professionalism' and 'Coopertition'. Through team collaboration, they discover that helping one another is the foundation of success. Whether they're working on robot missions or developing innovative solutions for real-world problems in their research project, students learn to respect their teammates and competitors alike, celebrate diversity of ideas, and share their experiences with others. This balanced approach ensures that while students develop technical skills, they also grow into well-rounded individuals who understand the importance of ethical behaviour and positive collaboration in achieving success.
 
+##### App development - Swift Explorers 2023 @ Crescent Girls
 
-##### VEX Robotics Competitions
+![](/images/CCAs/Robotics%20Club/4.png)
+Students learn app development using Swift Playgrounds at Crescent Girls School to create wellness-focused applications, My Feelings App. Students develop basic app interfaces and functions while learning fundamental coding concepts in Swift, including variables, functions, loops, and conditional statements. They learn to create user-friendly interfaces that allow for simple emotional check-ins while ensuring user privacy and confidentiality.
 
-Members participated and competed in various competitions. They develop problem solving skills, leadership capabilities and team spirit as they work together towards common goals. Members exercise self-discipline as they set goals and keep to the timeline in the preparation for competitions, persevere and strive for excellence.
-
-![](/images/CCAs/Robotics%20Club/Singapore%20VRC%20National%20Championship%20(2020).jpeg)
-
-<center>Singapore VRC National Championship (2020)</center>
-
-![](/images/CCAs/Robotics%20Club/Singapore%20VEX%20Robotics%20Championship%202019%20(June).jpg)
-
-<center>Singapore VEX Robotics Championship 2019 (June)</center>
-
-![](/images/CCAs/Robotics%20Club/Singapore%20VEX%20Robotics%20Championship%202019%20Team%20Alliance.jpg)
-
-<center>Singapore VEX Robotics Championship 2019 Team Alliance – Working together with other school teams</center>
+The focus is on creating a supportive tool that helps the school community. Students learn not just coding skills, but also the responsibility that comes with handling sensitive information and the importance of user privacy in app development.
 
 
-##### 2021 NRC CoderZ Coding Challenge
+##### DSTA-DSO-VJC Robotics Challenge
 
-In NRC 2021, CoderZ Coding Challenge is an online game-based robotics competition. Members code their virtual robots to accomplish tasks in a fun and engaging manner while developing their computational thinking and creative problem-solving skills.
-
-![](/images/CCAs/Robotics%20Club/Completing%20CoderZ%20Robo%20Golf%20mission.jpg)
-
-<center>Completing CoderZ Robo Golf mission</center>
-
-![](/images/CCAs/Robotics%20Club/Completing%20CoderZ%20Disco%20Blocks%20mission.jpg)
-
-<center>Completing CoderZ Disco Blocks mission</center>
-
-<iframe width="711" height="510" src="https://www.youtube.com/embed/3eZNB4mCK5s" title="SolvingRoboGolfMission" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<center>Completed CoderZ Robo Golf mission</center>
-
-
-##### VR.VEX Programming
-
-During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the codes and programs created by members using SCRATCH.
-
-Controlling a VR Robot to clean up a coral reef
-
-(Collect as much trash as possible before the batteries run out of power)
-
-
-
-<iframe width="711" height="512" src="https://www.youtube.com/embed/Wl2nQVKNpfQ" title="Coral Reef Cleanup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<center>Controlling a VR Robot to clean up a coral reef<br>(Collect as much trash as possible before the batteries run out of power)</center>
-
-![](/images/CCAs/Robotics%20Club/Drawing%20different%20beautiful%20drawings%20with%20a%20robot.jpg)
-
-<center>Drawing different beautiful drawings with a robot.</center>
-
-<iframe width="711" height="512" src="https://www.youtube.com/embed/1wH62dnql5g" title="Wall Maze" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<center>Controlling a VR Robot to navigate through a maze</center>
-
-##### SCRATCH Programming
-
-During eCCA Zoom sessions, members continue to learn programming using various software platforms. Let’s take a look at some of the games and programs created by members using SCRATCH.
-
-
-<iframe width="711" height="512" src="https://www.youtube.com/embed/vHYdHl4EIYw" title="Ping Pong Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<center>Score as many points as possible in this Ping Pong Ball Game</center>
-
-<iframe width="711" height="511" src="https://www.youtube.com/embed/c-9JqcP9cOI" title="Balloon Popping Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<center>Pop the balloons in this Balloon Popping Game</center>
-
-<iframe width="711" height="512" src="https://www.youtube.com/embed/YieFV2I31I4" title="Robotics CCA Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### Promotion of CCA Video
-
-**P1 CCAs Experiences**
-
-Due to Covid-19 and abiding by safety measures management guidelines, the P1 CCAs Experience is conducted online. Dayan Soh, Chairperson of Robotics Club, and Kavin, Vice-chairperson of Robotics Club would like to invite robotics lovers from P1 to join us and have fun!
-
-
-<center><span style="color: #9CC2E5"> <b>“Are you interested in Robotics?<br>Are you interested in building robots and programming them?<br>Come join us in Robotics right now!”</b> </span></center>
-
+The DSTA-DSO-VJC Robotics Challenge engages upper primary students in advanced robotics engineering through defence science-inspired missions. Using LEGO SPIKE Prime, students design and program autonomous robots to complete complex challenges that often simulate real-world scenarios. The competition emphasises sophisticated programming skills, sensor integration, and strategic problem-solving. Students learn to develop precise movement controls and complex algorithms while working within specific competition parameters. This unique platform not only builds technical expertise but also provides valuable exposure to practical applications of robotics in defence technology, helping students understand how engineering solutions can address real-world challenges.
 
 #### Achievements
 
