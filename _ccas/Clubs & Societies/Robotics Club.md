@@ -7,14 +7,11 @@ variant: markdown
 ---
 #### Purposes of CCA
 
-
 Robotics Club provides opportunities for students to pursue their interests and passion in Science, Technology, Engineering and Mathematics (STEM). It serves as a platform for innovation and creativity beyond the normal Primary School Science and Mathematics syllabus.
 
 The club is an excellent avenue for pupils to engage in meaningful and active learning, building their character and 21st Century Skills such as innovative thinking, effective communication and collaboration. Members participate actively in prestigious competitions including the FIRST LEGO League and National Robotics Competition, where they showcase their skills through designable and programmable robots.
 
 Members undergo comprehensive training to develop and deepen their understanding of robot design and movement mechanics, strengthening their analytical and creative thinking skills. Through various programming platforms, they develop logical thinking and refine their programming capabilities. The competitive element of participating in FIRST LEGO League and National Robotics Competition provides valuable exposure and real-world application of their skills, challenging them to solve complex problems while working in teams.
-
-
 
 
 #### Experiences
