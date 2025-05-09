@@ -2,7 +2,6 @@ collections:
   potential-parents-and-students:
     output: true
     order:
-      - E OPEN HOUSE 2025.md
       - Superheroes of Learning.md
       - Superheroes of Character/.keep
       - Superheroes of Character/Superheroes of Character.md
@@ -10,3 +9,4 @@ collections:
       - Superheroes of Leadership.md
       - Featured Superheroes (Head Prefects).md
       - Open House 2024.md
+      - E OPEN HOUSE 2025.md
