@@ -29,7 +29,6 @@ sections:
       title: Passion
       description: I am driven by passion. I am curious about things around me and I
         actively seek improvement and growth in these areas.
-      button: Passion
       url: /
       image: /images/2nd fold-passion.jpg
       alt: 2nd fold-passion
@@ -37,7 +36,6 @@ sections:
       title: Purpose
       description: I serve with purpose. I use my skills and talents to uplift others
         so that we live, grow and advance as a community.
-      button: Purpose
       url: /
       image: /images/2nd fold-purpose.jpg
       alt: 2nd fold-purpose
