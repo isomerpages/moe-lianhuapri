@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - E OPEN HOUSE 2025.md
       - Superheroes of Learning.md
       - Superheroes of Character/.keep
       - Superheroes of Character/Superheroes of Character.md
