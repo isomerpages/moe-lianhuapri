@@ -19,6 +19,16 @@ sections:
           description: ""
           url: /lhps/announcement
   - infopic:
+      title: E-Open House 2025
+      subtitle: E-Open House 2025
+      id: infopic
+      description: More details coming up soon! Stay tuned!
+      button: Click Here
+      url: https://www.lianhuapri.moe.edu.sg/e-open-house-2025/
+      image: /images/Potential Parents & Students/E OPEN HOUSE
+        2025/EOpenHouseWebsitebanner2025.jpg
+      alt: E-Open House 2025
+  - infopic:
       title: Play
       description: I explore and discover through play. I acquire new knowledge,
         skills and attitudes needed to grow and develop holistically.
@@ -39,16 +49,6 @@ sections:
       url: /
       image: /images/2nd fold-purpose.jpg
       alt: 2nd fold-purpose
-  - infopic:
-      title: E-Open House 2025
-      subtitle: E-Open House 2025
-      id: infopic
-      description: More details coming up soon! Stay tuned!
-      button: Click Here
-      url: https://www.lianhuapri.moe.edu.sg/e-open-house-2025/
-      image: /images/Potential Parents & Students/E OPEN HOUSE
-        2025/EOpenHouseWebsitebanner2025.jpg
-      alt: E-Open House 2025
   - infobar:
       title: Students in Action
       button: Click to Find out more
