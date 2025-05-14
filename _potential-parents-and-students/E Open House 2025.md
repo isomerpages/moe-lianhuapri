@@ -13,7 +13,8 @@ Click on the video below to start your experience.</p>
 
 <br>
 Curious about a day in the life of a Lianhuarean? Watch the video to find out!
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Our School, Our Playground Come and Explore with Our P1 Superheroes!" src="https://www.youtube.com/embed/WMtrApjV6Pc" height="499" width="889"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Our School, Our Playground Come and Explore with Our P1 Superheroes!" src="https://www.youtube.com/embed/VcA9lr3qsFE" height="499" width="889"></iframe>
+
 
 <br>
 Explore the highlights of our Primary One and Two PAL Programmes and Shining Artz Celebrations in this video.
