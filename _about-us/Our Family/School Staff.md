@@ -432,8 +432,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
   </tr>
 			  <tr>
     <td>5 Unity 6</td>
-    <td>Ms Ng Ziqian Jolene<br>Mdm Lin Jun</td>
-    <td><a href="mailto:ng_ziqian_jolene@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ng_ziqian_jolene@moe.edu.sg</span></a><br><a href="mailto:lin_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lin_jun@moe.edu.sg</span></a></td>
+    <td>Ms Ng Ziqian Jolene<br>Mdm Lin Rui Jun</td>
+    <td><a href="mailto:ng_ziqian_jolene@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ng_ziqian_jolene@moe.edu.sg</span></a><br><a href="mailto:lin_rui_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lin_rui_jun@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
