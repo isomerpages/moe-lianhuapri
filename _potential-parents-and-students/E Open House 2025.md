@@ -9,7 +9,7 @@ description: ""
 <img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHousePoster2025_updated.jpg">
 
 <p align="justify">Dear Parents / Guardians,<br><br>
-<strong>Welcome to Lianhua Primary School’s E-Open House 2025!</strong><br>
+<strong>Welcome to Lianhua Primary School’s E-Open House 2025!</strong><br><br>
 We are delighted to have you join us on this virtual journey. Through this online platform, you would get a glimpse of our vibrant school community, explore our facilities, and learn more about our programmes through a series of videos and presentations. <br><br>
 Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br>
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
