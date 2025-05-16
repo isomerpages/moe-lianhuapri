@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 ---
 <img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHouseWebsitebanner2025.jpg">
-
-<img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHouseWebsitebanner2025.jpg">
+<br>
+<img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHousePoster2025_updated.jpg">
 
 <p align="justify">Dear Parents / Guardians,<br><br>
 <strong>Welcome to the E-Open House at Lianhua Primary School!</strong><br>
