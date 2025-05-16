@@ -7,65 +7,73 @@ variant: markdown
 ---
 #### Purpose of CCA
 
-Scouts CCA is the only uniformed group CCA in Lianhua Primary School. We are really proud of our cub scouts for donning their uniform smartly every Friday.
-  
-Through a value system based on the Scout Promise and Law, students will learn how to contribute to the education of young people in order to help create a better world where people are self-fulfilled as individuals and play a positive role in society. They will work to obtain a number of Badges, which serve to certify their accomplishments in many facets of scouting and teach them fundamental Scouting skills.&nbsp;
+Scouts CCA is the only uniformed group CCA in Lianhua Primary School. We are really proud of our cub scouts for donning their uniform smartly every Tuesday.
 
- 
-As they are prepared to become more aware of the needs of the community through leadership and social communication skills, students cultivate compassion and kindness.Scouting encourages the holistic physical, mental, spiritual and social development of youth with a strong emphasis on duty to God, duty to country, and helping other people.
+Through a value system based on the Scout Promise and Law, students will learn how to contribute to the education of young people in order to help create a better world where people are self-fulfilled as individuals and play a positive role in society. They will work to obtain a number of Badges, which serve to certify their accomplishments in many facets of scouting and teach them fundamental Scouting skills. 
 
- ![](/images/CCAs/Scouts/project%20smile%202023.jpg)
+As they are prepared to become more aware of the needs of the community through leadership and social communication skills, students cultivate compassion and kindness. Scouting encourages the holistic physical, mental, spiritual and social development of youth with a strong emphasis on duty to God, duty to country, and helping other people.
 
-| ![](/images/CCAs/Scouts/project%20smile%202022.jpg) | <br> ![](/images/CCAs/Scouts/project%20smile%202022(1).jpg) |
-|:-:|:-:|
-|   |   |
+![](/images/CCAs/Scouts/1.png)
 
-<center>Scouts participating in Project Smile, one of the Community Service that we had.</center>
+Weekly training sessions comprising scouting skills that allows them to achieve the three progress badges. They are the Bronze Arrow, Silver Arrow and Gold Arrow. The highest award is the Akela Award. Our Lianhua Cub Scouts are exposed to ample opportunities to learn, strive and practice values such as Loyalty, Honesty, Compassion, Diligence, Excellence, Unity, Resilience and Self-Discipline. They are also given the opportunity to achieve their proficiency badges.
 
-![](/images/CCAs/Scouts/national%20day%20observance%202022.jpg)
+![](/images/CCAs/Scouts/2.png)
+![](/images/CCAs/Scouts/3.png)
+![](/images/CCAs/Scouts/4.png)
+![](/images/CCAs/Scouts/5.png)
+![](/images/CCAs/Scouts/6.png)
+![](/images/CCAs/Scouts/7.png)
+![](/images/CCAs/Scouts/8.png)
+![](/images/CCAs/Scouts/9.png)
 
-<center>Our Sixers are honoured to be part of National Day Observance Day.</center>
+Our Cub Scouts participated in Project Smile, one of the Community Services that we had.
 
-| ![](/images/CCAs/Scouts/police%20heritage%20centre%20learning%20journey(1).jpg) | ![](/images/CCAs/Scouts/police%20heritage%20centre%20learning%20journey.jpg) |
-|:-:|:-:|
-|   |   |
+![](/images/CCAs/Scouts/10.png)
 
-<center>Our cub scouts went for learning journey to the Police Heritage Centre. It really is an insightful discovery.</center>
+Our Sixers are honoured to be part of the School’s and Constituency’s National Day Observance Day and Bukit Gombak Chingay Celebrations.
 
-![](/images/CCAs/Scouts/cub%20scout%20field%20day%202022.jpg)
+![](/images/CCAs/Scouts/11.png)
+![](/images/CCAs/Scouts/12.png)
+![](/images/CCAs/Scouts/13.png)
 
-| <br> ![](/images/CCAs/Scouts/sarimbun%20camp%20adventure%202022.jpg) |![](/images/CCAs/Scouts/cub%20scout%20leadership%20camp%202022.jpg) |
-|:-:|:-:|
-|   |   |
+Our Cub Scouts went for a learning journey to the Police Heritage Centre. It was an eye-opener for everyone.
 
-<center>Adventure time! Cub scouts have a meaningful exploration attending Cub Scout Leadership Camp and the Cub Scout Field Day. They experienced outdoor cooking and scouting skills.</center>
+![](/images/CCAs/Scouts/14.png)
+![](/images/CCAs/Scouts/15.png)
 
-![](/images/CCAs/Scouts/founder_s%20day%20rally%202023(1)1.jpg)  
+Adventure time! Our Cub Scouts had a meaningful exploration attending Cub Scout Leadership Camp and the Cub Scouts Field Day. They experienced outdoor cooking and scouting skills.
 
-![](/images/CCAs/Scouts/founder_s%20day%20rally%202023.jpg)
+![](/images/CCAs/Scouts/16.png)
+![](/images/CCAs/Scouts/17.png)
+![](/images/CCAs/Scouts/18.png)
+![](/images/CCAs/Scouts/19.png)
 
-<center>Cub scouts participating in Founder’s Day Rally. They had fun and most importantly they make friends and establishes relationship.</center>
+Our Cub Scouts participated in the Founder's Day Rally. They had fun and most importantly they made friends and established relationships.
 
-
-Weekly training sessions comprising of scouting skills that allows them to achieve the three progress badges. They are the Bronze Arrow, Silver Arrow and Gold Arrow. The highest award is the Akela Award. Our Lianhua Cub Scouts are exposed to ample opportunities to learn, strive and practice values such as Loyalty, Honesty, Compassion, Diligence, Excellence, Unity, Resilience and Self-Discipline. They are also given opportunity to achieve their proficiency badges.
-
-
-
-
-| <br> ![](/images/CCAs/Scouts/knotting%20training%20session.jpg)Knotting| ![](/images/CCAs/Scouts/astronomy%20training%20session.jpg)Astronomy![](/images/CCAs/Scouts/first%20aid%20training%20session(1).jpg)First Aid | 
-|:-:|:-:|
-|   |   | 
-
+![](/images/CCAs/Scouts/20.png)
+![](/images/CCAs/Scouts/21.png)
 
 <iframe width="711" height="510" src="https://www.youtube.com/embed/fK6_Y9fFOEA" title="Set Up Tents  Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 For more information about Scouting, you may visit [https://www.scout.sg/](https://www.scout.sg/)
 
+#### Experiences
+Opportunity to go camping, cooking outdoors, learn orienteering, get to know the Scouting family and be independent. 
+
+#### Students’ Voices
+“I joined scouts to continue my father’s legacy.  I think I’m better than him at scouting because I have more badges.” <p align="right">Rizqi Anaqi Bin Rohaizat, 4I5</p>
+
+“I love learning new things. I get to learn things like astronomy, bird watching and being a sixer (leader).” 
+<p align="right">Divesh Jaya Chandran, 6R1</p>
+
+“I get to go camping and cook outdoors.” 
+<p align="right">Muhammad Rayyan Ibnu Muhammad Rashid, 5U5</p>
+
 
 #### The Team  
 
-* MDM SITI AISHAH
 * MR MOHAMMAD FAIZAL
 * MS LIM CHIEN LING, SHENLYNN
+* MDM SITI AISHAH
 * MS CHUA WAN JUN
