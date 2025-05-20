@@ -15,6 +15,8 @@ Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
 <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a></p> 
 <br>
+Next, let’s explore the vibrant programmes specially designed for our Primary One students.
+<br><br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZIHPC_Z6Fzj1K3YTtJwqJoxU8xEqNwctq8NUBTPytdjElr_masLN2Fl_vZJfZDy-L3px5BVyyg7OI/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <br>
