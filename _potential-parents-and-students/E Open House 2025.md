@@ -18,7 +18,6 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 
 Curious about a day in the life of a Lianhuarean? Watch the video to find out!
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Our School, Our Playground Come and Explore with Our P1 Superheroes!" src="https://www.youtube.com/embed/VcA9lr3qsFE" height="499" width="889"></iframe>
-<br>
 
 Next, let’s explore the vibrant programmes specially designed for our Primary One students.
 <br>
