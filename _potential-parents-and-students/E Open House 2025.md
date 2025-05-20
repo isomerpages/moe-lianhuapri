@@ -22,7 +22,7 @@ Curious about a day in the life of a Lianhuarean? Watch the video to find out!
 Next, let’s explore the vibrant programmes specially designed for our Primary One students.
 <br>
 <iframe allowfullscreen="true" height="499" width="889" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZIHPC_Z6Fzj1K3YTtJwqJoxU8xEqNwctq8NUBTPytdjElr_masLN2Fl_vZJfZDy-L3px5BVyyg7OI/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-<br>
+
 At Lianhua Primary School, we cultivate Executive Functioning Skills in our students through customised programmes featuring our Superheroes and their Pets
 <br>
 
