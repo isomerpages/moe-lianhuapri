@@ -28,7 +28,6 @@ Explore the highlights of our Primary One and Two PAL Programmes and Shining Art
 
 At Lianhua Primary School, we cultivate Executive Functioning Skills in our students through customised programmes featuring our Superheroes and their Pets
 <iframe allowfullscreen="true" height="529" width="889" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtk7Hi__RSwtVDFmM25C8aga1NDPvV-wFcDOloNNCuWYKg-ATWDfFmuYFO8Q3YWg/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-<br>
 
 Together, we look forward to nurturing your child’s heart and mind through a strong and meaningful partnership. <br><br>
 For further information, please explore the different sections of our school’s website. <br><br>
