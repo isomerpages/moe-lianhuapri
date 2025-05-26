@@ -22,7 +22,7 @@ sections:
       title: E-Open House 2025
       subtitle: E-Open House 2025
       id: infopic
-      description: More details coming up soon! Stay tuned!
+      description: Please check out our E-Open House to find out more!
       button: Click Here
       url: https://www.lianhuapri.moe.edu.sg/e-open-house-2025/
       image: /images/Potential Parents & Students/E OPEN HOUSE
