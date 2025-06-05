@@ -27,7 +27,7 @@ Hello and welcome to Lianhua’s e-Open House!
 "Will my child be happy here?" Let me say this – our vision for culture in Lianhua simple: <strong>Happy teachers, happy students</strong>. When school feels like a second home, magic happens. That’s what we work on every single day – not just test scores, but trust, warmth, and belonging.</li><br>
 	<li>As you click around our e-Open House, take a peek into our classrooms, our play spaces, our projects. You’ll see the joy. The laughter. The light in our learners’ eyes.</li><br>
 	<li>Thank you for considering Lianhua Primary. We cannot wait to welcome you to our family of Superheroes!</li>
-</ol><br>
+</ol>
 Sincerely,<br>
 Ms Pamela Kiew<br>
 Principal
