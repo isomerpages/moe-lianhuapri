@@ -22,9 +22,9 @@ Hello and welcome to Lianhua’s e-Open House!
 <ol>
   <li>Whether you're a parent, a future student, or just curious about what makes our school so special, I’m so glad you're here.</li>
   <li>Here at Lianhua, we believe in nurturing both the mind and the heart. Our motto? <strong>Play, Passion, and Purpose</strong>. We want every child to explore boldly, to create fearlessly, and to learn joyfully. From our exciting curriculum to our strong emphasis on values and character, we shape learners who don’t just do well in school, we prepare them to do well in life.</li>
-  <li>What’s unique about our school? We embrace every child as a superhero in training – each one with their own powers. Some may lead with quiet strength, others with bold creativity and our job is to spot that spark and help each individual shine. Our teachers? They’re not just educators! They’re mentors, champions, and the occasional magician in the classrooms!</li>
+  <li>What’s unique about our school? <strong>We embrace every child as a superhero in training</strong> – each one with their own powers. Some may lead with quiet strength, others with bold creativity and our job is to spot that spark and help each individual shine. Our teachers? They’re not just educators! They’re mentors, champions, and the occasional magician in the classrooms!</li>
 	<li>
-"Will my child be happy here?" Let me say this – our vision for culture in Lianhua simple: Happy teachers, happy students. When school feels like a second home, magic happens. That’s what we work on every single day – not just test scores, but trust, warmth, and belonging.</li>
+"Will my child be happy here?" Let me say this – our vision for culture in Lianhua simple: <strong>Happy teachers, happy students</strong>. When school feels like a second home, magic happens. That’s what we work on every single day – not just test scores, but trust, warmth, and belonging.</li>
 	<li>As you click around our e-Open House, take a peek into our classrooms, our play spaces, our projects. You’ll see the joy. The laughter. The light in our learners’ eyes.</li>
 	<li>Thank you for considering Lianhua Primary. We cannot wait to welcome you to our family of Superheroes!</li>
 </ol>
