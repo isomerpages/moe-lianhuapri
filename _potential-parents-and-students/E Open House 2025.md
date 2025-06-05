@@ -15,6 +15,22 @@ Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
 <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a></p> 
 
+Up next, we have the e-Open House address delivered by our School Principal
+<h4>Principal E-Address</h4>
+
+Hello and welcome to Lianhua’s e-Open House!
+<ol>
+  <li>Whether you're a parent, a future student, or just curious about what makes our school so special, I’m so glad you're here.</li>
+  <li>Here at Lianhua, we believe in nurturing both the mind and the heart. Our motto? <strong>Play, Passion, and Purpose</strong>. We want every child to explore boldly, to create fearlessly, and to learn joyfully. From our exciting curriculum to our strong emphasis on values and character, we shape learners who don’t just do well in school, we prepare them to do well in life.</li>
+  <li>What’s unique about our school? We embrace every child as a superhero in training – each one with their own powers. Some may lead with quiet strength, others with bold creativity and our job is to spot that spark and help each individual shine. Our teachers? They’re not just educators! They’re mentors, champions, and the occasional magician in the classrooms!</li>
+	<li>
+"Will my child be happy here?" Let me say this – our vision for culture in Lianhua simple: Happy teachers, happy students. When school feels like a second home, magic happens. That’s what we work on every single day – not just test scores, but trust, warmth, and belonging.</li>
+	<li>As you click around our e-Open House, take a peek into our classrooms, our play spaces, our projects. You’ll see the joy. The laughter. The light in our learners’ eyes.</li>
+	<li>Thank you for considering Lianhua Primary. We cannot wait to welcome you to our family of Superheroes!</li>
+</ol>
+Sincerely,<br>
+Ms Pamela Kiew<br>
+Principal
 
 Curious about a day in the life of a Lianhuarean? Watch the video to find out!
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Our School, Our Playground Come and Explore with Our P1 Superheroes!" src="https://www.youtube.com/embed/VcA9lr3qsFE" height="499" width="889"></iframe>
