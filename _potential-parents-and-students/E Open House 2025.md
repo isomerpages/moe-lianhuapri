@@ -15,7 +15,7 @@ Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
 <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a></p> 
 
-Up next, we have the e-Open House address delivered by our School Principal
+Up next, we have the e-Open House address by our School Principal
 <h4>Principal's E-Address</h4>
 
 Hello and welcome to Lianhua’s e-Open House!
