@@ -65,8 +65,8 @@ td {
 		<tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
-			<td><img> <br></td>
 						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
+			<td><img> <br></td>
 	</tr>
   <tr>
 		   <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management </td>
@@ -81,7 +81,7 @@ td {
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Language </td>
 	</tr>
   <tr>
-  		<td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science (Internal) </td>
+  		<td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science</td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
