@@ -65,7 +65,7 @@ td {
 		<tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
-			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MRSTAN_ONGEELEE.jpg"> Mrs Tan-Ong Ee Lee<br>HOD Science</td>
+			<td><img> <br></td>
 						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
 	</tr>
   <tr>
