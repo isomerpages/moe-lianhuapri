@@ -86,6 +86,12 @@ td {
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
 		</tr>
+		  <tr> 
+		<td><img style="width: 80%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P3 &amp; P4 </td>
+    <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P5 &amp; P6 </td>
+	<td><br><br><br></td>
+  </tr>
 		 <tr>
 			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAngelineHoh.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
 	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
