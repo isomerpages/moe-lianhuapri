@@ -48,7 +48,7 @@ td {
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPamelaKiew.jpg"> Ms Pamela Kiew<br>Principal</td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJaniceTan.jpg"> Mdm Janice Tan<br>Vice-Principal (EO) </td>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal (EO)</td>
-		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Jeffrey_Lee.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
+		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mr_Jeffrey_Lee.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
   </tr>
   
   <tr>
@@ -66,7 +66,7 @@ td {
   <tr>
 		   <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsLimSiewChin.png">Ms Lim Siew Chin<br>HOD PE-CCA  </td>
 				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
-    <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsJagjitKaur.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
+    <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Ms_Jagjit_Kaur_DO_Parmjit_Singh.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
 		<td></td>
   </tr>
 				  <tr> 
@@ -76,9 +76,9 @@ td {
 	<td><br><br><br></td>
   </tr>
 		 <tr>
-			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAngelineHoh.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
+			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mdm_Ow_May_Ling_Angeline.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
 	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
-			 <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPavitraKanaiah.jpg"><br>Ms Pavitra Kanaiah<br>Assistant Year Head P5/P6 (internal)</td>
+			 <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mrs_K_Pavitra_Kanaiah.jpg">Ms Pavitra Kanaiah<br>Assistant Year Head P5/P6 (internal)</td>
 			 <td></td>
       </tr>
 	<tr>
