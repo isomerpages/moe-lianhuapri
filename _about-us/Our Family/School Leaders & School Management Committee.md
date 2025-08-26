@@ -69,19 +69,7 @@ td {
     <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsJagjitKaur.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
 		<td></td>
   </tr>
-	<tr>
-	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics &amp; School Cockpit Coordinator</td>
-		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg">Ms Tan Li Yan<br>LH Chinese Language </td>
-		<td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science</td>
-	</tr>
-  <tr>
-  		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
-		<td></td>
-		</tr>
-		  <tr> 
+				  <tr> 
 		<td><img style="width: 80%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P3 &amp; P4 </td>
     <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P5 &amp; P6 </td>
@@ -93,6 +81,18 @@ td {
 			 <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsPavitraKanaiah.jpg"><br>Ms Pavitra Kanaiah<br>Assistant Year Head P5/P6 (internal)</td>
 			 <td></td>
       </tr>
+	<tr>
+	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics &amp; School Cockpit Coordinator</td>
+		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language </td>
+    <td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science</td>
+		<td></td>
+	</tr>
+  <tr>
+  		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
+		<td></td>
+		</tr>
 	  <tr>
 			   <td><img src="/images/About%20us/School%20Staff/MdmKhilfinaBteKamaruddinShah.jpg"> Mdm Khilfina<br>SH Student Well-Being</td>
       <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
