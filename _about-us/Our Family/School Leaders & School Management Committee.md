@@ -58,14 +58,14 @@ td {
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
   </tr>
 		<tr>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
-						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
-			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management</td>
+					  <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsLimSiewChin.png">Ms Lim Siew Chin<br>HOD PE-CCA  </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
 	</tr>
   <tr>
-		   <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsLimSiewChin.png">Ms Lim Siew Chin<br>HOD PE-CCA  </td>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
+			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management</td>
     <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Ms_Jagjit_Kaur_DO_Parmjit_Singh.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
 		<td></td>
   </tr>
