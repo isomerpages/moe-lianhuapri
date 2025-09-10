@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - High Ability Learners/.keep
       - English.md
       - Mathematics.md
       - Science.md
