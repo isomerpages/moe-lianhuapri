@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - High Ability Learners/High Ability Learners.md
       - High Ability Learners/.keep
       - High Ability Learners/English.md
       - High Ability Learners/Mathematics.md
