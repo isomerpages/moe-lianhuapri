@@ -5,12 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: High Ability Learners
 ---
-<p>
+<p style="text-align: justify;">
 	At Lianhua Primary School, we are committed to nurturing our <strong>H</strong>igh <strong>A</strong>bility <strong>L</strong>earners (HALs) through our <strong>HIGH</strong> approach:
   </p><ul>
-    <li><strong>Harnessing</strong> their potential</li>
-    <li><strong>Inspiring</strong> excellence</li>
-    <li><strong>Growing</strong> resilience</li>
-    <li><strong>Honing</strong> leadership</li>
+    <li><strong><span style="color: blue;">H</span></strong><strong>arnessing</strong> their potential</li>
+    <li><strong><span style="color: blue;">I</span></strong><strong>nspiring</strong> excellence</li>
+    <li><strong><span style="color: blue;">G</span></strong><strong>rowing</strong> resilience</li>
+    <li><strong><span style="color: blue;">H</span></strong><strong>oning</strong> leadership</li>
   </ul>
-<p></p>
+<p style="text-align: justify;">This initiative aligns with our school's vision of empowering every pupil to be a <strong>Superhero</strong> in their own way. We believe every Lianhua pupil possesses unique strengths and has the potential to make a difference.
+</p>
+
+
