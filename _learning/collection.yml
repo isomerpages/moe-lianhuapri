@@ -2,11 +2,11 @@ collections:
   learning:
     output: true
     order:
-      - High Ability Learners/Mother Tongue.md
-      - High Ability Learners/Science.md
-      - High Ability Learners/Mathematics.md
-      - High Ability Learners/English.md
       - High Ability Learners/.keep
+      - High Ability Learners/English.md
+      - High Ability Learners/Mathematics.md
+      - High Ability Learners/Science.md
+      - High Ability Learners/Mother Tongue.md
       - English.md
       - Mathematics.md
       - Science.md
