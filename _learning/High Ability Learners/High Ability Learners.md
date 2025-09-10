@@ -20,4 +20,5 @@ third_nav_title: High Ability Learners
     <li><strong>Joyful Jaya</strong>, a positive and resilient learner</li>
     <li><strong>Confident Colin</strong>, a courageous and articulate leader</li>
   </ul>
-<p></p>
+<p style="text-align: justify;">We aim to help every child harness their potential, develop strong character, and find joy and meaning in their learning journey.
+</p>
