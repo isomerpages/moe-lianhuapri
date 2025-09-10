@@ -13,7 +13,11 @@ third_nav_title: High Ability Learners
     <li><strong><span style="color: blue;">G</span></strong><strong>rowing</strong> resilience</li>
     <li><strong><span style="color: blue;">H</span></strong><strong>oning</strong> leadership</li>
   </ul>
-<p style="text-align: justify;">This initiative aligns with our school's vision of empowering every pupil to be a <strong>Superhero</strong> in their own way. We believe every Lianhua pupil possesses unique strengths and has the potential to make a difference.
-</p>
-
-
+<p style="text-align: justify;">This initiative aligns with our school's vision of empowering every pupil to be a <strong>Superhero</strong> in their own way. We believe every Lianhua pupil possesses unique strengths and has the potential to make a difference. <br>Through our Superhero personas; we encourage pupils to discover their inner powers.<br>
+	</p><ul>
+    <li><strong>Inquisitive Ismail</strong>, a curious and creative thinker</li>
+    <li><strong>Sensible Sumei</strong>, a thoughtful and empathetic decision-maker</li>
+    <li><strong>Joyful Jaya</strong>, a positive and resilient learner</li>
+    <li><strong>Confident Colin</strong>, a courageous and articulate leader</li>
+  </ul>
+<p></p>
