@@ -19,7 +19,7 @@ variant: markdown
 <p style="text-align: justify;">The <strong>Maths Olympiad Training</strong> programme is designed to spark students’ interest in Mathematics while nurturing their creativity, analytical thinking, and love for learning through discovery and challenge. It provides opportunities for students to explore advanced mathematical concepts beyond the standard curriculum and enhances their problem-solving abilities through non-routine tasks and heuristic strategies. This programme aims to equip students with the skills and confidence needed to tackle complex problems in Mathematical competitions.
 </p>
 
-<table style="border-collapse: collapse; text-align: center;" border="1">
+<table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:500px; height:auto" alt="mo" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mo1_2025.jpg"></td>
     <td><img style="width:500px; height:auto" alt="mo" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mo2_2025.jpg"></td>
