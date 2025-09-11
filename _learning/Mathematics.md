@@ -7,7 +7,7 @@ variant: markdown
 <p style="text-align: justify;"><strong>E2K (Fun with Mathematics)</strong> aims to develop students’ mathematical reasoning and deepen their conceptual understanding through an inquiry-based approach. By engaging in rich problem-solving tasks and collaborative discussions, students explore mathematical concepts in depth, make connections, and apply their thinking creatively and logically.
 </p>
 
-<table style="border-collapse: collapse; text-align: center;" border="1">
+<table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:500px; height:auto" alt="e2k" src="/images/Learning/High%20Ability%20Learners%20(HALs)/e2k1_2025.jpg">
 			</td>
