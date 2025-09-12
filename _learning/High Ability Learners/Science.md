@@ -23,3 +23,6 @@ third_nav_title: High Ability Learners
   </tr>
 </tbody></table>
 
+<p style="text-align: justify;">The <strong>Superhero Quest Booklet and YES! Programme</strong>, designed for all Primary 3 to 6 students, engages learners in meaningful experiential learning at the garden. Through hands-on activities and exploration, the programme fosters curiosity, inventiveness, and a deeper appreciation for nature. It encourages students to observe, inquire, and reflect as they connect classroom learning to real-world experiences in a fun and interactive environment.</p>
+
+<p style="text-align: justify;">The activities also incorporate tasks that nurture <strong>critical and creative thinking</strong>, with varying levels of difficulty to cater to diverse learners. Every student can find an entry point through accessible guiding questions, while high-ability learners are challenged with more complex tasks that stretch their thinking and problem-solving skills. This ensures the programme remains inclusive, engaging, and intellectually stimulating for all.</p>
