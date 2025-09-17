@@ -23,3 +23,9 @@ third_nav_title: High Ability Learners
     <td><img style="width300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate6_2025.jpg"></td>
   </tr>
 </tbody></table>
+
+<p style="text-align: justify">Exploration and Inquiry Programme
+Our High Ability Learners experience a unique approach to language learning through our Exploration and Inquiry programme. This innovative programme harnesses students' natural curiosity and analytical abilities through inquiry-based learning.
+Students engage with language through stimulating questions and real-world challenges. Rather than following traditional methods, our learners actively seek knowledge and develop new understanding through investigation and discovery.
+Our teachers facilitate this journey, guiding students whilst encouraging independence. This student-centred approach ensures each learner progresses meaningfully, developing both language mastery and critical thinking skills.
+</p>
