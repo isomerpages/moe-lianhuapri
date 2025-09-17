@@ -89,3 +89,7 @@ This programme nurtures confident communicators and informed citizens by engagin
     <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NIB4_2025.jpg"></td>
   </tr>
 </tbody></table>
+
+<p style="text-align: justify">Reading Circles provide advanced readers with wide exposure to age-appropriate, rich texts that engage and challenge them. The programme aims to develop their ability to respond thoughtfully to texts, cultivate reflective reading habits, sharpen text-probing skills and strengthen their personal voice as readers.
+</p>
+
