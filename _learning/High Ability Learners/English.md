@@ -30,3 +30,15 @@ Our High Ability Learners experience a unique approach to language learning thro
 Students engage with language through stimulating questions and real-world challenges. Rather than following traditional methods, our learners actively seek knowledge and develop new understanding through investigation and discovery.
 Our teachers facilitate this journey, guiding students whilst encouraging independence. This student-centred approach ensures each learner progresses meaningfully, developing both language mastery and critical thinking skills.
 </p>
+
+<table style="border-collapse: collapse; text-align: center;" border="0">
+  <tbody><tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq1_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq2_2025.jpg"></td>
+  </tr>
+  <tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq3_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq4_2025.jpg"></td>
+  </tr>
+
+</tbody></table>
