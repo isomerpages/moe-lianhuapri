@@ -70,11 +70,11 @@ This programme nurtures confident communicators and informed citizens by engagin
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
-    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq1_2025.jpg"></td>
-    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq2_2025.jpg"></td>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NIB1_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NIB2_2025.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq3_2025.jpg"></td>
-    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq4_2025.jpg"></td>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NIB3_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NIB4_2025.jpg"></td>
   </tr>
 </tbody></table>
