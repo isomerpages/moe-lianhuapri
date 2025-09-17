@@ -40,7 +40,6 @@ Our teachers facilitate this journey, guiding students whilst encouraging indepe
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq3_2025.jpg"></td>
     <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq4_2025.jpg"></td>
   </tr>
-
 </tbody></table>
 
 <p style="text-align: justify"><strong>Creative Writing</strong><br>
@@ -51,7 +50,7 @@ Our Primary 4 Creative Writing programme nurtures talented young writers, provid
   <tbody>
     <tr>
       <td rowspan="2">
-        <img style="width:680px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting1_2025.jpg">
+        <img style="width:600px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting1_2025.jpg">
       </td>
        <td style="width:50%;">
         <img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting2_2025.jpg">
@@ -64,3 +63,18 @@ Our Primary 4 Creative Writing programme nurtures talented young writers, provid
     </tr>
   </tbody>
 </table>
+
+<p style="text-align: justify"><strong>News in Brief</strong><br>
+This programme nurtures confident communicators and informed citizens by engaging students in current affairs and helping them present news clearly and thoughtfully. It develops their speaking, critical thinking and summarising skills, while encouraging awareness of the world around them. 
+</p>
+
+<table style="border-collapse: collapse; text-align: center;" border="0">
+  <tbody><tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq1_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq2_2025.jpg"></td>
+  </tr>
+  <tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq3_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq4_2025.jpg"></td>
+  </tr>
+</tbody></table>
