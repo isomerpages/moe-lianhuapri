@@ -39,7 +39,8 @@ Our High Ability Learners experience a unique approach to language learning thro
     <li>Build strong analytical and research capabilities</li>
     <li>Enhance their creative problem-solving skills</li>
     <li>Strengthen their communication abilities</li>
-  </ul><p></p>
+  </ul>
+<p></p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
