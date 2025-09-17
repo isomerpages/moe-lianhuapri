@@ -12,17 +12,18 @@ third_nav_title: High Ability Learners
   <tbody>
 		<tr>
     <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate1_2025.jpg"></td>
-    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate2_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate2_2025.jpg"></td>
   </tr>
   <tr>
     <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate3_2025.jpg"></td>
-    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate4_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate4_2025.jpg"></td>
   </tr>
 	  <tr>
     <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate5_2025.jpg"></td>
-    <td><img style="width50px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate6_2025.jpg"></td>
+			<td style="width:50%;"><img style="width:100%; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate6_2025.jpg"></td>
   </tr>
 </tbody></table>
+
 
 <p style="text-align: justify">Exploration and Inquiry Programme
 Our High Ability Learners experience a unique approach to language learning through our Exploration and Inquiry programme. This innovative programme harnesses students' natural curiosity and analytical abilities through inquiry-based learning.
