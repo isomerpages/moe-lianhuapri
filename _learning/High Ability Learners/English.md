@@ -9,16 +9,17 @@ third_nav_title: High Ability Learners
 </p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
-  <tbody><tr>
-    <td><img style="width:500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate1_2025.jpg"></td>
-    <td><img style="width:500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate2_2025.jpg"></td>
+  <tbody>
+		<tr>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate1_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate2_2025.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate3_2025.jpg"></td>
-    <td><img style="width:500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate4_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate3_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate4_2025.jpg"></td>
   </tr>
 	  <tr>
-    <td><img style="width:500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate5_2025.jpg"></td>
-    <td><img style="width500px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate6_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate5_2025.jpg"></td>
+    <td><img style="width300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/Debate6_2025.jpg"></td>
   </tr>
 </tbody></table>
