@@ -8,7 +8,7 @@ third_nav_title: High Ability Learners
 <p style="text-align: justify"><strong>E2K (Fun with Mathematics)</strong> aims to develop students’ mathematical reasoning and deepen their conceptual understanding through an inquiry-based approach. By engaging in rich problem-solving tasks and collaborative discussions, students explore mathematical concepts in depth, make connections, and apply their thinking creatively and logically.
 </p>
 
-<table style="border-collapse: collapse; text-align: center;" border="1">
+<table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:300px; height:auto;" alt="E2K Maths" src="/images/Learning/High%20Ability%20Learners%20(HALs)/e2kmath1_2025.jpg"></td>
     <td><img style="width:300px; height:auto;" alt="E2K Maths" src="/images/Learning/High%20Ability%20Learners%20(HALs)/e2kmath2_2025.jpg"></td>
@@ -20,7 +20,7 @@ third_nav_title: High Ability Learners
 </p>
 
 
-<table style="border-collapse: collapse; text-align: center;" border="1">
+<table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:300px; height:auto;" alt="Maths Olympiad" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mo1_2025.jpg"></td>
     <td><img style="width:300px; height:auto;" alt="Maths Olympiad" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mo2_2025.jpg"></td>
