@@ -50,17 +50,14 @@ Our Primary 4 Creative Writing programme nurtures talented young writers, provid
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody>
     <tr>
-      
       <td rowspan="2">
         <img style="width:680px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting1_2025.jpg">
       </td>
-      
-      <td style="width:50%;">
+       <td style="width:50%;">
         <img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting2_2025.jpg">
       </td>
     </tr>
-    <tr>
-      
+    <tr>  
       <td style="width:50%;">
         <img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting3_2025.jpg">
       </td>
