@@ -19,7 +19,6 @@ third_nav_title: High Ability Learners
   </tr>
 	  <tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp5_2025.jpg"></td>
-    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp6_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp6_2025.jpg"></td>
   </tr>
 </tbody></table>
-
