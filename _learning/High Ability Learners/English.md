@@ -34,7 +34,7 @@ Our teachers facilitate this journey, guiding students whilst encouraging indepe
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq1_2025.jpg"></td>
-    <td style="width:50%;"><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq2_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq2_2025.jpg"></td>
   </tr>
   <tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/ExpAndInq3_2025.jpg"></td>
