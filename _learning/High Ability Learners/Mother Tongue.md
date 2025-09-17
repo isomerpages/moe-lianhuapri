@@ -11,7 +11,7 @@ third_nav_title: High Ability Learners
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp1_2025.jpg"></td>
-    <td><img style="width:240px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp2_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp2_2025.jpg"></td>
   </tr>
   <tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp3_2025.jpg"></td>
@@ -19,6 +19,6 @@ third_nav_title: High Ability Learners
   </tr>
 	  <tr>
     <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp5_2025.jpg"></td>
-    <td><img style="width:290px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp6_2025.jpg"></td>
+    <td><img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/mtlyjp6_2025.jpg"></td>
   </tr>
 </tbody></table>
