@@ -26,10 +26,20 @@ third_nav_title: High Ability Learners
 
 
 <p style="text-align: justify">Exploration and Inquiry Programme
-Our High Ability Learners experience a unique approach to language learning through our Exploration and Inquiry programme. This innovative programme harnesses students' natural curiosity and analytical abilities through inquiry-based learning.
-Students engage with language through stimulating questions and real-world challenges. Rather than following traditional methods, our learners actively seek knowledge and develop new understanding through investigation and discovery.
-Our teachers facilitate this journey, guiding students whilst encouraging independence. This student-centred approach ensures each learner progresses meaningfully, developing both language mastery and critical thinking skills.
+Our High Ability Learners experience a unique approach to language learning through our Exploration and Inquiry programme. This innovative programme harnesses students' natural curiosity and analytical abilities through inquiry-based learning.</p>
+
+<p style="text-align: justify">Students engage with language through stimulating questions and real-world challenges. Rather than following traditional methods, our learners actively seek knowledge and develop new understanding through investigation and discovery.</p>
+
+<p style="text-align: justify">Our teachers facilitate this journey, guiding students whilst encouraging independence. This student-centred approach ensures each learner progresses meaningfully, developing both language mastery and critical thinking skills.
 </p>
+
+<p style="text-align: justify">Through this dynamic learning environment, students:<br>
+  </p><ul>
+    <li>Develop deeper insights into language use and structure</li>
+    <li>Build strong analytical and research capabilities</li>
+    <li>Enhance their creative problem-solving skills</li>
+    <li>Strengthen their communication abilities</li>
+  </ul><p></p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
