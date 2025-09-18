@@ -37,10 +37,10 @@ Our High Ability Learners experience a unique approach to language learning thro
 
 <p style="text-align: justify">Through this dynamic learning environment, students:<br>
   </p><ul>
-    <li>Develop deeper insights into language use and structure</li>
-    <li>Build strong analytical and research capabilities</li>
-    <li>Enhance their creative problem-solving skills</li>
-    <li>Strengthen their communication abilities</li>
+    <li>develop deeper insights into language use and structure</li>
+    <li>build strong analytical and research capabilities</li>
+    <li>enhance their creative problem-solving skills</li>
+    <li>strengthen their communication abilities</li>
   </ul>
 <p></p>
 
