@@ -92,3 +92,36 @@ This programme nurtures confident communicators and informed citizens by engagin
 
 <p style="text-align: justify">Reading Circles provide advanced readers with wide exposure to age-appropriate, rich texts that engage and challenge them. The programme aims to develop their ability to respond thoughtfully to texts, cultivate reflective reading habits, sharpen text-probing skills and strengthen their personal voice as readers.
 </p>
+
+<p style="text-align: justify; color: blue">Nurturing Advanced Readers in Primary 4
+</p>
+
+<p style="text-align: justify; color: blue">Our Reading Circles programme creates an enriching space where passionate young readers can explore literature beyond the classroom, share ideas, and grow together.
+</p>
+
+<p style="text-align: justify; color: blue">Advanced readers thrive when challenged with rich, complex texts that spark deep thinking and meaningful discussions. Our programme moves beyond basic comprehension to embrace the full spectrum of reading experiences – from adventure stories to thought-provoking narratives that connect with real-world issues.
+</p>
+
+<p style="text-align: justify; color: blue">In our Reading Circles, students:
+  </p><ul>
+    <li style="color: blue">Engage with challenging, age-appropriate texts that stretch their thinking</li>
+    <li style="color: blue">Share their unique perspectives in a supportive community of fellow readers</li>
+    <li style="color: blue">Develop critical thinking skills through thoughtful discussion and reflection</li>
+    <li style="color: blue">Learn to express and defend their viewpoints respectfully</li>
+		<li style="color: blue">Build confidence in their analytical abilities</li>
+  </ul>
+<p></p>
+
+<p style="text-align: justify; color: blue">Reading Circles transform the reading experience from a solitary activity into an enriching journey of discovery. Students learn to:
+</p>
+
+<p style="text-align: justify; color: blue">In our Reading Circles, students:
+  </p><ul>
+    <li style="color: blue">Construct meaning together through lively discussions</li>
+    <li style="color: blue">Connect stories to their own experiences and current events</li>
+    <li style="color: blue">Express different viewpoints constructively</li>
+    <li style="color: blue">Build lasting friendships around shared literary interests</li>
+  </ul>
+<p></p>
+
+<p style="text-align: justify; color: blue">Through these engaging sessions, our Primary 4 students develop not just as readers, but as thoughtful individuals who can articulate their ideas and respect diverse perspectives.</p>
