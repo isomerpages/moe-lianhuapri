@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: High Ability Learners
 ---
+<h3>Debate Enrichment</h3>
+
 <p style="text-align: justify">Our Primary 5 Debate enrichment programme develops critical thinking and persuasive communication skills. Through structured debates on contemporary issues, students learn to analyse complex topics, construct compelling arguments and articulate their views with confidence and clarity. Under the guidance of experienced debate coaches, pupils master the art of research, logical reasoning and effective rebuttal - essential skills that extend into their academic journey and daily lives. This enrichment programme not only sharpens their analytical abilities but also cultivates empathy as they learn to understand and respond to different perspectives. 
 </p>
 
@@ -140,4 +142,3 @@ This programme nurtures confident communicators and informed citizens by engagin
     <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR6_2025.jpg"></td>
   </tr>
 </tbody></table>
-
