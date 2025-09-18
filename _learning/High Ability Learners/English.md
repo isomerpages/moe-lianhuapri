@@ -125,3 +125,19 @@ This programme nurtures confident communicators and informed citizens by engagin
 <p></p>
 
 <p style="text-align: justify; color: blue">Through these engaging sessions, our Primary 4 students develop not just as readers, but as thoughtful individuals who can articulate their ideas and respect diverse perspectives.</p>
+
+<table style="border-collapse: collapse; text-align: center;" border="0">
+  <tbody><tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR1_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR2_2025.jpg"></td>
+  </tr>
+  <tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR3_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR4_2025.jpg"></td>
+  </tr>
+		  <tr>
+    <td><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR5_2025.jpg"></td>
+    <td style="width:50%;"><img style="width:580px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/NAR6_2025.jpg"></td>
+  </tr>
+</tbody></table>
+
