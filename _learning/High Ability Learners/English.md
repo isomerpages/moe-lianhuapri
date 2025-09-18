@@ -26,8 +26,8 @@ third_nav_title: High Ability Learners
   </tr>
 </tbody></table>
 
-
-<p style="text-align: justify">Exploration and Inquiry Programme
+<h3>Exploration and Inquiry Programme</h3>
+<p style="text-align: justify">
 Our High Ability Learners experience a unique approach to language learning through our Exploration and Inquiry programme. This innovative programme harnesses students' natural curiosity and analytical abilities through inquiry-based learning.</p>
 
 <p style="text-align: justify">Students engage with language through stimulating questions and real-world challenges. Rather than following traditional methods, our learners actively seek knowledge and develop new understanding through investigation and discovery.</p>
