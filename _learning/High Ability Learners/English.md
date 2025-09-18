@@ -64,12 +64,12 @@ Our Primary 4 Creative Writing programme nurtures talented young writers, provid
         <img style="width:600px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting1_2025.jpg">
       </td>
        <td style="width:50%;">
-        <img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting2_2025.jpg">
+        <img style="width:400px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting2_2025.jpg">
       </td>
     </tr>
     <tr>  
       <td style="width:50%;">
-        <img style="width:300px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting3_2025.jpg">
+        <img style="width:400px; height:auto;" alt="MTL Young Journalists" src="/images/Learning/High%20Ability%20Learners%20(HALs)/creativewriting3_2025.jpg">
       </td>
     </tr>
   </tbody>
@@ -92,4 +92,3 @@ This programme nurtures confident communicators and informed citizens by engagin
 
 <p style="text-align: justify">Reading Circles provide advanced readers with wide exposure to age-appropriate, rich texts that engage and challenge them. The programme aims to develop their ability to respond thoughtfully to texts, cultivate reflective reading habits, sharpen text-probing skills and strengthen their personal voice as readers.
 </p>
-
