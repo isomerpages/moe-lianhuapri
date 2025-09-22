@@ -55,8 +55,8 @@ Our High Ability Learners experience a unique approach to language learning thro
   </tr>
 </tbody></table>
 
-<p style="text-align: justify"><strong>Creative Writing</strong><br>
-Our Primary 4 Creative Writing programme nurtures talented young writers, providing them with a platform to explore their literary potential. Through engaging sessions and guided practice, pupils delve into advanced storytelling techniques, character development and sophisticated vocabulary usage. The sessions inspire these budding authors to craft compelling narratives while developing their unique writing voice. The programme challenges pupils to push creative boundaries, experiment with various genres and master the intricacies of descriptive and figurative language. 
+<h3>Creative Writing</h3>
+<p>Our Primary 4 Creative Writing programme nurtures talented young writers, providing them with a platform to explore their literary potential. Through engaging sessions and guided practice, pupils delve into advanced storytelling techniques, character development and sophisticated vocabulary usage. The sessions inspire these budding authors to craft compelling narratives while developing their unique writing voice. The programme challenges pupils to push creative boundaries, experiment with various genres and master the intricacies of descriptive and figurative language. 
 </p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
@@ -77,8 +77,8 @@ Our Primary 4 Creative Writing programme nurtures talented young writers, provid
   </tbody>
 </table>
 
-<p style="text-align: justify"><strong>News in Brief</strong><br>
-This programme nurtures confident communicators and informed citizens by engaging students in current affairs and helping them present news clearly and thoughtfully. It develops their speaking, critical thinking and summarising skills, while encouraging awareness of the world around them. 
+<h3>News in Brief</h3>
+<p>This programme nurtures confident communicators and informed citizens by engaging students in current affairs and helping them present news clearly and thoughtfully. It develops their speaking, critical thinking and summarising skills, while encouraging awareness of the world around them. 
 </p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
@@ -92,21 +92,20 @@ This programme nurtures confident communicators and informed citizens by engagin
   </tr>
 </tbody></table>
 
-<p style="text-align: justify; color: blue">Nurturing Advanced Readers in Primary 4
+<h3>Nurturing Advanced Readers in Primary 4</h3>
+
+<p style="text-align: justify">Our Reading Circles programme creates an enriching space where passionate young readers can explore literature beyond the classroom, share ideas, and grow together.
 </p>
 
-<p style="text-align: justify; color: blue">Our Reading Circles programme creates an enriching space where passionate young readers can explore literature beyond the classroom, share ideas, and grow together.
-</p>
-
-<p style="text-align: justify; color: blue">Advanced readers thrive when challenged with rich, complex texts that spark deep thinking and meaningful discussions. Our programme moves beyond basic comprehension to embrace the full spectrum of reading experiences – from adventure stories to thought-provoking narratives that connect with real-world issues.
-</p>
-
-
-<p style="text-align: justify; color: blue">Reading Circles transform the reading experience from a solitary activity into an enriching journey of discovery. Students learn to:
+<p style="text-align: justify">Advanced readers thrive when challenged with rich, complex texts that spark deep thinking and meaningful discussions. Our programme moves beyond basic comprehension to embrace the full spectrum of reading experiences – from adventure stories to thought-provoking narratives that connect with real-world issues.
 </p>
 
 
-<p style="text-align: justify; color: blue">Through these engaging sessions, our Primary 4 students develop not just as readers, but as thoughtful individuals who can articulate their ideas and respect diverse perspectives.</p>
+<p style="text-align: justify">Reading Circles transform the reading experience from a solitary activity into an enriching journey of discovery. Students learn to:
+</p>
+
+
+<p style="text-align: justify">Through these engaging sessions, our Primary 4 students develop not just as readers, but as thoughtful individuals who can articulate their ideas and respect diverse perspectives.</p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
   <tbody><tr>
