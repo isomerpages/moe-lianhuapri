@@ -30,6 +30,30 @@ variant: markdown
 <h2><strong>Service Providers</strong></h2>
 <p><a href="/files/Forms/Online%20Consent%20for%20Dental%20Services.pdf" target="_blank">Online Consent for Dental Services</a><br><a href="/files/Forms/POSB%20Smart%20Buddy%20Registration%20Letter%20(Primary%20School)%20.pdf" target="_blank">POSB Smart Buddy Registration Letter (Primary School)</a></p>
 
+<p><i><strong><u>School Bus Service</u></strong></i><br>
+DKJ Transport Service<br>
+HP: 8898 0216 (Christina)<br>
+insert qr code here </p>
+
+<p><i><strong><u>Student Care Centre</u></strong></i><br>
+Self-Help Groups Pte Ltd c/o<br>
+Big Heart Student Care<br>
+HP: 9023 1486<br>
+Email: <span style="color: #3072cf;"><u>lianhua@shgstudentcare.com.sg</u></span><br>
+insert qr code here </p>
+
+<p><i><strong><u>School Textbooks</u></strong></i><br>
+Pacific Bookstores Pte Ltd<br>
+<a href="www.pacificbookstores.com">www.pacificbookstores.com</a> (for online purchase)<br>
+Mobile: 9476 3750<br>
+Email: <span style="color: #3072cf;"><u>sales@pacificbookstores.com</u></span></p>
+
+<p><i><strong><u>School Attire</u></strong></i><br>
+Shanghai School Uniforms Pte Ltd<br>
+<a href="www.shanghai-uniforms.com">www.shanghai-uniforms.com</a> (for online purchase)<br>
+Office: 6747 8037<br>
+Email: <span style="color: #3072cf;"><u>contact@shanghai-uniforms.com</u></span></p>
+
 
 <h2><strong>Finance</strong></h2>
 <p><strong>For Students who are Singapore Citizen</strong>
