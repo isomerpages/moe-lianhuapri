@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: High Ability Learners
 ---
-<p style="text-align: justify"><strong>E2K (Fun with Mathematics)</strong> aims to develop students’ mathematical reasoning and deepen their conceptual understanding through an inquiry-based approach. By engaging in rich problem-solving tasks and collaborative discussions, students explore mathematical concepts in depth, make connections, and apply their thinking creatively and logically.
+<p style="text-align: justify"><strong>E2K (Fun with Mathematics)</strong> aims to develop students’ mathematical reasoning and deepen their conceptual understanding through an inquiry-based approach. By engaging in rich problem-solving tasks and collaborative discussions, Primary 4 to 6 (students) explore mathematical concepts in depth, make connections, and apply their thinking creatively and logically.
 </p>
 
 <table style="border-collapse: collapse; text-align: center;" border="0">
