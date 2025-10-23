@@ -16,7 +16,7 @@ third_nav_title: High Ability Learners
   </tr>
 </tbody></table>
 
-<p style="text-align: justify"><strong>The Maths Olympiad Training</strong> programme is designed to spark students’ interest in Mathematics while nurturing their creativity, analytical thinking, and love for learning through discovery and challenge. It provides opportunities for students to explore advanced mathematical concepts beyond the standard curriculum and enhances their problem-solving abilities through non-routine tasks and heuristic strategies. This programme aims to equip students with the skills and confidence needed to tackle complex problems in Mathematical competitions.
+<p style="text-align: justify"><strong>The Maths Olympiad Training</strong> programme is designed to spark students’ interest in Mathematics while nurturing their creativity, analytical thinking, and love for learning through discovery and challenge. It provides opportunities for students to explore advanced mathematical concepts beyond the standard curriculum and enhances their problem-solving abilities through non-routine tasks and heuristic strategies. This programme aims to equip Primary 4 to 6 (students) with the skills and confidence needed to tackle complex problems in Mathematical competitions.
 </p>
 
 
