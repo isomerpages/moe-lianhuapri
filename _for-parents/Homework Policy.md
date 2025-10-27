@@ -2,7 +2,32 @@
 title: Homework Policy
 permalink: /for-parents/homework-policy/
 description: ""
+variant: markdown
 ---
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 50%;
+    }
+    th, td {
+      border: 1px solid #000;
+      padding: 8px;
+    }
+    td {
+      text-align: left;
+    }
+    .green {
+      background-color: #ccffcf;
+    }
+    .bold {
+      font-weight: bold;
+    }
+    /* Center-align text for 2nd and 3rd columns */
+    td:nth-child(2),
+    td:nth-child(3) {
+      text-align: center;
+    }
+  </style>
 # **Homework Policy**
 
 
@@ -19,12 +44,32 @@ There are several reasons homework is assigned:
 
 #### **Guidelines on Homework**
 
-This is the suggested amount of time students should spend on their homework. Note that actual time taken might vary from student to student or the time of the school year.
+This is the suggested amount of time students should spend on their homework weekly. Note that actual time taken might vary from student to student or the time of the school year.
 
 
-|      P1 & P2      |          P3 & P4         |          P5 & P6          |
-|:-----------------:|:------------------------:|:-------------------------:|
-| 30 mins to 1 hour | 1 hour to 1 hour 30 mins | 1 hour 30 mins to 2 hours |
+  <table>
+    <tbody><tr class="bold">
+      <td>Levels</td>
+      <td class="green">Weekly homework guidelines</td>
+      <td class="green">Daily screen use limit for homework (included within weekly homework guidelines)</td>
+    </tr>
+    <tr>
+      <td>P1–P2</td>
+      <td>&lt; 5 hours</td>
+      <td>&lt; 0.5 hours</td>
+    </tr>
+    <tr>
+      <td>P3–P4</td>
+      <td>&lt; 8 hours</td>
+      <td>&lt; 1 hours</td>
+    </tr>
+    <tr>
+      <td>P5–P6</td>
+      <td>&lt; 11 hours</td>
+      <td>&lt; 1.5 hours</td>
+    </tr>
+  </tbody></table>
+
 
 Considerations when Assigning Homework
 
