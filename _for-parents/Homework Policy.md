@@ -30,11 +30,11 @@ variant: markdown
     }
     /* Column width control */
     colgroup col:nth-child(1) {
-      width: 30%;
+      width: 20%;
     }
     colgroup col:nth-child(2),
     colgroup col:nth-child(3) {
-      width: 35%;
+      width: 40%;
     }
   </style>
 # **Homework Policy**
