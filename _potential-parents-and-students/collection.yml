@@ -2,6 +2,7 @@ collections:
   potential-parents-and-students:
     output: true
     order:
+      - School Yearbook.md
       - Superheroes of Learning.md
       - Superheroes of Character/.keep
       - Superheroes of Character/Superheroes of Character.md
