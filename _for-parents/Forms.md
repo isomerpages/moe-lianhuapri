@@ -33,8 +33,9 @@ variant: markdown
 <p><i><strong><u>School Bus Service</u></strong></i><br>
 DKJ Transport Service<br>
 HP: 8898 0216 (Christina)<br>
-insert qr code here </p>
+<img style="width: 200px; height: 200px; float: left" src="/images/School%20Info/School%20Bus/schoolbus2026.jpg"></p><br> 
 
+<br> <br> <br> <br> 
 <p><i><strong><u>Student Care Centre</u></strong></i><br>
 Self-Help Groups Pte Ltd c/o<br>
 Big Heart Student Care<br>
