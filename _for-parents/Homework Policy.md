@@ -11,7 +11,7 @@ variant: markdown
       border: 2px solid #000; /* Black border for table */
     }
     th, td {
-      border: 2px solid #000; /* Inner cell borders */
+      border: 1px solid #000; /* Inner cell borders */
       padding: 8px;
     }
     td {
@@ -26,7 +26,7 @@ variant: markdown
     /* Center-align text for 2nd and 3rd columns */
     td:nth-child(2),
     td:nth-child(3) {
-      text-align: center;
+      text-align: left;
     }
     /* Column width control */
     colgroup col:nth-child(1) {
@@ -44,11 +44,34 @@ variant: markdown
 
 There are several reasons homework is assigned:
 
-|       |              |                                |
-|:-------:|:--------------:|:------:|
-|  (i)  | For Students | • Reinforce learning and deepen understanding of lessons taught<br>• Regularly practise, and apply skills and concepts taught<br>• Develop good study skills and habits<br>• Encourage greater ownership and responsibility for independent learning |
-|  (ii) | For Teachers |    •      Check for student understanding and progress, so as to provide timely feedback, intervention and support<br>• Review effectiveness of lesson                                                  |
-| (iii) |  For Parents |          • Receive timely information on the learning progress of their child<br>• Opportunity to be involved in the child's learning                                                           |
+<table>
+    <tbody><tr>
+      <td>(i)</td>
+      <td>For Students</td>
+      <td>
+        • Reinforce learning and deepen understanding of lessons taught<br>
+        • Regularly practise and apply skills and concepts taught<br>
+        • Develop good study skills and habits<br>
+        • Encourage greater ownership and responsibility for independent learning
+      </td>
+    </tr>
+    <tr>
+      <td>(ii)</td>
+      <td>For Teachers</td>
+      <td>
+        • Check for student understanding and progress, so as to provide timely feedback, intervention, and support<br>
+        • Review effectiveness of lesson
+      </td>
+    </tr>
+    <tr>
+      <td>(iii)</td>
+      <td>For Parents</td>
+      <td>
+        • Receive timely information on the learning progress of their child<br>
+        • Opportunity to be involved in the child's learning
+      </td>
+    </tr>
+  </tbody></table>  
 
 
 #### **Guidelines on Homework**
@@ -82,7 +105,8 @@ This is the suggested amount of time students should spend on their homework wee
       <td>&lt; 11 hours</td>
       <td>&lt; 1.5 hours</td>
     </tr>
-  </tbody></table>
+  </tbody>
+</table>
 
 
 Considerations when Assigning Homework
