@@ -11,7 +11,7 @@ variant: markdown
       border: 2px solid #000; /* Black border for table */
     }
     th, td {
-      border: 1px solid #000; /* Inner cell borders */
+      border: 2px solid #000; /* Inner cell borders */
       padding: 8px;
     }
     td {
