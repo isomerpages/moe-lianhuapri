@@ -71,7 +71,7 @@ Email: <span style="color: #3072cf;"><u>contact@shanghai-uniforms.com</u></span>
   <tbody><tr>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>E-FAS Form</u></strong></i><br><ul>
   <li>Link &gt; <a href="https://go.gov.sg/moe-efasggas">https://go.gov.sg/moe-efasggas</a></li>
-  <li>QR Code<br><img style="width: 180px; height: 180px;" src="/images/Forms/FASQR2026.png">
+  <li>QR Code<br><img style="width: 200px; height: 200px;" src="/images/Forms/FASQR2026.png">
 </li>
 </ul></td>
     <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
