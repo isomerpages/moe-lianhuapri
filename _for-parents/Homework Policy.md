@@ -7,10 +7,11 @@ variant: markdown
   <style>
     table {
       border-collapse: collapse;
-      width: 50%;
+      width: 100%; /* Full width for clarity */
+      border: 2px solid #000; /* Black border for table */
     }
     th, td {
-      border: 1px solid #000;
+      border: 1px solid #000; /* Inner cell borders */
       padding: 8px;
     }
     td {
@@ -26,6 +27,14 @@ variant: markdown
     td:nth-child(2),
     td:nth-child(3) {
       text-align: center;
+    }
+    /* Column width control */
+    colgroup col:nth-child(1) {
+      width: 30%;
+    }
+    colgroup col:nth-child(2),
+    colgroup col:nth-child(3) {
+      width: 35%;
     }
   </style>
 # **Homework Policy**
@@ -48,6 +57,11 @@ This is the suggested amount of time students should spend on their homework wee
 
 
   <table>
+    <colgroup>
+      <col>
+      <col>
+      <col>
+    </colgroup>
     <tbody><tr class="bold">
       <td>Levels</td>
       <td class="green">Weekly homework guidelines</td>
