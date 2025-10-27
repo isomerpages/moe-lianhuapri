@@ -4,14 +4,14 @@ permalink: /for-parents/homework-policy/
 description: ""
 variant: markdown
 ---
-  <style>
+<style>
     table {
       border-collapse: collapse;
       width: 100%; /* Full width for clarity */
       border: 2px solid #000; /* Black border for table */
     }
     th, td {
-      border: 1px solid #000; /* Inner cell borders */
+      border: 2px solid #000; /* Inner cell borders */
       padding: 8px;
     }
     td {
