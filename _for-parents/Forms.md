@@ -41,7 +41,9 @@ Self-Help Groups Pte Ltd c/o<br>
 Big Heart Student Care<br>
 HP: 9023 1486<br>
 Email: <span style="color: #3072cf;"><u>lianhua@shgstudentcare.com.sg</u></span><br>
-insert qr code here </p>
+<img style="width: 200px; height: 200px; float: left" src="/images/School%20Info/Student%20Care%20Centre/SCC2026.png"></p><br> 
+
+<br> <br> <br> <br> <p></p>
 
 <p><i><strong><u>School Textbooks</u></strong></i><br>
 Pacific Bookstores Pte Ltd<br>
