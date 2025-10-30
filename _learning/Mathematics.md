@@ -22,3 +22,6 @@ Students actively participate in learning experiences through practical activiti
 
 <p style="text-align: justify;"><strong><i>Learn by Interacting</i></strong><br>
 Students learn from one another by communicating ideas and justifying their thinking to gain deeper understanding.</p>
+
+<p style="text-align: justify;"><strong><i>Learn by Reflecting</i></strong><br>
+Students take charge of their own learning and work towards the goals they set by monitoring their own progress, improving work processes and evaluating learning outcomes.</p>
