@@ -55,9 +55,9 @@ Students take charge of their own learning and work towards the goals they set b
 
 <p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts. </p>
 
-<p><img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_IAmAMMM.jpg">Multiplication Wheels</p>
+<p style="text-align: justify;"><img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_IAmAMMM.jpg">Multiplication Wheels</p>
 
-<p><img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/05_IAmAMMM.jpg">Snake &amp; Ladder</p>
+<p style="text-align: justify;"><img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/05_IAmAMMM.jpg">Snake &amp; Ladder</p>
 
 <h3><strong><i>Mathematical Olympiad Training Programme for selected P4 to P6 students</i></strong></h3>
 
