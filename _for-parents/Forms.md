@@ -76,11 +76,6 @@ Email: <span style="color: #3072cf;"><u>contact@shanghai-uniforms.com</u></span>
   <li>QR Code<br><img style="width: 200px; height: 200px;" src="/images/Forms/FASQR2026.png">
 </li>
 </ul></td>
-    <td style="border: 1px solid black; padding: 8px;"><i><strong><u>Hardcopy Application Form</u></strong></i><br>
-<ul>
-  <li>To approach General Office.</li>
-  <li>All supporting documents must be submitted together with the application form.</li>
-  </ul></td>
   </tr>
 </tbody></table>
 	
