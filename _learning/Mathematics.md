@@ -50,12 +50,23 @@ Students take charge of their own learning and work towards the goals they set b
 
 <img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/m3 pouch.png"><br>
 
-<h4><strong><i>I am a Maths Multiplication Master<br>
-- LHPS Times Table Package</i></strong></h4>
+<h3><strong><i>I am a Maths Multiplication Master<br>
+- LHPS Times Table Package</i></strong></h3>
 
 <p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts. </p>
 
 <img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_IAmAMMM.jpg">Multiplication Wheels
 
-
 <img style="width: 700px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/05_IAmAMMM.jpg">Snake &amp; Ladder
+
+<h3><strong><i>Mathematical Olympiad Training Programme for selected P4 to P6 students</i></strong></h3>
+
+<p style="text-align: justify;">Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:
+</p>
+<ol style="list-style-type: lower-alpha;">
+  <li>Develop students’ interest, creativity, analytical thinking skills, and spirit of learning through discovery and challenge in Mathematics;
+</li>
+  <li>Enhance a student’s mathematical knowledge and sharpen his / her creative problem-solving skills through various non-routine and problem solving heuristics relevant to Mathematical competitions.
+</li>
+</ol>
+<p></p>
