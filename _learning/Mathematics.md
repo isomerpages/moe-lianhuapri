@@ -34,3 +34,11 @@ Students take charge of their own learning and work towards the goals they set b
 <p style="text-align: justify;">Our GEAR UP process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in this process helps students develop essential learning skills, enhance their metacognitive abilities, and build confidence in mathematical problem-solving.</p>
 
 <p style="text-align: justify;">Students also learn various heuristics to help them solve mathematical problems. Heuristics are methods and strategies that point towards possible ways in which students might be able to find a solution. With the acquisition of mathematical skills and processes, coupled with the content knowledge, students will become better problem solvers.</p>
+
+<h3><strong><i>Fun with Mathematics</i></strong></h3>
+
+<p style="text-align: justify;">Fun with Mathematics is a programme for selected P4 to P6 students with the aptitude for Mathematics. The programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.</p>
+
+<p style="text-align: justify;">Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:</p>
+
+
