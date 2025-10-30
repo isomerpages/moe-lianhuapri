@@ -29,3 +29,9 @@ Students take charge of their own learning and work towards the goals they set b
 <img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_MajorProgrammes_1a.png"><br>
 
 <img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_MajorProgrammes_1b.png">
+
+<h3><strong><i>GEAR UP</i></strong></h3>
+<p style="text-align: justify;">
+Our GEAR UP process is an approach adapted from George Polya’s 4 steps to problem solving. It serves to guide our students in their mental processing of word problems in a more systematic manner. The strong emphasis on reasoning and analysis in this process helps students develop essential learning skills, enhance their metacognitive abilities, and build confidence in mathematical problem-solving.</p>
+
+
