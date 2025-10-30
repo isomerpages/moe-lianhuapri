@@ -39,6 +39,14 @@ Students take charge of their own learning and work towards the goals they set b
 
 <p style="text-align: justify;">Fun with Mathematics is a programme for selected P4 to P6 students with the aptitude for Mathematics. The programme aims to develop students' mathematical reasoning skills and deepens their conceptual understanding through an inquiry approach.</p>
 
-<p style="text-align: justify;">Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:</p>
+<p style="text-align: justify;">Students work independently or collaborate with their peers and engage in mathematical thinking through puzzles, games and mathematical explorations specially designed for this programme. The rich learning experiences offered by the programme serve to help students to:
+</p><ul>
+  <li>Develop the habits, attitudes and dispositions mathematicians possess.</li>
+  <li>Gain important 21st century competencies such as critical thinking, invention thinking and effective communication skills.</li>
+</ul>
+<p></p>
+
+<img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/03_Fun_With_Maths.jpg"><br>
+
 
 
