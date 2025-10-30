@@ -25,3 +25,7 @@ Students learn from one another by communicating ideas and justifying their thin
 
 <p style="text-align: justify;"><strong><i>Learn by Reflecting</i></strong><br>
 Students take charge of their own learning and work towards the goals they set by monitoring their own progress, improving work processes and evaluating learning outcomes.</p>
+
+<img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_MajorProgrammes_1a.png"><br>
+
+<img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/04_MajorProgrammes_1b.png">
