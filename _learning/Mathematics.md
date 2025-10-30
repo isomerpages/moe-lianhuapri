@@ -48,5 +48,15 @@ Students take charge of their own learning and work towards the goals they set b
 
 <img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/03_Fun_With_Maths.jpg"><br>
 
+<img style="width: 600px; height: auto;" alt="Mathematics" src="/images/Learning/Mathematics/m3 pouch.png"><br>
+
+<h4><strong><i>I am a Maths Multiplication Master<br>
+- LHPS Times Table Package</i></strong></h4>
+
+<p style="text-align: justify;">This resource package offers a variety of activities to support the learning and assessment of multiplication and division facts. These resources which include games and songs are accessible to the students anytime, anywhere. The package also has a home segment for parental involvement to support their children in the mastery of the facts. 
+</p>
+
+
+
 
 
