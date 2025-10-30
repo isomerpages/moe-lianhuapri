@@ -68,5 +68,16 @@ Students take charge of their own learning and work towards the goals they set b
 </li>
   <li>Enhance a student’s mathematical knowledge and sharpen his / her creative problem-solving skills through various non-routine and problem solving heuristics relevant to Mathematical competitions.
 </li>
-</ol>
-<p></p>
+</ol><p></p>
+
+
+<p>Primary Mathematics Syllabus<br>
+<a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf </a></p>
+
+
+<p>List of approved scientific calculators for P5 and P6 students<br>
+<a href="https://file.go.gov.sg/seab-approvedcalculators.pdf">https://file.go.gov.sg/seab-approvedcalculators.pdf </a></p>
+
+
+<p>KooBits<br>
+<a href="https://member.koobits.com/">https://member.koobits.com/</a></p>
