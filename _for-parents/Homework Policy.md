@@ -109,15 +109,18 @@ This is the suggested amount of time students should spend on their homework wee
 </table>
 
 
-Considerations when Assigning Homework
+<p>Considerations when Assigning Homework</p>
 
-The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
+<p>The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
 
-*   The amount of homework could differ depending on the time of the term or from class to class.
-*   On days where students stay in school for longer hours, less homework will be assigned.
-*   The amount of homework could also be adjusted based on the level of difficulty.
-*   Minimal homework will be given over a festive period.
+</p><ul>
+  <li>The amount of homework could differ depending on the time of the term or from class to class.</li>
+  <li>On days where students stay in school for longer hours, less homework will be assigned.</li>
+  <li>The amount of homework could also be adjusted based on the level of difficulty.</li>
+	<li>Minimal homework will be given over a festive period.</li>
+</ul>
 
-#### **Recording Of Homework**
+<p></p>
+<h4><strong>Recording Of Homework</strong></h4>
 
-Teachers will write the homework for the day on the class whiteboard. All students are expected to record their homework in their Student Diary.
+<p>Teachers will write the homework for the day on the class whiteboard. All students are expected to record their homework in their Student Diary.</p>
