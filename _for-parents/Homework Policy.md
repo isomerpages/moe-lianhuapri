@@ -50,26 +50,32 @@ variant: markdown
       <td>(i)</td>
       <td>For Students</td>
       <td>
-        • Reinforce learning and deepen understanding of lessons taught<br>
-        • Regularly practise and apply skills and concepts taught<br>
-        • Develop good study skills and habits<br>
-        • Encourage greater ownership and responsibility for independent learning
+				<ul>
+					<li>Reinforce learning and deepen understanding of lessons taught</li>
+					<li>Regularly practise and apply skills and concepts taught</li>
+					<li>Develop good study skills and habits</li>
+					<li>Encourage greater ownership and responsibility for independent learning</li>
+				</ul>
       </td>
     </tr>
     <tr>
       <td>(ii)</td>
       <td>For Teachers</td>
       <td>
-        • Check for student understanding and progress, so as to provide timely feedback, intervention, and support<br>
-        • Review effectiveness of lesson
+				<ul>
+					<li>Check for student understanding and progress, so as to provide timely feedback, intervention, and support</li>
+					<li>Review effectiveness of lesson</li>
+				</ul>
       </td>
     </tr>
     <tr>
       <td>(iii)</td>
       <td>For Parents</td>
       <td>
-        • Receive timely information on the learning progress of their child<br>
-        • Opportunity to be involved in the child's learning
+				<ul>
+					<li>Receive timely information on the learning progress of their child</li>
+					<li>Opportunity to be involved in the child's learning</li>
+				</ul>
       </td>
     </tr>
   </tbody></table>  
