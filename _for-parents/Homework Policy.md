@@ -113,8 +113,7 @@ Considerations when Assigning Homework
 
 The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
 
-The amount of homework could differ depending on the time of the term or from class to class.
-
+*   The amount of homework could differ depending on the time of the term or from class to class.
 *   On days where students stay in school for longer hours, less homework will be assigned.
 *   The amount of homework could also be adjusted based on the level of difficulty.
 *   Minimal homework will be given over a festive period.
