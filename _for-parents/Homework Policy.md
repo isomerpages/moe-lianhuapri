@@ -116,7 +116,7 @@ variant: markdown
 </table>
 </p>
 
-<p>Considerations when Assigning Homework</p>
+<h4><strong>Considerations when Assigning Homework</strong></h4>
 
 <p>The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
 
