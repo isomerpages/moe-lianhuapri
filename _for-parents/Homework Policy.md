@@ -37,12 +37,13 @@ variant: markdown
       width: 40%;
     }
   </style>
-# **Homework Policy**
+
+<h1><strong>Homework Policy</strong></h1>
 
 
-#### **Purpose of Homework**
+<h4> <strong>Purpose of Homework</strong></h4>
 
-There are several reasons homework is assigned:
+<p>There are several reasons homework is assigned:
 
 <table>
     <tbody><tr>
@@ -72,11 +73,11 @@ There are several reasons homework is assigned:
       </td>
     </tr>
   </tbody></table>  
+</p>
 
+<h4><strong>Guidelines on Homework</strong></h4>
 
-#### **Guidelines on Homework**
-
-This is the suggested amount of time students should spend on their homework weekly. Note that actual time taken might vary from student to student or the time of the school year.
+<p>This is the suggested amount of time students should spend on their homework weekly. Note that actual time taken might vary from student to student or the time of the school year.
 
 
   <table>
@@ -107,7 +108,7 @@ This is the suggested amount of time students should spend on their homework wee
     </tr>
   </tbody>
 </table>
-
+</p>
 
 <p>Considerations when Assigning Homework</p>
 
