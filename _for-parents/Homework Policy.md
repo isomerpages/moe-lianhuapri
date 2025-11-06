@@ -37,46 +37,53 @@ variant: markdown
       width: 40%;
     }
   </style>
-# **Homework Policy**
+
+<h1><strong>Homework Policy</strong></h1>
 
 
-#### **Purpose of Homework**
+<h4> <strong>Purpose of Homework</strong></h4>
 
-There are several reasons homework is assigned:
+<p>There are several reasons homework is assigned:
 
 <table>
     <tbody><tr>
       <td>(i)</td>
       <td>For Students</td>
       <td>
-        • Reinforce learning and deepen understanding of lessons taught<br>
-        • Regularly practise and apply skills and concepts taught<br>
-        • Develop good study skills and habits<br>
-        • Encourage greater ownership and responsibility for independent learning
+				<ul>
+					<li>Reinforce learning and deepen understanding of lessons taught</li>
+					<li>Regularly practise and apply skills and concepts taught</li>
+					<li>Develop good study skills and habits</li>
+					<li>Encourage greater ownership and responsibility for independent learning</li>
+				</ul>
       </td>
     </tr>
     <tr>
       <td>(ii)</td>
       <td>For Teachers</td>
       <td>
-        • Check for student understanding and progress, so as to provide timely feedback, intervention, and support<br>
-        • Review effectiveness of lesson
+				<ul>
+					<li>Check for student understanding and progress, so as to provide timely feedback, intervention, and support</li>
+					<li>Review effectiveness of lesson</li>
+				</ul>
       </td>
     </tr>
     <tr>
       <td>(iii)</td>
       <td>For Parents</td>
       <td>
-        • Receive timely information on the learning progress of their child<br>
-        • Opportunity to be involved in the child's learning
+				<ul>
+					<li>Receive timely information on the learning progress of their child</li>
+					<li>Opportunity to be involved in the child's learning</li>
+				</ul>
       </td>
     </tr>
   </tbody></table>  
+</p>
 
+<h4><strong>Guidelines on Homework</strong></h4>
 
-#### **Guidelines on Homework**
-
-This is the suggested amount of time students should spend on their homework weekly. Note that actual time taken might vary from student to student or the time of the school year.
+<p>This is the suggested amount of time students should spend on their homework weekly. Note that actual time taken might vary from student to student or the time of the school year.
 
 
   <table>
@@ -107,18 +114,20 @@ This is the suggested amount of time students should spend on their homework wee
     </tr>
   </tbody>
 </table>
+</p>
 
+<h4><strong>Considerations when Assigning Homework</strong></h4>
 
-Considerations when Assigning Homework
+<p>The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
 
-The amount of homework is determined by the teachers. If students have any concerns about homework, they are encouraged to share them with their teachers. Some homework considerations include:
+</p><ul>
+  <li>The amount of homework could differ depending on the time of the term or from class to class.</li>
+  <li>On days where students stay in school for longer hours, less homework will be assigned.</li>
+  <li>The amount of homework could also be adjusted based on the level of difficulty.</li>
+	<li>Minimal homework will be given over a festive period.</li>
+</ul>
 
-The amount of homework could differ depending on the time of the term or from class to class.
+<p></p>
+<h4><strong>Recording Of Homework</strong></h4>
 
-*   On days where students stay in school for longer hours, less homework will be assigned.
-*   The amount of homework could also be adjusted based on the level of difficulty.
-*   Minimal homework will be given over a festive period.
-
-#### **Recording Of Homework**
-
-Teachers will write the homework for the day on the class whiteboard. All students are expected to record their homework in their Student Diary.
+<p>Teachers will write the homework for the day on the class whiteboard. All students are expected to record their homework in their Student Diary.</p>
