@@ -3,18 +3,20 @@ title: School Bookshop & Uniforms
 permalink: /for-parents/school-info/school-bookshop-n-uniforms/
 description: ""
 third_nav_title: School Info
+variant: markdown
 ---
-# School Bookshop & Uniforms
+# School Bookshop &amp; Uniforms
 
 #### School Bookshop
 
 Pacific Bookstores Pte Ltd  
-6425 5570 (O)  
-6559 2269 (HQ)  
-[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) (Email)
+www.pacificbookstores.com (for online purchases)
+<br>Mobile: 9476 3750
+<br> Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)
 
 #### School Uniforms
 
 Shanghai School Uniforms Pte Ltd  
-6747 8037 (0)  
-[sales@shanghai-uniforms.com](mailto:sales@pacificbookstores.com) (Email)
+www.shanghai-uniforms.com (for online purchases)
+<br>Office: 6747 8037  
+Email: [sales@shanghai-uniforms.com](mailto:sales@pacificbookstores.com)
