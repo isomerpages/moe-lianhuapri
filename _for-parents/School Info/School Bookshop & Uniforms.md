@@ -17,6 +17,6 @@ Pacific Bookstores Pte Ltd
 #### School Uniforms
 
 Shanghai School Uniforms Pte Ltd  
-[www.shanghai-uniforms.com](www.shanghai-uniforms.com) (for online purchases)
+[[https://shanghai-uniforms.sg/](https://shanghai-uniforms.sg/)(for online purchases)
 <br>Office: 6747 8037  
-Email: [sales@shanghai-uniforms.com](mailto:sales@shanghai-uniforms.com)
+Email: [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com)
