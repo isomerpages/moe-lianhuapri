@@ -52,8 +52,11 @@ Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg
 
 <strong>Operating Dates in 2025</strong>
 
-* <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
+<a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
 
+<a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
+
+/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf
 
 <i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i>
 
