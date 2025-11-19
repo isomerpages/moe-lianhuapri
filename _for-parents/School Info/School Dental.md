@@ -52,13 +52,13 @@ variant: markdown
 
 <strong>Operating Dates in 2025</strong>
 
-<a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
+* <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
 
 <p><i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i></p>
 
-<strong>Buddy Dental Clinic</strong>
+<p><strong>Buddy Dental Clinic</strong>
 
-<p>Dazhong Primary School<br>
+Dazhong Primary School<br>
 Clinic Handphone: 91145479<br>
 Address: 35, Bukit Batok Street 32, Singapore 659441
 
