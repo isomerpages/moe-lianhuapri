@@ -9,7 +9,7 @@ variant: markdown
 
 <h3>Online Consent for Dental Services</h3>
 
-<p>Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;to access the Child Consent Portal using either parent’s SingPass access.</p>
+Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;to access the Child Consent Portal using either parent’s SingPass access.
 
 <h3>Dental Clinic Schedule</h3>
 
@@ -53,6 +53,9 @@ variant: markdown
 <strong>Operating Dates in 2025</strong>
 
 * <a target="_blank" href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf">December</a>
+
+
+<a rel="noopener noreferrer" target="_blank" href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf">Open PDF</a>
 
 <i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i>
 
