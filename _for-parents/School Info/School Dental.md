@@ -9,8 +9,6 @@ variant: markdown
 
 <h3>Online Consent for Dental Services</h3>
 
-Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;to access the Child Consent Portal using either parent’s SingPass access.
-
 <p>Log on to<a href="https://childconsent.hpb.gov.sg/"> https://childconsent.hpb.gov.sg/ </a>to access the Child Consent Portal using either parent’s SingPass access.</p>
 
 <h3>Dental Clinic Schedule</h3>
