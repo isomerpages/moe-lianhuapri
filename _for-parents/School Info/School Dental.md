@@ -5,25 +5,50 @@ description: ""
 third_nav_title: School Info
 variant: markdown
 ---
-# School Dental
+<h1><strong>School Dental</strong></h1>
 
-#### Online Consent for Dental Services
+<h3>Online Consent for Dental Services</h3>
 
-Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;to access the Child Consent Portal using either parent’s SingPass access.
+<p>Log on to&nbsp;[https://childconsent.hpb.gov.sg](https://childconsent.hpb.gov.sg/)&nbsp;to access the Child Consent Portal using either parent’s SingPass access.</p>
 
-#### Dental Clinic Schedule 
+<h3>Dental Clinic Schedule</h3>
 
-**Operating Days &amp; Hours:**
+<strong>Operating Days &amp; Hours:</strong>
 
-| Day | Opening Hours | Lunch Closing hours |
-| -------- | -------- | -------- |
-| Monday   | 8.00am to 5.00pm     | 1.00pm to 2.00pm    |
-| Tuesday   | 8.00am to 5.30pm    | 1.00pm to 2.00pm    |
-| Wednesday   | 8.00am to 5.00pm     | 1.00pm to 2.00pm     |
-| Thursday   |8.00am to 5.30pm    | 1.00pm to 2.00pm     |
-| Friday   | 8.00am to 5.00pm     | 1.00pm to 2.00pm     |
+<table border="1">
+  <tbody><tr>
+    <th>Day</th>
+    <th>Opening Hours</th>
+    <th>Lunch Closing hours</th>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td> 8.00am to 5.00pm</td>
+    <td>1.00pm to 2.00pm </td>
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>8.00am to 5.30pm</td>
+    <td>1.00pm to 2.00pm</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td>8.00am to 5.00pm</td>
+    <td>1.00pm to 2.00pm</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>8.00am to 5.30pm</td>
+    <td>1.00pm to 2.00pm</td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td>8.00am to 5.00pm</td>
+    <td>1.00pm to 2.00pm</td>
+  </tr>
+</tbody></table>
 
-Clinic Handphone: 97835025 (WhatsApp for appointment)
+<p>Clinic Handphone: 97835025 (WhatsApp for appointment)</p>
 
 **Operating Dates in Term 1 (2025)**
 
