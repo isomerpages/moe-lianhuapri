@@ -60,14 +60,14 @@ variant: markdown
 
 <u>Dazhong Primary School</u><br>
 Clinic Handphone: 91145479<br>
-Address: 35, Bukit Batok Street 32, Singapore 659441
+Address: 35, Bukit Batok Street 32, Singapore 659441<br>
 
 <u>Keming Primary School</u><br>
 Clinic Handphone: 91149841<br>
-Address: 90 Bukit Batok East Ave 6, Singapore 659762
+Address: 90 Bukit Batok East Ave 6, Singapore 659762<br>
 
 <u>Princess Elizabeth Primary School</u><br>
 Clinic Handphone: 91154622<br>
-Address: 30 Bukit Batok West Ave 3, Singapore 659163
+Address: 30 Bukit Batok West Ave 3, Singapore 659163<br>
 
 If all dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)</p>
