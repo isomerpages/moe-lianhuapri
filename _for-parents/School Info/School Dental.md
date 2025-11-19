@@ -54,10 +54,6 @@ variant: markdown
 
 <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
 
-<a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf" target="_blank">December</a>
-
-/files/For%20Parents/Dental%20Schedule/DentalScheduleDec2025.pdf
-
 <p><i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i></p>
 
 <strong>Buddy Dental Clinic</strong>
