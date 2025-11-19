@@ -58,15 +58,15 @@ variant: markdown
 
 <p><strong>Buddy Dental Clinic</strong>
 
-Dazhong Primary School<br>
+<u>Dazhong Primary School</u><br>
 Clinic Handphone: 91145479<br>
 Address: 35, Bukit Batok Street 32, Singapore 659441
 
-Keming Primary School<br>
+<u>Keming Primary School</u><br>
 Clinic Handphone: 91149841<br>
 Address: 90 Bukit Batok East Ave 6, Singapore 659762
 
-Princess Elizabeth Primary School<br>
+<u>Princess Elizabeth Primary School</u><br>
 Clinic Handphone: 91154622<br>
 Address: 30 Bukit Batok West Ave 3, Singapore 659163
 
