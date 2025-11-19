@@ -50,20 +50,15 @@ variant: markdown
 
 <p>Clinic Handphone: 97835025 (WhatsApp for appointment)</p>
 
-**Operating Dates in Term 1 (2025)**
+<strong>Operating Dates in 2025</strong>
 
-* 13 Jan 2025 to 17 Jan 2025
-* 27 Jan 2025 to 31 Jan 2025
-* 10 Feb 2025 to 14 Feb 2025
-* 24 Feb 2025 to 28 Feb 2025
-* 10 March 2025 to 14 Mar 2025
-* 24 March 2025 to 28 March 2025
+* <a target="_blank" href="your-file.pdf">December</a>
 
-*In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.*
+<i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i>
 
-**Buddy Dental Clinic**
+<strong>Buddy Dental Clinic</strong>
 
-Dazhong Primary School<br>
+<p>Dazhong Primary School<br>
 Clinic Handphone: 91145479<br>
 Address: 35, Bukit Batok Street 32, Singapore 659441
 
@@ -75,4 +70,4 @@ Princess Elizabeth Primary School<br>
 Clinic Handphone: 91154622<br>
 Address: 30 Bukit Batok West Ave 3, Singapore 659163
 
-If all dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)
+If all dental clinics are closed, please contact the School Dental Centre via email: [contact_YPS@hpb.gov.sg](contact_YPS@hpb.gov.sg)</p>
