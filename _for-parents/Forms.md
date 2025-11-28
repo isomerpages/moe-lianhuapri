@@ -10,11 +10,11 @@ variant: markdown
 <p><a href="/files/Forms/Form%201-Application%20for%20Non%20MT%20Lang.pdf" target="_blank">Form 1-Application for Non MT Lang</a><br><a href="/files/Forms/Form%203%20-%20Application%20for%20NTIL.pdf" target="_blank">Form 3 - Application for NTIL</a><br><a href="/files/Forms/Invitation%20Letter%20to%20Parents%20(Final)_general.pdf" target="_blank">Invitation to Parents Gateway</a><br><a href="/files/Forms/leave-of-absence-form.pdf" target="_blank">leave-of-absence-form</a><br><a href="/files/Forms/lhpstransferadmissionform_v2_jan2025.pdf" target="_blank">Request for Transfer In-Admission</a></p>
 
 
-<h2><strong>2025 Booklists</strong></h2>
+<h2><strong>2026 Booklists</strong></h2>
 
 
-<p><a href="/files/For%20Parents/2025%20booklists/2025_P1Booklist.pdf" target="_blank">2025 P1 Booklist</a><br>
-<a href="/files/For%20Parents/2025%20booklists/2025_P2Booklist.pdf" target="_blank">2025 P2 Booklist</a>
+<p><a href="/files/For%20Parents/2026%20booklists/p1_booklist_2026.pdf" target="_blank">2026 P1 Booklist</a><br>
+<a href="/files/For%20Parents/2026%20booklists/p2_booklist_2026.pdf" target="_blank">2026 P2 Booklist</a>
 <br>
 <a href="/files/For%20Parents/2025%20booklists/2025_P3Booklist.pdf" target="_blank">2025 P3 Booklist</a>
 <br>
