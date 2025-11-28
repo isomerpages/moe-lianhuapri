@@ -8,7 +8,7 @@ variant: markdown
 
 <h4><strong>P1 Orientation for 2026 P1 Parents</strong></h4>
 
-2026 P1 Parent Briefing Slides: [Click here](/files/Resources/2026_P1_Orientation_21_Nov_25_slides_Sch_website.pdf)
+2026 P1 Parent Briefing Slides: [Click here](/files/Resources/2026_p1_orientation_21_nov_25_slides_sch_website.pdf)
 
 <h4><strong>PSLE Results Release</strong></h4>
 
