@@ -18,7 +18,7 @@ variant: markdown
 <br>
 <a href="/files/For%20Parents/2026%20booklists/p3_booklist_2026.pdf" target="_blank">2026 P3 Booklist</a>
 <br>
-<a href="/files/For%20Parents/2025%20booklists/2025_P4Booklist.pdf" target="_blank">2025 P4 Booklist</a><br>
+<a href="/files/For%20Parents/2026%20booklists/p4_booklist_2026.pdf" target="_blank">2026 P4 Booklist</a><br>
 <a href="/files/For%20Parents/2025%20booklists/2025_P5Booklist.pdf" target="_blank">2025 P5 Booklist (Standard)</a>
 <br>
 <a href="/files/For%20Parents/2025%20booklists/2025_P5F_Booklist.pdf" target="_blank">2025 P5 Booklist (Foundation)</a>
