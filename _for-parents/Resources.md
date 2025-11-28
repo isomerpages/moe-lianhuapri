@@ -10,8 +10,6 @@ variant: markdown
 
 P1 Parent Briefing Slides: <a href="[](/files/Resources/2026_P1_Orientation_21_Nov_25_slides_Sch_website_compressed.pdf)">Click here</a>
 
-
-
 <h4><strong>PSLE Results Release</strong></h4>
 
 S1 Portal User Guide for Parents: <a href="https://drive.google.com/file/d/1OhcUugCcNMyVR1dTzGYhva5CHgcWz3nK/view?usp=drive_link">Click here</a><br> 
