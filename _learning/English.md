@@ -5,17 +5,17 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/el1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/el1.jpg">
 </div>
 <h3>Our English Department Vision</h3>
 <p>We strive to nurture <strong>Confident Communicators, Passionate Learners, and Creative Thinkers</strong> through
 a well-rounded English curriculum and engaging programmes that spark the <strong>joy of learning</strong>.</p>
 <h3>Key Features</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/el2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/el2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/Stellar%20Pedagogic%20Framework%20(P3b%20to%20P6).png">
 </div>
 <h5>STELLAR Instructional Programme</h5>
 <ul data-tight="true" class="tight">
@@ -97,7 +97,7 @@ experiences with peers.</p>
 during breaks, with suggested resources from the National Library Board
 (NLB).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/1.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/1.png">
 </div>
 </li>
 </ul>
@@ -133,7 +133,7 @@ writers.</p>
 share their favorite reads, building public speaking skills and inspiring
 peers to read.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/2.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/2.png">
 </div>
 </li>
 </ul>
@@ -148,7 +148,7 @@ students’ talents in storytelling and book sharing at the Imaginarium.
 It has been very well received by our students and they enjoy supporting
 their school mates during recess.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/3.png">
 </div>
 <h3>Collaboration with NLB for Talks and Resources</h3>
 <p>Our collaboration with the <strong>National Library Board (NLB)</strong> brings
@@ -157,7 +157,7 @@ gain access to <strong>NLB resources</strong> that enhance our library programme
 These collaborations provide students with unique opportunities to learn
 from experts and expand their knowledge.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/4.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/4.png">
 </div>
 <h3>Oracy @ Lianhua</h3>
 <h4>News in Brief Programme</h4>
@@ -179,7 +179,7 @@ from various communities. Our Stories fosters unity and inclusivity among
 students, helping them connect meaningfully with each other and their shared
 history.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/5.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/5.png">
 </div>
 <p>Video on Oracy @ Lianhua:</p>
 <div class="iframe-wrapper">
@@ -203,7 +203,7 @@ in life. As students become more skilled in using language creatively,
 they gain the confidence to articulate their ideas, tell engaging stories,
 and appreciate the beauty of words.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/6.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/6.png">
 </div>
 <h3>EL Week</h3>
 <p>English Week, an annual celebration, unfolds as a captivating week of
@@ -217,7 +217,20 @@ students to express themselves with confidence and flair. It's a week dedicated
 to nurturing the linguistic and creative talents of our students, and we
 invite parents to witness the blossoming of their children's literary skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning/English/7.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/ELweek2025_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/ELweek2025_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/ELweek2025_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/ELweek2025_4.jpg">
 </div>
 <h3>Learning Support Programme (LSP)</h3>
 <p>The LSP is a specialised early intervention programme aimed at providing
