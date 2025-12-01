@@ -23,10 +23,10 @@ variant: markdown
 <br>
 <a href="/files/For%20Parents/2026%20booklists/p5_booklist_2026_5u35u4.pdf" target="_blank">2026 P5 Booklist (For 5U3 &amp; 5U4)</a>
 <br>
-<a href="/files/For%20Parents/2026%20booklists/p5_foundation_booklist_2026.pdf" target="_blank">2025 P5 Booklist (Foundation)</a>
+<a href="/files/For%20Parents/2026%20booklists/p5_foundation_booklist_2026.pdf" target="_blank">2026 P5 Booklist (Foundation)</a>
 <br>
-<a href="/files/For%20Parents/2026%20booklists/p6_booklist_2026.pdf" target="_blank">2025 P6 Booklist (Standard)</a><br>
-<a href="/files/For%20Parents/2026%20booklists/p6_foundation_booklist_2026.pdf" target="_blank">2025 P6 Booklist (Foundation)</a></p>
+<a href="/files/For%20Parents/2026%20booklists/p6_booklist_2026.pdf" target="_blank">2026 P6 Booklist (Standard)</a><br>
+<a href="/files/For%20Parents/2026%20booklists/p6_foundation_booklist_2026.pdf" target="_blank">2026 P6 Booklist (Foundation)</a></p>
 
 
 <h2><strong>Service Providers</strong></h2>
