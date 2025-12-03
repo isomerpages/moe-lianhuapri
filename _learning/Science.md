@@ -6,13 +6,16 @@ variant: markdown
 ---
 <h5><strong>OUR VISION:</strong></h5>
 
-To nurture the student as an inquirer
+To nurture students as inquirers.
 
 <h5><strong>OUR PEOPLE:</strong></h5>
 
-<p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences. </p>
+<p style="text-align: justify;">The Science Department of Lianhua Primary consists of experienced teachers who are united with a common purpose—to inculcate Science knowledge and values in our students through planned execution of fun learning experiences.</p>
 
-<p style="text-align: justify;">Our science teachers act as leaders of inquirers in the science classroom by creating a learning environment that fosters curiosity, creativity, and critical thinking. This approach enables our students to develop important skills and a deeper understanding of scientific concepts. We also incorporate STEM (Science, Technology, Engineering, and Math) mindsets and attributes in science lessons for our students to foster their interest in Science and develop critical thinking and problem-solving skills.</p>
+<p style="text-align: justify;">Our science teachers serve as leaders of inquiry in the classroom, fostering an environment that nurtures curiosity, creativity, and critical thinking. Through this approach, students develop essential skills and gain a deeper understanding of scientific concepts. We also integrate STEM (Science, Technology, Engineering, and Mathematics) mindsets into our lessons to cultivate students' interest in Science while enhancing their critical thinking and problem-solving skills.</p>
+
+<h6><strong>FOCUS in Science</strong></h6>
+<img style="width:300px;height:500px;" src="/images/Learning/Science/FocusInScience2025.png">
 
 
 <strong>SOME OF OUR PROGRAMMES AT A GLANCE:</strong>
