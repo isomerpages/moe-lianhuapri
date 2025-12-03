@@ -15,7 +15,9 @@ To nurture students as inquirers.
 <p style="text-align: justify;">Our science teachers serve as leaders of inquiry in the classroom, fostering an environment that nurtures curiosity, creativity, and critical thinking. Through this approach, students develop essential skills and gain a deeper understanding of scientific concepts. We also integrate STEM (Science, Technology, Engineering, and Mathematics) mindsets into our lessons to cultivate students' interest in Science while enhancing their critical thinking and problem-solving skills.</p>
 
 <h6><strong>FOCUS in Science</strong></h6>
-<img style="width:300px;height:500px;" src="/images/Learning/Science/FocusInScience2025.png">
+<img style="width:500px;height:600px;" src="/images/Learning/Science/FocusInScience2025.png">
+
+<p style="text-align: justify;">Teachers in our school adopt the FOCUS in Science framework to develop students’ scientific thinking and structured responses. This structured approach enables students to tackle Science questions with clarity and precision, boosting their confidence.</p>
 
 
 <strong>SOME OF OUR PROGRAMMES AT A GLANCE:</strong>
