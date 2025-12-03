@@ -21,13 +21,13 @@ To nurture students as inquirers.
 
 
 <strong>SOME OF OUR PROGRAMMES AT A GLANCE:</strong>
-* <strong>POTS (Primary One and Two Science)</strong>
-* <strong>Yes! Programme (Young Exploring Scientists! Programme)</strong>
-* <strong>Science@Home Programme</strong>
-* <strong>Fun With Science</strong>
-* <strong>Eco-Stewardship@LHPS</strong>
+* POTS (Primary One and Two Science)
+* Yes! Programme (Young Exploring Scientists! Programme)
+* Science@Home Programme
+* Fun With Science
+* Eco-Stewardship@LHPS
 
-<p style="text-align: justify;"><u><strong>POTS (PRIMARY ONE AND TWO SCIENCE</strong></u><br>To enrich our students’ learning experiences, our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  We have aligned the curriculum with our school’s student outcomes, namely <i>Passionate Learner, Critical and Creative Thinker, Confident Communicator and Exemplary Leader</i>, and MOE Science Syllabus 2023. This curriculum is aptly named POTS (Primary One and Two Science) as we are the “pots” with the nourishment for our young and naturally curious “seedlings” (our students) to grow and blossom.
+<p style="text-align: justify;"><u><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong></u><br>To enrich our students’ learning experiences, our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  We have aligned the curriculum with our school’s student outcomes, namely <i>Passionate Learner, Critical and Creative Thinker, Confident Communicator and Exemplary Leader</i>, and MOE Science Syllabus 2023. This curriculum is aptly named POTS (Primary One and Two Science) as we are the “pots” with the nourishment for our young and naturally curious “seedlings” (our students) to grow and blossom.
 <br>
 <br>
 The lessons often take place in our science garden where students, as exemplary leaders,  learn about flora and fauna and nature manners. In the course of the learning, our students’ passion in science is ignited and they are given opportunities to be critical and creative thinkers with the questions they ask and share confidently the discoveries they have made. They also develop their practices of science such as observing, classifying, comparing and communicating when they learn about different animal groups and plants.
