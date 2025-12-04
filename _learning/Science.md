@@ -111,17 +111,21 @@ The use of science toys actively creates learning opportunities for students to 
 	
 <table>
   <tbody>
+  <tr>
+    <td><img style="width:600px;height:300px;" src="/images/Learning/Science/2025stsc1.jpg"></td>
+    <td><img style="width:600px;height:300px;" src="/images/Learning/Science/2025stsc2.jpg"></td>
+  </tr>
+  <tr>
+    <td><img style="width:300px;height:400px;" src="/images/Learning/Science/2025stsc3.jpg"></td>
+    <td><img style="width:300px;height:400px;" src="/images/Learning/Science/2025stsc4.jpg"></td>
+  </tr>
+	  <tr>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc5.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc6.jpg"></td>
+  </tr>
 	<tr>
-    <td colspan="2"><img style="width:650px;height:200px;" src="/images/Learning/Science/STEM1.jpg">
-    </td>
-  </tr>
-  <tr>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM2.jpg"></td>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM3.jpg"></td>
-  </tr>
-  <tr>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM4.jpg"></td>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/STEM5.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc7.jpg"></td>
+    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc8.jpg"></td>
   </tr>
 </tbody>
 </table>
