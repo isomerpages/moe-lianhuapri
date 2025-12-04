@@ -120,12 +120,12 @@ The use of science toys actively creates learning opportunities for students to 
     <td><img style="width:300px;height:400px;" src="/images/Learning/Science/2025stsc4.jpg"></td>
   </tr>
 	  <tr>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc5.jpg"></td>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc6.jpg"></td>
+    <td><img style="width:700px;height:200px;" src="/images/Learning/Science/2025stsc5.jpg"></td>
+    <td><img style="width:150px;height:300px;" src="/images/Learning/Science/2025stsc6.jpg"></td>
   </tr>
 	<tr>
     <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc7.jpg"></td>
-    <td><img style="width:250px;height:350px;" src="/images/Learning/Science/2025stsc8.jpg"></td>
+    <td><img style="width:250px;height:550px;" src="/images/Learning/Science/2025stsc8.jpg"></td>
   </tr>
 </tbody>
 </table>
