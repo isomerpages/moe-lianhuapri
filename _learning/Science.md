@@ -213,17 +213,19 @@ Science is most exciting when students can explore and experiment beyond the cla
 <img style="width:250px;height:300px;" src="/images/Learning/Science/SCIENCE_HOME_PROGRAMME.jpg">
 
 <p style="text-align: justify;"><strong><u>FUN WITH SCIENCE (Primary Four and Five High-Ability Learners)</u></strong><br>
-The Fun With Science programme is specially designed to spark a passion for learning and develop critical and creative thinking skills in high-ability students. Through exciting, hands-on science activities, students are encouraged to explore and solve challenging problems, applying both their analytical abilities and creativity.</p>
-
-
-<p style="text-align: justify;">This programme aims to nurture curiosity, inspiring students to dive deeper into scientific concepts. By conducting their own experiments, they not only strengthen their understanding of science but also learn valuable skills like designing investigations, analysing data, and presenting their findings. Fun With Science offers an enriching experience that goes beyond the classroom, fostering a lifelong love for scientific discovery.</p>
+Designed for high-ability students, Fun With Science aims to spark curiosity and develop critical and creative thinking. Through hands-on activities, students solve complex problems while honing investigative and analytical skills. This enriching experience extends beyond the classroom, inspiring a lifelong love for scientific discovery.</p>
 
 <table>
   <tbody>
   <tr>
-    <td><img style="width:230px;height:300px" src="/images/Learning/Science/funwithsci1.jpg"></td>
-    <td><img style="width:700px;height:300px" src="/images/Learning/Science/funwithsci2.png"></td>
+    <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws1.jpg"></td>
+    <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws2.jpg"></td>
   </tr>
+		<tr>
+    <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws3.jpg"></td>
+    <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws4.jpg"></td>
+  </tr>
+
 </tbody>
 </table>
 
