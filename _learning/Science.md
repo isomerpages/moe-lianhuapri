@@ -225,7 +225,6 @@ Designed for high-ability students, Fun With Science aims to spark curiosity and
     <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws3.jpg"></td>
     <td><img style="width:400px;height:200px" src="/images/Learning/Science/2025p4_5fws4.jpg"></td>
   </tr>
-
 </tbody>
 </table>
 
