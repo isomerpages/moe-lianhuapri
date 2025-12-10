@@ -194,7 +194,7 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 </tbody>
 </table>
 
-
+=== Do i need to keep this below===
 <p style="text-align: justify;"><strong>Science Stewards</strong><br>
 ‘One is never too small to make a difference’.</p>
 
@@ -202,11 +202,13 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 
 <p style="text-align: justify;">These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels.</p>
 
+=== Do i need to keep this above===
+
 <p style="text-align: justify;"><strong><u>SCIENCE@HOME PROGRAMME</u></strong><br>
-One of the things that makes learning Science really fun is the opportunity to explore and learn about scientific concepts and phenomena through experimentation.</p>
+Science is most exciting when students can explore and experiment beyond the classroom.</p>
 
 
-<p>To this purpose, each P3-P6 pupil was provided with a Science Kit that was relevant to a topic they were learning about that year. SLS lessons were then crafted by members of the department and assigned to the pupils. The lessons were designed to allow students to explore the topic in greater detail and to be able to experiment in science lessons as well as at home. In turn, their experiments led to discussions among their peers about the scientific phenomena that they had discovered.</p>
+<p>Through the Science@Home programme, each P3-P6 student receives a Science Kit relevant to their curriculum. Teachers create interactive SLS lessons that encourage students to conduct experiments at home, leading to meaningful discussions and deeper learning among peers.</p>
 
 <img style="width:250px;height:300px;" src="/images/Learning/Science/SCIENCE_HOME_PROGRAMME.jpg">
 
