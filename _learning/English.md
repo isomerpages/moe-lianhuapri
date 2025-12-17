@@ -193,12 +193,12 @@ history.</p>
 <iframe style="width:100%; height:100%; border:0;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX07XRqKi1Q"></iframe>
 </div>
 <h3>Stretch Your Mind</h3>
-<p>Alternating with NiB on Tuesdays, Stretch Your Mind is a weekly Tuesday
-feature at Lianhua, designed to spark creativity and enhance our students'
-mastery of the English Language. We believe that creativity is a crucial
-part of a child’s development. By engaging with similes, metaphors, and
-other figurative techniques, students learn to express themselves more
-meaningfully and craft rich descriptions for their stories.</p>
+<p>Alternating with NiB on Tuesdays, Stretch Your Mind is designed to spark
+creativity and enhance our students' mastery of the English Language. We
+believe that creativity is a crucial part of a child’s development. By
+engaging with similes, metaphors, and other figurative techniques, students
+learn to express themselves more meaningfully and craft rich descriptions
+for their stories.</p>
 <p>Each week, we introduce new themes and language devices, challenging students
 to think outside the box. Whether they are transforming everyday objects
 into imaginative metaphors or describing settings with sensory-rich details,
