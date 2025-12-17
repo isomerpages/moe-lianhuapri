@@ -194,16 +194,6 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 </tbody>
 </table>
 
-=== Do i need to keep this below===
-<p style="text-align: justify;"><strong>Science Stewards</strong><br>
-‘One is never too small to make a difference’.</p>
-
-<p style="text-align: justify;">Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.</p>
-
-<p style="text-align: justify;">These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science programmes and challenges across the different levels.</p>
-
-=== Do i need to keep this above===
-
 <p style="text-align: justify;"><strong><u>SCIENCE@HOME PROGRAMME</u></strong><br>
 Science is most exciting when students can explore and experiment beyond the classroom.</p>
 
@@ -234,38 +224,47 @@ Designed for high-ability students, Fun With Science aims to spark curiosity and
 At LHPS, we believe that learning extends beyond the classroom. Enter Eco Ville, a specially designed outdoor learning space where students engage in hands-on science exploration while cultivating eco-stewardship values. This unique space is a vibrant hub of discovery, allowing students to connect scientific concepts with real-world sustainability practices.</p>
 
 <p style="text-align: justify;"><strong>Exploring the Wonders of Eco Ville</strong><br>
-Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/Spices_HerbsGarden2025.jpg"></p>
+Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/Spices_HerbsGarden2025.jpg"><br><strong>Eco Pond</strong> – Observe how nature maintains a balanced, self-sustaining ecosystem.
+<img style="width:700px;height:250px" src="/images/Learning/Science/EcoPond2025.jpg"><br><br><strong>Caterpillar Enclosure &amp; Butterfly Garden</strong> – Discover the fascinating life cycle of butterflies and their role in pollination.</p>
 
-<p style="text-align: justify;">Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
+<table>
+  <tbody>
+		<tr>
+    <td><img style="width:700px;height:250px" src="/images/Learning/Science/CEBG_1_2025.jpg"></td>
+    <td><br><img style="width:500px;height:220px" src="/images/Learning/Science/CEBG_2_2025.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
-<p style="text-align: justify;">Through these activities, students not only grow as Exemplary Leaders but also as Critical &amp; Creative Thinkers.</p>
+<p style="text-align: justify;"><strong>Ferns &amp; Edibles Garden</strong> – Explore plant adaptations, food security, and self-sustainability. </p>
+<table>
+  <tbody>
+		<tr>
+    <td><img style="width:700px;height:250px" src="/images/Learning/Science/FEG_1_2025.png"></td>
+    <td><img style="width:500px;height:250px" src="/images/Learning/Science/FEG_2_2025.png"></td>
+  </tr>
+</tbody>
+</table>
 
-<ul>
-  <li><strong>Primary 3: Zero Food Waste</strong></li>
-	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_1.jpg"><br>
-	<img style="width:500px;height:300px" src="/images/Learning/Science/P3_2.jpg">
-</ul>
+<p style="text-align: justify;"><strong>Compost &amp; Aquaponics Stations</strong> – Understand the science behind sustainable farming, nutrient recycling, and zero-waste ecosystems.<br>
+<table>
+  <tbody>
+		<tr>
+    <td><img style="width:700px;height:250px" src="/images/Learning/Science/CAS_1_2025.jpg"></td>
+    <td><img style="width:500px;height:250px" src="/images/Learning/Science/CAS_2_2025.jpg"></td>
+  </tr>
+</tbody>
+</table>
+Each station is equipped with engaging infographic panels that provide fun facts, critical thinking prompts, and hands-on activities, making learning both interactive and immersive.</p>
 
-<p style="text-align: justify;">The teams design visually appealing posters and prototypes that communicate the importance of reducing food waste. This aims to inspire students to adopt sustainable habits in their daily lives.</p>
+<p style="text-align: justify;"><strong>Superhero Science Quest: Learning Through Play</strong><br>
+To enhance the Eco Ville experience, our specially curated Superhero Science Quest invites Primary 3 to 6 students on an exciting learning adventure. Students take on the role of scientists, tasked with solving real-world environmental challenges through inquiry, teamwork, and creative problem-solving. <br><br>Aligned with the Science syllabus, this quest sparks curiosity and deepens conceptual understanding, empowering students to become passionate learners and critical thinkers.
+</p>
 
-<ul>
-  <li><strong>Primary 4: Water Conservation</strong></li>
-	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_1.jpg"><br>
-	<img style="width:500px;height:300px" src="/images/Learning/Science/P4_2.jpg">
-</ul>
 
-<p style="text-align: justify;">The teams designed compact rainwater harvesting systems that collect and store rainwater for gardening and cleaning, showcasing practical solutions for water conservation.</p>
+<p style="text-align: justify;"><strong>YES! Recess Programmes: Everyday Learning in Action</strong><br>Eco Ville also comes alive during recess through our YES! activities, where students engage in different activities such as mini gardening projects, observing butterfly metamorphosis and Eco challenges on waste reduction &amp; sustainability.<br><br>These bite-sized activities reinforce key scientific concepts while making eco-consciousness a daily habit.</p>
 
-<ul>
-  <li><strong>Primary 5: Energy Efficiency</strong></li>
-	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_1.jpg"><br>
-	<img style="width:350px;height:480px" src="/images/Learning/Science/P5_2.jpg">
-</ul>
-
-<p style="text-align: justify;">The students collaboratively create and present posters that highlight the significance of energy conservation. Their engaging presentation fosters discussion and encourages peers to think critically about their energy consumption habits.</p>
-	
-<p style="text-align: justify;"><strong>Green School Activities: Leading by Example</strong><br>
-Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
+<p style="text-align: justify;"><strong>Green School Activities: Leading by Example</strong><br>Our Primary 6 students actively participate in Green School Activities aimed at increasing awareness in creating a more sustainable and healthy school environment. These include:</p>
 
 <ul>
   <li>Litter-free Environment initiatives</li>
@@ -276,16 +275,6 @@ Our Primary 6 students actively participate in Green School Activities aimed at 
 
 <p style="text-align: justify;">By carrying out awareness campaigns within the school, these students serve as Confident Communicators, educating their schoolmates on eco-friendly practices. Their leadership helps drive a culture of responsibility and environmental consciousness throughout the school.</p>
 
-<p style="text-align: justify;"><strong>Promoting a Cleaner School Environment</strong><br>
-We are also introducing initiatives such as the Classroom Cleanliness Audits and Canteen Cleanliness Campaigns, encouraging every student to take ownership of their learning spaces. </p>
+<p style="text-align: justify;"><strong>Empowering Student Leaders - Science Stewards
+</strong><br>‘One is never too small to make a difference’. <br><br>Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.<br><br>These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science/Eco-stewardship  programmes and challenges across the different levels.</p>
 
-<table>
-  <tbody>
-  <tr>
-    <td><img style="width:230px;height:300px" src="/images/Learning/Science/canteencleaning1.jpg"></td>
-    <td><img style="width:650px;height:300px" src="/images/Learning/Science/canteencleaning2.jpg"></td>
-  </tr>
-</tbody>
-</table>
-
-<p style="text-align: justify;">These programmes not only teach responsibility but also help instill a lifelong habit of cleanliness and care for the environment.</p>
