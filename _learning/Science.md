@@ -234,7 +234,7 @@ Designed for high-ability students, Fun With Science aims to spark curiosity and
 At LHPS, we believe that learning extends beyond the classroom. Enter Eco Ville, a specially designed outdoor learning space where students engage in hands-on science exploration while cultivating eco-stewardship values. This unique space is a vibrant hub of discovery, allowing students to connect scientific concepts with real-world sustainability practices.</p>
 
 <p style="text-align: justify;"><strong>Exploring the Wonders of Eco Ville</strong><br>
-Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/2025p4_5fws3.jpg"></p>
+Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/Spices_HerbsGarden2025.jpg"></p>
 
 <p style="text-align: justify;">Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
 
