@@ -202,9 +202,9 @@ Our Primary 6 students showed how sustainability could be achieved even within t
 <table>
   <tbody>
   <tr>
-    <td><img style="width:400px;height:280px" src="/images/Learning/Science/2025p6c1.jpg"></td>
-    <td><img style="width:200px;height:280px" src="/images/Learning/Science/2025p6c2.jpg"></td>
-		<td><img style="width:200px;height:280px" src="/images/Learning/Science/2025p6c3.jpg"></td>
+    <td><img style="width:300px;height:240px" src="/images/Learning/Science/2025p6c1.jpg"></td>
+    <td><img style="width:180px;height:240px" src="/images/Learning/Science/2025p6c2.jpg"></td>
+		<td><img style="width:180px;height:240px" src="/images/Learning/Science/2025p6c3.jpg"></td>
   </tr>
 </tbody>
 </table>
