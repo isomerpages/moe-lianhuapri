@@ -270,7 +270,7 @@ Eco Ville consists of eight interactive stations, each designed to deepen studen
   </tr>
 </tbody>
 </table>
-Each station is equipped with engaging infographic panels that provide fun facts, critical thinking prompts, and hands-on activities, making learning both interactive and immersive.</p>
+</p><p>Each station is equipped with engaging infographic panels that provide fun facts, critical thinking prompts, and hands-on activities, making learning both interactive and immersive.</p>
 
 <p style="text-align: justify;"><strong>Superhero Science Quest: Learning Through Play</strong><br>
 To enhance the Eco Ville experience, our specially curated Superhero Science Quest invites Primary 3 to 6 students on an exciting learning adventure. Students take on the role of scientists, tasked with solving real-world environmental challenges through inquiry, teamwork, and creative problem-solving. <br><br>Aligned with the Science syllabus, this quest sparks curiosity and deepens conceptual understanding, empowering students to become passionate learners and critical thinkers.
