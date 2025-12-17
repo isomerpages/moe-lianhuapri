@@ -147,7 +147,7 @@ In this densely populated country, where land and resources are scarce, hydropon
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
-      max-width: 400px; /* Limits the maximum width of the image */
+      max-width: 300px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
   </style>
