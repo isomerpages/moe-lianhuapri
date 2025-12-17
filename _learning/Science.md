@@ -239,8 +239,7 @@ Designed for high-ability students, Fun With Science aims to spark curiosity and
 At LHPS, we believe that learning extends beyond the classroom. Enter Eco Ville, a specially designed outdoor learning space where students engage in hands-on science exploration while cultivating eco-stewardship values. This unique space is a vibrant hub of discovery, allowing students to connect scientific concepts with real-world sustainability practices.</p>
 
 <p style="text-align: justify;"><strong>Exploring the Wonders of Eco Ville</strong><br>
-Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/Spices_HerbsGarden2025.jpg"><br><strong>Eco Pond</strong> – Observe how nature maintains a balanced, self-sustaining ecosystem.
-<img style="width:700px;height:250px" src="/images/Learning/Science/EcoPond2025.jpg"><br><br><strong>Caterpillar Enclosure &amp; Butterfly Garden</strong> – Discover the fascinating life cycle of butterflies and their role in pollination.</p>
+Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <br><br><img style="width:400px;height:300px" src="/images/Learning/Science/Spices_HerbsGarden2025.jpg"><br><strong>Eco Pond</strong> – Observe how nature maintains a balanced, self-sustaining ecosystem.<br><br><img style="width:700px;height:250px" src="/images/Learning/Science/EcoPond2025.jpg"><br><br><strong>Caterpillar Enclosure &amp; Butterfly Garden</strong> – Discover the fascinating life cycle of butterflies and their role in pollination.</p>
 
 <table>
   <tbody>
