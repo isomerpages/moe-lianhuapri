@@ -27,7 +27,7 @@ To nurture students as inquirers.
 * Fun With Science
 * Eco-Stewardship@LHPS
 
-<p style="text-align: justify;"><u><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong></u><br>To enrich our students’ learning experiences, our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  We have aligned the curriculum with our school’s student outcomes, namely <i>Passionate Learner, Critical and Creative Thinker, Confident Communicator and Exemplary Leader</i>, and MOE Science Syllabus 2023. This curriculum is aptly named POTS (Primary One and Two Science) as we are the “pots” with the nourishment for our young and naturally curious “seedlings” (our students) to grow and blossom.
+<p style="text-align: justify;"><strong>POTS (PRIMARY ONE AND TWO SCIENCE)</strong><br>To enrich our students’ learning experiences, our school has crafted a special curriculum to give our students a headstart in the learning of Science in Primary 1 and 2.  We have aligned the curriculum with our school’s student outcomes, namely <i>Passionate Learner, Critical and Creative Thinker, Confident Communicator and Exemplary Leader</i>, and MOE Science Syllabus 2023. This curriculum is aptly named POTS (Primary One and Two Science) as we are the “pots” with the nourishment for our young and naturally curious “seedlings” (our students) to grow and blossom.
 <br>
 <br>
 The lessons often take place in our science garden where students, as exemplary leaders,  learn about flora and fauna and nature manners. In the course of the learning, our students’ passion in science is ignited and they are given opportunities to be critical and creative thinkers with the questions they ask and share confidently the discoveries they have made. They also develop their practices of science such as observing, classifying, comparing and communicating when they learn about different animal groups and plants.
@@ -84,7 +84,7 @@ This is also exactly how we support our students’ growth in learning, with lov
 	</tbody>
 </table>
 
-<p style="text-align: justify;"><strong><u>YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS</u></strong><br>
+<p style="text-align: justify;"><strong>YES! (YOUNG EXPLORING SCIENTISTS) PROGRAMME AND OUR SCIENCE STEWARDS</strong><br>
 The world is constantly evolving. How do we at Lianhua Primary prepare our students for their future so that they can stay relevant?</p>
 
 <p style="text-align: justify;">Our answer to that is the Young Exploring Scientists! (YES!) programme. Through this programme, we aim to inculcate STEM skills and mindset to prepare the younger generation for rapid technological advancements. In this programme, P3 to P6 students are exposed to the construction of science toys and STEM challenges. They are also given opportunities to participate in level-based programmes that were specifically selected for their alignment to the science concepts and topics that they are learning.</p>
@@ -229,13 +229,12 @@ Designed for high-ability students, Fun With Science aims to spark curiosity and
 </table>
 
 
-<p><strong><u>ECO-STEWARDSHIP@LHPS</u></strong></p>
+<p style="text-align: justify;"><strong><u>ECO-STEWARDSHIP@LHPS</u></strong><br>
+<strong>Eco Ville: A Thriving Hub for Science and Sustainability Learning</strong><br>
+At LHPS, we believe that learning extends beyond the classroom. Enter Eco Ville, a specially designed outdoor learning space where students engage in hands-on science exploration while cultivating eco-stewardship values. This unique space is a vibrant hub of discovery, allowing students to connect scientific concepts with real-world sustainability practices.</p>
 
-<p style="text-align: justify;"><strong>Building Eco-Leaders: Our School’s Sustainability Journey</strong><br>
-At LHPS, we believe in fostering environmental stewardship from a young age. Through a dynamic and hands-on approach, students from Primary 3 to Primary 6 are deeply involved in programs that emphasize sustainability, innovation, and community awareness.</p>
-
-<p style="text-align: justify;"><strong>Innovation Week: Empowering Young Innovators</strong><br>
-Our Primary 3 to Primary 5 students take part in Innovation Week, where the theme centers on sustainability. Each level tackles a unique environmental challenge.</p>
+<p style="text-align: justify;"><strong>Exploring the Wonders of Eco Ville</strong><br>
+Eco Ville consists of eight interactive stations, each designed to deepen students' understanding of science and sustainability: <br><br><strong>Spices &amp; Herbs Garden</strong> – Learn about medicinal and culinary plants and their uses. <img style="width:400px;height:300px" src="/images/Learning/Science/2025p4_5fws3.jpg"></p>
 
 <p style="text-align: justify;">Students are engaged in the Design Thinking process, which encourages critical and creative thinking. By brainstorming, prototyping, and refining solutions, they develop real-world responses to environmental issues. The week culminates in intra-class presentations of their innovative prototypes. Selected teams will also share their ideas during recess in Term 3, further raising environmental awareness among their peers.</p>
 
