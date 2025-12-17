@@ -112,20 +112,20 @@ The use of science toys actively creates learning opportunities for students to 
 <table>
   <tbody>
   <tr>
-    <td><img style="width:600px;height:300px;" src="/images/Learning/Science/2025stsc1.jpg"></td>
-    <td><img style="width:600px;height:300px;" src="/images/Learning/Science/2025stsc2.jpg"></td>
+    <td><img style="width:400px;height:280px;" src="/images/Learning/Science/2025stsc1.jpg"></td>
+    <td><img style="width:500px;height:280px;" src="/images/Learning/Science/2025stsc2.jpg"></td>
   </tr>
   <tr>
     <td><img style="width:300px;height:400px;" src="/images/Learning/Science/2025stsc3.jpg"></td>
     <td><img style="width:300px;height:400px;" src="/images/Learning/Science/2025stsc4.jpg"></td>
   </tr>
 	  <tr>
-    <td><img style="width:700px;height:200px;" src="/images/Learning/Science/2025stsc5.jpg"></td>
-    <td><img style="width:150px;height:300px;" src="/images/Learning/Science/2025stsc6.jpg"></td>
+    <td><img style="width:400px;height:200px;" src="/images/Learning/Science/2025stsc5.jpg"></td>
+    <td><img style="width:150px;height:280px;" src="/images/Learning/Science/2025stsc6.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:200px;height:300px;" src="/images/Learning/Science/2025stsc7.jpg"></td>
-    <td><img style="width:150px;height:300px;" src="/images/Learning/Science/2025stsc8.jpg"></td>
+    <td><img style="width:200px;height:280px;" src="/images/Learning/Science/2025stsc7.jpg"></td>
+    <td><img style="width:150px;height:280px;" src="/images/Learning/Science/2025stsc8.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -277,4 +277,3 @@ To enhance the Eco Ville experience, our specially curated Superhero Science Que
 
 <p style="text-align: justify;"><strong>Empowering Student Leaders - Science Stewards
 </strong><br>‘One is never too small to make a difference’. <br><br>Lianhua Primary School has a passionate group of youngsters who commit their time and energy to preserving the school’s flora and fauna. This special group of people make up the LHPS Science Stewards.<br><br>These Science Stewards are volunteers from various classes of differing levels and they range from P3 to P6. Upon confirmation of their Science Stewards status, these students are trained to assist in the running of Science/Eco-stewardship  programmes and challenges across the different levels.</p>
-
