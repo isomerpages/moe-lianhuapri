@@ -245,8 +245,8 @@ Eco Ville consists of eight interactive stations, each designed to deepen studen
 <table>
   <tbody>
 		<tr>
-    <td><img style="width:700px;height:250px" src="/images/Learning/Science/CEBG_1_2025.jpg"></td>
-    <td><br><img style="width:500px;height:220px" src="/images/Learning/Science/CEBG_2_2025.jpg"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/CEBG_1_2025.jpg"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/CEBG_2_2025.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -255,8 +255,8 @@ Eco Ville consists of eight interactive stations, each designed to deepen studen
 <table>
   <tbody>
 		<tr>
-    <td><img style="width:700px;height:250px" src="/images/Learning/Science/FEG_1_2025.png"></td>
-    <td><img style="width:500px;height:250px" src="/images/Learning/Science/FEG_2_2025.png"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/FEG_1_2025.png"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/FEG_2_2025.png"></td>
   </tr>
 </tbody>
 </table>
@@ -265,8 +265,8 @@ Eco Ville consists of eight interactive stations, each designed to deepen studen
 <table>
   <tbody>
 		<tr>
-    <td><img style="width:700px;height:250px" src="/images/Learning/Science/CAS_1_2025.jpg"></td>
-    <td><img style="width:500px;height:250px" src="/images/Learning/Science/CAS_2_2025.jpg"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/CAS_1_2025.jpg"></td>
+    <td><img style="width:350px;height:200px" src="/images/Learning/Science/CAS_2_2025.jpg"></td>
   </tr>
 </tbody>
 </table>
