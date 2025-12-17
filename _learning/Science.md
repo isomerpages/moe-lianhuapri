@@ -178,7 +178,7 @@ Equipped with the experience from Indoor Hydroponics, our Primary 5 Science Stew
     }
     img {
       width: 100%; /* Adjusts the image to fit the table width */
-      max-width: 300px; /* Limits the maximum width of the image */
+      max-width: 400px; /* Limits the maximum width of the image */
       height: auto; /* Maintains the image's aspect ratio */
     }
  </style>
