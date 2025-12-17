@@ -190,7 +190,7 @@ history.</p>
 <p>Video on Oracy @ Lianhua:</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="width:100%; height:100%; border:0;" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX07XRqKi1Q"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX07XRqKi1Q"></iframe>
 </div>
 <h3>Stretch Your Mind</h3>
 <p>Alternating with NiB on Tuesdays, Stretch Your Mind is designed to spark
