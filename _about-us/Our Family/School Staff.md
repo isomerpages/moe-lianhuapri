@@ -111,8 +111,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 6</td>
-    <td>Mdm Norlailawati Bte Osman<br>Ms Tan Li Yan</td>
-    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
+    <td>Ms Chua Wan Jun<br>Mdm Siti Aishah Bte Mohd Rasid<br>[Teacher Counsellor]	</td>
+    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
