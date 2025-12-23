@@ -117,8 +117,8 @@ td span{
 		
  <tr>
     <td>1 Discipline 7</td>
-    <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>[Senior Teacher/Chinese Language]<br>Mdm Lee Peir Chuang</td>
-    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
+    <td>Ms Hussum Fatimah Bte Syed Mohd<br>Mr Li Jianwen</td>
+    <td><a href="mailto:hussum_fatimah_syed_mohd@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hussum_fatimah_syed_mohd@moe.edu.sg</span></a><br><a href="mailto:li_jianwen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">li_jianwen@moe.edu.sg</span></a></td>
   </tr>	
 			
 
