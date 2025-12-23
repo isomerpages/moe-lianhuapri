@@ -78,9 +78,10 @@ td span{
     <tbody>
 			<tr>
 				<td>1 Discipline 1</td>
-				<td>Mrs Angeline Hoh<br>Mdm Norhayati Bte Ruhani  
-[Senior Teacher/ Malay Language]</td>
-				<td><a href="mailto:ow_may_ling_angeline@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ow_may_ling_angeline@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a>
+				<td>Mdm Norhani Bte Sahar
+<br>Mr Foo Zhi Bao Jonathan	 
+</td>
+				<td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
