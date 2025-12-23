@@ -87,9 +87,8 @@ td span{
   </tr>
   <tr>
     <td>1 Discipline 2</td>
-    <td>Mdm Ma Su Lin Jacqueline<br>Ms Lim Chiau Ling<br>Mdm Subathra D/O Govindasamy	</td>
-    <td><a href="mailto:ma_su_lin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ma_su_lin@moe.edu.sg</span></a><br><a href="mailto:lim_chiau_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chiau_ling@moe.edu.sg</span></a><br><a href="mailto:
-subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a></td>
+    <td>Ms Ang Bi Xia Karyn<br>Ms Lee Gim Fang<br>Mdm Tan Jye En</td>
+    <td><a href="mailto:ang_bi_xia_karyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ang_bi_xia_karyn@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
