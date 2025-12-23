@@ -105,8 +105,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 5</td>
-    <td>Mdm Ramzaniah Binti Lateh<br>Ms Chen Yimeng Vivian</td>
-    <td><a href="mailto:ramzaniah_lateh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramzaniah_lateh@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
+    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm Rosnah Binte Rosman	</td>
+    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
