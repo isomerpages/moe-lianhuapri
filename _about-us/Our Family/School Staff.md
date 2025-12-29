@@ -251,8 +251,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 3</td>
-    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]<br>Mdm Dhanikachalam Ammu Karthika</td>
-    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a><br><br><a href="mailto:dhanikachalam_ammu_karthika@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">dhanikachalam_ammu_karthika@moe.edu.sg</span></a></td>
+    <td>Mr Lim Soon Wei<br>Mdm Norlieza Bte Ahmad</td>
+    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
