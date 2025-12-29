@@ -195,9 +195,8 @@ td span{
 		
  <tr>
     <td>2 Respect 7</td>
-    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm Siti Aishah Bte Mohd Rasid
-<br>[Teacher Counsellor]</td>
-    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a></td>
+    <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>[Senior Teacher/Chinese Language]</td>
+    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a></td>
   </tr>	
 			
 <tr>
