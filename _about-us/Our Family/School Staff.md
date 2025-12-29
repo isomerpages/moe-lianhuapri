@@ -171,14 +171,14 @@ td span{
 			
   <tr>
     <td>2 Respect 3</td>
-    <td>Mdm Norhani Bte Sahar<br>Mdm Tan Jye En <br>Ms Hilda Goh</td>
-    <td><a href="mailto:norhani_sahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhani_sahar@moe.edu.sg</span></a><br><a href="mailto:tan_jye_en@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_jye_en@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a></td>
+    <td>Mdm Jagjit Kaur<br>Ms Choo Yen Leng Josephine</td>
+    <td><a href="mailto:jagjit_kaur_parmjit_singh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jagjit_kaur_parmjit_singh@moe.edu.sg</span></a><br><a href="mailto:choo_yen_leng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">choo_yen_leng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>2 Respect 4</td>
-    <td>Ms Chua Wan Jun<br>Ms Lee Gim Fang</td>
-    <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:lee_gim_fang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_gim_fang@moe.edu.sg</span></a></td>
+    <td>Mdm Rabiatuladawiyah Gulam Ashraf<br>Mdm Norlaili Mustaffa<br>Ms Soh Fang Ying</td>
+    <td><a href="mailto:rabiatuladawiyah_gulam_ash@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rabiatuladawiyah_gulam_ash@moe.edu.sg</span></a><br><a href="mailto:norlaili_mustaffa@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlaili_mustaffa@moe.edu.sg</span></a><br><a href="mailto:soh_fang_ying@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">soh_fang_ying@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
