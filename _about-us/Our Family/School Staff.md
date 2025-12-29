@@ -245,8 +245,8 @@ td span{
   </tr>
   <tr>
     <td>3 Compassion 2</td>
-    <td>Ms Clara Tan Yi Jun<br>Mr Wong Ee Meng Samuel<br>[Senior Teacher/ Physical Education]</td>
-    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a></td>
+    <td>Ms Clara Tan Yi Jun<br>Mr Wong Ee Meng Samuel<br>[Senior Teacher/ Physical Education]<br>Mdm B Reqha Trixie</td>
+    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
