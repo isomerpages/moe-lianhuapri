@@ -189,8 +189,8 @@ td span{
 			
   <tr>
     <td>2 Respect 6</td>
-    <td>Ms Noor Dayana Bte Mohd Saleh<br>Mr Tan Chin Chuan <br>Mdm Lai Lian Siang Ruth</td>
-    <td><a href="mailto:noor_dayana_mohd_saleh@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">noor_dayana_mohd_saleh@moe.edu.sg</span></a><br><a href="mailto:tan_chin_chuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chin_chuan@moe.edu.sg</span></a><br><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a></td>
+    <td>Mdm Norlailawati Bte Osman<br>Ms Tan Li Yan</td>
+    <td><a href="mailto:norlailawati_osman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlailawati_osman@moe.edu.sg</span></a><br><a href="mailto:tan_li_yan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_li_yan@moe.edu.sg</span></a></td>
   </tr>
 		
  <tr>
