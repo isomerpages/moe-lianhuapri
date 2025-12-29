@@ -198,17 +198,10 @@ td span{
     <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>[Senior Teacher/Chinese Language]<br>Mdm Lee Peir Chuang</td>
     <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
   </tr>	
-			
-<tr>
-    <td>2 Respect 8</td>
-    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mr Foo Zhi Bao Jonathan</td>
-    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:foo_zhi_bao_jonathan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">foo_zhi_bao_jonathan@moe.edu.sg</span></a></td>
-  </tr>	
 
 </tbody></table>
 
 <h4><strong>Primary Three Teachers</strong></h4>
-	
 
   
   <table>
@@ -245,8 +238,8 @@ td span{
     <tbody>
 			<tr>
 				<td>3 Compassion 1</td>
-				<td>Mdm Norlieza Bte Ahmad<br>Ms Yeo Ai Hui Carrine</td>
-				<td><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a><br><a href="mailto:yeo_ai_hui_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yeo_ai_hui_a@moe.edu.sg</span></a>
+				<td>Mr Shafeer Ahamed H<br>Mdm Norhayati Bte Ruhani<br>[Senior Teacher/ Malay Language</td>
+				<td><a href="mailto:shafeer_ahamed_h@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafeer_ahamed_h@moe.edu.sg</span></a><br><a href="mailto:norhayati_ruhani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norhayati_ruhani@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
