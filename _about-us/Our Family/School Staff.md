@@ -93,8 +93,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 3</td>
-    <td>Mdm Lai Lian Siang Ruth	<br>Mdm Maggie Fong Pui Yi	</td>
-    <td><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a></td>
+    <td>Mdm Lai Lian Siang Ruth<br>Mdm Maggie Fong Pui Yi<br>Mrs Niki Yeo</td>
+    <td><a href="mailto:lai_lian_siang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lai_lian_siang@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg</span></a><br><a href="mailto:lim_you_en_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_you_en_a@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
