@@ -38,7 +38,7 @@ Dear Students, Parents, and Friends,
 
 <p>Welcome to our school website! </p>
 
-<p>This year, Lianhua Primary School celebrates a very special milestone. Our <strong>80th Anniversary</strong> - the Oak Anniversary. <img style="width:30%; vertical-align:middle;" alt="lhps80" src="/images/About%20us/lhps80logo.jpg"> Like the oak, this moment invites us to pause and reflect on the strong roots laid over decades, as we stretch purposefully towards the future.</p>
+<p>This year, Lianhua Primary School celebrates a very special milestone. Our <strong>80th Anniversary</strong> - the Oak Anniversary. Like the oak, this moment invites us to pause and reflect on the strong roots laid over decades, as we stretch purposefully towards the future. <img style="float:left; width:30%; margin:0 15px 10px 0;" alt="lhps80" src="/images/About%20us/lhps80logo.jpg"></p>
 
 <p>Guided by our LH80 theme, <strong>“Rooted in Values, Growing with Purpose”</strong>, we look forward to a year of meaningful celebrations and the continued good work of striving towards our Vision, Mission and Values, and our desired student outcomes. These anchors keep us steady, focused, and united in nurturing passionate learners, critical and creative thinkers, confident communicators, and exemplary leaders.</p>
 
