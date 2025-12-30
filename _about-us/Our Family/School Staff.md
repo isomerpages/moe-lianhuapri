@@ -312,8 +312,8 @@ td span{
     <tbody>
 			<tr>
 				<td>4 Integrity 1	</td>
-				<td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mdm Koh Wan Ting</td>
-				<td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a>
+				<td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mdm Koh Wan Ting<br>Mr Fadial B Jamaludin</td>
+				<td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:koh_wan_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_wan_ting@moe.edu.sg</span></a><br><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
