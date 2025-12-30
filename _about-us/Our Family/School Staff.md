@@ -256,8 +256,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 4</td>
-    <td>Mrs Emily Chia<br>Mrs Alexis Pua - Toh Wei Zeng<br>Mdm Kuan Suan Shi</td>
-    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:kuan_suan_shi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kuan_suan_shi@moe.edu.sg</span></a></td>
+    <td>Mrs Emily Chia<br>Mdm Rosvina Hamzah<br>Ms Chen Yimeng Vivian</td>
+    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:rosvina_hamzah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosvina_hamzah@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
