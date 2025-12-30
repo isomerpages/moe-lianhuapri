@@ -319,14 +319,14 @@ td span{
   </tr>
   <tr>
     <td>4 Integrity 2</td>
-    <td>Ms Yong Hua Moy<br>Mr Wong Ee Meng Samuel<br>[Senior Teacher/ Physical Education]</td>
-    <td><a href="mailto:yong_hua_moy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">yong_hua_moy@moe.edu.sg</span></a><br><a href="mailto:wong_ee-meng_samuel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_ee-meng_samuel@moe.edu.sg</span></a></td>
+    <td>Ms Amelia Lee<br>Ms Lee Jieying Edelyn</td>
+    <td><a href="mailto:amelia_lee_wan_qing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">amelia_lee_wan_qing@moe.edu.sg</span></a><br><a href="mailto:lee_jieying_edelyn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_jieying_edelyn@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>4 Integrity 3</td>
-    <td>Mrs Emily Chia<br>Ms Chua Ee Wen Eileen</td>
-    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
+    <td>Mdm Irnny Irianny Chumaing<br>Ms Toh Bee Hong<br>[Senior Teacher/ Mathematics]</td>
+    <td><a href="mailto:irnny_irianny_chumaing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">irnny_irianny_chumaing@moe.edu.sg</span></a><br><a href="mailto:toh_bee_hong@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_bee_hong@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
