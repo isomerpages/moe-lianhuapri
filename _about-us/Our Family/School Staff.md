@@ -331,8 +331,8 @@ td span{
 			
   <tr>
     <td>4 Integrity 4</td>
-    <td>Ms Clara Tan Yi Jun<br>Ms Rachel Koh Bao Qin</td>
-    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:koh_bao_qin_rachel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_bao_qin_rachel@moe.edu.sg</span></a></td>
+    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee</td>
+    <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
