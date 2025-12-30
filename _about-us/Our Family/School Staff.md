@@ -346,7 +346,12 @@ td span{
     <td>Ms Lim Chien Ling, Shenlynn<br>Mdm Pek Peet Juan Shanice<br>Ms Chua Ee Wen Eileen</td>
     <td><a href="mailto:lim_chien_ling_shenlynn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chien_ling_shenlynn@moe.edu.sg</span></a><br><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
   </tr>
-		
+	  <tr>
+    <td>4 Integrity 7</td>
+    <td>Mdm Jalifah Bte Ismail<br>Mdm Subathra D/O Govindasamy<br>Mdm Lee Qian Ren</td>
+    <td><a href="mailto:jalifah_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">jalifah_ismail@moe.edu.sg</span></a><br><a href="mailto:subathra_govindasamy@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">subathra_govindasamy@moe.edu.sg</span></a><br><a href="mailto:lee_qian_ren@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_qian_ren@moe.edu.sg</span></a></td>
+  </tr>	
+	
 </tbody></table>
 
 <h4><strong>Primary Five Teachers</strong></h4>
