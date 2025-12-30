@@ -331,20 +331,20 @@ td span{
 			
   <tr>
     <td>4 Integrity 4</td>
-    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee</td>
-    <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a></td>
+    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee<br>Mr Sim Wee Choon</td>
+    <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>4 Integrity 5</td>
-    <td>Mdm Selva Rani D/O Adekalo Japalla Foo<br>Mr Sim Wee Choon</td>
-    <td><a href="mailto:selva_rani_adekalo_japalla@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">selva_rani_adekalo_japalla@moe.edu.sg</span></a><br><a href="mailto:sim_wee_choon@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sim_wee_choon@moe.edu.sg</span></a></td>
+    <td>Mdm Chua Yi Ling<br>Mr Mohammad Faizal Bin Ismail<br>Mdm Azizah Bte Mohd Ali</td>
+    <td><a href="mailto:chua_yi_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_yi_ling@moe.edu.sg</span></a><br><a href="mailto:mohammad_faizal_b_ismail@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">mohammad_faizal_b_ismail@moe.edu.sg</span></a><br><a href="mailto:azizah_mohd_ali@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">azizah_mohd_ali@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>4 Integrity 6</td>
-    <td>Mr Lim Soon Wei<br>Mdm Masrini Binte Samsi<br>Mdm Woo Yeong Yi</td>
-    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:masrini_samsi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">masrini_samsi@moe.edu.sg</span></a><br><a href="mailto:woo_yeong_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woo_yeong_yi@moe.edu.sg</span></a></td>
+    <td>Ms Lim Chien Ling, Shenlynn<br>Mdm Pek Peet Juan Shanice<br>Ms Chua Ee Wen Eileen</td>
+    <td><a href="mailto:lim_chien_ling_shenlynn@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chien_ling_shenlynn@moe.edu.sg</span></a><br><a href="mailto:pek_peet_juan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pek_peet_juan@moe.edu.sg</span></a><br><a href="mailto:chua_ee_wen_eileen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_ee_wen_eileen@moe.edu.sg</span></a></td>
   </tr>
 		
 </tbody></table>
