@@ -391,14 +391,14 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>5 Unity 1</td>
-				<td>Ms Sri Devi Sritharan<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
-				<td><a href="mailto:sri_devi_sritharan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
-	</td>
+				<td>Ms Sri Devi Sritharan<br>Ms Rachel Koh Bao Qin</td>
+				<td><a href="mailto:sri_devi_sritharan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sri_devi_sritharan@moe.edu.sg</span></a><br><a href="mailto:koh_bao_qin_rachel@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">koh_bao_qin_rachel@moe.edu.sg</span></a>
+				</td>
   </tr>
   <tr>
     <td>5 Unity 2</td>
-				<td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
-				<td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a><br><a href="mailto:wong_jing_mei_joyce@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jing_mei_joyce@moe.edu.sg</span></a>
+				<td>Mdm Shanthini Radha Krishnan<br>Ms Hilda Goh</td>
+				<td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:hilda_goh_ru_bin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hilda_goh_ru_bin@moe.edu.sg</span></a>
 	</td>
   </tr>
 			
