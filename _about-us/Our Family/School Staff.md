@@ -214,8 +214,8 @@ td span{
 <tbody>
   <tr>
     <td>Year Head<br>(P3 &amp; P4)</td>
-    <td>Mrs Samantha Soh-Lee	</td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
+    <td>Ms Irfana Banu</td>
+    <td><a href="mailto:"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P3 &amp; P4)</td>
@@ -290,8 +290,8 @@ td span{
 <tbody>
     <tr>
     <td>Year Head<br>(P3 &amp; P4)</td>
-    <td>Mrs Samantha Soh-Lee	</td>
-    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
+    <td>Ms Irfana Banu</td>
+    <td><a href="mailto:"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P3 &amp; P4)</td>
@@ -367,8 +367,8 @@ td span{
 <tbody>
   <tr>
     <td>Year Head<br>(P5 &amp; P6)</td>
-    <td>Ms Wang Xiaoxuan</td>
-    <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
+    <td>Mrs Samantha Soh-Lee</td>
+    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
@@ -391,8 +391,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>5 Unity 1</td>
-				<td>Ms Wok Li Jun, Elizabeth<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
-				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
+				<td>Ms Sri Devi Sritharan<br>Ms Farah Syafiqah Binte Johari<br>Ms Shafira Binte Zailani</td>
+				<td><a href="mailto:sri_devi_sritharan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a>
 	</td>
   </tr>
   <tr>
@@ -440,8 +440,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 <tbody>
    <tr>
     <td>Year Head<br>(P5 &amp; P6)</td>
-    <td>Ms Wang Xiaoxuan</td>
-    <td><a href="mailto:wang_xiaoxuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wang_xiaoxuan@moe.edu.sg</span></a></td>
+    <td>Mrs Samantha Soh-Lee</td>
+    <td><a href="mailto:samantha_lee_miew_fung@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">samantha_lee_miew_fung@moe.edu.sg</span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P5 &amp; P6)</td>
