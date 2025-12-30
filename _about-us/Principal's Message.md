@@ -50,7 +50,7 @@ Dear Students, Parents, and Friends,
 
 <p>We look forward to a fantastic year ahead. One that honours our past, strengthens our present, and grows our future with purpose.</p>
 
-<img style="float:left; width:22%; margin:0 15px 10px 0;" alt="lhps80" src="/images/About%20us/lhps80logo.jpg"><br><p>Sincerely, <br>
+<p><img style="float:left; width:22%; margin:0 15px 10px 0;" alt="lhps80" src="/images/About%20us/lhps80logo.jpg"><br>Sincerely, <br>
 Ms Pamela Kiew<br>
 Principal<br>
 Lianhua Primary School
