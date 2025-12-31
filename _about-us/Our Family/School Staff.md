@@ -468,8 +468,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td>6 Resilience 2</td>
-    <td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin</td>
-    <td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a></td>
+    <td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin<br>Ms Wong Jing Mei Joyce</td>
+    <td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a><br><a href="mailto:wong_jing_mei_joyce@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jing_mei_joyce@moe.edu.sg</span></a></td>
 			</tr>
 			<tr>
     <td>6 Resilience 3</td>
