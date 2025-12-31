@@ -86,12 +86,9 @@ td {
 		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
 						 <td><img style="width: 90%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSeriRahayu.jpg"> Mdm Seri Rahayu<br>SH ICT</td>
 	</tr>
-  <tr>
-		<td></td>
-		</tr>
 	  <tr>
+						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsHoSiHui.jpg"> Ms Ho Si Hui<br>SH CCA/Outdoor Education </td>
 				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
-			   <td></td>
 			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
   </tr>
 	</tbody>
