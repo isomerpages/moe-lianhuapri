@@ -195,7 +195,7 @@ td span{
  <tr>
     <td>2 Respect 7</td>
     <td>Ms Fatimah Sajidah Binte Abdul Razak<br>Mdm Liu Chang<br>[Senior Teacher/Chinese Language]<br>Mdm Lee Peir Chuang</td>
-    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
+    <td><a href="mailto:fatimah_sajidah_abdul_razak@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fatimah_sajidah_abdul_razak@moe.edu.sg</span></a><br><a href="mailto:liu_chang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">liu_chang@moe.edu.sg</span></a><br><br><a href="mailto:lee_peir_chuang@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lee_peir_chuang@moe.edu.sg</span></a></td>
   </tr>	
 
 </tbody></table>
