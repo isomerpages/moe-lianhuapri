@@ -506,10 +506,6 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
       </tr>
   </thead>
     <tbody>
- <tr>
-    <td>Ms Celine Tan Lay Yun</td>
-    <td><a href="mailto:celine_tan_lay_yun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">celine_tan_lay_yun@moe.edu.sg</span></a></td>
-  </tr>
 						 <tr>
     <td>Mr Hassan Mohideen Bin Hassan Ibrahim	</td>
     <td><a href="mailto:hassan_mohideen_hassan_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hassan_mohideen_hassan_ibrahim@moe.edu.sg</span></a></td>
@@ -543,10 +539,6 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 				<td><a href="mailto:wee_lian_eng@moe.edu.sg@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
 wee_lian_eng@moe.edu.sg</span></a>
 	</td>		
-  </tr>
-   <tr>
-    <td>Ms Wee Soo Ting</td>
-    <td><a href="mailto:wee_soo_ting@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wee_soo_ting@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
