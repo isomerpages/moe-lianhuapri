@@ -465,14 +465,13 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 				<td>Ms Wok Li Jun, Elizabeth<br>Ms Farah Syafiqah Binte Johari</td>
 				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a>
 	</td>
-				
   </tr>
   <tr>
     <td>6 Resilience 2</td>
-    <td>Mdm Khilfina Bte Kamaruddin Shah<br>Mdm Maggie Fong Pui Yi</td>
-    <td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">khilfina_kamaruddin_shah@moe.edu.sg</span></a><br><a href="mailto:maggie_fong_pui_yi@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">maggie_fong_pui_yi@moe.edu.sg
-			
-  </span></a></td></tr><tr>
+    <td>Mdm Rashiqah Bte Mohd Rashid<br>Ms Lim Siew Chin</td>
+    <td><a href="mailto:rashiqah_mohd_rashid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rashiqah_mohd_rashid@moe.edu.sg</span></a><br><a href="mailto:lim_siew_chin_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_siew_chin_a@moe.edu.sg</span></a></td>
+			</tr>
+			<tr>
     <td>6 Resilience 3</td>
     <td>Mr Chong Chee Weng Matthew<br>Mdm Tan Xiaohui<br>Mdm B Reqha Trixie</td>
     <td><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
