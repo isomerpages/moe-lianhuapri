@@ -462,8 +462,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <tbody>
 			<tr>
 				<td>6 Resilience 1</td>
-				<td>Mdm Shanthini Radha Krishnan<br>Ms Lu Ching Ching</td>
-				<td><a href="mailto:shanthini_radha_krishnan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shanthini_radha_krishnan@moe.edu.sg</span></a><br><a href="mailto:lu_ching_ching@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lu_ching_ching@moe.edu.sg</span></a>
+				<td>Ms Wok Li Jun, Elizabeth<br>Ms Farah Syafiqah Binte Johari</td>
+				<td><a href="mailto:wok_li_jun_elizabeth@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wok_li_jun_elizabeth@moe.edu.sg</span></a><br><a href="mailto:farah_syafiqah_johari@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">farah_syafiqah_johari@moe.edu.sg</span></a>
 	</td>
 				
   </tr>
