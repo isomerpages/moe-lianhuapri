@@ -560,7 +560,12 @@ wee_lian_eng@moe.edu.sg</span></a>
 				<td><a href="mailto:tahiradulnisha_kader_ibrahim@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tahiradulnisha_kader_ibrahim@moe.edu.sg</span></a>
 	</td>		
   </tr>
-			
+			<tr>
+				<td>Student Welfare Officer</td>
+				<td>Mdm Lim Hui Wen</td>
+				<td><a href="mailto:lim_hui_wen_d@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_hui_wen_d@moe.edu.sg</span></a>
+	</td>		
+  </tr>
   <tr>
     <td>Special Educational<br>Needs Officers</td>
     <td>Ms Sheril Aida binte Ishak<br>Ms Ismira Yanti binti Abu Bakar	</td>
