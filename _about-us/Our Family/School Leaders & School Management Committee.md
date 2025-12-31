@@ -50,45 +50,41 @@ td {
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsMavisLow.jpg">Mrs Mavis Low<br>Vice-Principal (EO)</td>
 		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mr_Jeffrey_Lee.jpg">Mr Jeffrey Lee<br>Vice-Principal (Admin)</td>
   </tr>
-  
-  <tr>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
-    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsYongHuaMoy.jpg">Ms Yong Hua Moy<br>HOD Mathematics</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWooYeongYi.jpg"> Mdm Woo Yeong Yi<br>HOD Mother Tongue Language</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
-  </tr>
-		<tr>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg"> Mdm Brenda Woan<br>HOD Science (Covering)</td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsEmilyChia.jpg">Mrs Emily Chia<br>School Staff Developer</td>
-					  <td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsLimSiewChin.png">Ms Lim Siew Chin<br>HOD PE-CCA  </td>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
-	</tr>
-  <tr>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrChongCheeWengMatthew.jpg"> Mr Matthew Chong<br>HOD ICT </td> 
-			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management</td>
-    <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Ms_Jagjit_Kaur_DO_Parmjit_Singh.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
-		<td></td>
-  </tr>
-				  <tr> 
-		<td><img style="width: 80%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
-		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P3 &amp; P4 </td>
-    <td> <img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsWangXiaoxuan.jpg"> Ms Wang Xiaoxuan<br>Year Head P5 &amp; P6 </td>
+		<tr> 
+		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon3.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
+<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsIrfanaBanu.jpg">Ms Irfana Banu<br> Year Head P3/P4 </td>
+			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P5 &amp; P6 </td>
 	<td><br><br><br></td>
   </tr>
 		 <tr>
 			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mdm_Ow_May_Ling_Angeline.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
 	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
 			 <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mrs_K_Pavitra_Kanaiah.jpg">Ms Pavitra Kanaiah<br>Assistant Year Head P5/P6 (internal)</td>
-			 <td></td>
-      </tr>
-	<tr>
-				 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language </td>
-	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg">Mrs Alexis Pua<br>LH Mathematics</td>
+      </tr>  
+  <tr>
+    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg"> Ms Tan Li Yan <br>HOD Mathematics (Covering) </td>
+						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsSallyYeo.jpg"> Mrs Sally Yeo<br>HOD Science</td>
+  </tr>
+		<tr>
+			<td><br><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsLimSiewChin.png">Ms Lim Siew Chin<br>HOD PE-CCA  </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrLowTeckChyeVincent.jpg"> Mr Vincent Low<br>HOD CCE </td>
+						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsFooRuYuanSheena.jpg">Ms Sheena Foo<br>HOD Student Management</td>
+    <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Ms_Jagjit_Kaur_DO_Parmjit_Singh.jpg">Ms Jagjit Kaur<br>HOD 21CC/ HAL</td>
+	</tr>
+  <tr>
+<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmShanthiniD_ORadhaKrishnan.jpg">Mdm Shanthini<br>LH English Language </td>
+		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
+	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg">Mrs Brenda Sim<br>LH Science</td>
     <td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science</td>
+
+		<td></td>
+  </tr>
+	<tr>
 		<td></td>
 	</tr>
   <tr>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
 		      <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
 						 <td><img src="/images/About%20us/School%20Staff/MrRamadhanBinOmar.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
 		<td></td>
