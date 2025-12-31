@@ -78,20 +78,20 @@ td {
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSubathraD_OGovindasamy.jpg"> Mdm Subathra <br>SH ML/TL</td>
 	    <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmWoanShuPeiBrenda.jpg">Mrs Brenda Sim<br>LH Science</td>
     <td><img src="/images/About%20us/School%20Staff/MdmPoMunYing.jpg"> Mdm Po Mun Ying<br>LH Science</td>
-
 		<td></td>
   </tr>
 	<tr>
-		<td></td>
+		 <td><img src="/images/About%20us/School%20Staff/MdmKhilfinaBteKamaruddinShah.jpg"> Mdm Khilfina<br>SH Student Well-Being</td>
+						 <td><img src="/images/About%20us/School%20Staff/MrRamadhanBinOmar.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
+		 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
+						 <td><img style="width: 90%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSeriRahayu.jpg"> Mdm Seri Rahayu<br>SH ICT</td>
 	</tr>
   <tr>
-		      <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrSimWeeChoon.jpg">Mr Sim Wee Choon<br>SH CCE </td>
-						 <td><img src="/images/About%20us/School%20Staff/MrRamadhanBinOmar.jpg"> Mr Ramadhan Omar<br>SH CCE </td>
 		<td></td>
 		</tr>
 	  <tr>
 				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MDMLEEGIMFANG.jpg"> Mdm Lee Gim Fang<br>SH Aesthetics </td>
-			   <td><img src="/images/About%20us/School%20Staff/MdmKhilfinaBteKamaruddinShah.jpg"> Mdm Khilfina<br>SH Student Well-Being</td>
+			   <td></td>
 			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmKuanSuanShi.jpg"> Mdm Kuan Suan Shi <br>SH Partnership </td>
   </tr>
 	</tbody>
