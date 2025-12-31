@@ -473,20 +473,19 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 			</tr>
 			<tr>
     <td>6 Resilience 3</td>
-    <td>Mr Chong Chee Weng Matthew<br>Mdm Tan Xiaohui<br>Mdm B Reqha Trixie</td>
-    <td><a href="mailto:chong_chee_weng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chong_chee_weng@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a><br><a href="mailto:b_reqha_trixie@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">b_reqha_trixie@moe.edu.sg</span></a></td>
+    <td>Mr Low Teck Chye Vincent<br>Ms Pavitra Kanaiah</td>
+    <td><a href="mailto:low_teck_chye_vincent@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">low_teck_chye_vincent@moe.edu.sg</span></a><br><a href="mailto:pavitra_kanaiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pavitra_kanaiah@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>6 Resilience 4</td>
-    <td>Mr Wong Jinxing Dennis<br>Mdm Juliswati Bte Samad</td>
-    <td><a href="mailto:wong_jinxing@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">wong_jinxing@moe.edu.sg</span></a><br><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg
-			
-  </span></a></td></tr><tr>
+    <td>Mdm Juliswati Bte Samad<br>Ms Arshvini Paulose Manohar</td>
+    <td><a href="mailto:juliswati_samad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">juliswati_samad@moe.edu.sg</span></a><br><a href="mailto:arshvini_paulose_manohar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">arshvini_paulose_manohar@moe.edu.sg</span></a></td>
+			</tr>
+			<tr>
     <td>6 Resilience 5</td>
-    <td>Ms Foo Ru Yuan Sheena<br>Mr Willie Wong Weng Seng<br>Mr Fadial B Jamaludin</td>
-    <td><a href="mailto:foo_ru_yuan_sheena@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
-foo_ru_yuan_sheena@moe.edu.sg</span></a><br><a href="mailto:willie_wong_weng_seng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">willie_wong_weng_seng@moe.edu.sg</span></a><br><a href="mailto:fadial_b_jamaludin@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">fadial_b_jamaludin@moe.edu.sg</span></a></td>
+    <td>Mdm Woan Shu Pei Brenda<br>Ms Lim Chiau Ling</td>
+    <td><a href="mailto:woan_shu_pei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">woan_shu_pei@moe.edu.sg</span></a><br><a href="mailto:lim_chiau_ling@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_chiau_ling@moe.edu.sg</span></a></td>
   </tr>
 </tbody></table>
 
