@@ -534,6 +534,18 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 wee_lian_eng@moe.edu.sg</span></a>
 	</td>		
   </tr>
+	<tr>
+				<td>Mdm Khilfina Bte Kamaruddin Shah</td>
+				<td><a href="mailto:khilfina_kamaruddin_shah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+khilfina_kamaruddin_shah@moe.edu.sg</span></a>
+	</td>		
+  </tr>
+	<tr>
+				<td>Mr Ramadhan Bin Omar</td>
+				<td><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+ramadhan_omar@moe.edu.sg</span></a>
+	</td>		
+  </tr>
 </tbody></table>
 
 <h4><strong>Specialised Support Staff</strong></h4>
