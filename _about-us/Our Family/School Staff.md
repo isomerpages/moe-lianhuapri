@@ -508,10 +508,6 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
     <td>Mr Kathiravan s/o M K K Murugiah</td>
     <td><a href="mailto:kathiravan_murugiah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kathiravan_murugiah@moe.edu.sg</span></a></td>
   </tr>
-			<tr>
-    <td>Ms Manickam Selvarani</td>
-    <td><a href="mailto:manickam_selvarani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">manickam_selvarani@moe.edu.sg</span></a></td>
-  </tr>
 	<tr>
     <td>Mrs Marina Binte Ali Mrs Marina Wee</td>
     <td><a href="mailto:marina_ali_mrs_marina@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">marina_ali_mrs_marina@moe.edu.sg</span></a></td>
@@ -544,6 +540,12 @@ khilfina_kamaruddin_shah@moe.edu.sg</span></a>
 				<td>Mr Ramadhan Bin Omar</td>
 				<td><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
 ramadhan_omar@moe.edu.sg</span></a>
+	</td>		
+  </tr>
+		<tr>
+			<td>Ms Loy Ann Ting Stella</td>
+				<td><a href="mailto:loy_ann_ting_stella_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
+loy_ann_ting_stella_a@moe.edu.sg</span></a>
 	</td>		
   </tr>
 </tbody></table>
