@@ -160,11 +160,16 @@ from experts and expand their knowledge.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/4.png">
 </div>
 <h3>Oracy @ Lianhua</h3>
+<p>Oracy plays a vital role in developing our students into Confident Communicators,
+Passionate Learners and Creative Thinkers. To support this vision, our
+school has introduced three key programmes - News in Brief (NiB), Stretch
+Your Mind and English Language (EL) Week - designed to strengthen students’
+speaking and listening skills while fostering a love for learning.</p>
 <h4>News in Brief Programme</h4>
-<p>Every Wednesday, our school hall transforms into a newsroom for the News
-in Brief program, a vital part of our EL curriculum. This initiative keeps
-students informed about the latest news and events, aiming to nurture confident
-communicators and informed citizens.</p>
+<p>Every alternate Tuesday, our school hall transforms into a newsroom for
+the News in Brief (NiB) programme, a vital part of our EL curriculum. This
+initiative keeps students informed about the latest news and events, aiming
+to nurture confident communicators and informed citizens.</p>
 <p>Students become newscasters, presenting recent news from Singapore with
 clarity and confidence. By making connections between global events and
 their own lives, News in Brief broadens students' perspectives and deepens
@@ -178,18 +183,20 @@ instills pride in Singapore's multicultural heritage, celebrating contributions
 from various communities. Our Stories fosters unity and inclusivity among
 students, helping them connect meaningfully with each other and their shared
 history.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Learning/English/5.png">
 </div>
 <p>Video on Oracy @ Lianhua:</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX07XRqKi1Q"></iframe>
+<iframe height="360" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OX07XRqKi1Q"></iframe>
 </div>
 <h3>Stretch Your Mind</h3>
-<p>Stretch Your Mind is a weekly Tuesday feature at Lianhua, designed to
-spark creativity and enhance our students' mastery of the English Language.
-We believe that creativity is a crucial part of a child’s development.
-By engaging with similes, metaphors, and other figurative techniques, students
+<p>Alternating with NiB on Tuesdays, Stretch Your Mind is designed to spark
+creativity and enhance our students' mastery of the English Language. We
+believe that creativity is a crucial part of a child’s development. By
+engaging with similes, metaphors, and other figurative techniques, students
 learn to express themselves more meaningfully and craft rich descriptions
 for their stories.</p>
 <p>Each week, we introduce new themes and language devices, challenging students

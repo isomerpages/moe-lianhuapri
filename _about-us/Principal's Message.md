@@ -28,6 +28,7 @@ li {
 </style>
 	
 
+
 <header>
     <h1>Principal's Message</h1>
 		<img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg" id="header-photo">
@@ -35,18 +36,21 @@ li {
 	
 Dear Students, Parents, and Friends,
 
-<p>Welcome to our school website! At Lianhua, we see every child as a superhero, equipped with unique talents and limitless potential to make a positive impact on the world. Our four school superheroes are supported by their loyal superpets, embodying vital executive functioning skills such as focus, organization, and self-management. Together, these dynamic duos shine brightly, achieving remarkable growth and showcasing their unique abilities.</p>
+<p>Welcome to our school website! </p>
 
-<img height="333" width="500" src="/images/About%20us/superhero_superpets_simple.png">
+<p>This year, Lianhua Primary School celebrates a very special milestone. Our <strong>80th Anniversary</strong> - the Oak Anniversary. This moment invites us to pause and reflect on the strong roots laid over decades, as we stretch purposefully towards the future. </p>
 
+<img style="width:30%; vertical-align:middle;" alt="lhps80" src="/images/About%20us/lhps80logo.jpg">
 
-<p>Our approach is anchored in the principles of Play, Passion, and Purpose. Through purposeful play, we ignite curiosity and creativity. By nurturing passion, we foster resilience and excellence. With a strong sense of purpose, we empower students to direct their strengths toward meaningful contributions, shaping them into lifelong learners and changemakers.</p>
+<p>Guided by our LH80 theme, <strong>“Rooted in Values, Growing with Purpose”</strong>, we look forward to a year of meaningful celebrations and the continued good work of striving towards our Vision, Mission and Values, and our desired student outcomes. These anchors keep us steady, focused, and united in nurturing passionate learners, critical and creative thinkers, confident communicators, and exemplary leaders.</p>
 
-	
-<p>At the heart of our mission is the vision to develop Passionate Learners, Critical and Creative Thinkers, Confident Communicators, and Exemplary Leaders. Supported by a team of dedicated educators, engaged parents, and our vibrant community, we are committed to equipping each Lianhua superhero with the knowledge, skills, and values needed to thrive in a dynamic and interconnected world.</p>	
+<p>This year also marks the introduction of our refreshed Learning for Life Programme (LLP) - <strong>Superhero Leaders</strong>, which focuses on developing students’ leadership, character, and sense of service to others. Alongside this, our Applied Learning Programme (ALP) in <strong>Robotics</strong> continues to provide authentic platforms for learning where students design, build, experiment, and apply their learning to real-world contexts.</p>
 
-<p>We look forward to partnering with parents and our community so that together, we bring out the best in every child in Lianhua. Together, let us unlock the superhero within every child and inspire them to reach for the stars.</p>
+<p>Complementing these programmes is our newly established <strong>Makerspace and The Hangout</strong>, thoughtfully designed to ensure that our learning environment actively supports students’ curiosity, creativity, hands-on exploration and collaboration. Together, our programmes, platforms, and spaces work in synergy to develop critical thinking, collaboration, and strong ownership of learning in every child.</p>
 
+<p>As we journey through this landmark year, I would like to thank all our parents, partners, alumni, community friends, and stakeholders for walking alongside us. Your trust, support, and belief in our children make all the difference.</p>
+
+<p>We look forward to a fantastic year ahead. One that honours our past, strengthens our present, and grows our future with purpose.</p>
 
 <p>Sincerely, <br>
 Ms Pamela Kiew<br>
