@@ -52,19 +52,19 @@ td {
   </tr>
 		<tr> 
 		<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsChristinaHoon3.jpg">Ms Christina Hoon<br>Year Head P1 &amp; P2 </td>
-<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsIrfanaBanu.jpg">Ms Irfana Banu<br> Year Head P3/P4 </td>
+<td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsIrfanaBanu.jpg">Ms Irfana Banu<br> Year Head P3 &amp; P4 </td>
 			<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmSamanthaLeeMiewFung.jpg">Mrs Samantha Soh<br>Year Head P5 &amp; P6 </td>
 	<td><br><br><br></td>
   </tr>
 		 <tr>
-			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mdm_Ow_May_Ling_Angeline.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1/P2 </td>
-	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3/P4</td>
-			 <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mrs_K_Pavitra_Kanaiah.jpg">Ms Pavitra Kanaiah<br>Assistant Year Head P5/P6 </td>
+			 <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mdm_Ow_May_Ling_Angeline.jpg">Mrs Angeline Hoh<br>Assistant Year Head P1 &amp; P2 </td>
+	<td><img src="/images/About%20us/School%20Staff/MdmPekPeetJuanShanice.jpg"> Mdm Pek Peet Juan<br>Assistant Year Head P3 &amp; P4</td>
+			 <td><img style="width: 100%; height: auto;" src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/Mrs_K_Pavitra_Kanaiah.jpg">Ms Pavitra Kanaiah<br>Assistant Year Head P5 &amp; P6 </td>
       </tr>  
   <tr>
     <td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MdmJuliswatiBteSamad.jpg"> Mdm Juliswati<br>HOD English Lang  </td>
 		<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MsTanLiYan.jpg"> Ms Tan Li Yan <br>HOD Mother Tongue Language (Covering) </td>
-				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg"> Ms Tan Li Yan <br>HOD Mathematics (Covering) </td>
+				<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsAlexisPua_TohWeiZeng.jpg"> Mrs Alexis Pua<br>HOD Mathematics (Covering) </td>
 						<td><img src="/images/About%20us/Leaders%20&amp;%20Management%20Committee/MrsSallyYeo.jpg"> Mrs Sally Yeo<br>HOD Science</td>
   </tr>
 		<tr>
