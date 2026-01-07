@@ -108,7 +108,7 @@ td span{
 			
   <tr>
     <td>1 Discipline 6</td>
-    <td>Ms Chua Wan Jun<br>Mdm Siti Aishah Bte Mohd Rasid<br>[Teacher Counsellor]	</td>
+    <td>Mrs Choy-Chua Wan Jun<br>Mdm Siti Aishah Bte Mohd Rasid<br>[Teacher Counsellor]	</td>
     <td><a href="mailto:chua_wan_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chua_wan_jun@moe.edu.sg</span></a><br><a href="mailto:siti_aishah_mohammad_rasid@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">siti_aishah_mohammad_rasid@moe.edu.sg</span></a></td>
   </tr>
 		
