@@ -83,10 +83,6 @@ tr:nth-child(even) {
     <td>Operations Support Officer</td>
   </tr>
 	<tr>
-    <td>Mdm Maheswari D/O Krishnan</td>
-    <td>Operations Support Officer</td>
-  </tr>
-	<tr>
     <td>Mr Tan Jui Yong</td>
     <td>Operations Support Officer</td>
   </tr>
@@ -100,7 +96,7 @@ tr:nth-child(even) {
     <th></th>
   </tr>
   <tr>
-    <td>Ms Sim Bee Hong Abigail</td>
+    <td>Ms Audi Awlya Umairah Binte Mohammad Azman</td>
     <td>Librarian</td>
   </tr>
   <tr>
