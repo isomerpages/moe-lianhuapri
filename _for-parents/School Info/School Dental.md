@@ -57,7 +57,7 @@ variant: markdown
 <strong>Operating Dates in 2026</strong>
 
 * <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleJan2026.pdf">Janurary</a>
-* <p>Lianhua Primary School Dental Clinic will be <strong>closed on 29.1.2026 (Thursday) from 12.00pm onwards</strong> due to West Zone Staff Meeting at HPB.</p>
+* <p>Lianhua Primary School Dental Clinic will be <strong>closed on 29.1.2026 (Thursday) from 12.00pm onwards</strong></p>
 
 <p><i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i></p>
 
