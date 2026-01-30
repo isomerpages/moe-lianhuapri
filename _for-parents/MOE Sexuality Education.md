@@ -14,6 +14,7 @@ variant: markdown
 	p {
 		font-size: 16px !important;
 		line-height: 1.5;
+		text-align: justify;
 	}
 	
 </style>
@@ -36,19 +37,22 @@ variant: markdown
 <p>3.&nbsp;&nbsp;The <strong>Key Messages</strong> of Sexuality Education are:</p>
 
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect yourself as you love and respect others;<br>
+	
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+	
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible decisions for yourself, your family and society; and<br>
+	
 (d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 
 
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" target="_blank">https://go.gov.sg/moe-sexuality-education</a>&nbsp;for more information on MOE Sexuality Education.</p>
 
 
 
 <h5><strong> Overview of Lianhua Primary School’s Sexuality Education Programme for 2025</strong></h5> 
 
 
-<p>4.&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click  <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>4.&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 
 
 <p>5.&nbsp;&nbsp;The subjects that incorporate topics on sexuality include: <br>
