@@ -168,12 +168,47 @@ variant: markdown
 <h5><center><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE </strong></center></h5>
 <h3><center><strong>Primary 6</strong></center></h3>
 
-
-|            CCE(FTGP) THEME            |           LESSON TITLE / DURATION          |                                                                                                                                                                                                                           LESSON OVERVIEW                                                                                                                                                                                                                          | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|:----------:|:-----------:|------------|:-------------:|
-| GROWING YEARS |    Are We More than Friends?<br>Lesson 1<br>(60 min)    | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.                                                                                                                                                                                                                                                                                                                                                                                                           |   Term 2 <br>Week 6<br>2 May 2025   |
-|                           |    Are We More than Friends?<br>Lesson 2<br>(60 min)    | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.                                                                                                                                                                                                                                                                                                                                                                                     |    Term 2<br>Week 7<br>9 May 2025   |
-|     |  
+<table class="lesson-table">
+  <thead>
+    <tr>
+      <th>CCE (FTGP) THEME</th>
+      <th>LESSON TITLE / DURATION</th>
+      <th>LESSON OVERVIEW</th>
+      <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Growing Years</td>
+      <td>
+        Are We More than Friends?<br>
+				Lesson 1<br>
+				(60 min)
+      </td>
+      <td class="justify">
+       In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
+      </td>
+      <td>
+        Term 1 Week 7<br>
+				20 February 2026
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Are We More than Friends?<br>
+				Lesson 2<br>
+				(60 min)
+      </td>
+      <td class="justify">
+        In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
+      </td>
+      <td>
+        Term 1 Week 9<br>
+				6 March 2026
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h4>Information for Parents</h4>
