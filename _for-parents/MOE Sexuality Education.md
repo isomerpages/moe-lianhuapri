@@ -17,6 +17,30 @@ variant: markdown
 		text-align: justify;
 	}
 	
+.lesson-table {
+  width: 100%;
+  border-collapse: collapse; /* important */
+  border: 2px solid black;   /* outer border */
+}
+
+.lesson-table th,
+.lesson-table td {
+  border: 1px solid black;   /* inner borders */
+  padding: 10px;
+  vertical-align: top;
+  text-align: center;
+}
+
+.lesson-table th {
+  background-color: #e6e6e6;
+  font-weight: bold;
+}
+
+.lesson-table .justify {
+  text-align: justify;
+}
+
+	
 </style>
 
 <h1> MOE Sexuality Education</h1>
@@ -71,12 +95,75 @@ variant: markdown
 <h5><center><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></center></h5>
 <h3><center><strong>Primary 5</strong></center></h3>
 
-|            CCE(FTGP) THEME            |          LESSON TITLE / DURATION          |                                                                                                                                                   LESSON OVERVIEW                                                                                                                                                   | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-|:------------:|:----------:|------------|:----------------:|
-|     Growing Years    | The Changes in Me?<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>                                                                                                    |  Term 2 <br>Week 1 <br>28 March 2025  |
-|                            |  Did You Know? <br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy **‘Stop-Think-Do**’. <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>      |  Term 2 <br>Week 2 <br>4 April 2025  |
-|                            |  Keeping Myself Safe<br>(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br> <br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>|    Term 2<br>Week5<br>25 April 2025   |
- |  |     |  
+<table class="lesson-table">
+  <thead>
+    <tr>
+      <th>CCE (FTGP) THEME</th>
+      <th>LESSON TITLE / DURATION</th>
+      <th>LESSON OVERVIEW</th>
+      <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Growing Years</td>
+      <td>
+        The Changes in Me<br>
+        (60 min)
+      </td>
+      <td class="justify">
+        This lesson focuses on helping students identify the emotions and stress
+        caused by physical changes during puberty. Students will learn to describe
+        the healthy ways to manage their negative feelings during this time. They
+        will also learn to recognise that one’s identity need not be negatively
+        affected, even when one’s body is experiencing changes due to puberty.
+        <br><br>
+        <em>
+          This lesson is conducted separately for boys and girls in different
+          classrooms, so that the students will feel more comfortable during the
+          discussions.
+        </em>
+      </td>
+      <td>
+        Term 2 Week 5<br>
+        24 April 2026
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Did You Know?<br>
+        (60 min)
+      </td>
+      <td class="justify">
+        This lesson focuses on helping students know what pornography is and how it
+        can affect themselves and others. Students will learn about the dangers of
+        being exposed to sexually explicit materials and reject the viewing and/or
+        reading of pornographic materials. They will learn to evaluate their own
+        responses when they encounter pornography by applying the strategy
+        <strong>‘Stop-Think-Do’.</strong><br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+      </td>
+      <td>
+        Term 2 Week 7<br>
+        8 May 2026
+      </td>
+    </tr>
+      <tr><td>
+        Keeping Myself Safe <br>
+				(60 min)
+      </td>
+      <td class="justify">
+        In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends. <br><br><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i>
+      </td>
+      <td>
+        Term 2 Week 8<br>
+				15 May 2026
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 <h5><center><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE </strong></center></h5>
 <h3><center><strong>Primary 6</strong></center></h3>
