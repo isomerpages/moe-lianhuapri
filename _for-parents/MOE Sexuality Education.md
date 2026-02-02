@@ -73,7 +73,7 @@ variant: markdown
 
 
 
-<h5><strong> Overview of Lianhua Primary School’s Sexuality Education Programme for 2025</strong></h5> 
+<h5><strong> Overview of Lianhua Primary School’s Sexuality Education Programme for 2026</strong></h5> 
 
 
 <p>4.&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click<a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
@@ -90,9 +90,9 @@ variant: markdown
 
 7.&nbsp;&nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks. 
 	
-**At Lianhua Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:**
+**At Lianhua Primary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:**
 
-<h5><center><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></center></h5>
+<h5><center><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></center></h5>
 <h3><center><strong>Primary 5</strong></center></h3>
 
 <table class="lesson-table">
@@ -165,7 +165,7 @@ variant: markdown
 
 
 
-<h5><center><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE </strong></center></h5>
+<h5><center><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE </strong></center></h5>
 <h3><center><strong>Primary 6</strong></center></h3>
 
 <table class="lesson-table">
