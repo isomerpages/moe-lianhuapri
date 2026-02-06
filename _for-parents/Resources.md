@@ -11,12 +11,23 @@ variant: markdown
 2026 P1 Parent Briefing Slides: [Click here](/files/Resources/2026_p1_orientation_21_nov_25_slides_sch_website.pdf)
 
 <h4><strong>Parents’ Briefing 01/2026</strong></h4>
-P2 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Click here</a><br><br>
-P3 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Click here</a><br><br>
-P3 &amp; P4 Parents's Briefing 2026 VP Sharing SBB: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p3_p4_parents_briefing_2026_vp_sharing_sbb.pdf">Click here</a><br><br>
-P5 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Click here</a><br><br>
-P5 &amp; P6 Parents's Briefing 2026 VP Sharing DSA ,PSLE, SBB: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p5_p6_parents_briefing_vp_sharing_dsa__psle_sbb.pdf">Click here</a><br><br>
-P6 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Click here</a>
+P2 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P2_Parents__Briefing_2026_Part_1_LHPS_Student_Outcomes.pdf">Part 1</a>  , <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+
+P3 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+
+P4 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+
+P5 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+
+P6 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+
+All Levels_LHPS Student Development &amp; Wellbeing: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p3_p4_parents_briefing_2026_vp_sharing_sbb.pdf">Click here</a>
+
+P3 &amp; P4 Parents's Briefing 2026 VP Sharing SBB: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p3_p4_parents_briefing_2026_vp_sharing_sbb.pdf">Click here</a>
+
+P5 &amp; P6 Parents's Briefing 2026 VP Sharing DSA ,PSLE, SBB: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p5_p6_parents_briefing_vp_sharing_dsa__psle_sbb.pdf">Click here</a>
+
+
 
 
 <h4><strong>PSLE Results Release</strong></h4>
