@@ -13,7 +13,7 @@ variant: markdown
 <h4><strong>Parents’ Briefing 01/2026</strong></h4>
 P2 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P2_Parents__Briefing_2026_Part_1_LHPS_Student_Outcomes.pdf">Part 1</a>  , <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P2_Parents__Briefing_2026_Part_2_LHPS_Student_Outcomes.pdf">Part 2</a>
 
-P3 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
+P3 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P3_Parents__Briefing_2026_Part1_LHPS_Student_Outcomes.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P3_Parents__Briefing_2026_Part2_LHPS_Student_Outcomes.pdf">Part 2</a>
 
 P4 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 1</a>, <a rel="noopener noreferrer" target="_blank" href="yourfile.pdf">Part 2</a>
 
@@ -27,7 +27,7 @@ P3 &amp; P4 Parents's Briefing 2026 VP Sharing SBB: <a rel="noopener noreferrer"
 
 P5 &amp; P6 Parents's Briefing 2026 VP Sharing DSA ,PSLE, SBB: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/p5_p6_parents_briefing_vp_sharing_dsa__psle_sbb.pdf">Click here</a>
 
-[](/files/Resources/P2_Parents__Briefing_2026_Part_2_LHPS_Student_Outcomes.pdf)
+[](/files/Resources/P3_Parents__Briefing_2026_Part2_LHPS_Student_Outcomes.pdf)
 
 
 <h4><strong>PSLE Results Release</strong></h4>
