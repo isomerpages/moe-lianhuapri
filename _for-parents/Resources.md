@@ -27,8 +27,6 @@ P6 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/
 
 2026 P5 and P6 VP Sharing SBB and Responses to Questions: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P5_P6_Parents__Briefing_VP_sharing_DSA__PSLE_SBB.pdf">Click here</a> 
 
-[](/files/Resources/P5_P6_Parents__Briefing_VP_sharing_DSA__PSLE_SBB.pdf)
-
 
 <h4><strong>PSLE Results Release</strong></h4>
 
