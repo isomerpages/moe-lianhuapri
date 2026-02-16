@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - MOE’s Engagement Charter.md
       - Homework Policy.md
       - School Info/.keep
       - School Info/School Hours & Recess Timings.md
@@ -11,6 +10,7 @@ collections:
       - School Info/School Bus.md
       - School Info/School Dental.md
       - School Info/Student Care Centre.md
+      - MOE’s Engagement Charter.md
       - MOE Sexuality Education.md
       - Resources.md
       - Parent Support Group & Parent Volunteers.md
