@@ -34,10 +34,10 @@ create lasting positive change.</p>
 <p><strong>Leadership in Action</strong>
 <br>Every student has opportunities to step up and lead through various meaningful
 roles:
-<br>•	<strong>Class Leaders</strong> who guide their peers daily
-<br>•	<strong>CCA Leaders</strong> who inspire excellence in co-curricular activities
-<br>•	<strong>Peer Support Leaders</strong> who care for fellow students
-<br>•	<strong>Prefects</strong> who serve as role models for the entire school</p>
+<br>• <strong>Class Leaders</strong> who guide their peers daily
+<br>• <strong>CCA Leaders</strong> who inspire excellence in co-curricular activities
+<br>• <strong>Peer Support Leaders</strong> who care for fellow students
+<br>• <strong>Prefects</strong> who serve as role models for the entire school</p>
 <p><strong>Real-World Leadership Development</strong>
 <br>Through CCAs and our exciting Primary 5 Adventure &amp; Leadership Camp,
 students don't just learn about leadership – they live it. These experiences
@@ -45,22 +45,44 @@ allow them to apply leadership skills, develop self-management abilities,
 embrace values of unity and resilience, and master the art of teamwork.</p>
 <p><strong>The TERA Approach</strong>
 <br>Our Superhero Leaders follow a proven development cycle:
-<br>•	<strong>Think</strong> critically about challenges and opportunities
-<br>•	<strong>Experience</strong> hands-on leadership situations
-<br>•	<strong>Reflect</strong> on lessons learned and growth achieved
-<br>•	<strong>Act</strong> with purpose to create positive impact</p>
+<br>• <strong>Think</strong> critically about challenges and opportunities
+<br>• <strong>Experience</strong> hands-on leadership situations
+<br>• <strong>Reflect</strong> on lessons learned and growth achieved
+<br>• <strong>Act</strong> with purpose to create positive impact</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Tera_Approach.png">
 </div>
-<p>Built on Proven Leadership Principles</p>
-<p>Our programme is grounded in Kouzes and Posner's Five Practices of Exemplary
-Leadership. Students at Tier 2 (Lead Others) develop mastery through:</p>
-<p>Model the Way – Leading by example with integrity and authenticity</p>
-<p>Inspire a Shared Vision – Creating compelling futures that motivate others</p>
-<p>Challenge the Process – Seeking innovative solutions and taking smart
-risks</p>
-<p>Enable Others to Act – Fostering collaboration and strengthening others</p>
-<p>Encourage the Heart – Recognising contributions and celebrating achievements</p>
-<p>Our Superhero Leadership Journey</p>
+<p><strong>Built on Proven Leadership Principles</strong>
+<br>Our programme is grounded in Kouzes and Posner's Five Practices of Exemplary
+Leadership. Students at Tier 2 (Lead Others) develop mastery through:
+<br><strong>Model the Way </strong>– Leading by example with integrity and
+authenticity
+<br><strong>Inspire a Shared Vision</strong> – Creating compelling futures
+that motivate others
+<br><strong>Challenge the Process</strong> – Seeking innovative solutions and
+taking smart risks
+<br><strong>Enable Others to Act</strong> – Fostering collaboration and strengthening
+others
+<br><strong>Encourage the Heart</strong> – Recognising contributions and celebrating
+achievements</p>
+<p><strong>Our Superhero Leadership Journey</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
+</div>
+<p>Throughout their journey, our students will embrace healthy living through
+our Grow Well SG approach: Eat Well, Sleep Well, Exercise Well, Learn Well,
+Bond Well.
+<br>From classroom initiatives to school-wide projects and community outreach,
+our students have countless platforms to initiate change, lead others,
+and spearhead meaningful initiatives. The diagram below illustrates the
+variety of leadership opportunities available as students progress through
+their superhero journey.</p>
+<p><strong>Student Leadership Structure</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="50" src="/images/Highlights/Learning for Life Programme/Student_Leadership_Structure.png">
+</div>
 <p></p>
