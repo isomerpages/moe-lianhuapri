@@ -69,7 +69,7 @@ achievements</p>
 <p><strong>Our Superhero Leadership Journey</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
 </div>
 <p>Throughout their journey, our students will embrace healthy living through
 our Grow Well SG approach: Eat Well, Sleep Well, Exercise Well, Learn Well,
@@ -81,8 +81,40 @@ variety of leadership opportunities available as students progress through
 their superhero journey.</p>
 <p><strong>Student Leadership Structure</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="50" src="/images/Highlights/Learning for Life Programme/Student_Leadership_Structure.png">
+</div>
+<p><strong>Our Superhero Leaders in Action!</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture1.jpg">
+</div>
+<p><strong>Building Inner Strength: </strong>Our young superheroes master
+the art of self-leadership, developing
+<br>essential self-management skills that form the foundation of great leadership.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="50" src="/images/Highlights/Learning for Life Programme/Student_Leadership_Structure.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_2.png">
 </div>
+<p><strong>Big Hearts, Guiding Hands: </strong>Primary 4 Superhero Leaders
+take their Primary 1 buddies under their wing, creating lasting friendships
+while showing them around school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_4.png">
+</div>
+<p><strong>Leadership in Action:</strong> From CCA sessions to our thrilling
+Primary 5 Adventure &amp; Leadership Camp, students put their leadership
+skills to the test, building unity, resilience, and teamwork through real
+challenges and shared adventures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_5.png">
+</div>
+<p><strong>Developing Tomorrow's Leaders:</strong> Our Tier 2 Superhero Leaders
+– Prefects, CCA Leaders, and Peer Support Leaders – dive deep into leadership
+development through intensive training sessions and camps, discovering
+their unique strengths and learning to inspire positive change in others.</p>
