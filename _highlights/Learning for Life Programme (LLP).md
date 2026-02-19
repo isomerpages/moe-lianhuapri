@@ -69,7 +69,7 @@ achievements</p>
 <p><strong>Our Superhero Leadership Journey</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
 </div>
 <p>Throughout their journey, our students will embrace healthy living through
 our Grow Well SG approach: Eat Well, Sleep Well, Exercise Well, Learn Well,
