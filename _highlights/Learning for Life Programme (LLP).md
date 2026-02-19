@@ -2,98 +2,118 @@
 title: Learning for Life Programme (LLP)
 permalink: /highlights/learning-for-life-programme/
 description: ""
+variant: markdown
 ---
-# Learning for Life Programme
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/Picture%201.jpg)
-
-
-**CHAracter Makes a Person**
-
-Physical education and sports present authentic opportunities for values learning. Lianhua Primary School’s LLP is titled CHAMP for Life. CHAMP is short for ‘CHAracter Makes a Person’. This programme aims to develop students’ character through a variety of sporting and outdoor experiences over their primary school journey.
-
-The intended student outcomes are:
-
-1.   Exemplary Leadership over Self and Others
-* Students are nurtured with good character by consistently putting into action desirable values and attributes.
-
-2.   Passionate Learners who are Inquisitive and Reflective
-* Students demonstrate an interest in sports and the outdoors by pursuing them for healthy recreation
-
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%201.jpg)
-
-
-**Values and Attributes**
-
-Taking reference from the Game for Life Framework (Sport Singapore, 2013), some core values and attributes are identified and selected for Primary One to Six levels. CHAMP for Life aims to equip students with a broad spectrum of values and attributes from three categories:
-
-1. Performance: necessary for effective skill learning and execution.
-
-2. Social: establishing strong relationship dynamics between all parties, for example team members, opponents, as well as sport officials.
-
-3. Moral: moderating desire for success with a sense of righteousness.
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%202.jpg)
-
-
-| ![](/images/Highlights/Learning%20for%20Life%20Programme/image%203.jpg)     | ![](/images/Highlights/Learning%20for%20Life%20Programme/image%204.jpg)     | 
-| -------- | -------- | 
-|   |   |
-
-
-**Tiered Approach**
-
-A tiered approach serves to provide students with different depths of experience. CHAMP for Life consists of two tiers.
-
-**Tier One**
-
-Students will learn and apply selected values through the Physical Education (PE) curriculum and Programme for Active Learning (PAL) modules. The CHAMP for Life journal is used to facilitate reflections and allow students to document their learning.
-
-The range of programmes include:
-
-*   Values-infused PE lessons
-    
-*   Step-It-Up Challenge (Recess Programme)
-    
-*   Inter-Class Games
-    
-*   Key PE events like Sports Day and cohort camps
-    
-*   Sports Education Programme
-
-*   PAL (Sports &amp; Games and Outdoor Education) modules
- 
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%205.jpg)
-
-| ![](/images/Highlights/Learning%20for%20Life%20Programme/image%206.jpg)     | ![](/images/Highlights/Learning%20for%20Life%20Programme/image%207.jpg)     | 
-| -------- | -------- | 
-|   |   |
-
-
-**Tier Two**
-
-The target group is the Sports CCA members, and the focus is on the application of values like sportsmanship and excellence at both recreational and competitive levels. There will also be opportunities for students to hone leadership skills so that they can contribute to various roles during CCA or school-wide sports events. Some of the opportunities include:
-
-*   P1 CCA Experience
-    
-*   Officials for Sports Day and Inter-Class Games
-    
-*   Student facilitators for cohort camps
-
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%208.jpg)
-
-**CHAMP for Life journal**
-
-The CHAMP for Life journal has been designed to assist PE teachers in the explicit teaching of values-infused PE lessons and experiences via the two-tiered approach. The journal also offers opportunities for students to cultivate values through reflecting on school sporting and outdoor experiences. Reflection encourages students to look within to consider how they are truly feeling about a situation or activity.
-
-Through active learning strategies, teachers spend more time promoting learning that facilitates deep understanding and acquisition of skills. The benefits of using such strategies include enhanced critical thinking skills, increased motivation and improved interpersonal skills.
-
-| ![](/images/Highlights/Learning%20for%20Life%20Programme/image%2010a.jpg)     | ![](/images/Highlights/Learning%20for%20Life%20Programme/image%2010b.jpg)     | 
-| -------- | -------- | 
-|   |   |
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%2011.jpg)     
-
-![](/images/Highlights/Learning%20for%20Life%20Programme/image%2012.jpg)
+<h1>Learning for Life Programme</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" align="right" src="/images/Highlights/Learning%20for%20Life%20Programme/Superheroes_logo.png">
+</div>
+<p><strong>Superhero Leaders Programme</strong>
+<br><em>Our Learning for Life Programme (LLP)</em>
+</p>
+<p></p>
+<p><strong>Unleashing the Hero Within Every Student</strong>
+<br>Our Superhero Leaders Programme transforms every Lianhua student into
+an exemplary leader who makes a real difference in their community. We
+believe every child has the potential to be a superhero – not with capes
+and superpowers, but with character, compassion, and courage.</p>
+<p><strong>What Makes a Superhero Leader?</strong>
+<br>Our programme develops students who excel in four key areas:</p>
+<p><strong>Personal Excellence</strong> Students become self-disciplined individuals
+with strong character who embrace active, healthy lifestyles and take charge
+of their own growth.</p>
+<p><strong>Communication &amp; Innovation</strong> Our young leaders master
+effective communication, thrive in collaborative environments, and approach
+challenges with adaptive and inventive thinking.</p>
+<p><strong>Community Service</strong> They develop a genuine heart for service,
+understanding others' needs and taking meaningful action to improve their
+school, environment, and wider community.</p>
+<p><strong>Social Impact</strong> Our Superhero Leaders exercise social responsibility
+within their spheres of influence, making purposeful contributions that
+create lasting positive change.</p>
+<p><strong>Leadership in Action</strong>
+<br>Every student has opportunities to step up and lead through various meaningful
+roles:
+<br>• <strong>Class Leaders</strong> who guide their peers daily
+<br>• <strong>CCA Leaders</strong> who inspire excellence in co-curricular activities
+<br>• <strong>Peer Support Leaders</strong> who care for fellow students
+<br>• <strong>Prefects</strong> who serve as role models for the entire school</p>
+<p><strong>Real-World Leadership Development</strong>
+<br>Through CCAs and our exciting Primary 5 Adventure &amp; Leadership Camp,
+students don't just learn about leadership – they live it. These experiences
+allow them to apply leadership skills, develop self-management abilities,
+embrace values of unity and resilience, and master the art of teamwork.</p>
+<p><strong>The TERA Approach</strong>
+<br>Our Superhero Leaders follow a proven development cycle:
+<br>• <strong>Think</strong> critically about challenges and opportunities
+<br>• <strong>Experience</strong> hands-on leadership situations
+<br>• <strong>Reflect</strong> on lessons learned and growth achieved
+<br>• <strong>Act</strong> with purpose to create positive impact</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" align="right" src="/images/Highlights/Learning for Life Programme/Tera_Approach.png">
+</div>
+<p><strong>Built on Proven Leadership Principles</strong>
+<br>Our programme is grounded in Kouzes and Posner's Five Practices of Exemplary
+Leadership. Students at Tier 2 (Lead Others) develop mastery through:
+<br><strong>Model the Way </strong>– Leading by example with integrity and
+authenticity
+<br><strong>Inspire a Shared Vision</strong> – Creating compelling futures
+that motivate others
+<br><strong>Challenge the Process</strong> – Seeking innovative solutions and
+taking smart risks
+<br><strong>Enable Others to Act</strong> – Fostering collaboration and strengthening
+others
+<br><strong>Encourage the Heart</strong> – Recognising contributions and celebrating
+achievements</p>
+<p><strong>Our Superhero Leadership Journey</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/table.png">
+</div>
+<p>Throughout their journey, our students will embrace healthy living through
+our Grow Well SG approach: Eat Well, Sleep Well, Exercise Well, Learn Well,
+Bond Well.
+<br>From classroom initiatives to school-wide projects and community outreach,
+our students have countless platforms to initiate change, lead others,
+and spearhead meaningful initiatives. The diagram below illustrates the
+variety of leadership opportunities available as students progress through
+their superhero journey.</p>
+<p align="center"><strong>Student Leadership Structure</strong></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="50" src="/images/Highlights/Learning for Life Programme/Student_Leadership_Structure.png">
+</div>
+<p><strong>Our Superhero Leaders in Action!</strong></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture1.jpg">
+</div>
+<p><strong>Building Inner Strength: </strong>Our young superheroes master
+the art of self-leadership, developing
+<br>essential self-management skills that form the foundation of great leadership.</p>
+<p></p>
+<br>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_2.png">
+</div>
+<p><strong>Big Hearts, Guiding Hands: </strong>Primary 4 Superhero Leaders
+take their Primary 1 buddies under their wing, creating lasting friendships
+while showing them around school.</p>
+<p></p><br>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture_3.png">
+</div><br>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_4.png">
+</div>
+<p><strong>Leadership in Action:</strong> From CCA sessions to our thrilling
+Primary 5 Adventure &amp; Leadership Camp, students put their leadership
+skills to the test, building unity, resilience, and teamwork through real
+challenges and shared adventures.</p>
+<p></p><br>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_5.png">
+</div>
+<p><strong>Developing Tomorrow's Leaders:</strong> Our Tier 2 Superhero Leaders
+– Prefects, CCA Leaders, and Peer Support Leaders – dive deep into leadership
+development through intensive training sessions and camps, discovering
+their unique strengths and learning to inspire positive change in others.</p>
