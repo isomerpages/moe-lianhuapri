@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h1>Learning for Life Programme</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning%20for%20Life%20Programme/Superheroes_logo.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" align="right" src="/images/Highlights/Learning%20for%20Life%20Programme/Superheroes_logo.png">
 </div>
 <p><strong>Superhero Leaders Programme</strong>
 <br><em>Our Learning for Life Programme (LLP)</em>
@@ -51,7 +51,7 @@ embrace values of unity and resilience, and master the art of teamwork.</p>
 <br>• <strong>Act</strong> with purpose to create positive impact</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Tera_Approach.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" align="right" src="/images/Highlights/Learning for Life Programme/Tera_Approach.png">
 </div>
 <p><strong>Built on Proven Leadership Principles</strong>
 <br>Our programme is grounded in Kouzes and Posner's Five Practices of Exemplary
@@ -79,13 +79,11 @@ our students have countless platforms to initiate change, lead others,
 and spearhead meaningful initiatives. The diagram below illustrates the
 variety of leadership opportunities available as students progress through
 their superhero journey.</p>
-<p><strong>Student Leadership Structure</strong>
-</p>
+<p align="center"><strong>Student Leadership Structure</strong></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="50" src="/images/Highlights/Learning for Life Programme/Student_Leadership_Structure.png">
 </div>
-<p><strong>Our Superhero Leaders in Action!</strong>
-</p>
+<p><strong>Our Superhero Leaders in Action!</strong></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture1.jpg">
 </div>
@@ -93,16 +91,17 @@ their superhero journey.</p>
 the art of self-leadership, developing
 <br>essential self-management skills that form the foundation of great leadership.</p>
 <p></p>
+<br>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_2.png">
 </div>
 <p><strong>Big Hearts, Guiding Hands: </strong>Primary 4 Superhero Leaders
 take their Primary 1 buddies under their wing, creating lasting friendships
 while showing them around school.</p>
-<p></p>
+<p></p><br>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/Picture_3.png">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_4.png">
 </div>
@@ -110,7 +109,7 @@ while showing them around school.</p>
 Primary 5 Adventure &amp; Leadership Camp, students put their leadership
 skills to the test, building unity, resilience, and teamwork through real
 challenges and shared adventures.</p>
-<p></p>
+<p></p><br>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlights/Learning for Life Programme/picture_5.png">
 </div>
