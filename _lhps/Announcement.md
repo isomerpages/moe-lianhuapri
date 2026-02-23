@@ -39,43 +39,26 @@ Do you have a passionate, dedicated and inspiring LHPS teacher who has positivel
     <td>Deadline</td>
   </tr>
   <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
-    <td>Row 2, Column 3</td>
+    <td>Arif Budiman Malay Language Teacher Award</td>
+    <td>This award recognises the contributions of Malay Language teachers in the teaching and learning of the Malay language.<br><a href="https://go.gov.sg/agab-2026">https://go.gov.sg/agab-2026</a></td>
+    <td>13 Mar-26</td>
   </tr>
   <tr>
-    <td>Row 3, Column 1</td>
-    <td>Row 3, Column 2</td>
-    <td>Row 3, Column 3</td>
+    <td>Most Inspiring Tamil Teacher Award</td>
+    <td>This award serves to recognise the stellar performance of Tamil teachers in their role in educating and promoting Tamil Language among their students.<br><a href="https://go.gov.sg/mitt2026nominations">https://go.gov.sg/mitt2026nominations</a></td>
+    <td>13 Mar-26</td>
   </tr>
   <tr>
-    <td>Row 4, Column 1</td>
-    <td>Row 4, Column 2</td>
-    <td>Row 4, Column 3</td>
+    <td>Inspiring Teacher of English Award</td>
+    <td>This award acknowledges teachers who ignite a love for the English language and are effective in helping their students speak and write accurately.<br>
+			<ul>
+  <li>Teaching Award</li>
+  <li>Leadership Award (for HODs, SHs and LHs)</li><a href="https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information">NOMINATE YOUR ENGLISH LANGUAGE TEACHER TODAY!</a>
+</ul></td>
+    <td>23-Mar-26<br>(Downloaded and completed forms to be submitted to the Principal via <a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#4287f5">chia_emily@moe.edu.sg </span></a>by 6pm.)</td>
   </tr>
 </tbody></table>
 	
   <li>Thank you for your support in recognising the good work of our fellow colleagues!</li>
 </ol>
 
-**Caring Teacher Awards (CTA)**
-
-The **CTA** celebrates educators who exemplify care and compassion in their teaching, going beyond the call of duty to nurture the holistic development of their students. These dedicated teachers play a vital role in shaping confident, independent, and resilient learners who contribute meaningfully to our nation.
-
-**Submission of Nomination for CTA 2026**
-
-*   Nomination for the CTA is now **open**, and will **close on Wednesday, 31 December 2025**. We strongly encourage you to nominate deserving teachers for these awards in recognition of their good work.
-*   Please submit your nominations online by clicking [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) . &nbsp;
-
-**President’s Award for Teachers (PAT)**
-
-The **PAT** pays tribute to experienced teachers for their role in moulding the future of our nation. These teachers are role models for the teaching profession as they embody a deep passion for teaching, and they inspire both their students and peers through their words and deeds.
-
-**Outstanding Youth in Education Award (OYEA)**
-
-The **OYEA** recognises young teachers who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. These teachers embody youthful idealism, energy and enthusiasm, and inspire both their students and peers through their words and deeds. Teachers who are 35 years old and below in 2026 are eligible for the award.
-
-**Submission of Nominations for PAT and OYEA 2026**
-
-*   Nomination for the PAT and OYEA 2026 is now **open**, and will **close on 12pm, Friday, 9 January 2026**. We strongly encourage you to nominate deserving teachers for these awards in recognition of their good work.
-*   Please submit your nominations online by clicking [https://go.gov.sg/pat2026](https://go.gov.sg/pat2026) for **PAT**, and [https://go.gov.sg/oyea2026](https://go.gov.sg/oyea2026) for **OYEA**.
