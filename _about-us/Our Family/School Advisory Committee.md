@@ -43,18 +43,18 @@ td {
 	</thead>
 	<tbody>
   <tr>
-    <td><img src="/images/About%20us/Our%20Family/sac3.jpg">Mr Ng Ching Kok Anson<br>Member</td>
-    <td><img src="/images/About%20us/Our%20Family/MrHongKhaiSeng.jpg"> Mr Hong Khai Seng<br>Member</td>
-    <td><img src="/images/About%20us/Our%20Family/MrTanChunHean.jpg">Mr Tan Chun Hean<br>Member</td>
+    <td><img src="/images/About%20us/Our%20Family/sac3.jpg">Mr Ng Ching Kok Anson<br>Chairman</td>
+						<td><img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg">Ms Pamela Kiew<br>Member </td>
+					<td><img src="/images/About%20us/Our%20Family/Mr_Ang_Ying_Thye.jpg">Mr Ang Ying Thye<br>Member </td>
   </tr>
   <tr>
     <td><img src="/images/About%20us/Our%20Family/alanngshirong.jpg">Mr Alan Ng Shi Rong<br>Member</td>
     <td><img src="/images/About%20us/Our%20Family/amosleonghongkiat.jpg"> Mr Amos Leong Hong Kiat<br>Member</td>
     <td><img src="/images/About%20us/Our%20Family/estherfoongtan.jpg">Mrs Esther Foong-Tan<br>Member</td>
   </tr>
-		  <tr>
-			<td><img src="/images/About%20us/Our%20Family/Mr_Ang_Ying_Thye.jpg">Mr Ang Ying Thye<br>Member </td>
-				<td><img src="/images/About%20us/Our%20Family/MsPamelaKiew.jpg">Ms Pamela Kiew<br>Member </td>
+	  <tr>
+    <td><img src="/images/About%20us/Our%20Family/MrHongKhaiSeng.jpg"> Mr Hong Khai Seng<br>Member</td>
+    <td><img src="/images/About%20us/Our%20Family/MrTanChunHean.jpg">Mr Tan Chun Hean<br>Member</td>
   </tr>
 
   </tbody></table>
