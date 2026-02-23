@@ -18,7 +18,7 @@ variant: markdown
   }
 </style>
 
-<p><strong>Dear Students, Parents and Educators,</strong><br>
+<p><strong>Dear Students, Parents and Educators,</strong><br><br>
 
 Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?&nbsp; Do consider nominating the teacher for the three national level awards.</p>
 
@@ -61,4 +61,3 @@ Do you have a passionate, dedicated and inspiring LHPS teacher who has positivel
 	
   <li>Thank you for your support in recognising the good work of our fellow colleagues!</li>
 </ol>
-
