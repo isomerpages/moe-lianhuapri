@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Family
 variant: markdown
 ---
-# School Advisory Commitee
+# School Advisory Committee
 
 <style>
  
