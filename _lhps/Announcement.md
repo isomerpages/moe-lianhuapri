@@ -4,20 +4,58 @@ permalink: /lhps/announcement/
 description: ""
 variant: markdown
 ---
+<style>
+  table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
 <p><strong>Dear Students, Parents and Educators,</strong><br>
 
 Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?&nbsp; Do consider nominating the teacher for the three national level awards.</p>
 
 <ol>
-  <li>First item
+  <li>Nominations for the following 2026 teacher awards are now open: 
     <ol style="list-style-type: lower-alpha;">
-      <li>Sub-item</li>
-      <li>Sub-item</li>
-      <li>Sub-item</li>
+      <li>Arid Budiman Malay Language Teacher Award</li>
+      <li>Most Inspiring Tamil Teacher Award</li>
+      <li>Inspiring Teacher of English Award</li>
     </ol>
-  </li>
-  <li>Second item</li>
-  <li>Third item</li>
+  </li><br>
+  <li>We would like to invite you to submit your nomination(s) for any deserving teacher(s) by accessing the URLs below.  Please submit your nominations within the respective deadlines indicated.</li>
+	
+<table>
+  <tbody><tr>
+    <td>Award</td>
+    <td>Details and Link to Online Form</td>
+    <td>Deadline</td>
+  </tr>
+  <tr>
+    <td>Row 2, Column 1</td>
+    <td>Row 2, Column 2</td>
+    <td>Row 2, Column 3</td>
+  </tr>
+  <tr>
+    <td>Row 3, Column 1</td>
+    <td>Row 3, Column 2</td>
+    <td>Row 3, Column 3</td>
+  </tr>
+  <tr>
+    <td>Row 4, Column 1</td>
+    <td>Row 4, Column 2</td>
+    <td>Row 4, Column 3</td>
+  </tr>
+</tbody></table>
+	
+  <li>Thank you for your support in recognising the good work of our fellow colleagues!</li>
 </ol>
 
 **Caring Teacher Awards (CTA)**
