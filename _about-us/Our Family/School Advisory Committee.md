@@ -44,8 +44,8 @@ td {
 	<tbody>
   <tr>
     <td><img src="/images/About%20us/Our%20Family/sac3.jpg">Mr Ng Ching Kok Anson<br>Member</td>
-    <td><img src="/images/About%20us/Our%20Family/sac2.jpg"> Mr Low Teo Wah Vincent<br>Member</td>
-    <td><img src="/images/About%20us/Our%20Family/DrLimSoonThye.jpeg">Prof Lim Soon Thye<br>Member</td>
+    <td><img src="/images/About%20us/Our%20Family/MrHongKhaiSeng.jpg"> Mr Hong Khai Seng<br>Member</td>
+    <td><img src="/images/About%20us/Our%20Family/MrTanChunHean.jpg">Mr Tan Chun Hean<br>Member</td>
   </tr>
   <tr>
     <td><img src="/images/About%20us/Our%20Family/alanngshirong.jpg">Mr Alan Ng Shi Rong<br>Member</td>
