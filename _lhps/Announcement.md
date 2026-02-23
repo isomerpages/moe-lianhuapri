@@ -4,9 +4,21 @@ permalink: /lhps/announcement/
 description: ""
 variant: markdown
 ---
-**Dear Students, Parents and Educators,**
+<p><strong>Dear Students, Parents and Educators,</strong><br>
 
-Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?  Do consider nominating the teacher for the three national level awards.
+Do you have a passionate, dedicated and inspiring LHPS teacher who has positively impacted you/ your child in your/ his/ her learning and beyond?&nbsp; Do consider nominating the teacher for the three national level awards.</p>
+
+<ol>
+  <li>First item
+    <ol style="list-style-type: lower-alpha;">
+      <li>Sub-item</li>
+      <li>Sub-item</li>
+      <li>Sub-item</li>
+    </ol>
+  </li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
 
 **Caring Teacher Awards (CTA)**
 
@@ -15,7 +27,7 @@ The **CTA** celebrates educators who exemplify care and compassion in their teac
 **Submission of Nomination for CTA 2026**
 
 *   Nomination for the CTA is now **open**, and will **close on Wednesday, 31 December 2025**. We strongly encourage you to nominate deserving teachers for these awards in recognition of their good work.
-*   Please submit your nominations online by clicking [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) .  
+*   Please submit your nominations online by clicking [www.cta.nie.edu.sg](http://www.cta.nie.edu.sg) . &nbsp;
 
 **President’s Award for Teachers (PAT)**
 
