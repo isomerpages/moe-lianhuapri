@@ -11,6 +11,8 @@ variant: markdown
 2026 P1 Parent Briefing Slides: [Click here](/files/Resources/2026_p1_orientation_21_nov_25_slides_sch_website.pdf)
 
 <h4><strong>Parents’ Briefing 01/2026</strong></h4>
+P1 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P1_Parent_Briefing__3rd_Engagement__2026.pdf">Part 1</a>
+
 P2 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P2_Parents__Briefing_2026_Part_1_LHPS_Student_Outcomes.pdf">Part 1</a> , <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P2_Parents__Briefing_2026_Part_2_LHPS_Student_Outcomes.pdf">Part 2</a>
 
 P3 Parents's Briefing 2026: <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P3_Parents__Briefing_2026_Part1_LHPS_Student_Outcomes.pdf">Part 1</a> , <a rel="noopener noreferrer" target="_blank" href="/files/Resources/P3_Parents__Briefing_2026_Part2_LHPS_Student_Outcomes.pdf">Part 2</a>
