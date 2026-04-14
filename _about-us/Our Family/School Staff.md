@@ -7,7 +7,7 @@ variant: markdown
 ---
 # School Staff
 
-![](/images/About%20us/Our%20Family/lhps2025staffphoto.png)
+![](/images/About%20us/Our%20Family/LHPS_Staff_Photo.png)
 <style>
 table {
   font-family: arial, sans-serif;
@@ -213,7 +213,7 @@ td span{
   <tr>
     <td>Year Head<br>(P3 &amp; P4)</td>
     <td>Ms Irfana Banu</td>
-    <td><a href="mailto:"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:ilfana_banu_kuthubudeen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ilfana_banu_kuthubudeen@moe.edu.sg</span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P3 &amp; P4)</td>
@@ -287,7 +287,7 @@ td span{
     <tr>
     <td>Year Head<br>(P3 &amp; P4)</td>
     <td>Ms Irfana Banu</td>
-    <td><a href="mailto:"><span style="font-weight:400;text-decoration:underline;color:#FD9047"></span></a></td>
+    <td><a href="mailto:ilfana_banu_kuthubudeen@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ilfana_banu_kuthubudeen@moe.edu.sg</span></a></td>
   </tr>
 		<tr>
     <td>Assistant Year Head (P3 &amp; P4)</td>
