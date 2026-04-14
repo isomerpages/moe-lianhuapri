@@ -7,7 +7,7 @@ variant: markdown
 ---
 # School Leaders &amp; School Management Committee
 
-| <p align="center">Designation | </p><p align="center">Name | 
+| Designation | Name | 
 | -------- | -------- | 
 | Principal     | Ms Pamela Kiew     | 
 | Vice-Principal (EO)     | Mdm Janice Tan     | 
@@ -38,4 +38,4 @@ variant: markdown
 | SH CCA/Outdoor     | Ms Ho Si Hui   | 
 | SH Aesthetics     | Mdm Lee Gim Fang   | 
 | SH Partnership     | Mdm Kuan Suan Shi   | 
-</p>
+<p></p>
