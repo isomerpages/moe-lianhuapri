@@ -9,9 +9,9 @@ variant: markdown
 
 | Designation | Name | E-mail Address |
 | -------- | -------- | -------- | 
-| Principal     | Ms Pamela Kiew     | Kiew     | 
-| Vice-Principal (EO)     | Mdm Janice Tan     | Kiew     | 
-| Vice-Principal (EO)     | Mrs Mavis Low   | Kiew     | 
+| Principal     | Ms Pamela Kiew     | pamela_kiew@schools.gov.sg     | 
+| Vice-Principal (EO)     | Mdm Janice Tan     | janice_wp_tan@schools.gov.sg     | 
+| Vice-Principal (EO)     | Mrs Mavis Low   | mavis_siew@schools.gov.sg     | 
 | Vice-Principal (Admin)     | Mr Jeffrey Lee   | lee_tze_wei_jeffrey@schools.gov.sg     | 
 | Year Head P1 &amp; P2     | Ms Christina Hoon  | hoon_christina@moe.edu.sg     | 
 | Year Head P3 &amp; P4     | Ms Irfana Banu   |      | 
