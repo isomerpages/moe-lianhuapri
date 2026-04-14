@@ -37,4 +37,4 @@ variant: markdown
 | SH ICT     | Mdm Seri Rahayu   | Kiew     | 
 | SH CCA/Outdoor     | Ms Ho Si Hui   | Kiew     | 
 | SH Aesthetics     | Mdm Lee Gim Fang   | Kiew     | 
-| SH Partnership     | Mdm Kuan Suan Shi   | Kiew     | 
+| SH Partnership     | Mdm Kuan Suan Shi   | Kiew     |
