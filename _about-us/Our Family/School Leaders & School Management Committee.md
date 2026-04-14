@@ -14,7 +14,7 @@ variant: markdown
 | Vice-Principal (EO)     | Mrs Mavis Low   | mavis_siew@schools.gov.sg     | 
 | Vice-Principal (Admin)     | Mr Jeffrey Lee   | lee_tze_wei_jeffrey@schools.gov.sg     | 
 | Year Head P1 &amp; P2     | Ms Christina Hoon  | hoon_christina@moe.edu.sg     | 
-| Year Head P3 &amp; P4     | Ms Irfana Banu   |      | 
+| Year Head P3 &amp; P4     | Ms Irfana Banu   |  ilfana_banu_kuthubudeen@moe.edu.sg    | 
 | Year Head P5 &amp; P6     | Mrs Samantha Soh   | samantha_lee_miew_fung@moe.edu.sg     | 
 | Assistant Year Head P1 &amp; P2     | Mrs Angeline Hoh   | ow_may_ling_angeline@moe.edu.sg     | 
 | Assistant Year Head P3 &amp; P4     | Mdm Pek Peet Juan   | pek_peet_juan@moe.edu.sg     | 
