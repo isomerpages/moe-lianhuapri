@@ -38,4 +38,3 @@ variant: markdown
 | SH CCA/Outdoor     | Ms Ho Si Hui   | 
 | SH Aesthetics     | Mdm Lee Gim Fang   | 
 | SH Partnership     | Mdm Kuan Suan Shi   | 
-<p></p>
