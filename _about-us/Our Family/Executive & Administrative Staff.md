@@ -86,6 +86,10 @@ tr:nth-child(even) {
     <td>Mr Tan Jui Yong</td>
     <td>Operations Support Officer</td>
   </tr>
+		<tr>
+    <td>Mr Rashid Bin Buwasir </td>
+    <td>Operations Support Officer</td>
+  </tr>
 	</tbody></table>
 
 <h4>Support Staff</h4>
