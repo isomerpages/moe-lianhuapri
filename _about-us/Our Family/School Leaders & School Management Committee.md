@@ -7,6 +7,38 @@ variant: markdown
 ---
 # School Leaders &amp; School Management Committee
 
+
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+	font-size: 15px;
+}
+
+tr:nth-child(even) {
+  background-color: #ECEAE9;
+}
+
+td:first-child {
+      font-weight: bold;
+    }
+	
+td span{
+	font-weight:400;
+	text-decoration:underline;
+	color:#FD9047
+	}
+	
+</style>
+
 | Designation | Name | E-mail Address |
 | -------- | -------- | -------- | 
 | Principal     | Ms Pamela Kiew     |     | 
