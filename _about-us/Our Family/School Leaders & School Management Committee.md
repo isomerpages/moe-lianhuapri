@@ -55,6 +55,7 @@ td span{
 | HOD Mother Tongue Language (Covering)     | Ms Tan Li Yan   | tan_li_yan@moe.edu.sg     | 
 | HOD Mathematics (Covering)     | Mrs Alexis Pua   | toh_wei_zeng@moe.edu.sg     | 
 | HOD Science     | Mrs Sally Yeo   | tan_chui_lew@moe.edu.sg     | 
+| School Staff Developer     | Mrs Emily Chia   |  chia_emily@moe.edu.sg    | 
 | HOD PE-CCA     | Ms Lim Siew Chin   | lim_siew_chin_a@moe.edu.sg     | 
 | HOD CCE     | Mr Vincent Low   | low_teck_chye_vincent@moe.edu.sg     | 
 | HOD Student Management     | Ms Sheena Foo   | foo_ru_yuan_sheena@moe.edu.sg     | 
