@@ -24,7 +24,9 @@ sections:
       description: E-OPEN HOUSE 2026
       image: /images/Potential Parents & Students/E OPEN HOUSE
         2026/eopenhouse_banner.jpg
-      alt: Image alt text
+      alt: E-OPEN HOUSE 2026 banner
+      button: Preview Our e-Open House
+      url: https://www.lianhuapri.moe.edu.sg/e-open-house-2026/
   - infopic:
       title: Play
       description: I explore and discover through play. I acquire new knowledge,
