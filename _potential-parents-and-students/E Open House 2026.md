@@ -1,15 +1,15 @@
 ---
-title: E Open House 2025
-permalink: /e-open-house-2025/
+title: E Open House 2026
+permalink: /e-open-house-2026/
 variant: markdown
 description: ""
 ---
-<img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHouseWebsitebanner2025.jpg">
-<br>
-<img height="200" width="300" alt="Banner" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/EOpenHousePoster2025_updated.jpg">
+![](/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202026/eopenhouse_banner.jpg)
+
+![](/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202026/popup_msg.jpg)
 
 <p align="justify">Dear Parents / Guardians,<br><br>
-<strong>Welcome to Lianhua Primary School’s E-Open House 2025!</strong><br><br>
+<strong>Welcome to Lianhua Primary School’s E-Open House 2026!</strong><br><br>
 We are delighted to have you join us on this virtual journey. Through this online platform, you would get a glimpse of our vibrant school community, explore our facilities, and learn more about our programmes through a series of videos and presentations. <br><br>
 Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br>
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
@@ -46,7 +46,6 @@ At Lianhua Primary School, we cultivate Executive Functioning Skills in our stud
 <iframe allowfullscreen="true" height="529" width="889" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtk7Hi__RSwtVDFmM25C8aga1NDPvV-wFcDOloNNCuWYKg-ATWDfFmuYFO8Q3YWg/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 Together, we look forward to nurturing your child’s heart and mind through a strong and meaningful partnership. <br><br>
-For further information, please explore the different sections of our school’s website. <br><br>
-We would appreciate it if you could take a moment to complete a short survey of the e-Open House by clicking on the link below. <br><br>
-Open House 2025 Survey ➜ <a href="https://go.gov.sg/lhpseopenhouse2025">Click here</a><br><br>
-We warmly welcome you to the Lianhua family and thank you for joining us for Lianhua Primary School’s E-Open House 2025.
+For further information, please explore the different sections of our school’s website. <br>
+
+We warmly welcome you to the Lianhua family and thank you for joining us for Lianhua Primary School’s E-Open House 2026.
