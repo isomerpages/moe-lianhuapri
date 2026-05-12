@@ -41,10 +41,10 @@ td span{
 
 | Designation | Name | E-mail Address |
 | -------- | -------- | -------- | 
-| Principal     | Ms Pamela Kiew     |     | 
-| Vice-Principal (EO)     | Mdm Janice Tan     |     | 
-| Vice-Principal (EO)     | Mrs Mavis Low   |     | 
-| Vice-Principal (Admin)     | Mr Jeffrey Lee   |      | 
+| Principal     | Ms Pamela Kiew     |  lianhua_ps@moe.edu.sg   | 
+| Vice-Principal (EO)     | Mdm Janice Tan     |  lianhua_ps@moe.edu.sg   | 
+| Vice-Principal (EO)     | Mrs Mavis Low   |  lianhua_ps@moe.edu.sg   | 
+| Vice-Principal (Admin)     | Mr Jeffrey Lee   |   lianhua_ps@moe.edu.sg   | 
 | Year Head P1 &amp; P2     | Ms Christina Hoon  | hoon_christina@moe.edu.sg     | 
 | Year Head P3 &amp; P4     | Ms Irfana Banu   |  ilfana_banu_kuthubudeen@moe.edu.sg    | 
 | Year Head P5 &amp; P6     | Mrs Samantha Soh   | samantha_lee_miew_fung@moe.edu.sg     | 
