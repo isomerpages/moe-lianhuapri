@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/LH80_banner.jpg
+      background: /images/LH80_banner_latest.jpg
       key_highlights:
         - title: Useful Links
           description: ""
