@@ -26,7 +26,6 @@ Hear from our Principal as she shares our vision, values and commitment to nurtu
 Experience the vibrancy of school life through the diverse opportunities and experiences that shape every student's journey.<br><br>
 
 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/rmmZW0l0esE">
   </iframe>
@@ -38,10 +37,15 @@ Join our students as they introduce their favourite places in school and communi
 	
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Through Our Students' Eyes" src="https://www.youtube.com/embed/lsnlknWO1G0" height="315" width="560"></iframe>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/lsnlknWO1G0">
+  </iframe>
+</div>
+
 <h5><strong>Explore Our School</strong></h5>
 Take a closer look at our learning spaces and facilities that support every student's growth and development.<br><br>
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
-<a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="75%" width="75%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a>
+<a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a>
 
 <h5><strong>A Joyful Start to Learning</strong></h5>
 Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.<br><br>
