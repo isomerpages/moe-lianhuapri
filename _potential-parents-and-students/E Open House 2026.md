@@ -36,8 +36,21 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="499" width="889"></iframe>
 
+</p><h5><strong>Learning that Inspires</strong></h5>
+<p>Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.
+	
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Learning that Inspires" src="https://www.youtube.com/embed/Jqkk6-ULlvE" height="499" width="889"></iframe>
 
-=========old ones, i will remove before publishing==================<br>
+</p><h5><strong>Growing Independent Learners</strong></h5>
+<p>Through our Executive Functioning programme, students develop essential skills such as organisation, self-management, focus and resilience.
+		
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Growing Independent Learners" src="https://www.youtube.com/embed/IUWGN4bx6l8" height="499" width="889"></iframe>
+
+</p><h5><strong>Thank You for Visiting Our e-Open House</strong></h5>
+<p>Thank you for visiting our e-Open House. We hope you have gained a deeper understanding of our school's learning environment, programmes and culture.<br>
+We look forward to welcoming you and your child to the Lianhua family.
+
+=========pls ignore. old ones, i will remove before publishing==================<br>
 Up next, we have the e-Open House address by our School Principal
 </p><h4>Principal's E-Address</h4>
 
