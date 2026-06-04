@@ -34,12 +34,12 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 <h5><strong>A Joyful Start to Learning</strong></h5>
 <p>Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="499" width="889"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="315" width="560"></iframe>
 
 </p><h5><strong>Learning that Inspires</strong></h5>
 <p>Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.
 	
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Learning that Inspires" src="https://www.youtube.com/embed/Jqkk6-ULlvE" height="499" width="889"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Learning that Inspires" src="https://www.youtube.com/embed/Jqkk6-ULlvE" height="315" width="560"></iframe>
 
 </p><h5><strong>Growing Independent Learners</strong></h5>
 <p>Through our Executive Functioning programme, students develop essential skills such as organisation, self-management, focus and resilience.
