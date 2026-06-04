@@ -44,7 +44,7 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 </p><h5><strong>Growing Independent Learners</strong></h5>
 <p>Through our Executive Functioning programme, students develop essential skills such as organisation, self-management, focus and resilience.
 		
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Growing Independent Learners" src="https://www.youtube.com/embed/IUWGN4bx6l8" height="499" width="889"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Growing Independent Learners" src="https://www.youtube.com/embed/IUWGN4bx6l8" height="315" width="560"></iframe>
 
 </p><h5><strong>Thank You for Visiting Our e-Open House</strong></h5>
 <p>Thank you for visiting our e-Open House. We hope you have gained a deeper understanding of our school's learning environment, programmes and culture.<br>
