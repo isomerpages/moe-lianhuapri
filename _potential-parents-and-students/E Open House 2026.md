@@ -6,14 +6,22 @@ description: ""
 ---
 ![](/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202026/eopenhouse_banner.jpg)
 
-![](/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202026/popup_msg.jpg)
+<h5><strong>Welcome to Lianhua Primary School’s E-Open House 2026!</strong></h5>
+<p><i>Rooted in values, growing with purpose.</i><br>
+At Lianhua Primary School, we nurture confident communicators, caring leaders and future-ready learners through meaningful learning experiences and a vibrant school community.<br>
+Without further ado, let’s begin your journey.
+</p>
 
-<p align="justify">Dear Parents / Guardians,<br><br>
-<strong>Welcome to Lianhua Primary School’s E-Open House 2026!</strong><br><br>
-We are delighted to have you join us on this virtual journey. Through this online platform, you would get a glimpse of our vibrant school community, explore our facilities, and learn more about our programmes through a series of videos and presentations. <br><br>
-Let’s start the journey with a virtual tour of Lianhua Primary School. <br><br>
+
+<h5><strong>A Message from our Principal</strong></h5>
+<p>Hear from our Principal as she shares our vision, values and commitment to nurturing every child.</p>
+
+
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="A Message from our Principal" src="https://www.youtube.com/embed/iPKyCnk2ZBo" height="499" width="889"></iframe>
+
+=========old ones, i will remove before publishing==================<br>
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
-<a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a></p> 
+<a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a><p></p> 
 
 Up next, we have the e-Open House address by our School Principal
 <h4>Principal's E-Address</h4>
