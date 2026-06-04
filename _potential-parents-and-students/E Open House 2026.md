@@ -31,10 +31,15 @@ Take a closer look at our learning spaces and facilities that support every stud
 Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1">here</a> or the picture below to start the tour.<br><br>
 <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a><p></p>
 
+<h5><strong>A Joyful Start to Learning</strong></h5>
+<p>Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.
+
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="499" width="889"></iframe>
+
 
 =========old ones, i will remove before publishing==================<br>
 Up next, we have the e-Open House address by our School Principal
-<h4>Principal's E-Address</h4>
+</p><h4>Principal's E-Address</h4>
 
 Hello and welcome to Lianhua’s e-Open House!
 <ol>
