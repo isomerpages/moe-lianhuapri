@@ -28,9 +28,10 @@ Without further ado, let’s begin your journey.
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Experience Life at Lianhua" src="https://www.youtube.com/embed/rmmZW0l0esE" height="315" width="560"></iframe><p></p>
 	
 <h5><strong>Through Our Students' Eyes</strong></h5>
-<p>Who better to share the Lianhua experience than our students themselves?<br>Join our students as they introduce their favourite places in school and communicate confidently in both English and their Mother Tongue languages.
+<p>Who better to share the Lianhua experience than our students themselves?</p>
+<p>Join our students as they introduce their favourite places in school and communicate confidently in both English and their Mother Tongue languages.</p>
 	
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Through Our Students' Eyes" src="https://www.youtube.com/embed/lsnlknWO1G0" height="315" width="560"></iframe></p>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Through Our Students' Eyes" src="https://www.youtube.com/embed/lsnlknWO1G0" height="315" width="560"></iframe><p></p>
 
 <p></p><h5><strong>Explore Our School</strong></h5>
 Take a closer look at our learning spaces and facilities that support every student's growth and development.<br><br>
