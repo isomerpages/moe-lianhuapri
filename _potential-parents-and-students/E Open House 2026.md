@@ -52,6 +52,11 @@ Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="315" width="560"></iframe>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/auJtdq9V-PQ">
+  </iframe>
+</div>
+
 <h5><strong>Learning that Inspires</strong></h5>
 Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.<br><br>
 	
