@@ -13,7 +13,7 @@ Without further ado, let’s begin your journey.
 
 <h5><strong>A Message from our Principal</strong></h5>
 Hear from our Principal as she shares our vision, values and commitment to nurturing every child.<br><br>
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="A Message from our Principal" src="https://www.youtube.com/embed/iPKyCnk2ZBo" height="315" width="560"></iframe>
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/iPKyCnk2ZBo">
@@ -35,7 +35,7 @@ Experience the vibrancy of school life through the diverse opportunities and exp
 Who better to share the Lianhua experience than our students themselves?<br><br>
 Join our students as they introduce their favourite places in school and communicate confidently in both English and their Mother Tongue languages.<br><br>
 	
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Through Our Students' Eyes" src="https://www.youtube.com/embed/lsnlknWO1G0" height="315" width="560"></iframe>
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/lsnlknWO1G0">
@@ -50,7 +50,6 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 <h5><strong>A Joyful Start to Learning</strong></h5>
 Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.<br><br>
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="315" width="560"></iframe>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/auJtdq9V-PQ">
@@ -60,7 +59,6 @@ Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their
 <h5><strong>Learning that Inspires</strong></h5>
 Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.<br><br>
 	
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Learning that Inspires" src="https://www.youtube.com/embed/Jqkk6-ULlvE" height="315" width="560"></iframe>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/Jqkk6-ULlvE">
@@ -71,7 +69,6 @@ Our instructional programmes are designed to nurture curiosity, critical thinkin
 <h5><strong>Growing Independent Learners</strong></h5>
 Through our Executive Functioning programme, students develop essential skills such as organisation, self-management, focus and resilience.<br><br>
 		
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Growing Independent Learners" src="https://www.youtube.com/embed/IUWGN4bx6l8" height="315" width="560"></iframe>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe allowfullscreen="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.youtube.com/embed/IUWGN4bx6l8">
