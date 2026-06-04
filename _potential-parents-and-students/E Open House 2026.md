@@ -39,16 +39,16 @@ Click <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&a
 <a href="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1"><img height="100%" width="100%" alt="https://kuula.co/share/hKM2S/collection/71lrl?logo=1&amp;info=1&amp;fs=1&amp;vr=0&amp;sd=1&amp;thumbs=1" src="/images/Potential%20Parents%20&amp;%20Students/E%20OPEN%20HOUSE%202025/lhps_top_view.jpg"></a>
 
 <h5><strong>A Joyful Start to Learning</strong></h5>
-<p>Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.</p>
+Through PAL and Shining Artz, our Primary 1 and Primary 2 students explore their interests, develop confidence and build meaningful friendships through engaging experiences beyond the classroom.<br><br>
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Lianhua Primary School P1 &amp; P2 PAL and Shining Artz Celebrations" src="https://www.youtube.com/embed/auJtdq9V-PQ" height="315" width="560"></iframe>
 
-<p></p><h5><strong>Learning that Inspires</strong></h5>
-<p>Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.
+<h5><strong>Learning that Inspires</strong></h5>
+Our instructional programmes are designed to nurture curiosity, critical thinking and a love for learning across all subjects.<br><br>
 	
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Learning that Inspires" src="https://www.youtube.com/embed/Jqkk6-ULlvE" height="315" width="560"></iframe>
 
-</p><h5><strong>Growing Independent Learners</strong></h5>
+<h5><strong>Growing Independent Learners</strong></h5>
 <p>Through our Executive Functioning programme, students develop essential skills such as organisation, self-management, focus and resilience.
 		
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Growing Independent Learners" src="https://www.youtube.com/embed/IUWGN4bx6l8" height="315" width="560"></iframe>
