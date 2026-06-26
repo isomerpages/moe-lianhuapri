@@ -25,7 +25,7 @@ sections:
       image: /images/Potential Parents & Students/E OPEN HOUSE
         2026/eopenhouse_banner.jpg
       alt: E-OPEN HOUSE 2026 banner
-      button: Preview Our e-Open House
+      button: Join Our e-Open House
       url: https://www.lianhuapri.moe.edu.sg/e-open-house-2026/
   - infopic:
       title: Play
