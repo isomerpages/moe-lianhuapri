@@ -325,7 +325,7 @@ td span{
 			
   <tr>
     <td>4 Integrity 4</td>
-    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee<br>Mdm Grace</td>
+    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee<br>Mdm Grace Too Hui Kuan</td>
     <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:too_hui_kuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">too_hui_kuan@moe.edu.sg</span></a></td>
   </tr>
 			
@@ -397,8 +397,8 @@ pavitra_kanaiah@moe.edu.sg</span></a></td>
 			
   <tr>
     <td>5 Unity 3</td>
-    <td>Ms Pauline Lee<br>Mdm Tan Xiaohui</td>
-    <td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a></td>
+    <td>Ms Pauline Lee<br>Mdm Tan Xiaohui<br>Ms Ho Si Hui</td>
+    <td><a href="mailto:pauline_lee_sok_ngee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">pauline_lee_sok_ngee@moe.edu.sg</span></a><br><a href="mailto:tan_xiaohui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_xiaohui@moe.edu.sg</span></a><br><a href="mailto:ho_si_hui@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ho_si_hui@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
