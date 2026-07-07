@@ -245,7 +245,7 @@ td span{
 			
   <tr>
     <td>3 Compassion 3</td>
-    <td>Mr Lim Soon Wei<br>Mr Ramadhan Omar</td>
+    <td>Mr Lim Soon Wei<br>Mr Ramadhan Bin Omar</td>
     <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a></td>
   </tr>
 			
