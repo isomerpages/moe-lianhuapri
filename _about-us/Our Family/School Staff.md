@@ -101,8 +101,8 @@ td span{
 			
   <tr>
     <td>1 Discipline 5</td>
-    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm Rosnah Binte Rosman	</td>
-    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a></td>
+    <td>Mrs Samantha Liew-Kong Yue Ping<br>Mdm Rosnah Binte Rosman<br>Ms Sandra Loh Yan Wai</td>
+    <td><a href="mailto:kong_yue_ping@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">kong_yue_ping@moe.edu.sg</span></a><br><a href="mailto:rosnah_rosman@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosnah_rosman@moe.edu.sg</span></a><br><br><a href="mailto:sandra_loh_yan_wai@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">sandra_loh_yan_wai@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
