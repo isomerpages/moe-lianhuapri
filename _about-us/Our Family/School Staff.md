@@ -257,8 +257,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 5</td>
-    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mrs Sally Yeo</td>
-    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:tan_chui_lew@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chui_lew@moe.edu.sg</span></a></td>
+    <td>Mdm Hana Diyana Binte Abd Kahar<br>Mrs Sally Yeo<br>Ms Shafira Bte Zailani</td>
+    <td><a href="mailto:hana_diyana_abd_kahar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">hana_diyana_abd_kahar@moe.edu.sg</span></a><br><a href="mailto:tan_chui_lew@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_chui_lew@moe.edu.sg</span></a><br><a href="mailto:shafira_zailani@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">shafira_zailani@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
