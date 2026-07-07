@@ -239,14 +239,14 @@ td span{
   </tr>
   <tr>
     <td>3 Compassion 2</td>
-    <td>Ms Clara Tan Yi Jun<br><br></td>
-    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br></td>
+    <td>Ms Clara Tan Yi Jun<br>Mdm Norlieza Bte Ahmad<br></td>
+    <td><a href="mailto:tan_yi_jun@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">tan_yi_jun@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
     <td>3 Compassion 3</td>
-    <td>Mr Lim Soon Wei<br>Mdm Norlieza Bte Ahmad</td>
-    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:norlieza_ahmad@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">norlieza_ahmad@moe.edu.sg</span></a></td>
+    <td>Mr Lim Soon Wei<br>Mr Ramadhan Omar</td>
+    <td><a href="mailto:lim_soon_wei@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">lim_soon_wei@moe.edu.sg</span></a><br><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">ramadhan_omar@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
