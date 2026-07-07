@@ -325,7 +325,7 @@ td span{
 			
   <tr>
     <td>4 Integrity 4</td>
-    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee<br>Mdm Grace Too Hui Kuan</td>
+    <td>Mrs Alexis Pua - Toh Wei Zeng<br>Mr Zainul Bin Rahim Shaffee<br>Mdm Grace Too</td>
     <td><a href="mailto:toh_wei_zeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">toh_wei_zeng@moe.edu.sg</span></a><br><a href="mailto:zainul_rahim_shaffee@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">zainul_rahim_shaffee@moe.edu.sg</span></a><br><a href="mailto:too_hui_kuan@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">too_hui_kuan@moe.edu.sg</span></a></td>
   </tr>
 			
