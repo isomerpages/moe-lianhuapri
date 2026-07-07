@@ -536,22 +536,14 @@ khilfina_kamaruddin_shah@moe.edu.sg</span></a>
 	</td>		
   </tr>
 	<tr>
-				<td>Mr Ramadhan Bin Omar</td>
-				<td><a href="mailto:ramadhan_omar@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
-ramadhan_omar@moe.edu.sg</span></a>
-	</td>		
-  </tr>
-		<tr>
-			<td>Ms Loy Ann Ting Stella</td>
+				<td>Ms Loy Ann Ting Stella</td>
 				<td><a href="mailto:loy_ann_ting_stella_a@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
 loy_ann_ting_stella_a@moe.edu.sg</span></a>
 	</td>		
   </tr>
+		<tr>	
+  </tr>
 		<tr>
-			<td>Ms Serene Kwa</td>
-				<td><a href="mailto:"><span style="font-weight:400;text-decoration:underline;color:#FD9047">
-</span></a>
-	</td>		
   </tr>
 </tbody></table>
 
