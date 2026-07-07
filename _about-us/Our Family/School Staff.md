@@ -251,8 +251,8 @@ td span{
 			
   <tr>
     <td>3 Compassion 4</td>
-    <td>Mrs Emily Chia<br>Mdm Rosvina Hamzah<br>Ms Chen Yimeng Vivian</td>
-    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:rosvina_hamzah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosvina_hamzah@moe.edu.sg</span></a><br><a href="mailto:chen_yimeng@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chen_yimeng@moe.edu.sg</span></a></td>
+    <td>Mrs Emily Chia<br>Mdm Rosvina Hamzah</td>
+    <td><a href="mailto:chia_emily@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">chia_emily@moe.edu.sg</span></a><br><a href="mailto:rosvina_hamzah@moe.edu.sg"><span style="font-weight:400;text-decoration:underline;color:#FD9047">rosvina_hamzah@moe.edu.sg</span></a></td>
   </tr>
 			
   <tr>
