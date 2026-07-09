@@ -46,6 +46,10 @@ tr:nth-child(even) {
     <td>Mr Goh Yoon Sin</td>
     <td>Operations Manager</td>
   </tr>
+		<tr>
+    <td>Mr Koh Kuan Hwee Alex</td>
+    <td>Operations Manager</td>
+  </tr>
   <tr>
     <td>Ms Siti Nurbaiyah Jaffar</td>
     <td>ICT Manager</td>
