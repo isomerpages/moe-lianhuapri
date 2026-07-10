@@ -72,7 +72,7 @@ Students take charge of their own learning and work towards the goals they set b
 
 
 <p>Primary Mathematics Syllabus<br>
-<a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf">https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf </a></p>
+<a href="https://www.moe.gov.sg/media/files/primary/2021%20Primary%20Mathematics%20Syllabus%20P1%20to%20P6%20Updated%20October%202025.pdf">https://www.moe.gov.sg/media/files/primary/2021%20Primary%20Mathematics%20Syllabus%20P1%20to%20P6%20Updated%20October%202025.pdf </a></p>
 
 
 <p>List of approved scientific calculators for P5 and P6 students<br>
