@@ -28,7 +28,7 @@ With its easy-to-use interface and engaging design, Kubo provides a strong found
 
 ![](/images/Highlights/Applied%20Learning%20Programme/4.png)
 
-##### Minecraft Education: Explore, Experiment, Excel for P3 And P4 Students
+##### Minecraft Education: Explore, Experiment, Scratch for P3 Students
 
 Minecraft Education equips students with essential 21st-century skills such as collaboration, creative problem-solving, communication, and systems thinking—preparing them for the future workplace. In a classroom setting, students can easily collaborate in pairs or groups by joining their classmates' virtual worlds. Special educator-designed blocks provide teachers with control over the learning environment, ensuring lessons remain structured and purposeful.
 
@@ -36,7 +36,7 @@ Unlike other editions of Minecraft, Minecraft Education includes exclusive featu
 
 ![](/images/Highlights/Applied%20Learning%20Programme/5.png)
 
-##### Micro:bit: Inspiring Digital Creativity and Innovation For P5 Students
+##### Micro:bit: Inspiring Digital Creativity and Innovation For P4 and P5 Students
 
 Micro:bit is a compact, programmable microcontroller that empowers students to explore coding, electronics, and digital creativity. Designed to be beginner-friendly yet powerful, Micro:bit allows students to code and create interactive projects using block-based or text-based programming languages.
 
