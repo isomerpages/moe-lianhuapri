@@ -65,6 +65,7 @@ variant: markdown
 *  <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleMay2026_updated.pdf">May (updated)</a>
 *  <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleJun2026.pdf">June</a>
 *  <a href="/files/For%20Parents/Dental%20Schedule/DentalScheduleJul2026.pdf">July</a>
+*  <a href="/files/For%20Parents/Dental%20Schedule/notice_to_parents_and_students_on_23_july_2026.pdf">Notice to Parents and Students (closed on 23 July 2026)</a>
 
 <p><i>In the event of clinic closure and that emergency treatment such as trauma (tooth broken/knocked out), facial/gum swelling and severe toothache is needed, please call/WhatsApp for appointment BEFORE going to the Buddy Dental Clinic.</i></p>
 
