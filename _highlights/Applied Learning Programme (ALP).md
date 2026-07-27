@@ -6,29 +6,39 @@ variant: markdown
 ---
 ### **RITE @ LIANHUA**
 
-#### _**Robotics, Information and Technology in Education**_
+#### _**Applied Learning Programme (ALP): Coding for Sustainability**_
 
-![](/images/Highlights/Applied%20Learning%20Programme/1.jpg)
+#### Objectives of the ALP  
 
-#### Objective  
+Our ALP seeks to:
+* Help students appreciate the relevance of their learning by applying knowledge and skills to authentic, real-world contexts.
+* Develop 21st Century Competencies, with a focus on Adaptive Thinking and Inventive Thinking, alongside computational thinking, critical thinking, collaboration, and communication.
+* Foster the joy of learning while nurturing resilience, curiosity, and adaptability in a rapidly changing world.
+* Inspire students to become confident problem-solvers and innovative thinkers who can make a positive impact on their communities.
 
-The Applied Learning Programme (ALP) aims to help students connect academic knowledge and skills with the real world. ALP is intended to help students appreciate the relevance and value of what they are learning in the academic arena and to develop stronger motivation and purpose to acquire knowledge and skills.
+**Programme Structure**
+Our ALP runs progressively from **Primary 1 to Primary 5**, building students' computational thinking, design thinking, coding, and innovation skills at every level.
 
 #### Key Feature
 
 ![](/images/Highlights/Applied%20Learning%20Programme/3.png)
 
-##### Kubo: Building Early Computational Thinking for P1 And P2 Students
+##### Primary 1 & Primary 2 – KUBO Robotics
 
-Kubo is an intuitive, hands-on coding tool designed to introduce young learners to the fundamentals of computational thinking. Using a unique **TagTile® system**, Kubo allows students to program without the need for screens, making coding accessible and engaging for beginners.
+Our youngest learners begin their coding journey with KUBO, a screen-free robotics platform that introduces computational thinking through play-based learning. Using puzzle-like coding tags, students learn fundamental programming concepts in an engaging and accessible way. Through hands-on activities, they develop logical thinking, creativity, and problem-solving skills while working collaboratively to complete coding challenges. KUBO also builds confidence by allowing students to learn at their own pace, providing a strong foundation for future STEM learning.
+Through collaborative activities, students develop logical reasoning, perseverance, and confidence as they test, refine, and improve their solutions. This stage establishes the essential computational thinking habits that underpin future coding and innovation.
 
-Through simple, puzzle-like tiles, students learn sequencing, loops, and functions in a fun and interactive way. This tangible approach helps them develop problem-solving skills, logical thinking, and creativity. Kubo’s collaborative nature also encourages teamwork, allowing students to work together to solve challenges.
+**Learning Focus**
+* Sequencing and algorithms
+* Pattern recognition
+* Decomposition
+* Debugging
+* Collaboration and resilience
 
-With its easy-to-use interface and engaging design, Kubo provides a strong foundation for early learners, fostering confidence in coding and preparing them for more advanced computational concepts.
 
-![](/images/Highlights/Applied%20Learning%20Programme/4.png)
+![](/images/Highlights/Applied%20Learning%20Programme/Scratch.png)
 
-##### Minecraft Education: Explore, Experiment, Scratch for P3 Students
+##### Primary 3 – Scratch Programming
 
 Minecraft Education equips students with essential 21st-century skills such as collaboration, creative problem-solving, communication, and systems thinking—preparing them for the future workplace. In a classroom setting, students can easily collaborate in pairs or groups by joining their classmates' virtual worlds. Special educator-designed blocks provide teachers with control over the learning environment, ensuring lessons remain structured and purposeful.
 
