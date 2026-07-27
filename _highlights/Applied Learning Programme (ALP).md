@@ -6,45 +6,75 @@ variant: markdown
 ---
 ### **RITE @ LIANHUA**
 
-#### _**Robotics, Information and Technology in Education**_
+#### _**Applied Learning Programme (ALP): Coding for Sustainability**_
 
-![](/images/Highlights/Applied%20Learning%20Programme/1.jpg)
+#### Objectives of the ALP  
 
-#### Objective  
+Our ALP seeks to:
+* Help students appreciate the relevance of their learning by applying knowledge and skills to authentic, real-world contexts.
+* Develop 21st Century Competencies, with a focus on Adaptive Thinking and Inventive Thinking, alongside computational thinking, critical thinking, collaboration, and communication.
+* Foster the joy of learning while nurturing resilience, curiosity, and adaptability in a rapidly changing world.
+* Inspire students to become confident problem-solvers and innovative thinkers who can make a positive impact on their communities.
 
-The Applied Learning Programme (ALP) aims to help students connect academic knowledge and skills with the real world. ALP is intended to help students appreciate the relevance and value of what they are learning in the academic arena and to develop stronger motivation and purpose to acquire knowledge and skills.
+**Programme Structure**
+Our ALP runs progressively from **Primary 1 to Primary 5**, building students' computational thinking, design thinking, coding, and innovation skills at every level.
 
 #### Key Feature
 
 ![](/images/Highlights/Applied%20Learning%20Programme/3.png)
 
-##### Kubo: Building Early Computational Thinking for P1 And P2 Students
+##### Primary 1 & Primary 2 – KUBO Robotics
 
-Kubo is an intuitive, hands-on coding tool designed to introduce young learners to the fundamentals of computational thinking. Using a unique **TagTile® system**, Kubo allows students to program without the need for screens, making coding accessible and engaging for beginners.
+Our youngest learners begin their coding journey with KUBO, a screen-free robotics platform that introduces computational thinking through play-based learning. Using puzzle-like coding tags, students learn fundamental programming concepts in an engaging and accessible way. Through hands-on activities, they develop logical thinking, creativity, and problem-solving skills while working collaboratively to complete coding challenges. KUBO also builds confidence by allowing students to learn at their own pace, providing a strong foundation for future STEM learning.
+Through collaborative activities, students develop logical reasoning, perseverance, and confidence as they test, refine, and improve their solutions. This stage establishes the essential computational thinking habits that underpin future coding and innovation.
 
-Through simple, puzzle-like tiles, students learn sequencing, loops, and functions in a fun and interactive way. This tangible approach helps them develop problem-solving skills, logical thinking, and creativity. Kubo’s collaborative nature also encourages teamwork, allowing students to work together to solve challenges.
+**Learning Focus**
+* Sequencing and algorithms
+* Pattern recognition
+* Decomposition
+* Debugging
+* Collaboration and resilience
 
-With its easy-to-use interface and engaging design, Kubo provides a strong foundation for early learners, fostering confidence in coding and preparing them for more advanced computational concepts.
 
-![](/images/Highlights/Applied%20Learning%20Programme/4.png)
+![](/images/Highlights/Applied%20Learning%20Programme/Scratch.png)
 
-##### Minecraft Education: Explore, Experiment, Scratch for P3 Students
+##### Primary 3 – Scratch Programming
 
-Minecraft Education equips students with essential 21st-century skills such as collaboration, creative problem-solving, communication, and systems thinking—preparing them for the future workplace. In a classroom setting, students can easily collaborate in pairs or groups by joining their classmates' virtual worlds. Special educator-designed blocks provide teachers with control over the learning environment, ensuring lessons remain structured and purposeful.
+Students are introduced to Scratch, a block-based programming platform, where they learn foundational coding concepts such as sequencing, repetition, and logical reasoning. They apply these skills to create interactive games and digital projects centred on food sustainability, helping them understand how technology can be used to address real-world issues. At this stage, students begin making design decisions while developing digital solutions for authentic audiences.
 
-Unlike other editions of Minecraft, Minecraft Education includes exclusive features tailored for teaching and learning, offering educators a dynamic and interactive way to engage students of all ages. By immersing in gameplay, students develop critical thinking and problem-solving skills while having fun, making learning more meaningful and engaging.
+**Learning Focus**
+* Algorithms and logical reasoning
+* Loops and conditionals
+* Debugging and testing
+* Creative problem-solving
+* Applying technology to sustainability
+
 
 ![](/images/Highlights/Applied%20Learning%20Programme/5.png)
 
-##### Micro:bit: Inspiring Digital Creativity and Innovation For P4 and P5 Students
+##### Primary 4 – Micro:bit with MakeCode
 
-Micro:bit is a compact, programmable microcontroller that empowers students to explore coding, electronics, and digital creativity. Designed to be beginner-friendly yet powerful, Micro:bit allows students to code and create interactive projects using block-based or text-based programming languages.
+Building on their coding knowledge, students use **Micro:bit** with **MakeCode** to explore programming concepts such as loops, variables, conditionals, and debugging. They design and develop innovative solutions related to **water conservation**, strengthening both their computational thinking and design thinking skills. Students move beyond writing code to understanding users' needs and designing practical solutions. Computational thinking supports the technical development of their prototypes, while design thinking introduces students to empathising with users, defining problems, ideating, prototyping, testing, and refining solutions.
 
-With built-in features such as LED displays, sensors, buttons, and wireless communication, students can experiment with real-world applications, from simple games to smart devices. This hands-on experience fosters computational thinking, problem-solving, and innovation while making learning engaging and interactive.
+Learning Focus
+* Variables, inputs and outputs
+* Sensors and physical computing
+* User-centred problem-solving
+* Prototyping and iteration
+* Design Thinking process
 
-Micro:bit encourages creativity and collaboration, enabling students to work together to build projects that bring their ideas to life. By integrating coding with STEM learning, Micro:bit equips students with the skills and confidence needed for the digital future.
+##### Primary 5 – Micro:bit for Sustainable Innovation
+Students further develop their Micro:bit programming skills by designing prototypes that promote electric energy conservation and monitoring. Through the design process, they apply coding and computational thinking to create practical solutions for authentic sustainability challenges while refining their creativity, resilience, and collaborative skills. By this stage, coding becomes a tool that enables innovation, while design thinking provides the framework for solving complex real-world problems.
 
-#### Students in Action
+**Learning Focus**
+* Integrating coding with design
+* User-centred innovation
+* Iterative prototyping
+* Design Thinking process
+
+Across all levels, students are encouraged to think critically, break down complex problems into manageable parts, test and refine their ideas, and communicate their solutions effectively. Through this progressive learning journey, our ALP nurtures future-ready learners who are curious, adaptable, and empowered to use technology to create meaningful and sustainable change.
+
+![](/images/Highlights/Applied%20Learning%20Programme/alp.jpg)
 
 ![](/images/Highlights/Applied%20Learning%20Programme/6.png)
 ![](/images/Highlights/Applied%20Learning%20Programme/7.png)
