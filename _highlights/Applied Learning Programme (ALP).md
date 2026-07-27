@@ -40,19 +40,41 @@ Through collaborative activities, students develop logical reasoning, perseveran
 
 ##### Primary 3 – Scratch Programming
 
-Minecraft Education equips students with essential 21st-century skills such as collaboration, creative problem-solving, communication, and systems thinking—preparing them for the future workplace. In a classroom setting, students can easily collaborate in pairs or groups by joining their classmates' virtual worlds. Special educator-designed blocks provide teachers with control over the learning environment, ensuring lessons remain structured and purposeful.
+Students are introduced to Scratch, a block-based programming platform, where they learn foundational coding concepts such as sequencing, repetition, and logical reasoning. They apply these skills to create interactive games and digital projects centred on food sustainability, helping them understand how technology can be used to address real-world issues. At this stage, students begin making design decisions while developing digital solutions for authentic audiences.
 
-Unlike other editions of Minecraft, Minecraft Education includes exclusive features tailored for teaching and learning, offering educators a dynamic and interactive way to engage students of all ages. By immersing in gameplay, students develop critical thinking and problem-solving skills while having fun, making learning more meaningful and engaging.
+**Learning Focus**
+* Algorithms and logical reasoning
+* Loops and conditionals
+* Debugging and testing
+* Creative problem-solving
+* Applying technology to sustainability
+
 
 ![](/images/Highlights/Applied%20Learning%20Programme/5.png)
 
-##### Micro:bit: Inspiring Digital Creativity and Innovation For P4 and P5 Students
+##### Primary 4 – Micro:bit with MakeCode
 
-Micro:bit is a compact, programmable microcontroller that empowers students to explore coding, electronics, and digital creativity. Designed to be beginner-friendly yet powerful, Micro:bit allows students to code and create interactive projects using block-based or text-based programming languages.
+Building on their coding knowledge, students use **Micro:bit** with **MakeCode** to explore programming concepts such as loops, variables, conditionals, and debugging. They design and develop innovative solutions related to **water conservation**, strengthening both their computational thinking and design thinking skills. Students move beyond writing code to understanding users' needs and designing practical solutions. Computational thinking supports the technical development of their prototypes, while design thinking introduces students to empathising with users, defining problems, ideating, prototyping, testing, and refining solutions.
 
-With built-in features such as LED displays, sensors, buttons, and wireless communication, students can experiment with real-world applications, from simple games to smart devices. This hands-on experience fosters computational thinking, problem-solving, and innovation while making learning engaging and interactive.
+Learning Focus
+* Variables, inputs and outputs
+* Sensors and physical computing
+* User-centred problem-solving
+* Prototyping and iteration
+* Design Thinking process
 
-Micro:bit encourages creativity and collaboration, enabling students to work together to build projects that bring their ideas to life. By integrating coding with STEM learning, Micro:bit equips students with the skills and confidence needed for the digital future.
+##### Primary 5 – Micro:bit for Sustainable Innovation
+Students further develop their Micro:bit programming skills by designing prototypes that promote electric energy conservation and monitoring. Through the design process, they apply coding and computational thinking to create practical solutions for authentic sustainability challenges while refining their creativity, resilience, and collaborative skills. By this stage, coding becomes a tool that enables innovation, while design thinking provides the framework for solving complex real-world problems.
+
+**Learning Focus**
+* Integrating coding with design
+* User-centred innovation
+* Iterative prototyping
+* Design Thinking process
+
+Across all levels, students are encouraged to think critically, break down complex problems into manageable parts, test and refine their ideas, and communicate their solutions effectively. Through this progressive learning journey, our ALP nurtures future-ready learners who are curious, adaptable, and empowered to use technology to create meaningful and sustainable change.
+
+![](/images/Highlights/Applied%20Learning%20Programme/alp.jpg)
 
 #### Students in Action
 
