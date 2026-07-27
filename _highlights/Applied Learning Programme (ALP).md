@@ -76,8 +76,6 @@ Across all levels, students are encouraged to think critically, break down compl
 
 ![](/images/Highlights/Applied%20Learning%20Programme/alp.jpg)
 
-#### Students in Action
-
 ![](/images/Highlights/Applied%20Learning%20Programme/6.png)
 ![](/images/Highlights/Applied%20Learning%20Programme/7.png)
 ![](/images/Highlights/Applied%20Learning%20Programme/8.png)
